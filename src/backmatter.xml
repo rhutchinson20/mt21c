@@ -1,0 +1,9 @@
+<backmatter xml:id="backmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <title>Back Matter</title> 
+    <index-part>
+        <index-list />
+    </index-part>
+    <colophon>
+        <p>This book was authored in MathBook XML.</p>
+    </colophon>
+</backmatter>

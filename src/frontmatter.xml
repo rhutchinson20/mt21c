@@ -1,0 +1,9 @@
+        <frontmatter xml:id="index">
+            <titlepage>
+                <author>
+                    <personname>Rob Hutchinson</personname>
+                    <institution>University of Puget Sound</institution>
+                </author>
+                <date><today/></date>
+            </titlepage>
+        </frontmatter>
