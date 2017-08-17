@@ -2,3 +2,6 @@
 # macOS generated files #
 #########################
 *.DS_Store
+
+# Ignore machine specific paths for script
+paths.sh
