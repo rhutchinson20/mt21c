@@ -3,113 +3,113 @@
     <title>Roman Numerals and cadences</title>
     <section xml:id="RomanNumeralChordSymbols">
         <title>Roman Numeral Chord Symbols</title>
-        <p>Music is full of patterns that are similar from one piece to the next. As we saw with minor scales, we were able to use scale degree numbers to show the different patterns for harmonic, melodic, and natural minor, despite the fact that there are 15 minor key signatures. Using numbers instead of note names helps us see these patterns. Thinking of music in terms of numbers is also helpful with <term>transposition</term><index><main>transposition</main><sub>definition of</sub></index>, which means moving melodies and/or chord progressions from one key to another. Thinking of music in terms of numbers also helps us to analyze it and to spot similar patterns between many different pieces in different keys.</p>
+        <p>Music is full of patterns that are similar from one piece to the next. As we saw with minor scales, we were able to use scale degree numbers to show the different patterns for harmonic, melodic, and natural minor, despite the fact that there are 15 minor key signatures. Using numbers instead of note names helps us see these patterns. Thinking of music in terms of numbers is also helpful with <term>transposition</term><idx><h>transposition</h><h>definition of</h></idx>, which means moving melodies and/or chord progressions from one key to another. Thinking of music in terms of numbers also helps us to analyze it and to spot similar patterns between many different pieces in different keys.</p>
         <p>We will use Roman numerals to represent chords within a specified key. The Roman numeral <q><chord root="I"/></q> represents a triad built on <scaledeg>1</scaledeg>, or the 1st note of the scale. Uppercase Roman numerals represent major triads and lowercase Roman numerals (e.g., <q><chord root="i"/></q>) represent minor triads. Uppercase Roman numerals with a <q><chord mode="augmented"/></q> are augmented (e.g., <q><chord root="III" mode="augmented"/></q>), and lowercase Roman numerals with a <q><chord mode="diminished"/></q> are diminished (e.g., <q><chord root="vii" mode="diminished"/></q>). (There is also the <url href="https://en.wikipedia.org/wiki/Nashville_number_system">Nashville Number System</url>, which uses Arabic numbers for chords instead of Roman numerals.)</p>
         <p>For inversion of Roman numerals, we will use a modified <q>slash chord</q> notation until we study Figured Bass later on. For now, we will write <q><chord root="I"/>/3rd</q> if the 3rd of the <chord root="I"/> chord is the bass note, for example.</p>
-        <figure>
+        <sidebyside>
             <image source="images/unit2/RN-inversions-for-now"><description>C: I/3rd means E is the bass note for C-E-G</description></image>
-        </figure>
+        </sidebyside>
     </section>
     <section xml:id="DiatonicChordsInMajor">
         <title>Diatonic Chords in Major</title>
-        <p>Observe the pattern of diatonic chords in major represented by Roman numerals. (<term>Diatonic</term><index><main>diatonic</main><sub>definition of</sub></index> means notes <em>within</em> a key signature and can be contrasted with the term <q>chromatic.</q>) One sees the pattern M-m-m-M-M-m-<chord mode="diminished"/> in triad quality.</p>
-        <figure>
+        <p>Observe the pattern of diatonic chords in major represented by Roman numerals. (<term>Diatonic</term><idx><h>diatonic</h><h>definition of</h></idx> means notes <em>within</em> a key signature and can be contrasted with the term <q>chromatic.</q>) One sees the pattern M-m-m-M-M-m-<chord mode="diminished"/> in triad quality.</p>
+        <sidebyside>
             <image source="images/unit2/Roman-numerals-dia-chords-in-major"><description>All diatonic triads in C major</description></image>
-        </figure>
+        </sidebyside>
     </section>
     <section xml:id="DiatonicChordsInMinor">
         <title>Diatonic Chords in Minor</title>
         <p>Because there are three versions of the minor scale, there are more than seven diatonic chords in minor. The sixth and seventh scale degrees affect all of the triads except the tonic, making 13 possible diatonic triads in minor.</p>
-        <figure>
+        <sidebyside>
             <image source="images/unit2/Roman-numerals-dia-chords-all-minor"><description>All diatonic triads in A natural minor, A harmonic minor, and A melodic minor</description></image>
-        </figure>
+        </sidebyside>
         <p>However, when one analyzes a large amount of tonal music, one finds the following Roman numerals are most commonly used in minor.</p>
-        <figure>
+        <sidebyside>
             <image source="images/unit2/Roman-numerals-most-common-in-minor"><description>The most commonly used diatonic triads in A minor: A minor, B diminished, C major, D minor, E major, F major, and G-sharp diminished, with Roman numerals</description></image>
-        </figure>
+        </sidebyside>
         <p>Notice that both <chord root="VII"/> (the <q>subtonic triad</q>) and <chord root="vii" mode="diminished"/> (the <q>leading-tone triad</q>) are included. The subtonic triad (<chord root="VII"/>) regularly occurs in circle of fifth progressions in minor (discussed in an upcoming section<!--link to Circle of Fifths someday-->) and in rock and pop music, while the leading-tone triad (<chord root="vii" mode="diminished"/>) usually is either a passing harmony or has dominant function (harmonic function will be discussed in an upcoming section<!--link to Harmonic Function someday-->). 
         </p>
     </section>
     <section xml:id="cadences">
         <title>Cadences</title>
     <introduction>
-            <p>We’ve been studying harmony<mdash/>triads and chords. A <term>cadence</term><index><main>cadence</main><sub>definition of</sub></index> is a harmonic arrival point, a harmonic moment of stasis. A cadence can be compared to a comma or period in written language<mdash/>the ear gets a moment to process a short passage of music, then the music continues. We will differentiate between four basic cadences now, adding more specificity in a later chapter<!--link to PAC and IAC someday-->.
+            <p>We’ve been studying harmony<mdash/>triads and chords. A <term>cadence</term><idx><h>cadence</h><h>definition of</h></idx> is a harmonic arrival point, a harmonic moment of stasis. A cadence can be compared to a comma or period in written language<mdash/>the ear gets a moment to process a short passage of music, then the music continues. We will differentiate between four basic cadences now, adding more specificity in a later chapter<!--link to PAC and IAC someday-->.
         <ul>
-            <li><p xml:id="AuthenticCadence"><term>Authentic Cadence</term><index><main>authentic cadence</main><sub>definition of</sub></index><index><main>cadence</main><sub>authentic</sub></index> (AC): a phrase ending with the chords <chord root="V"/><ndash/><chord root="I"/></p></li>
-            <li><p xml:id="PlagalCadence"><term>Plagal Cadence</term><index><main>plagal cadence</main><sub>definition of</sub></index><index><main>cadence</main><sub>plagal</sub></index> (PC): a phrase ending with the chords <chord root="IV"/><ndash/><chord root="I"/></p></li>
-            <li><p xml:id="DeceptiveCadence"><term>Deceptive Cadence</term><index><main>deceptive cadence</main><sub>definition of</sub></index><index><main>cadence</main><sub>deceptive</sub></index> (DC): a phrase ending with the chords <chord root="V"/><ndash/><chord root="vi"/></p></li>
-            <li><p><term>Half Cadence</term><index><main>half cadence</main><sub>definition of</sub></index><index><main>cadence</main><sub>half</sub></index> (HC): a phrase ending on the <chord root="V"/> chord</p></li>
+            <li><p xml:id="AuthenticCadence"><term>Authentic Cadence</term><idx><h>authentic cadence</h><h>definition of</h></idx><idx><h>cadence</h><h>authentic</h></idx> (AC): a phrase ending with the chords <chord root="V"/><ndash/><chord root="I"/></p></li>
+            <li><p xml:id="PlagalCadence"><term>Plagal Cadence</term><idx><h>plagal cadence</h><h>definition of</h></idx><idx><h>cadence</h><h>plagal</h></idx> (PC): a phrase ending with the chords <chord root="IV"/><ndash/><chord root="I"/></p></li>
+            <li><p xml:id="DeceptiveCadence"><term>Deceptive Cadence</term><idx><h>deceptive cadence</h><h>definition of</h></idx><idx><h>cadence</h><h>deceptive</h></idx> (DC): a phrase ending with the chords <chord root="V"/><ndash/><chord root="vi"/></p></li>
+            <li><p><term>Half Cadence</term><idx><h>half cadence</h><h>definition of</h></idx><idx><h>cadence</h><h>half</h></idx> (HC): a phrase ending on the <chord root="V"/> chord</p></li>
         </ul></p>
     </introduction>
     <subsection xml:id="AuthenticCadenceExamples">
         <title>Examples of Authentic Cadences</title>
-        <index><main>authentic cadence</main><sub>musical examples</sub></index>
-        <figure>
-            <image source="images/unit2/cadences-auth-cad-star-spangled"><description></description>An authentic V-I cadence concluding the Star-Spangled Banner</image><index><main>Star-Spangled Banner</main><sub>musical example</sub></index>
-        </figure>
+        <idx><h>authentic cadence</h><h>musical examples</h></idx>
+        <sidebyside>
+            <image source="images/unit2/cadences-auth-cad-star-spangled"><description/>An authentic V-I cadence concluding the Star-Spangled Banner</image><idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/LGvW6jHUHiY?t=1m17s">Click here to open a performance on YouTube.</url></p>
         <p>In the example above, the notes surrounded by parentheses are non-chord tones, which will be studied later<!--link to non-chord tones someday-->. Also, there are seventh chords in this example, which we will study in the next chapter<!--link seventh chords someday-->.</p>
         <p>Here is another example ending with an authentic cadence.</p>
-        <figure>
-            <image source="images/unit2/cadences-auth-cad-i-want-to-hold"><description>An authentic V-I cadence concluding the hook of "I Want to Hold Your Hand" by the Beatles.</description></image><index><main>songs (popular)</main><sub>"I Want to Hold Your Hand" (Beatles)</sub></index>
-        </figure>
+        <sidebyside>
+            <image source="images/unit2/cadences-auth-cad-i-want-to-hold"><description>An authentic V-I cadence concluding the hook of "I Want to Hold Your Hand" by the Beatles.</description></image><idx><h>songs (popular)</h><h>"I Want to Hold Your Hand" (Beatles)</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/jenWdylTtzs?t=21s">Click here to open a performance on YouTube.</url></p>
     </subsection>
     <subsection xml:id="PlagalCadenceExamples">
         <title>Examples of Plagal Cadences</title>
-        <p>Here are examples with plagal cadences.<index><main>plagal cadence</main><sub>musical examples</sub></index></p>
-        <figure>
-            <image source="images/unit2/cadences-plagal-cad-amazing-grace"><description>Plagal cadence during "Amen" at end of "Amazing Grace"</description></image><index><main>Amazing Grace</main></index>
-        </figure>
-        <figure>
-            <image source="images/unit2/cadences-plagal-cad-just-give-me"><description>Plagal cadence during first phrase of verse of "Just Give Me a Reason"</description></image><index><main>songs (popular)</main><sub>"Just Give Me A Reason" (Pink)</sub></index>
-        </figure>
+        <p>Here are examples with plagal cadences.<idx><h>plagal cadence</h><h>musical examples</h></idx></p>
+        <sidebyside>
+            <image source="images/unit2/cadences-plagal-cad-amazing-grace"><description>Plagal cadence during "Amen" at end of "Amazing Grace"</description></image><idx><h>Amazing Grace</h></idx>
+        </sidebyside>
+        <sidebyside>
+            <image source="images/unit2/cadences-plagal-cad-just-give-me"><description>Plagal cadence during first phrase of verse of "Just Give Me a Reason"</description></image><idx><h>songs (popular)</h><h>"Just Give Me A Reason" (Pink)</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/OpQFFLBMEPI?t=19s">Click here to open a performance on YouTube.</url></p>
-        <figure>
-            <image source="images/unit2/cadences-plagal-cad-take-me-to-church"><description>Plagal cadence during prechorus of "Take Me to Church"</description></image><index><main>songs (popular)</main><sub>"Take Me to Church" (Hozier)</sub></index>
-        </figure>
+        <sidebyside>
+            <image source="images/unit2/cadences-plagal-cad-take-me-to-church"><description>Plagal cadence during prechorus of "Take Me to Church"</description></image><idx><h>songs (popular)</h><h>"Take Me to Church" (Hozier)</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/PVjiKRfKpPI?t=47s">Click here to open a performance on YouTube.</url></p>
     </subsection>
     <subsection xml:id="DeceptiveCadenceExamples">
-        <title>Examples of Deceptive Cadences</title><index><main>deceptive cadence</main><sub>musical examples</sub></index>
-        <figure>
-            <image source="images/unit2/cadences-deceptive-cad-voi-che"><description>Deceptive cadence near end of "Voi che sapete" by Mozart</description></image><index><main>Mozart, W.A.</main><sub>Voi che sapete</sub></index>
-        </figure>
+        <title>Examples of Deceptive Cadences</title><idx><h>deceptive cadence</h><h>musical examples</h></idx>
+        <sidebyside>
+            <image source="images/unit2/cadences-deceptive-cad-voi-che"><description>Deceptive cadence near end of "Voi che sapete" by Mozart</description></image><idx><h>Mozart, W.A.</h><h>Voi che sapete</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/53geSxS8-Ak?t=2m22s">Click here to open a performance on YouTube.</url></p>
-        <figure>
-            <image source="images/unit2/cadences-deceptive-cad-true-colors"><description>Deceptive cadence near end of "True Colors" by Cyndi Lauper</description></image><index><main>songs (popular)</main><sub>"True Colors" (Cyndi Lauper)</sub></index>
-        </figure>
+        <sidebyside>
+            <image source="images/unit2/cadences-deceptive-cad-true-colors"><description>Deceptive cadence near end of "True Colors" by Cyndi Lauper</description></image><idx><h>songs (popular)</h><h>"True Colors" (Cyndi Lauper)</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/LPn0KFlbqX8?t=1m">Click here to open a performance on YouTube.</url></p>
         <p>The following example, from the prelude to Act I of Richard Wagner's opera <em>Tristan und Isolde</em>, is arguably one of the most famous deceptive cadences in the history of music.</p>
-        <figure>
-            <image source="images/unit2/cadences-deceptive-cad-tristan"><description>Deceptive cadence at bar 17 of prelude to Act One of Tristan und Isolde by Richard Wagner</description></image><index><main>Wagner, Richard</main><sub>Tristan und Isolde, Prelude to Act I</sub></index>
-        </figure>
+        <sidebyside>
+            <image source="images/unit2/cadences-deceptive-cad-tristan"><description>Deceptive cadence at bar 17 of prelude to Act One of Tristan und Isolde by Richard Wagner</description></image><idx><h>Wagner, Richard</h><h>Tristan und Isolde, Prelude to Act I</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/cq4uPQUGrgM?t=1m53s">Click here to open a performance on YouTube.</url></p>
         <p>A deceptive cadence means <chord root="V"/> did not go to <chord root="I"/>. This means that <q><chord root="V"/> to not<ndash/><chord root="I"/></q> is technically a more correct description for a deceptive cadence than <chord root="V"/><ndash/><chord root="vi"/>, which is the most common realization of <q><chord root="V"/> to not<ndash/><chord root="I"/>.</q></p>
         <p>In the example below, <chord root="V"/> goes to <chord root="IV" bass="3rd"/>.
         </p>
-        <figure>
-            <image source="images/unit2/cadences-deceptive-cad-ave-verum"><description>Deceptive cadence near end of "Ave verum corpus" by Mozart</description></image><index><main>Mozart, W.A.</main><sub>Ave verum corpus, K. 618</sub></index>
-        </figure>
+        <sidebyside>
+            <image source="images/unit2/cadences-deceptive-cad-ave-verum"><description>Deceptive cadence near end of "Ave verum corpus" by Mozart</description></image><idx><h>Mozart, W.A.</h><h>Ave verum corpus, K. 618</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/9JY4QC13_1Y?t=2m7s">Click here to open a performance on YouTube.</url></p>
     </subsection>
     <subsection xml:id="HalfCadenceExamples">
-        <title>Examples of Half Cadences</title><index><main>deceptive cadence</main><sub>musical examples</sub></index>
-        <figure>
-            <image source="images/unit2/cadences-half-cad-eine-kleine"><description>Half cadence at end of transition in first movement of Eine Kleine Nachtmusik, K. 525, by Mozart</description></image><index><main>Mozart, W.A.</main><sub>Eine kleine Nachtmusik, K. 525, I.</sub></index>
-        </figure>
+        <title>Examples of Half Cadences</title><idx><h>deceptive cadence</h><h>musical examples</h></idx>
+        <sidebyside>
+            <image source="images/unit2/cadences-half-cad-eine-kleine"><description>Half cadence at end of transition in first movement of Eine Kleine Nachtmusik, K. 525, by Mozart</description></image><idx><h>Mozart, W.A.</h><h>Eine kleine Nachtmusik, K. 525, I.</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/TpPuLwtDQrY?t=43s">Click here to open a performance on YouTube.</url></p>
-        <figure>
-            <image source="images/unit2/cadences-half-cad-thinking-out-loud"><description>Half cadence at end of prechorus of "Thinking Out Loud" by Ed Sheeran</description></image><index><main>songs (popular)</main><sub>"Thinking Out Loud" (Ed Sheeran)</sub></index>
-        </figure>
+        <sidebyside>
+            <image source="images/unit2/cadences-half-cad-thinking-out-loud"><description>Half cadence at end of prechorus of "Thinking Out Loud" by Ed Sheeran</description></image><idx><h>songs (popular)</h><h>"Thinking Out Loud" (Ed Sheeran)</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/lp-EO5I60KA?t=1m8s">Click here to open a performance on YouTube.</url></p>
-        <p>Note on <term>incomplete chords</term><index><main>incomplete chords</main></index>: Incomplete chords contain only root and third but no fifth.
+        <p>Note on <term>incomplete chords</term><idx><h>incomplete chords</h></idx>: Incomplete chords contain only root and third but no fifth.
         </p>
         <p>Additionally, you may encounter chords with no thirds in rock and pop music. If you encounter a chord that has only a root and fifth, label it with a <q>5</q> after the root in lead sheet labeling (e.g., <chord root="B" bps="5"/>, as in the next example).
         </p>
-        <figure>
-            <image source="images/unit2/cadences-half-cad-love-yourself"><description>Half cadence at end of prechorus of "Love Yourself" by Justin Bieber</description></image><index><main>songs (popular)</main><sub>"Love Yourself" (Justin Bieber)</sub></index>
-        </figure>
+        <sidebyside>
+            <image source="images/unit2/cadences-half-cad-love-yourself"><description>Half cadence at end of prechorus of "Love Yourself" by Justin Bieber</description></image><idx><h>songs (popular)</h><h>"Love Yourself" (Justin Bieber)</h></idx>
+        </sidebyside>
         <p><url href="https://youtu.be/oyEuk8j8imI?t=57s">Click here to open a performance on YouTube.</url></p>
     </subsection>
     </section>
@@ -118,7 +118,7 @@
         <exercise>
             <statement>
                 <p>Label the following chords with lead sheet symbols (above) and Roman numerals (below).</p>
-                <p><image source="images/unit2/PRAC-EXER-RN-analysis"><description></description></image></p>
+                <p><image source="images/unit2/PRAC-EXER-RN-analysis"><description/></image></p>
             </statement>
             <answer><p>1. <chord root="F sharp" mode="m"/>, <chord root="ii"/>; 2. <chord root="D sharp" mode="diminished" bass="F sharp"/>, <chord root="ii" mode="diminished" bass="3rd"/>; 3. <chord root="A"/>, <chord root="VII"/>; 4. <chord root="G"/>, <chord root="V"/>; 5. <chord root="B" mode="m" bass="F sharp"/>, <chord root="ii" bass="5th"/></p>
         </answer>
@@ -126,7 +126,7 @@
     <exercise>
             <statement>
                 <p>Given the Roman numeral and key, write the key signature, notate the triad, and label the chord with a lead-sheet symbol (above).</p>
-                <p><image source="images/unit2/PRAC-EXER-RN-writing-chords"><description></description></image></p>
+                <p><image source="images/unit2/PRAC-EXER-RN-writing-chords"><description/></image></p>
             </statement>
             <answer><p>1. <chord root="C"/>, <n pc="C"/><n pc="E" acc="natural"/><n pc="G"/>; 
             2. <chord root="G" bass="D"/>, <n pc="D"/><n pc="G"/><n pc="B"/>;
@@ -137,14 +137,14 @@
             <statement>
                 <p>Label lead-sheet symbols above and Roman numerals below and analyze the type of cadence that ends the phrase.</p>
                 <ol>
-                            <li><p>"Columbia, the Gem of the Ocean" <index><main>Columbia, the Gem of the Ocean</main></index><url href="https://youtu.be/Iyn3HEVFOhM?t=8s">(YouTube)</url>
+                            <li><p>"Columbia, the Gem of the Ocean" <idx><h>Columbia, the Gem of the Ocean</h></idx><url href="https://youtu.be/Iyn3HEVFOhM?t=8s">(YouTube)</url>
                         </p>
-                        <p><image source="images/unit2/PRAC-EXER-cadences-columbia"><description></description></image>
+                        <p><image source="images/unit2/PRAC-EXER-cadences-columbia"><description/></image>
                     </p>
                         </li>
-                            <li><p>"Could You Be Loved" <index><main>songs (popular)</main><sub>"Could You Be Loved" (Bob Marley)</sub></index><url href="https://youtu.be/y6OLrzVTuGw?t=23s">(YouTube)</url>
+                            <li><p>"Could You Be Loved" <idx><h>songs (popular)</h><h>"Could You Be Loved" (Bob Marley)</h></idx><url href="https://youtu.be/y6OLrzVTuGw?t=23s">(YouTube)</url>
                             </p>
-                            <p><image source="images/unit2/PRAC-EXER-cadences-could-you-be"><description></description></image>
+                            <p><image source="images/unit2/PRAC-EXER-cadences-could-you-be"><description/></image>
                             </p>
                         </li>
                         </ol>

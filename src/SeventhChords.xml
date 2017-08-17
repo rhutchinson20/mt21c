@@ -3,7 +3,7 @@
     <title>Seventh Chords</title>
     <section xml:id="TriadsIntroduction">
         <title>Introduction to Seventh Chords</title>
-        <p>A <term>seventh chord</term><index><main>seventh chord</main><sub>definition of</sub></index> adds to a triad another note a third higher than the fifth. Chords, being built in thirds, have members that are odd numbers<mdash/>third, fifth, seventh, and we will eventually discuss extensions of the ninth, eleventh, and thirteenth. The fifteenth would be the double octave, so chords only extend as high as the thirteenth.</p>
+        <p>A <term>seventh chord</term><idx><h>seventh chord</h><h>definition of</h></idx> adds to a triad another note a third higher than the fifth. Chords, being built in thirds, have members that are odd numbers<mdash/>third, fifth, seventh, and we will eventually discuss extensions of the ninth, eleventh, and thirteenth. The fifteenth would be the double octave, so chords only extend as high as the thirteenth.</p>
         <figure><caption/>
             <image source="images/unit2/7th-chords-basic-intro"><description>Example showing chords built in 3rds up to the 13th</description></image>
         </figure>
@@ -16,7 +16,7 @@
             <li><p>the fully-diminished seventh chord (often called diminished seventh chord)</p></li>
         </ul>
         <figure><caption/>
-            <image source="images/unit2/7th-chords-all-five-types"><description>All five types of seventh chords, with their abbreviated labels</description></image><index><main>seventh chord</main><sub>example of 5 types</sub></index>
+            <image source="images/unit2/7th-chords-all-five-types"><description>All five types of seventh chords, with their abbreviated labels</description></image><idx><h>seventh chord</h><h>example of 5 types</h></idx>
         </figure>
         <p>Another way to differentiate between the five types of seventh chords is by learning how the thirds are stacked in each one.
         </p>
@@ -36,7 +36,7 @@
         </figure>
         <p>Here is a musical example with the <chord root="IV"/>/<scaledeg>5</scaledeg> chord in <n pc="A" acc="flat"/> major.</p>
         <figure><caption/>
-            <image source="images/unit2/7th-chords-ooh-child"><description>"O-o-h Child" by The Five Stairsteps</description></image><index><main>songs (popular)</main><sub>"O-o-h Child" (The Five Stairsteps)</sub></index>
+            <image source="images/unit2/7th-chords-ooh-child"><description>"O-o-h Child" by The Five Stairsteps</description></image><idx><h>songs (popular)</h><h>"O-o-h Child" (The Five Stairsteps)</h></idx>
         </figure>
         <p><url href="https://youtu.be/gIsj8VxQNkw?t=38s">Click to open a performance on YouTube.</url></p>
     </section>
@@ -58,7 +58,7 @@
         <exercise>
             <statement>
                 <p>Analyze the given chords with lead-sheet symbols above and Roman numerals below.</p>
-                <p><image source="images/unit2/PRAC-EXER-7th-chords-ID"><description></description></image></p>
+                <p><image source="images/unit2/PRAC-EXER-7th-chords-ID"><description/></image></p>
             </statement>
             <answer><p>1. <chord root="D" bps="7"/>, <chord root="V" bps="7"/></p>
             <p>2. <chord root="G" mode="major" bps="7"/>, <chord root="IV" bps="M7"/></p>
@@ -72,7 +72,7 @@
     <exercise>
             <statement>
                 <p>Given the Roman numeral, provide the notes of the chord and the lead-sheet symbol above.</p>
-                <p><image source="images/unit2/PRAC-EXER-7th-chords-writing"><description></description></image></p>
+                <p><image source="images/unit2/PRAC-EXER-7th-chords-writing"><description/></image></p>
             </statement>
             <answer><p>1. Bm7, B-D-F<sharp/>-A</p>
             <p>2. <chord root="A" mode="halfdiminished" bps="7"/>, A-C-E<flat/>-G</p>
@@ -85,14 +85,14 @@
             <statement>
                 <p>Analyze the harmonies in the excerpts with lead-sheet symbols above and Roman numerals below.</p>
                 <ol>
-                            <li><p>"No Scrubs" <index><main>songs (popular)</main><sub>"No Scrubs" (TLC)</sub></index><url href="https://youtu.be/FrLequ6dUdM?t=8s">(YouTube)</url>
+                            <li><p>"No Scrubs" <idx><h>songs (popular)</h><h>"No Scrubs" (TLC)</h></idx><url href="https://youtu.be/FrLequ6dUdM?t=8s">(YouTube)</url>
                         </p>
-                        <p><image source="images/unit2/PRAC-EXER-7th-chords-no-scrubs"><description></description></image>
+                        <p><image source="images/unit2/PRAC-EXER-7th-chords-no-scrubs"><description/></image>
                     </p>
                         </li>
-                            <li><p>Mozart, Piano Sonata K. 545, I <index><main>Mozart, W.A.</main><sub>Piano Sonata K. 545, I., primary theme</sub></index><url href="https://youtu.be/5NkzTTkqTB4">(YouTube)</url>
+                            <li><p>Mozart, Piano Sonata K. 545, I <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 545, I., primary theme</h></idx><url href="https://youtu.be/5NkzTTkqTB4">(YouTube)</url>
                             </p>
-                            <p><image source="images/unit2/PRAC-EXER-7th-chords-k545"><description></description></image>
+                            <p><image source="images/unit2/PRAC-EXER-7th-chords-k545"><description/></image>
                             </p>
                         </li>
                         </ol>

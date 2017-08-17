@@ -1,4 +1,5 @@
-        <frontmatter xml:id="index">
+<?xml version="1.0" encoding="UTF-8"?>
+<frontmatter xml:id="index">
             <titlepage>
                 <author>
                     <personname>Robert Hutchinson</personname>

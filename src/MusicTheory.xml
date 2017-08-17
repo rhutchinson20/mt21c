@@ -4,7 +4,7 @@
     <book xml:id="MusicTheory">
         <title>Music Theory for the 21st-Century Classroom</title>
         <xi:include href="./frontmatter.xml"/>
-        <xi:include href="./BasicConcepts.xml" />
+        <xi:include href="./BasicConcepts.xml"/>
         <xi:include href="./MajorScalesAndKeySignatures.xml"/>
         <xi:include href="./MinorScalesAndKeySignatures.xml"/>
         <xi:include href="./BasicsOfRhythm.xml"/>

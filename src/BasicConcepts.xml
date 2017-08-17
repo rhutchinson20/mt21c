@@ -1,23 +1,24 @@
-        <chapter xml:id="BasicConcepts">
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="BasicConcepts">
             <title>Basic Concepts</title>
             <section xml:id="Pitch">
                 <title>Pitch</title>
-                    <p><term>Pitch</term><index><main>pitch</main></index> has to do with notes. On the piano there are 88 notes. As you move to the right on a piano, the notes sound higher. Notes sound lower as you move to the left. Try it on a piano with a smaller range at <url href="http://www.musictheory.net/piano">the following website</url>.</p>
-                <figure>
+                    <p><term>Pitch</term><idx><h>pitch</h></idx> has to do with notes. On the piano there are 88 notes. As you move to the right on a piano, the notes sound higher. Notes sound lower as you move to the left. Try it on a piano with a smaller range at <url href="http://www.musictheory.net/piano">the following website</url>.</p>
+                <sidebyside>
                 	<image source="images/unit1/pitch-keyboard-higher-lower"/>
-                </figure>
+                </sidebyside>
             </section>
             <section xml:id="Notation">
             	<title>Notation</title>
-        		<p>Notes are written on a five-line <term>staff</term><index><main>staff</main></index>. A <term>clef</term><index><main>clef</main></index> orients the lines to a reference point. For example, the G clef, when placed on a five-line staff, becomes the <term>treble clef</term><index><main>treble clef</main></index>, the most well known clef. In treble clef, the notes on the lines are <n pc="E"/><ndash/><n pc="G"/><ndash/><n pc="B"/><ndash/><n pc="D"/><ndash/><n pc="F"/> from lowest to highest, often remembered through the traditional mnenomic <q>Every Good Boy Does Fine.</q> The spaces are <n pc="F"/><ndash/><n pc="A"/><ndash/><n pc="C"/><ndash/><n pc="E"/> from lowest to highest. Staves (the plural of <q>staff</q> in musical terminology is <q>staves</q>) are extended by the <term>ledger lines</term><index><main>ledger lines</main></index>.</p>
-				<figure><image source="images/unit1/treble-clef-EGBDF"><description>Note names of lines and spaces in treble clef</description></image></figure>
-        		<p>The F clef, when placed on a five-line staff with the dots surrounding the second line from the top, creates the <term>bass clef</term><index><main>bass clef</main></index>. See the example for the names of lines and spaces, and for mnemonics to remember them.</p>
-        		<figure><image source="images/unit1/bass-clef-basics"><description>Note names of lines and spaces in bass clef</description></image></figure>
+        		<p>Notes are written on a five-line <term>staff</term><idx><h>staff</h></idx>. A <term>clef</term><idx><h>clef</h></idx> orients the lines to a reference point. For example, the G clef, when placed on a five-line staff, becomes the <term>treble clef</term><idx><h>treble clef</h></idx>, the most well known clef. In treble clef, the notes on the lines are <n pc="E"/><ndash/><n pc="G"/><ndash/><n pc="B"/><ndash/><n pc="D"/><ndash/><n pc="F"/> from lowest to highest, often remembered through the traditional mnenomic <q>Every Good Boy Does Fine.</q> The spaces are <n pc="F"/><ndash/><n pc="A"/><ndash/><n pc="C"/><ndash/><n pc="E"/> from lowest to highest. Staves (the plural of <q>staff</q> in musical terminology is <q>staves</q>) are extended by the <term>ledger lines</term><idx><h>ledger lines</h></idx>.</p>
+				<sidebyside><image source="images/unit1/treble-clef-EGBDF"><description>Note names of lines and spaces in treble clef</description></image></sidebyside>
+        		<p>The F clef, when placed on a five-line staff with the dots surrounding the second line from the top, creates the <term>bass clef</term><idx><h>bass clef</h></idx>. See the example for the names of lines and spaces, and for mnemonics to remember them.</p>
+        		<sidebyside><image source="images/unit1/bass-clef-basics"><description>Note names of lines and spaces in bass clef</description></image></sidebyside>
         	</section>
             <section xml:id="OctaveRegisters">
                 <title>Octave Registers</title>
                     <p>The note names used in music are <n pc="A"/><n pc="B"/><n pc="C"/><n pc="D"/><n pc="E"/><n pc="F"/><n pc="G"/> (known as the <q>musical alphabet</q>). After <n pc="G"/>, the note <n pc="A"/> returns and <n pc="A"/><n pc="B"/><n pc="C"/><n pc="D"/><n pc="E"/><n pc="F"/><n pc="G"/> occurs again and again. The distance from the first <n pc="A"/> to the second <n pc="A"/> is an octave (which means the notes are eight steps apart.)</p>
-                <table>
+                <sidebyside>
                 	<tabular>
                 		<row>
                 			<cell><n pc="A"/></cell>
@@ -40,41 +41,47 @@
                 			<cell><n pc="8"/> (octave)</cell>
                 		</row>
                 	</tabular>
-                </table>
-                <p>The distance from any note to a note of the same name in the next register above or below is called an <term>octave</term><index><main>octave</main></index> (abbreviated <q><term>8ve</term><index><main>8ve</main></index></q>).</p>
-                <p>How can the piano keyboard have 88 notes when there are only seven note names? The musical alphabet repeats 7 times (with an extra <n pc="A"/><n pc="B"/><n pc="C"/> at the top), which means we have at least seven octave registers. (There are also five chromatic notes in each register, which we will learn about when we discuss <xref ref="Accidentals" autoname="title"/>.) When learning about octave registers, we will focus on the note <n pc="C"/> for reasons that will soon become clear when we learn about the major scale.</p>
-                <p>We use <term>octave registers</term><index><main>octave registers</main></index> (<n pc="C" octave="4"/>, <n pc="D" octave="5"/>, etc.) to specify the exact register of a note. The note  <n pc="C" octave="4"/> is known as <q><term>middle C</term><index><main>middle <n pc="C"/></main></index></q> and is an important reference point. See the keyboard in the example below.</p>
-                <figure><image source="images/unit1/keyboard-octave-registers" width="85%"><description>Picture of keyboard with C1 through C8 identified</description></image></figure>
+                </sidebyside>
+                <p>The distance from any note to a note of the same name in the next register above or below is called an <term>octave</term><idx><h>octave</h></idx> (abbreviated <q><term>8ve</term><idx><h>8ve</h></idx></q>).</p>
+                <p>How can the piano keyboard have 88 notes when there are only seven note names? The musical alphabet repeats 7 times (with an extra <n pc="A"/><n pc="B"/><n pc="C"/> at the top), which means we have at least seven octave registers. (There are also five chromatic notes in each register, which we will learn about when we discuss <xref ref="Accidentals" text="title"/>.) When learning about octave registers, we will focus on the note <n pc="C"/> for reasons that will soon become clear when we learn about the major scale.</p>
+                <p>We use <term>octave registers</term><idx><h>octave registers</h></idx> (<n pc="C" octave="4"/>, <n pc="D" octave="5"/>, etc.) to specify the exact register of a note. The note  <n pc="C" octave="4"/> is known as <q><term>middle C</term><idx><h>middle <n pc="C"/></h></idx></q> and is an important reference point. See the keyboard in the example below.</p>
+                <sidebyside width="85%"><image source="images/unit1/keyboard-octave-registers"><description>Picture of keyboard with C1 through C8 identified</description></image></sidebyside>
                 <p>Note that <em>the register number changes after the note  </em><n pc="B"/> each time (<n pc="B" octave="4"/> is followed by <n pc="C" octave="5"/>).</p>
                 <p>In treble clef, middle <n pc="C"/> is notated on the ledger line below the staff. In bass clef, middle <n pc="C"/> is notated on the ledger line above the staff.</p>
-            <sidebyside widths="29% 29%" margins="14%">
-                <image source="images/unit1/treble-clef-middle-c"></image><image source="images/unit1/bass-clef-middle-c"></image><caption>Middle C (C4) in treble clef and bass clef</caption>
+            <figure>
+<caption>Middle C (C4) in treble clef and bass clef</caption>
+    <sidebyside widths="29% 29%" margins="14%">
+                <image source="images/unit1/treble-clef-middle-c"/><image source="images/unit1/bass-clef-middle-c"/>
             </sidebyside>
-                <p>The other two commonly used clefs are <term>alto clef</term><index><main>alto clef</main></index> and <term>tenor clef</term><index><main>tenor clef</main></index>. Each use a <n pc="C"/> clef that, when placed on a staff, designate the placement of middle <n pc="C"/>.</p>
-            <sidebyside widths="29% 29%" margins="14%">
-                <image source="images/unit1/alto-clef-middle-c"></image><image source="images/unit1/tenor-clef-middle-c"></image><caption>Middle C in alto clef and tenor clef</caption>
+</figure>
+                <p>The other two commonly used clefs are <term>alto clef</term><idx><h>alto clef</h></idx> and <term>tenor clef</term><idx><h>tenor clef</h></idx>. Each use a <n pc="C"/> clef that, when placed on a staff, designate the placement of middle <n pc="C"/>.</p>
+            <figure>
+<caption>Middle C in alto clef and tenor clef</caption>
+    <sidebyside widths="29% 29%" margins="14%">
+                <image source="images/unit1/alto-clef-middle-c"/><image source="images/unit1/tenor-clef-middle-c"/>
             </sidebyside>
-                <p>The <term>grand staff</term><index><main>grand staff</main></index>, which is a treble and bass clef joined together by a bracket, is how piano music is written.</p>
-                <figure><image source="images/unit1/grand-staff-basic"></image></figure>
+</figure>
+                <p>The <term>grand staff</term><idx><h>grand staff</h></idx>, which is a treble and bass clef joined together by a bracket, is how piano music is written.</p>
+                <sidebyside><image source="images/unit1/grand-staff-basic"/></sidebyside>
                 <p>Note that middle <n pc="C"/> is always clearly notated in either the upper or lower staff and never floats between the two staves.</p>
             </section>
             <section xml:id="Accidentals">
                 <title>Accidentals</title>
-                <p>There are five types of accidentals; <term>accidentals</term><index><main>accidentals</main></index> are characters that can be placed before notes to raise or lower them.</p>
+                <p>There are five types of accidentals; <term>accidentals</term><idx><h>accidentals</h></idx> are characters that can be placed before notes to raise or lower them.</p>
                 <ul>
-                    <li><p>The <term>sharp</term><index><main>sharp</main></index> symbol<mdash/><sharp/><mdash/>raises a pitch a half step.</p></li>
-                    <li><p>The <term>flat</term><index><main>flat</main></index> symbol<mdash/><flat/><mdash/>lowers a pitch a <xref ref="HalfStepsAndWholeSteps" text="title">half step</xref>.</p></li>
-                    <li><p>The <term>double sharp</term><index><main>double sharp</main></index> symbol<mdash/><doublesharp/><mdash/>raises a pitch two half steps, or a <xref ref="HalfStepsAndWholeSteps" text="title">whole step</xref>.</p></li>
-                    <li><p>The <term>double flat</term><index><main>double flat</main></index> symbol<mdash/><doubleflat/><mdash/>lowers a pitch two half steps, or a whole step.</p></li>
-                    <li><p>The <term>natural</term><index><main>natural</main></index> symbol<mdash/><natural/><mdash/>cancels out any other accidentals that may have occurred earlier in a measure or in <xref ref="MajorKeySignatures" autoname="title"/> or <xref ref="MinorKeySignatures" autoname="title"/>.</p></li>
+                    <li><p>The <term>sharp</term><idx><h>sharp</h></idx> symbol<mdash/><sharp/><mdash/>raises a pitch a half step.</p></li>
+                    <li><p>The <term>flat</term><idx><h>flat</h></idx> symbol<mdash/><flat/><mdash/>lowers a pitch a <xref ref="HalfStepsAndWholeSteps" text="title">half step</xref>.</p></li>
+                    <li><p>The <term>double sharp</term><idx><h>double sharp</h></idx> symbol<mdash/><doublesharp/><mdash/>raises a pitch two half steps, or a <xref ref="HalfStepsAndWholeSteps" text="title">whole step</xref>.</p></li>
+                    <li><p>The <term>double flat</term><idx><h>double flat</h></idx> symbol<mdash/><doubleflat/><mdash/>lowers a pitch two half steps, or a whole step.</p></li>
+                    <li><p>The <term>natural</term><idx><h>natural</h></idx> symbol<mdash/><natural/><mdash/>cancels out any other accidentals that may have occurred earlier in a measure or in <xref ref="MajorKeySignatures" text="title"/> or <xref ref="MinorKeySignatures" text="title"/>.</p></li>
                 </ul>
-                <figure><image source="images/unit1/accidentals-demo-on-staff" width="70%"><description>Example showing G-flat, G-natural, and G-sharp on the staff and on the piano</description></image></figure>
+                <sidebyside width="70%"><image source="images/unit1/accidentals-demo-on-staff"><description>Example showing G-flat, G-natural, and G-sharp on the staff and on the piano</description></image></sidebyside>
             </section>
             <section xml:id="EnharmonicNotes">
 	            <title>Enharmonic Notes</title>
                 <p>Observe that <n pc="C" acc="sharp"/> and <n pc="D" acc="flat"/> are the same note on the piano but are written as different notes on the staff.</p> 
-                <figure><image source="images/unit1/enharmonic-C-sharp-and-D-flat" width="70%"><description>Example showing D-flat and C-sharp on the staff and on the piano</description></image></figure>
-                <p>This occurs with all the black keys on the piano (<n pc="C" acc="sharp"/>=<n pc="D" acc="flat"/>, <n pc="D" acc="sharp"/>=<n pc="E" acc="flat"/>, <n pc="F" acc="sharp"/>=<n pc="G" acc="flat"/>, <n pc="G" acc="sharp"/>=<n pc="A" acc="flat"/>, <n pc="A" acc="sharp"/>=<n pc="B" acc="flat"/>). When two notes <em>sound</em> the same but are written as two different notes on the staff, the written notes are said to be <term>enharmonic</term><index><main>enharmonic</main></index>. Notes on the white keys of the piano can be written enharmonically as well (<n pc="C"/>=<n pc="B" acc="sharp"/>, <n pc="E"/>=<n pc="F" acc="flat"/>, <n pc="D"/>=<n pc="C" acc="doublesharp"/>, etc.).</p>
+                <sidebyside width="70%"><image source="images/unit1/enharmonic-C-sharp-and-D-flat"><description>Example showing D-flat and C-sharp on the staff and on the piano</description></image></sidebyside>
+                <p>This occurs with all the black keys on the piano (<n pc="C" acc="sharp"/>=<n pc="D" acc="flat"/>, <n pc="D" acc="sharp"/>=<n pc="E" acc="flat"/>, <n pc="F" acc="sharp"/>=<n pc="G" acc="flat"/>, <n pc="G" acc="sharp"/>=<n pc="A" acc="flat"/>, <n pc="A" acc="sharp"/>=<n pc="B" acc="flat"/>). When two notes <em>sound</em> the same but are written as two different notes on the staff, the written notes are said to be <term>enharmonic</term><idx><h>enharmonic</h></idx>. Notes on the white keys of the piano can be written enharmonically as well (<n pc="C"/>=<n pc="B" acc="sharp"/>, <n pc="E"/>=<n pc="F" acc="flat"/>, <n pc="D"/>=<n pc="C" acc="doublesharp"/>, etc.).</p>
             </section>
             <exercises xml:id="BasicConceptsPracticeExercises">
             	<title>Practice Exercises</title>

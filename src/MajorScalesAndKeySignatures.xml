@@ -1,13 +1,14 @@
-    	<chapter xml:id="MajorScalesAndKeySignatures">
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="MajorScalesAndKeySignatures">
             <title>Major Scales and Key Signatures</title>
             <section xml:id="HalfStepsAndWholeSteps">
                 <title>Half Steps and Whole Steps</title>
                 <p>A half step on a piano keyboard is the distance from one note to the next nearest note. A whole step is made of two half steps.</p>
-                <figure><image source="images/unit1/half-step-and-whole-step"><description>Half step versus Whole Step on the piano</description></image></figure>
+                <sidebyside><image source="images/unit1/half-step-and-whole-step"><description>Half step versus Whole Step on the piano</description></image></sidebyside>
             </section>
             <section xml:id="TheMajorScale">
                 <title>The Major Scale</title>
-                <p>A major scale contains a specific succession of whole and half steps. I prefer to think of the pattern as consisting of two tetrachords. (A <term>tetrachord</term><index><main>tetrachord</main></index> is a four-note scale segment.) The lower tetrachord consists of the pattern whole step, whole step, half step. A whole step joins the lower tetrachord to the upper tetrachord. The upper tetrachord duplicates the pattern in the lower one: whole step, whole step, half step. If we use W for whole step and H for half step, the major scale pattern is W-W-H, Whole-step connection, W-W-H.</p>
+                <p>A major scale contains a specific succession of whole and half steps. I prefer to think of the pattern as consisting of two tetrachords. (A <term>tetrachord</term><idx><h>tetrachord</h></idx> is a four-note scale segment.) The lower tetrachord consists of the pattern whole step, whole step, half step. A whole step joins the lower tetrachord to the upper tetrachord. The upper tetrachord duplicates the pattern in the lower one: whole step, whole step, half step. If we use W for whole step and H for half step, the major scale pattern is W-W-H, Whole-step connection, W-W-H.</p>
                 <figure>
                     <caption>The D major scale on a keyboard</caption>
                     <image source="images/unit1/tetrachords-on-piano"><description>The D major scale on a keyboard, shown as two tetrachords</description></image>
@@ -21,7 +22,7 @@
             </section>
             <section xml:id="MajorKeySignatures">
                 <title>Major Key Signatures</title>
-                <p>A key signature is placed at the beginning of a piece (or the beginning of a section) and is written with the clef on the beginning of each line of music. The <term>key signature</term><index><main>key signature</main></index> reminds the performer which sharps or flats are in the scale (or key) of the piece and prevents the composer or arranger from writing every sharp or flat from the scale every time it occurs.</p>
+                <p>A key signature is placed at the beginning of a piece (or the beginning of a section) and is written with the clef on the beginning of each line of music. The <term>key signature</term><idx><h>key signature</h></idx> reminds the performer which sharps or flats are in the scale (or key) of the piece and prevents the composer or arranger from writing every sharp or flat from the scale every time it occurs.</p>
                 <figure>
                     <caption>"Twinkle, Twinkle, Little Star" in D major</caption>
                     <image source="images/unit1/twinkle-in-d-major"><description>"Twinkle, Twinkle, Little Star" in D major</description></image>
@@ -36,14 +37,14 @@
                     <image source="images/unit1/major-with-flats"><description>Major Key Signatures using Flats</description></image>
                 </figure>
                 <p>It is important to memorize the order of sharps and flats, since you will be writing key signatures regularly.</p>
-                <p>The <term>order of sharps</term><index><main>order of sharps</main></index> is 
+                <p>The <term>order of sharps</term><idx><h>order of sharps</h></idx> is 
                 <n pc="F"/>-<n pc="C"/>-<n pc="G"/>-<n pc="D"/>-<n pc="A"/>-<n pc="E"/>-<n pc="B"/>, often remembered by a mnemonic. The one I learned when I was young was <q>Fast Cars Go Dangerously Around Every Bend.</q></p>
-                <p>The <term>order of flats</term><index><main>order of flats</main></index> is <n pc="B"/>-<n pc="E"/>-<n pc="A"/>-<n pc="D"/>-<n pc="G"/>-<n pc="C"/>-<n pc="F"/>. It is the reverse of the order of sharps. It is easy to remember since the first four letters make the word BEAD, and GCF is something most students learn as <q>Greatest Common Factor</q> when studying math in elementary school.</p>
+                <p>The <term>order of flats</term><idx><h>order of flats</h></idx> is <n pc="B"/>-<n pc="E"/>-<n pc="A"/>-<n pc="D"/>-<n pc="G"/>-<n pc="C"/>-<n pc="F"/>. It is the reverse of the order of sharps. It is easy to remember since the first four letters make the word BEAD, and GCF is something most students learn as <q>Greatest Common Factor</q> when studying math in elementary school.</p>
                 <p>A mnemonic that works forward and backward is <q>Father Charles Goes Down And Ends Battle,</q> which reversed is <q>Battle Ends And Down Goes Charles’ Father.</q></p>
-                <p>A helpful learning device to remember the order of keys in relation to the order of sharps and flats is the <term>circle of fifths</term><index><main>circle of fifths</main></index>. As you ascend in fifths (clockwise), key signatures get one degree <q>sharper.</q> (<n pc="C"/> to <n pc="G"/> is a fifth because <n pc="C"/>=1, <n pc="D"/>=2, <n pc="E"/>=3, <n pc="F"/>=4, and <n pc="G"/>=5.) As you descend in fifths (counterclockwise), key signatures get one degree <q>flatter.</q></p>
+                <p>A helpful learning device to remember the order of keys in relation to the order of sharps and flats is the <term>circle of fifths</term><idx><h>circle of fifths</h></idx>. As you ascend in fifths (clockwise), key signatures get one degree <q>sharper.</q> (<n pc="C"/> to <n pc="G"/> is a fifth because <n pc="C"/>=1, <n pc="D"/>=2, <n pc="E"/>=3, <n pc="F"/>=4, and <n pc="G"/>=5.) As you descend in fifths (counterclockwise), key signatures get one degree <q>flatter.</q></p>
                 <figure xml:id="circle-of-fifths-major">
                     <caption>Circle of Fifths for Major Keys</caption>
-                    <image source="images/unit1/circle-of-fifths-major" width="90%"><description>Circle of Fifths for Major Keys</description></image><index><main>circle of fifths (major key signatures)</main><sub>diagram</sub></index>
+                    <image source="images/unit1/circle-of-fifths-major" width="90%"><description>Circle of Fifths for Major Keys</description></image><idx><h>circle of fifths (major key signatures)</h><h>diagram</h></idx>
                 </figure>
                 <p>Note the overlapping keys at the bottom of the circle. <n pc="B"/> major is enharmonically the same as <n pc="C" acc="flat"/> major; <n pc="F" acc="sharp"/> major is enharmonically the same as <n pc="G" acc="flat"/> major; and <n pc="C" acc="sharp"/> major is enharmonically the same as <n pc="D" acc="flat"/> major.</p>
             </section>
@@ -64,7 +65,7 @@
                 <exercise>
                     <statement><p>Write the major key signature for each key given. Be sure to use the correct order for sharps and flats.</p>
                     <p><image source="images/unit1/PRAC-EXER-writing-maj-key-sigs"/></p></statement>
-                    <answer><p></p></answer>
+                    <answer><p/></answer>
                 </exercise>
                 <p>Click <url href="hw/MT21C_HW_1.pdf">here to download the homework.</url>
                 </p>

@@ -1,47 +1,48 @@
-        <chapter xml:id="MinorScalesAndKeySignatures">
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="MinorScalesAndKeySignatures">
 			<title>Minor Scales and Key Signatures</title>
             <section xml:id="MinorScales">
                 <title>Minor Scales</title>
                 <p>There are three minor scales: the natural minor scale, the harmonic minor scale, and the melodic minor scale. Play or sing through each one and notice the differences.</p>
-                <figure>
+                <sidebyside>
                     <image source="images/unit1/major-and-minor-scales"><description>The major, natural minor, harmonic minor, and melodic minor scales all starting on C, noting that the natural minor has lowered 3rd, 6th and 7th scale degrees, the harmonic minor has lowered 3rd and 6th scale degrees, and the ascending melodic minor scale as a lowered 3rd scale degree</description></image>
-                </figure>
+                </sidebyside>
                 <p>The melodic minor scale has an ascending version, shown above, and a descending version that is the same as the natural minor scale.</p>
-                <figure>
+                <sidebyside>
                     <image source="images/unit1/melodic-minor-asc-and-desc"><description>The ascending melodic minor scale on C has a lowered 3rd scale degree and the descending version has lowered 3rd, 6th, and 7th scale degrees</description></image>
-                </figure>
+                </sidebyside>
                 <p>So far, we have looked at minor scales in relation to the major scale. However, we will typically encounter minor scales in music using minor key signatures.</p>
             </section>
             <section xml:id="MinorKeySignatures">
                 <title>Minor Key Signatures</title>
                 <p>Minor key signatures agree with the notes of the natural minor scale. Since the <n pc="C"/> natural minor scale had <n pc="E" acc="flat"/>, <n pc="A" acc="flat"/>, and <n pc="B" acc="flat"/>, the key signature of C minor has three flats, written in the order of flats<mdash/><n pc="B" acc="flat"/>, <n pc="E" acc="flat"/>, <n pc="A" acc="flat"/>.</p>
-                <figure>
+                <sidebyside>
                     <image source="images/unit1/natural-minor-scale-with-minor-key-sig"><description>An example showing the lowered 3rd, 6th, and 7th scale degrees placed after the clef as the key signature for the minor key</description></image>
-                </figure>
-                <p>Therefore, a minor key signature will have three lowered notes<mdash/>the 3rd, 6th, and 7th<mdash/>in relation to the corresponding major key signature. We use the term <term>parallel minor</term><index><main>parallel minor</main></index><index><main>minor</main><sub>parallel</sub></index> when referring to a minor scale that <em>has the same 1st scale degree</em> (in this case <n pc="C"/>) as the major. We say, <q>The parallel minor of <n pc="E"/> major is <n pc="E"/> minor,</q> and <q>The parallel major of <n pc="F"/> minor is <n pc="F"/>major.</q> One method of figuring out a minor key signature is to add three flats to the parallel major key signature. This is the same as subtracting three sharps.</p>
-                <figure>
+                </sidebyside>
+                <p>Therefore, a minor key signature will have three lowered notes<mdash/>the 3rd, 6th, and 7th<mdash/>in relation to the corresponding major key signature. We use the term <term>parallel minor</term><idx><h>parallel minor</h></idx><idx><h>minor</h><h>parallel</h></idx> when referring to a minor scale that <em>has the same 1st scale degree</em> (in this case <n pc="C"/>) as the major. We say, <q>The parallel minor of <n pc="E"/> major is <n pc="E"/> minor,</q> and <q>The parallel major of <n pc="F"/> minor is <n pc="F"/>major.</q> One method of figuring out a minor key signature is to add three flats to the parallel major key signature. This is the same as subtracting three sharps.</p>
+                <sidebyside>
                     <image source="images/unit1/minor-parallel-add-3-flats"><description>Adding 3 flats or subtracting 3 sharps to get to the parallel minor key signature from the major key</description></image>
-                </figure>
+                </sidebyside>
                 <p>Note on uppercase versus lowercase: When writing below the five-line staff to designate keys, we will use the shorthand of upper case for major (<chord root="C"/>) and lowercase for minor (<chord root="c"/>). When writing prose, we will use uppercase: <n pc="C"/> major and <n pc="C"/> minor.</p>
-                <p>We use the term <term>relative minor</term><index><main>relative minor</main></index><index><main>minor</main><sub>relative</sub></index> when referring to a minor key that <em>has the same key signature</em> as a major key. For example, the relative minor of <n pc="E" acc="flat"/> major is <n pc="C"/> minor because both have three flats in the key signature. Conversely, one could say the relative major of <n pc="C"/> minor is <n pc="E" acc="flat"/> major. The relative major is three half steps <em>above</em> the relative minor.</p>
-                <figure>
-                    <image source="images/unit1/half-steps-between-rel-maj-rel-min" width="70%"><description>Example showing that the relative minor is 3 half steps below the relative major: Eb, D, Db, C</description></image>
-                </figure>
+                <p>We use the term <term>relative minor</term><idx><h>relative minor</h></idx><idx><h>minor</h><h>relative</h></idx> when referring to a minor key that <em>has the same key signature</em> as a major key. For example, the relative minor of <n pc="E" acc="flat"/> major is <n pc="C"/> minor because both have three flats in the key signature. Conversely, one could say the relative major of <n pc="C"/> minor is <n pc="E" acc="flat"/> major. The relative major is three half steps <em>above</em> the relative minor.</p>
+                <sidebyside width="70%">
+                    <image source="images/unit1/half-steps-between-rel-maj-rel-min"><description>Example showing that the relative minor is 3 half steps below the relative major: Eb, D, Db, C</description></image>
+                </sidebyside>
                 <p>Below are the minor key signatures.</p>
-                <figure>
+                <sidebyside>
                     <image source="images/unit1/minor-key-signatures"><description>Example showing that the relative minor is 3 half steps below the relative major: Eb, D, Db, C</description></image>
-                </figure>
+                </sidebyside>
                 <p>Here are circle of fifths diagrams for both major and minor, for comparison.</p>
-                <figure>
-                    <image source="images/unit1/circle-of-fifths-minor" width="80%"></image><index><main>circle of fifths (minor key signatures)</main><sub>diagram</sub></index>
-                </figure>
-                <figure>
-                    <image source="images/unit1/circle-of-fifths-major" width="80%"></image>
-                </figure>
+                <sidebyside width="80%">
+                    <image source="images/unit1/circle-of-fifths-minor"/><idx><h>circle of fifths (minor key signatures)</h><h>diagram</h></idx>
+                </sidebyside>
+                <sidebyside width="80%">
+                    <image source="images/unit1/circle-of-fifths-major"/>
+                </sidebyside>
                 <p>Writing harmonic minor and melodic minor scales <em>when using minor key signatures</em> requires you to <em>raise</em> scale degrees.</p>
-                <figure>
+                <sidebyside>
                     <image source="images/unit1/minor-scales-in-minor"><description>Example showing raising of 7th scale degree of the harmonic minor when using minor key signature, and raising 6th and 7th scale degrees of ascending melodic minor when using minor key signature</description></image>
-                </figure>
+                </sidebyside>
                 <p>Compositions in minor typically do not strictly use only one of the three minor scales, however. The three minor scales are distillations of composers’ actual practice.</p>
                 <figure>
                     <caption>J.S. Bach, C Minor Invention</caption>
@@ -58,15 +59,15 @@
             </section>
             <section xml:id="ScaleDegreeNames">
                 <title>Scale Degree Names</title>
-                <p><index><main>scale degree names</main></index>Scale degrees, though often referred to by numbers, also have names.</p>
-                <figure>
+                <p><idx><h>scale degree names</h></idx>Scale degrees, though often referred to by numbers, also have names.</p>
+                <sidebyside>
                     <image source="images/unit1/scale-degree-names"><description>For scale degree names, 1 is "tonic," 2 is "supertonic," 3 is "mediant," 4 is "subdominant," 5 is "dominant," 6 is "submediant," and 7 is "leading tone"</description></image>
-                </figure>
+                </sidebyside>
                 <p>These names will be used throughout this text to refer to scale degrees, chords built on these scale degrees, and keys associated with these scale degrees.</p>
                 <p>Another way to understand why some scale degrees have “sub-” in their names is through the following example.</p>
-                <figure>
+                <sidebyside>
                     <image source="images/unit1/scale-degrees-names-above-and-below"><description>An example showing that the dominant is a 5th above tonic and the mediant is midway between them, and that the subdominant is a 5th below the tonic and that the submediant is midway between tonic and subdominant</description></image>
-                </figure>
+                </sidebyside>
                 <p>Notice that the <em>subtonic</em> is a whole step below the tonic, while the <em>leading tone</em> is only a half step below the tonic.</p>
             </section>
             <exercises xml:id="MinorKeysPracticeExercises">

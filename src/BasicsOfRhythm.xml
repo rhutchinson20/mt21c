@@ -1,110 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    	<chapter xml:id="BasicsOfRhythm">
+<chapter xml:id="BasicsOfRhythm">
             <title>Basics of Rhythm</title>
             <introduction><p>In relation to rhythm in music, we will discuss time signatures, durational symbols, meter, beat, pulse, tempo.</p>
         </introduction>
         <section xml:id="TimeSignature">
             <title>Time Signature</title>
-            <p>In a <term>time signature</term><index><main>time signature</main></index>, the top number of the time signature tells you <q>how many</q> and the bottom number tells you <q>of what.</q></p>
-            <figure><image source="images/unit1/time-signature-explanation"><description>An image showing various time signatures</description></image></figure>
+            <p>In a <term>time signature</term><idx><h>time signature</h></idx>, the top number of the time signature tells you <q>how many</q> and the bottom number tells you <q>of what.</q></p>
+            <sidebyside><image source="images/unit1/time-signature-explanation"><description>An image showing various time signatures</description></image></sidebyside>
         </section>
         <section xml:id="DurationalSymbols">
             <title>Durational Symbols</title>
             <p>In the present day, the most common time signature is 4/4<!--fix time signatures later--> (also known as <q>common time</q>). It makes sense to introduce durational symbols in the context of 4/4 because a whole note takes up a whole measure in 4/4, a half note takes up half a measure of 4/4, a quarter note takes up 1/4 of a measure, and so on.</p>
-            <figure>
-                <image source="images/unit1/durational-symbols"><description>An illustration of the above paragraph in musical symbols</description></image><index><main>durational symbols</main></index>
-            </figure>
+            <sidebyside>
+                <image source="images/unit1/durational-symbols"><description>An illustration of the above paragraph in musical symbols</description></image><idx><h>durational symbols</h></idx>
+            </sidebyside>
             <p>Here are durational symbols for rests.</p>
-            <figure>
+            <sidebyside>
                 <image source="images/unit1/rests-whole-through-32nd"><description>Musical symbols for rests</description></image>
-            </figure>
+            </sidebyside>
             <p>To put this information into practice, listen to the durational values double in speed in each measure of the following example.</p>
-            <figure>
+            <sidebyside>
                 <image source="images/unit1/durational-values-doubling"><description>Each measure has values twice as fast as the previous, from quarter notes to 32nd notes</description></image>
-            </figure>
+            </sidebyside>
             <p>Two rare durational values are the double whole note (also called a <q>breve</q>) and the 64<m>^\mathrm{th}</m> note, which is twice as fast as a 32<m>^\mathrm{nd}</m> note.</p>
-            <figure>
+            <sidebyside>
                 <image source="images/unit1/double-whole-notes-and-64th-notes"><description>musical symbols for double whole notes and 64th notes</description></image>
-            </figure>
+            </sidebyside>
         </section>
         <section xml:id="DotsAndTies">
             <title>Dots and Ties</title>
             <p>We have a whole note, which lasts for four beats, and a half note, which lasts for two beats, but we don’t have a durational value that lasts three beats. To do so requires using a dot or a tie.</p>
-            <p>A <term>tie</term><index><main>tie</main></index> links two notes together to create a new duration. Ties occur between notes of the same pitch. A <term>slur</term><index><main>slur</main></index>, which looks like a tie, is placed over or under notes of different pitches and means to play them in a connected manner.</p>
-            <p>A <term>dot</term><index><main>dot</main></index> added to a note increases the duration of that note by half. A second dot represents half the value of the first dot, or a quarter of the original duration. (These are known as “double-dotted notes.”)</p>
-            <figure>
+            <p>A <term>tie</term><idx><h>tie</h></idx> links two notes together to create a new duration. Ties occur between notes of the same pitch. A <term>slur</term><idx><h>slur</h></idx>, which looks like a tie, is placed over or under notes of different pitches and means to play them in a connected manner.</p>
+            <p>A <term>dot</term><idx><h>dot</h></idx> added to a note increases the duration of that note by half. A second dot represents half the value of the first dot, or a quarter of the original duration. (These are known as “double-dotted notes.”)</p>
+            <sidebyside>
                 <image source="images/unit1/ties-and-dots"><description>And example illustrating the difference between ties and slurs, and how dots add to the value of a note</description></image>
-            </figure>
+            </sidebyside>
         </section>
         <section xml:id="meter">
             <title>Meter</title>
-            <p><term>Meter</term><index><main>meter</main></index> describes the number of beats in a measure (also know as a <q>bar</q>) and how the beats are normally divided.</p>
-            <p><term>Beat</term><index><main>beat</main></index> is "[t]he basic pulse underlying measured music and thus the unit by which musical time is reckoned..." according to Barry Kernfeld in <em>The New Grove Dictionary of Jazz</em>, 2nd edition. <term>Pulse</term><index><main>pulse</main></index> and beat are synonymous.</p>
-            <p><term>Tempo</term><index><main>tempo</main></index> refers to the speed of the beat or pulse. Tempo can be referred to in <term>beats per minute</term><index><main>beats per minute</main></index> (<term>bpm</term><index><main>bpm</main></index>), such as 60bpm (where the rate of the beat would be equal to a second), or, in Classical music, with terms like Allegro, Andante, and Adagio, sometimes in combinations with "<term>M.M.</term><index><main>M.M. (Maelzel's Metronome)</main></index>" for <term>Maelzel's Metronome</term><index><main>Maelzel's Metronome</main></index>.</p>
-            <p>Meters with two beats in a bar are described as <em>duple</em><index><main>meter</main><sub>duple</sub></index>. If there are three beats in a bar, the meter is described as <em>triple</em><index><main>meter</main><sub>triple</sub></index>, and if there are four beats in a bar, the meter is described as <em>quadruple</em><index><main>meter</main><sub>quadruple</sub></index>.</p>
-            <p>If the beats are normally divided into two parts, the meter is described as <term>simple</term><index><main>simple meter</main></index><index><main>meter</main><sub>simple</sub></index>. If the beats are normally divided into three parts, the meter is described as <term>compound</term><index><main>compound meter</main></index><index><main>meter</main><sub>compound</sub></index>.</p>
-            <figure>
+            <p><term>Meter</term><idx><h>meter</h></idx> describes the number of beats in a measure (also know as a <q>bar</q>) and how the beats are normally divided.</p>
+            <p><term>Beat</term><idx><h>beat</h></idx> is "[t]he basic pulse underlying measured music and thus the unit by which musical time is reckoned..." according to Barry Kernfeld in <em>The New Grove Dictionary of Jazz</em>, 2nd edition. <term>Pulse</term><idx><h>pulse</h></idx> and beat are synonymous.</p>
+            <p><term>Tempo</term><idx><h>tempo</h></idx> refers to the speed of the beat or pulse. Tempo can be referred to in <term>beats per minute</term><idx><h>beats per minute</h></idx> (<term>bpm</term><idx><h>bpm</h></idx>), such as 60bpm (where the rate of the beat would be equal to a second), or, in Classical music, with terms like Allegro, Andante, and Adagio, sometimes in combinations with "<term>M.M.</term><idx><h>M.M. (Maelzel's Metronome)</h></idx>" for <term>Maelzel's Metronome</term><idx><h>Maelzel's Metronome</h></idx>.</p>
+            <p>Meters with two beats in a bar are described as <em>duple</em><idx><h>meter</h><h>duple</h></idx>. If there are three beats in a bar, the meter is described as <em>triple</em><idx><h>meter</h><h>triple</h></idx>, and if there are four beats in a bar, the meter is described as <em>quadruple</em><idx><h>meter</h><h>quadruple</h></idx>.</p>
+            <p>If the beats are normally divided into two parts, the meter is described as <term>simple</term><idx><h>simple meter</h></idx><idx><h>meter</h><h>simple</h></idx>. If the beats are normally divided into three parts, the meter is described as <term>compound</term><idx><h>compound meter</h></idx><idx><h>meter</h><h>compound</h></idx>.</p>
+            <sidebyside>
                 <image source="images/unit1/simple-meters"><description>Examples time signatures with simple duple, simple triple, and simple quadruple meter</description></image>
-            </figure>
+            </sidebyside>
             <p>The time signature <!--time signatures-->2/8 is <q>simple duple meter.</q> The time signature 3/2 is <q>simple triple meter.</q> Finally, 4/4 is <q>simple quadruple meter.</q></p>
             <p>When describing meter, we say how the beat is divided before the number of beats in the measure.</p>
-            <figure>
+            <sidebyside>
                 <image source="images/unit1/meter-explanation"><description>Graphic showing "simple" and "compound" occur before "duple," "triple," or "quadruple"</description></image>
-            </figure>
+            </sidebyside>
             <p>With compound meters the bottom number specifies <em>the division of the beat</em>. The beat value is a dotted note. We say <!--time signatures-->6/16 is <q>compound duple meter</q> because it has two beats. The time signature 6/8 is also compound duple. Compound time signatures have a top number greater than four that is divisible by 3 (6, 9, 12).</p>
-            <figure>
+            <sidebyside>
                 <image source="images/unit1/compound-meters"><description>Example showing time signatures with compound meter, such as 6/16, 9/8, and 12/4</description></image>
-            </figure>
+            </sidebyside>
         </section>
         <section xml:id="Tuplets">
             <title>Tuplets</title>
-            <p><term>Tuplet</term><index><main>tuplet</main></index> is a generic term that describes a grouping of notes that would not normally occur within a beat.</p>
-            <p>A quarter note naturally divides into two eighth notes or four sixteenth notes. A <term>triplet</term><index><main>triplet</main></index><index><main>tuplet</main><sub>triplet</sub></index> is a grouping of three eighth notes that occurs within the span of the quarter note. A <term>quintuplet</term><index><main>quintuplet</main></index><index><main>tuplet</main><sub>quintuplet</sub></index> would be a grouping of five sixteenth notes to occur within the span of one quarter note. It is not uncommon to see quintuplets, sextuplets, and septuplets.</p>
-            <figure>
+            <p><term>Tuplet</term><idx><h>tuplet</h></idx> is a generic term that describes a grouping of notes that would not normally occur within a beat.</p>
+            <p>A quarter note naturally divides into two eighth notes or four sixteenth notes. A <term>triplet</term><idx><h>triplet</h></idx><idx><h>tuplet</h><h>triplet</h></idx> is a grouping of three eighth notes that occurs within the span of the quarter note. A <term>quintuplet</term><idx><h>quintuplet</h></idx><idx><h>tuplet</h><h>quintuplet</h></idx> would be a grouping of five sixteenth notes to occur within the span of one quarter note. It is not uncommon to see quintuplets, sextuplets, and septuplets.</p>
+            <sidebyside>
                 <image source="images/unit1/tuplets"><description>An example with triplets, quintuplets, and sextuplets</description></image>
-            </figure>
-            <p>If you write a piece of music that naturally has a triplet division to the beat, you should use <!--time signature-->6/8, 9/8 or 12/8 depending on the number of beats in each measure.</p>
-            <sidebyside widths="35% 35%" margins="10%">
-                <image source="images/unit1/triplets-in-2-4"></image><image source="images/unit1/triplets-in-6-8"></image><caption>These two measures sound the same</caption>
             </sidebyside>
-            <p>In compound meter, a <term>duplet</term><index><main>duplet</main></index><index><main>tuplet</main><sub>duplet</sub></index> is a grouping of two eighth notes to occur within the span of a dotted quarter note and a <term>quadruplet</term><index><main>quadruplet</main></index><index><main>tuplet</main><sub>quadruplet</sub></index> is a grouping of four eighth notes to occur with the span of a dotted quarter note.</p>
+            <p>If you write a piece of music that naturally has a triplet division to the beat, you should use <!--time signature-->6/8, 9/8 or 12/8 depending on the number of beats in each measure.</p>
             <figure>
+<caption>These two measures sound the same</caption>
+    <sidebyside widths="35% 35%" margins="10%">
+                <image source="images/unit1/triplets-in-2-4"/><image source="images/unit1/triplets-in-6-8"/>
+            </sidebyside>
+</figure>
+            <p>In compound meter, a <term>duplet</term><idx><h>duplet</h></idx><idx><h>tuplet</h><h>duplet</h></idx> is a grouping of two eighth notes to occur within the span of a dotted quarter note and a <term>quadruplet</term><idx><h>quadruplet</h></idx><idx><h>tuplet</h><h>quadruplet</h></idx> is a grouping of four eighth notes to occur with the span of a dotted quarter note.</p>
+            <sidebyside>
                 <image source="images/unit1/duplet-and-quadruplet"><description>An example with duplets and quadruplets in compound meter, 6/8</description></image>
-            </figure>
+            </sidebyside>
         </section>
         <section xml:id="CommonRhythmicNotationErrors">
             <title>Common Rhythmic Notation Errors</title>
             <p>The standard practice when notating rhythms is to use beaming to show where the beginning of each beat occurs.</p>
             <p>Consider the following example:</p>
-            <figure>
-                <image source="images/unit1/rhythmic-notation-1" width="80%"></image>
-            </figure>
+            <sidebyside width="80%">
+                <image source="images/unit1/rhythmic-notation-1"/>
+            </sidebyside>
             <p>It is difficult to discern where the downbeats are.</p>
-            <figure>
-                <image source="images/unit1/rhythmic-notation-2" width="80%"></image>
-            </figure>
+            <sidebyside width="80%">
+                <image source="images/unit1/rhythmic-notation-2"/>
+            </sidebyside>
             <p>Here is the same rhythm correctly notated. The downbeats provide a reference point, matching the conductor’s beat pattern or your tapping toe.</p>
-            <figure>
-                <image source="images/unit1/rhythmic-notation-3" width="80%"></image>
-            </figure>
+            <sidebyside width="80%">
+                <image source="images/unit1/rhythmic-notation-3"/>
+            </sidebyside>
             <p>In compound meters like 6/8, the beat is the dotted quarter.</p>
-            <figure>
-                <image source="images/unit1/rhythmic-notation-4"></image>
-            </figure>
+            <sidebyside>
+                <image source="images/unit1/rhythmic-notation-4"/>
+            </sidebyside>
             <p>The exception to this practice of <q>showing the beats</q> involves syncopation.</p>
-            <p><term>Syncopation</term><index><main>syncopation</main></index> occurs when notes on weak beats and on weak parts of beats are emphasized and nearby strong beats are deemphasized. Syncopation is common in popular music.</p>
+            <p><term>Syncopation</term><idx><h>syncopation</h></idx> occurs when notes on weak beats and on weak parts of beats are emphasized and nearby strong beats are deemphasized. Syncopation is common in popular music.</p>
             <p>Strong beats are the first beat of each measure (in 2/4 and 3/4) and beats 1 and 3 in <!--time signature-->4/4.  Syncopation <em>at the beat level</em> involves ties across those strong beats. Numbers in parentheses in the example below are beats that are obscured through syncopation.</p>
-            <figure>
+            <sidebyside>
                 <image source="images/unit1/synco-at-beat-level"><description>Syncopation at the beat level</description></image>
-            </figure>
+            </sidebyside>
             <p>Syncopation can also occur at the <em>division of the beat</em> level. Below are two syncopation figures that don’t show the beat but are acceptable because they are common and to write them out correctly involves more symbols (beamed eighths and ties) for the performer to comprehend.</p>
-            <figure>
-                <image source="images/unit1/syncopations-at-8th-note-level"></image>
-            </figure>
+            <sidebyside>
+                <image source="images/unit1/syncopations-at-8th-note-level"/>
+            </sidebyside>
             <p>An example of syncopation at the eighth-note level (the division of the beat) can be found in the following example from <q>Eleanor Rigby.</q></p>
-            <figure>
-                <image source="images/unit1/synco-eleanor-rigby"></image>
-            </figure>
+            <sidebyside>
+                <image source="images/unit1/synco-eleanor-rigby"/>
+            </sidebyside>
             <p>Notice how syncopating notes gives them emphasis and creates a <q>pull</q> against the rhythm of the accompaniment.</p>
         </section>
         <exercises xml:id="BasicsOfRhythmPracticeExercises">
