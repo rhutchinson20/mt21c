@@ -57,7 +57,9 @@ function build_pdf {
     rm ${ROOT}.tex
     cp -a ${IMAGES}/* ./images/
     xsltproc --xinclude ${PTXXSL}/mathbook-latex.xsl ${SOURCE}/${ROOT}.xml
+    echo
     xelatex ${ROOT}.tex
+    echo
     xelatex ${ROOT}.tex
 }
 
@@ -132,7 +134,7 @@ case "$1" in
     ;;
     "website")
     setup
-    html_build
+    build_html
     website
     ;;
     *)
