@@ -63,8 +63,8 @@
                 <p>There are five types of accidentals; <term>accidentals</term><index><main>accidentals</main></index> are characters that can be placed before notes to raise or lower them.</p>
                 <ul>
                     <li><p>The <term>sharp</term><index><main>sharp</main></index> symbol<mdash/><sharp/><mdash/>raises a pitch a half step.</p></li>
-                    <li><p>The <term>flat</term><index><main>flat</main></index> symbol<mdash/><flat/><mdash/>lowers a pitch a half step.</p></li>
-                    <li><p>The <term>double sharp</term><index><main>double sharp</main></index> symbol<mdash/><doublesharp/><mdash/>raises a pitch two half steps, or a whole step.</p></li>
+                    <li><p>The <term>flat</term><index><main>flat</main></index> symbol<mdash/><flat/><mdash/>lowers a pitch a <xref ref="HalfStepsAndWholeSteps" text="title">half step</xref>.</p></li>
+                    <li><p>The <term>double sharp</term><index><main>double sharp</main></index> symbol<mdash/><doublesharp/><mdash/>raises a pitch two half steps, or a <xref ref="HalfStepsAndWholeSteps" text="title">whole step</xref>.</p></li>
                     <li><p>The <term>double flat</term><index><main>double flat</main></index> symbol<mdash/><doubleflat/><mdash/>lowers a pitch two half steps, or a whole step.</p></li>
                     <li><p>The <term>natural</term><index><main>natural</main></index> symbol<mdash/><natural/><mdash/>cancels out any other accidentals that may have occurred earlier in a measure or in <xref ref="MajorKeySignatures" autoname="title"/> or <xref ref="MinorKeySignatures" autoname="title"/>.</p></li>
                 </ul>

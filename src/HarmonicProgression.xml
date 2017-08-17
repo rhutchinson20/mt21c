@@ -47,7 +47,7 @@
         <figure xml:id="i-love-you-like-a-love-song"><caption>Armato and James, “I Love You Like A Love Song” (2010s) (bass and chords only)</caption>
             <image source="images/unit2/harmony-circle-love-song"><description>Circle of 5ths progression in I Love You Like a Love Song</description></image><index><main>circle of fifths (harmonic progression)</main><sub>example (I Love You Like a Love Song)</sub></index><index><main>songs (popular)</main><sub>"I Love You Like a Love Song"</sub></index>
         </figure>
-        <p><url href="https://youtu.be/FHhZPp08s74?t=22s">Click to open a performance on YouTube.</url></p>
+        <p><url href="https://youtu.be/EgT_us6AsDg?t=57s">Click to open a performance on YouTube.</url></p>
         <p>The circle of fifths progression has a feeling of inevitability about it because it consists of <term>harmonic sequences</term><index><main>harmonic sequence</main></index>. To understand harmonic sequence we will first look at melodic sequences, since the bass line is the <q>melody</q> in a harmonic sequence. Ask yourself what happens after this melodic idea:
         </p>
         <figure><caption>Beethoven, Symphony No. 5, I.</caption>
@@ -148,8 +148,9 @@
             <image source="images/unit2/harmony-vi-ii-V-I-blue-moon"><description></description></image><index><main>songs (popular)</main><sub>"Blue Moon"</sub></index>
         </figure>
         <p><url href="https://youtu.be/JIXLZGK9vWQ?t=8s">Click to open a performance on YouTube.</url></p>
+
         <figure><caption>Lawrence and Trenet, <q>Beyond The Sea</q> (1940s)</caption>
-            <image source="images/unit2/harmony-vi-ii-V-I-blue-moon"><description></description></image><index><main>songs (popular)</main><sub>"Beyond The Sea"</sub></index>
+            <image source="images/unit2/harmony-vi-ii-V-I-beyond-the-sea"><description></description></image><index><main>songs (popular)</main><sub>"Beyond The Sea"</sub></index>
         </figure>
         <p><url href="https://youtu.be/_R8HhlaMvko?t=6s">Click to open a performance on YouTube.</url></p>
         <p>Listen for this bass line in the next recording.
@@ -190,7 +191,7 @@
         <figure><caption>White, McKay, Willis, <q>September</q></caption>
             <image source="images/unit2/harmony-iii-vi-ii-V-september"><description></description></image><index><main>songs (popular)</main><sub>"September" (Earth, Wind, and Fire)</sub></index>
         </figure>
-        <p><url href="https://youtu.be/IYzlVDlE72w?t=1m33s">Click to open a performance on YouTube.</url></p>
+        <p><url href="https://youtu.be/Gs069dndIYk?t=51s">Click to open a performance on YouTube.</url></p>
         </subsection>       
     </section>  
 
@@ -305,7 +306,7 @@
             <figure><caption>Trainor and Kadish, <q>All About That Bass</q> (bass line and chord symbols only)</caption>
             <image source="images/unit2/harmony-T-P-D-T-trainor"><description></description></image><index><main>songs (popular)</main><sub>"All About That Bass" (Meghan Trainor)</sub></index>
             </figure>
-            <p><url href="https://youtu.be/7PCkvCPvDXk ">Click to open a performance on YouTube.</url></p>
+            <p><url href="https://youtu.be/7PCkvCPvDXk">Click to open a performance on YouTube.</url></p>
 
             <p>Here are examples with <chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/> realizing the Ton-PreDom-Dom-Ton progression.
             </p>
@@ -459,7 +460,7 @@
             <image source="images/unit2/harmony-flowchart-with-bVII"><description></description></image>
             </figure>
 
-        <p>Notice also that movement from <chord root="IV"/><ndash/><chord root="I"/> (from the plagal cadence) is common in popular music.
+        <p>Notice also that movement from <chord root="IV"/><ndash/><chord root="I"/> (from the plagal cadence) is common in the following examples from popular music.
         </p>
 
         <p>Here are examples ending with <flat/><chord root="VII"/><ndash/><chord root="IV"/><ndash/><chord root="I"/>, where <chord root="IV"/> progresses to <chord root="I"/> (a plagal cadence) and is preceded by <flat/><chord root="VII"/>.
@@ -516,7 +517,7 @@
             </figure>
             <p><url href="https://youtu.be/hLQl3WQQoQ0?t=1m13s">Click to open a performance on YouTube.</url></p>
 
-            <p>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression can be rotated to become <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/>.
+            <p>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression can be rotated to become <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> and <chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/>.
             </p>
 
             <figure><caption>Example of <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> rotation to <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/></caption>
@@ -540,6 +541,14 @@
 
             <p>Whether you hear this progression in major or minor depends on whether you hear the first chord as the tonic or if you hear the third and fourth chord as tonic and dominant.
             </p>
+
+            <p>Here is an example with the <chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/> progression.
+            </p>
+
+            <figure><caption>Stewart, Nash, Harrell, Carter, <q>Umbrella</q></caption>
+            <image source="images/unit2/harmony-bestseller-umbrella"><description></description></image><index><main>songs (popular)</main><sub>"Umbrella" (Rihanna)</sub></index>
+            </figure>
+            <p><url href="https://youtu.be/92XKG9OwN4A?t=1m6s">Click to open a performance on YouTube.</url></p><!--to 1:18-->
 
     </section>
 
