@@ -60,12 +60,9 @@
             <image source="images/unit1/leadsheet-sus2-love-song"><description/></image><idx><h>songs (popular)</h><h>"Love Song" (Sara Bareilles)</h></idx>
         </sidebyside>
         <p><url href="https://youtu.be/qi7Yh16dA0w?t=7s">Click here to open a performance on YouTube.</url></p>
-        <!--<video youtube="qi7Yh16dA0w" start="7" end="15"/>
-        doesn't play back-->
+        <!-- <video youtube="qi7Yh16dA0w" start="7" end="15"/> doesn't play back -->
         <p>We will not invert sus chords in this text. In later chapters, we will discuss more sophisticated sus chords like <chord root="C" bps="9" suspended="yes"/> and <chord root="C" suspended="yes"><alteration><flat/>9</alteration></chord>.</p>
     </section>
-
-
     <exercises xml:id="TriadsPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>
@@ -73,41 +70,45 @@
                 <p>Analyze the triad types (M, m, +, º) using lead-sheet symbols. Sus2 and sus4 chords are also included.</p>
                 <p><image source="images/unit1/PRAC-EXER-Triad-ID"><description/></image></p>
             </statement>
-            <answer><p>1. <chord root="A sharp" mode="diminished"/>, 2. <n pc="F"/>sus4, 3. <chord root="B flat" mode="augmented"/>, 4. <chord root="D flat"/>, 5. <n pc="E"/>sus2</p>
-        </answer>
-    </exercise>
-    <exercise>
+            <answer>
+                <p>1. <chord root="A sharp" mode="diminished"/>, 2. <n pc="F"/>sus4, 3. <chord root="B flat" mode="augmented"/>, 4. <chord root="D flat"/>, 5. <n pc="E"/>sus2</p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Write the specified triads and sus chords.</p>
                 <p><image source="images/unit1/PRAC-EXER-Triad-writing"><description/></image></p>
             </statement>
-            <answer><p>1. <n pc="B"/><n pc="D"/><n pc="F" acc="sharp"/>, 2. <n pc="E"/><n pc="G" acc="sharp"/><n pc="B" acc="sharp"/>, 3. <n pc="A" acc="flat"/><n pc="B" acc="flat"/><n pc="E" acc="flat"/>, 4. <n pc="C" acc="sharp"/><n pc="E" acc="sharp"/><n pc="G" acc="sharp"/>, 5. <n pc="D"/><n pc="G"/><n pc="A"/>, 6. <n pc="F"/><n pc="A" acc="flat"/><n pc="C" acc="flat"/></p>
-        </answer>
-    </exercise>
-    <exercise>
+            <answer>
+                <p>1. <n pc="B"/><n pc="D"/><n pc="F" acc="sharp"/>, 2. <n pc="E"/><n pc="G" acc="sharp"/><n pc="B" acc="sharp"/>, 3. <n pc="A" acc="flat"/><n pc="B" acc="flat"/><n pc="E" acc="flat"/>, 4. <n pc="C" acc="sharp"/><n pc="E" acc="sharp"/><n pc="G" acc="sharp"/>, 5. <n pc="D"/><n pc="G"/><n pc="A"/>, 6. <n pc="F"/><n pc="A" acc="flat"/><n pc="C" acc="flat"/></p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Analyze the following inverted triads using slash notation.</p>
                 <p><image source="images/unit1/PRAC-EXER-triad-inverted-ID"><description/></image></p>
             </statement>
-            <answer><p>1. <chord root="D" mode="m" bass="F"/>, 2. <chord root="G" mode="m" bass="D"/>, 3. <chord root="A sharp" mode="diminished" bass="C sharp"/>, 4. <chord root="F" bass="A"/>, 5. <chord root="B flat" bass="F"/>, 6. <chord root="C" mode="m" bass="G"/></p>
-        </answer>
-    </exercise>
-    <exercise>
+            <answer>
+                <p>1. <chord root="D" mode="m" bass="F"/>, 2. <chord root="G" mode="m" bass="D"/>, 3. <chord root="A sharp" mode="diminished" bass="C sharp"/>, 4. <chord root="F" bass="A"/>, 5. <chord root="B flat" bass="F"/>, 6. <chord root="C" mode="m" bass="G"/></p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Write the specified inverted triads.</p>
                 <p><image source="images/unit1/PRAC-EXER-Triad-Inverted-Writing"><description/></image></p>
             </statement>
-            <answer><p>(lowest to highest) 1. <n pc="D"/><n pc="G"/><n pc="B"/>, 2. <n pc="D"/><n pc="F" acc="sharp"/><n pc="B"/>, 3. <n pc="F"/><n pc="A" acc="flat"/><n pc="D" acc="flat"/>, 4. <n pc="B" acc="flat"/><n pc="E"/><n pc="G"/></p>
-        </answer>
-    </exercise>
-    <exercise>
+            <answer>
+                <p>(lowest to highest) 1. <n pc="D"/><n pc="G"/><n pc="B"/>, 2. <n pc="D"/><n pc="F" acc="sharp"/><n pc="B"/>, 3. <n pc="F"/><n pc="A" acc="flat"/><n pc="D" acc="flat"/>, 4. <n pc="B" acc="flat"/><n pc="E"/><n pc="G"/></p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Correct the misspelled triads. Label your corrected spelling with lead-sheet notation. All of the examples are in root position (the lowest note is the root).</p>
                 <p><image source="images/unit1/PRAC-EXER-Triads-misspelled"><description/></image></p>
             </statement>
-            <answer><p>1. <n pc="F" acc="sharp"/><n pc="A" acc="sharp"/><n pc="C" acc="sharp"/>, 2. <n pc="G"/><n pc="B" acc="flat"/><n pc="D"/>, 3. <n pc="A" acc="flat"/><n pc="C" acc="flat"/><n pc="E" acc="flat"/></p>
-        </answer>
-    </exercise>
-
-</exercises>
+            <answer>
+                <p>1. <n pc="F" acc="sharp"/><n pc="A" acc="sharp"/><n pc="C" acc="sharp"/>, 2. <n pc="G"/><n pc="B" acc="flat"/><n pc="D"/>, 3. <n pc="A" acc="flat"/><n pc="C" acc="flat"/><n pc="E" acc="flat"/></p>
+            </answer>
+        </exercise>
+    </exercises>
 </chapter>
