@@ -1,633 +1,517 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="HarmonicProgression">
     <title>Harmonic Progression and Harmonic Function</title>
-    <introduction><p>In this chapter we will look at common harmonic progressions and examine the principle of harmonic function that underlies progressions.</p>
+    <introduction>
+        <p>In this chapter we will look at common harmonic progressions and examine the principle of harmonic function that underlies progressions.</p>
     </introduction>
     <section xml:id="CircleOfFifths">
         <title>The Circle of Fifths Progression</title>
-        <p>The circle of fifths progression (<chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>) was a stalwart of the Baroque era in music. You will find many examples of this progression in the music of Bach, Handel, and Vivaldi, especially in minor (<chord root="i"/><ndash/><chord root="iv"/><ndash/><chord root="VII"/><ndash/><chord root="III"/><ndash/><chord root="VI"/><ndash/><chord root="ii" mode="diminished"/><ndash/><chord root="V"/><ndash/><chord root="i"/>) with the subtonic <chord root="VII"/><!--link to subtonic VII someday-->.
-        </p>
-        <figure><caption>J.S. Bach, Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</caption>
-            <image source="images/unit2/harmony-circle-brandenburg2"><description>Circle of 5ths progression in D minor in J.S. Bach's 2nd Brandenburg Concerto</description></image><index><main>Bach, J.S.</main><sub>Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</sub></index><index><main>circle of fifths (harmonic progression)</main><sub>example (Bach)</sub></index>
+        <p>The circle of fifths progression (<chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>) was a stalwart of the Baroque era in music. You will find many examples of this progression in the music of Bach, Handel, and Vivaldi, especially in minor (<chord root="i"/><ndash/><chord root="iv"/><ndash/><chord root="VII"/><ndash/><chord root="III"/><ndash/><chord root="VI"/><ndash/><chord root="ii" mode="diminished"/><ndash/><chord root="V"/><ndash/><chord root="i"/>) with the subtonic <chord root="VII"/><!--link to subtonic VII someday-->.</p>
+        <figure>
+            <caption>J.S. Bach, Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</caption>
+            <image source="images/unit2/harmony-circle-brandenburg2"><description>Circle of 5ths progression in D minor in J.S. Bach's 2nd Brandenburg Concerto</description></image><idx><h>Bach, J.S.</h><h>Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</h></idx><idx><h>circle of fifths (harmonic progression)</h><h>example (Bach)</h></idx>
         </figure>
         <p><url href="https://youtu.be/dHrvGOd6G20?t=1m16s">Click to open a performance on YouTube.</url></p>
         <figure xml:id="handel-passacaglia">
             <caption>Handel, Suite in G minor, Passacaglia</caption>
-            <image source="images/unit2/harmony-circle-handel"><description>Circle of 5ths progression in G minor in Handel's Passacaglia from the Suite in G minor</description></image><index><main>Handel</main><sub>Suite in G minor, Passacaglia</sub></index><index><main>circle of fifths (harmonic progression)</main><sub>example (Handel)</sub></index>
+            <image source="images/unit2/harmony-circle-handel"><description>Circle of 5ths progression in G minor in Handel's Passacaglia from the Suite in G minor</description></image><idx><h>Handel</h><h>Suite in G minor, Passacaglia</h></idx><idx><h>circle of fifths (harmonic progression)</h><h>example (Handel)</h></idx>
         </figure>
         <p><url href="https://youtu.be/f6jvsEb-Usk">Click to open a performance on YouTube.</url></p>
-        <p>This circle (the circle of fifths <em>for harmonic progression</em>) is different than the circle of fifths for key signatures because this circle of fifths for <em>harmonic progression</em> contains diatonic notes only. (The circle of fifths for key signatures (<xref ref="circle-of-fifths-major" autoname="yes"/>) contained all 12 notes of the chromatic scale.)
-        </p>
-        <figure><caption>Circle of Fifths for Harmonic Progression</caption>
-            <image source="images/unit2/harmony-circle-diagram" width="60%"><description>Circle of 5ths progression diagram</description></image><index><main>circle of fifths (harmonic progression)</main><sub>diagram</sub></index>
+        <p>This circle (the circle of fifths <em>for harmonic progression</em>) is different than the circle of fifths for key signatures because this circle of fifths for <em>harmonic progression</em> contains diatonic notes only. (The circle of fifths for key signatures (<xref ref="circle-of-fifths-major" text="type-global"/>) contained all 12 notes of the chromatic scale.)</p>
+        <figure>
+            <caption>Circle of Fifths for Harmonic Progression</caption>
+            <image source="images/unit2/harmony-circle-diagram" width="60%"><description>Circle of 5ths progression diagram</description></image><idx><h>circle of fifths (harmonic progression)</h><h>diagram</h></idx>
         </figure>
-        <p>The circle of fifths (for harmonic progression) is sometimes known as the <q>circle of <em>descending</em> fifths.</q>
-        </p>
-        <figure><caption>Circle of descending fifths occurring diatonically on the staff</caption>
+        <p>The circle of fifths (for harmonic progression) is sometimes known as the <q>circle of <em>descending</em> fifths.</q></p>
+        <figure>
+            <caption>Circle of descending fifths occurring diatonically on the staff</caption>
             <image source="images/unit2/harmony-circle-on-staff"><description>Circle of descending fifths occurring diatonically on the staff</description></image>
         </figure>
-        <p>The circle of fifths progression has been used regularly since the Baroque era.
-        </p>
-        <figure xml:id="mozart-k545-st"><caption>Mozart, Piano Sonata in C, K. 545, I (1780s)</caption>
-            <image source="images/unit2/harmony-circle-mozart"><description>Circle of 5ths progression diagram in Mozart's K. 545, I</description></image><index><main>circle of fifths (harmonic progression)</main><sub>example (Mozart)</sub></index><index><main>Mozart, W.A.</main><sub>Piano Sonata, K. 545, I., secondary theme</sub></index>
+        <p>The circle of fifths progression has been used regularly since the Baroque era.</p>
+        <figure xml:id="mozart-k545-st">
+            <caption>Mozart, Piano Sonata in C, K. 545, I (1780s)</caption>
+            <image source="images/unit2/harmony-circle-mozart"><description>Circle of 5ths progression diagram in Mozart's K. 545, I</description></image><idx><h>circle of fifths (harmonic progression)</h><h>example (Mozart)</h></idx><idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 545, I., secondary theme</h></idx>
         </figure>
         <p><url href="https://youtu.be/5NkzTTkqTB4?t=34s">Click to open a performance on YouTube.</url></p>
-        <figure xml:id="wagner-meistersinger"><caption>Wagner, Die Meistersinger, Act II, Scene 6 (1860s)</caption>
-            <image source="images/unit2/harmony-circle-wagner"><description>Circle of 5ths progression in Die Meistersinger by Wagner</description></image><index><main>circle of fifths (harmonic progression)</main><sub>example (Wagner)</sub></index><index><main>Wagner, Richard</main><sub>Die Meistersinger, Act II, Scene 6</sub></index>
+        <figure xml:id="wagner-meistersinger">
+            <caption>Wagner, Die Meistersinger, Act II, Scene 6 (1860s)</caption>
+            <image source="images/unit2/harmony-circle-wagner"><description>Circle of 5ths progression in Die Meistersinger by Wagner</description></image><idx><h>circle of fifths (harmonic progression)</h><h>example (Wagner)</h></idx><idx><h>Wagner, Richard</h><h>Die Meistersinger, Act II, Scene 6</h></idx>
         </figure>
         <p><url href="https://youtu.be/PiIblkOtm3g?t=1m49s">Click to open a performance on YouTube.</url></p>
-        <figure xml:id="fly-me-to-the-moon"><caption>Howard, “Fly Me To The Moon” (chords only) (1950s)</caption>
-            <image source="images/unit2/harmony-circle-fly-me"><description>Circle of 5ths progression in Die Meistersinger by Wagner</description></image><index><main>circle of fifths (harmonic progression)</main><sub>example (Fly Me to the Moon)</sub></index><index><main>songs (popular)</main><sub>"Fly Me to the Moon"</sub></index>
+        <figure xml:id="fly-me-to-the-moon">
+            <caption>Howard, “Fly Me To The Moon” (chords only) (1950s)</caption>
+            <image source="images/unit2/harmony-circle-fly-me"><description>Circle of 5ths progression in Die Meistersinger by Wagner</description></image><idx><h>circle of fifths (harmonic progression)</h><h>example (Fly Me to the Moon)</h></idx><idx><h>songs (popular)</h><h>"Fly Me to the Moon"</h></idx>
         </figure>
         <p><url href="https://youtu.be/K8wE58PTIkw?t=7s">Click to open a performance on YouTube.</url></p>
-        <figure xml:id="i-will-survive"><caption>Perren and Fekaris, “I Will Survive” (chords only) (1970s)</caption>
-            <image source="images/unit2/harmony-circle-i-will-survive"><description>Circle of 5ths progression in I Will Survive</description></image><index><main>circle of fifths (harmonic progression)</main><sub>example (I Will Survive)</sub></index><index><main>songs (popular)</main><sub>"I Will Survive"</sub></index>
+        <figure xml:id="i-will-survive">
+            <caption>Perren and Fekaris, “I Will Survive” (chords only) (1970s)</caption>
+            <image source="images/unit2/harmony-circle-i-will-survive"><description>Circle of 5ths progression in I Will Survive</description></image><idx><h>circle of fifths (harmonic progression)</h><h>example (I Will Survive)</h></idx><idx><h>songs (popular)</h><h>"I Will Survive"</h></idx>
         </figure>
         <p><url href="https://youtu.be/FHhZPp08s74?t=22s">Click to open a performance on YouTube.</url></p>
-        <figure xml:id="i-love-you-like-a-love-song"><caption>Armato and James, “I Love You Like A Love Song” (2010s) (bass and chords only)</caption>
-            <image source="images/unit2/harmony-circle-love-song"><description>Circle of 5ths progression in I Love You Like a Love Song</description></image><index><main>circle of fifths (harmonic progression)</main><sub>example (I Love You Like a Love Song)</sub></index><index><main>songs (popular)</main><sub>"I Love You Like a Love Song"</sub></index>
+        <figure xml:id="i-love-you-like-a-love-song">
+            <caption>Armato and James, “I Love You Like A Love Song” (2010s) (bass and chords only)</caption>
+            <image source="images/unit2/harmony-circle-love-song"><description>Circle of 5ths progression in I Love You Like a Love Song</description></image><idx><h>circle of fifths (harmonic progression)</h><h>example (I Love You Like a Love Song)</h></idx><idx><h>songs (popular)</h><h>"I Love You Like a Love Song"</h></idx>
         </figure>
         <p><url href="https://youtu.be/EgT_us6AsDg?t=57s">Click to open a performance on YouTube.</url></p>
-        <p>The circle of fifths progression has a feeling of inevitability about it because it consists of <term>harmonic sequences</term><index><main>harmonic sequence</main></index>. To understand harmonic sequence we will first look at melodic sequences, since the bass line is the <q>melody</q> in a harmonic sequence. Ask yourself what happens after this melodic idea:
-        </p>
-        <figure><caption>Beethoven, Symphony No. 5, I.</caption>
-            <image source="images/unit2/harmony-melodic-sequence-beethoven"><description>Opening of Beethoven's Fifth Symphony</description></image><index><main>Beethoven</main><sub>Symphony No. 5, I. (opening)</sub></index>
+        <p>The circle of fifths progression has a feeling of inevitability about it because it consists of <term>harmonic sequences</term><idx><h>harmonic sequence</h></idx>. To understand harmonic sequence we will first look at melodic sequences, since the bass line is the <q>melody</q> in a harmonic sequence. Ask yourself what happens after this melodic idea:</p>
+        <figure>
+            <caption>Beethoven, Symphony No. 5, I.</caption>
+            <image source="images/unit2/harmony-melodic-sequence-beethoven"><description>Opening of Beethoven's Fifth Symphony</description></image><idx><h>Beethoven</h><h>Symphony No. 5, I. (opening)</h></idx>
         </figure>
-        <p>Therefore, a <term>sequence</term><index><main>sequence</main><sub>definition of</sub></index> is a musical idea repeated at a different pitch level.
-        </p>
-        <p>Sequences can be short or long. For example, look at this familiar idea and notice how all four bars are sequenced down a step in the following four bars.
-        </p>
-        <figure xml:id="mozart-k550-melody"><caption>Mozart, Symphony No. 40, I.</caption>
-            <image source="images/unit2/harmony-melodic-sequence-mozart"><description>Opening of Mozart's 40th Symphony</description></image><index><main>Mozart</main><sub>Symphony No. 40, K. 550, I. (opening melody)</sub></index>
+        <p>Therefore, a <term>sequence</term><idx><h>sequence</h><h>definition of</h></idx> is a musical idea repeated at a different pitch level.</p>
+        <p>Sequences can be short or long. For example, look at this familiar idea and notice how all four bars are sequenced down a step in the following four bars.</p>
+        <figure xml:id="mozart-k550-melody">
+            <caption>Mozart, Symphony No. 40, I.</caption>
+            <image source="images/unit2/harmony-melodic-sequence-mozart"><description>Opening of Mozart's 40th Symphony</description></image><idx><h>Mozart</h><h>Symphony No. 40, K. 550, I. (opening melody)</h></idx>
         </figure>
-        <p>Now look again at the bass line in <q>I Love You Like A Love Song</q> and notice how it can be thought of a two-note idea treated as a descending sequence.
-        </p>
-        <figure><caption>“I Love You Like A Love Song” bass line sequence in groups of two notes</caption>
+        <p>Now look again at the bass line in <q>I Love You Like A Love Song</q> and notice how it can be thought of a two-note idea treated as a descending sequence.</p>
+        <figure>
+            <caption>“I Love You Like A Love Song” bass line sequence in groups of two notes</caption>
             <image source="images/unit2/harmony-circle-bassline-sequence"><description>“I Love You Like A Love Song” bass line as a sequence</description></image>
         </figure>
-        <p>Sometimes we will hear a circle of fifths sequence where some of the chords are not in root position, as in the <xref ref="handel-passacaglia" text="title">Handel</xref> and <xref ref="mozart-k545-st" text="title">Mozart</xref> examples. In these two examples, we are hearing the sequence of the roots, even though they are not clearly presented in the bass.
-        </p>
-        <figure><caption>Handel Passacaglia with roots as open note heads</caption>
+        <p>Sometimes we will hear a circle of fifths sequence where some of the chords are not in root position, as in the <xref ref="handel-passacaglia" text="title">Handel</xref> and <xref ref="mozart-k545-st" text="title">Mozart</xref> examples. In these two examples, we are hearing the sequence of the roots, even though they are not clearly presented in the bass.</p>
+        <figure>
+            <caption>Handel Passacaglia with roots as open note heads</caption>
             <image source="images/unit2/harmony-circle-roots-inverted-handel"><description>Circle of 5ths progression with roots as open note heads</description></image>
         </figure>
         <p><url href="https://youtu.be/f6jvsEb-Usk">Click to open a performance on YouTube.</url></p>
-        <p>We will return to the idea of harmonic sequence later in this chapter.
-        </p>
+        <p>We will return to the idea of harmonic sequence later in this chapter.</p>
     </section>
-<section xml:id="HarmonicRhythm">
+    <section xml:id="HarmonicRhythm">
         <title>Harmonic Rhythm</title>
-        <p>You will find that all of the progressions we discuss can have different harmonic rhythm. <term>Harmonic rhythm</term><index><main>harmonic rhythm</main><sub>definition of</sub></index> is a term for how long each chord lasts. For example, in <q>Fly Me To The Moon</q> (<xref ref="fly-me-to-the-moon" autoname="yes"/>), <q>I Will Survive</q> (<xref ref="i-will-survive" autoname="yes"/>), and <q>I Love You Like A Love Song</q> (<xref ref="i-love-you-like-a-love-song" autoname="yes"/>), each chord lasts for four beats and has whole-note harmonic rhythm. In the Mozart (<xref ref="mozart-k545-st" autoname="yes"/>) and Wagner examples (<xref ref="wagner-meistersinger" autoname="yes"/>), on the other hand, each chord lasted for two beats, and so had a faster harmonic rhythm.
-        </p>
-        <p>Listen to the following example to hear four-beat harmonic rhythm change to two-beat harmonic rhythm.
-        </p>
-        <figure><caption>Bastille, <q>Pompeii</q></caption>
-            <image source="images/unit2/harmony-acceleration-harmonic-rhythm"><description>accelerating harmonic rhythm</description></image><index><main>songs (popular)</main><sub>"Pompeii" (Bastille)</sub></index>
+        <p>You will find that all of the progressions we discuss can have different harmonic rhythm. <term>Harmonic rhythm</term><idx><h>harmonic rhythm</h><h>definition of</h></idx> is a term for how long each chord lasts. For example, in <q>Fly Me To The Moon</q> (<xref ref="fly-me-to-the-moon" text="type-global"/>), <q>I Will Survive</q> (<xref ref="i-will-survive" text="type-global"/>), and <q>I Love You Like A Love Song</q> (<xref ref="i-love-you-like-a-love-song" text="type-global"/>), each chord lasts for four beats and has whole-note harmonic rhythm. In the Mozart (<xref ref="mozart-k545-st" text="type-global"/>) and Wagner examples (<xref ref="wagner-meistersinger" text="type-global"/>), on the other hand, each chord lasted for two beats, and so had a faster harmonic rhythm.</p>
+        <p>Listen to the following example to hear four-beat harmonic rhythm change to two-beat harmonic rhythm.</p>
+        <figure>
+            <caption>Bastille, <q>Pompeii</q></caption>
+            <image source="images/unit2/harmony-acceleration-harmonic-rhythm"><description>accelerating harmonic rhythm</description></image><idx><h>songs (popular)</h><h>"Pompeii" (Bastille)</h></idx>
         </figure>
         <p><url href="https://youtu.be/F90Cw4l-8NY?t=1m11s">Click to open a performance on YouTube.</url></p>
-        <p>In some music, harmonic rhythm will remain consistent, while in other pieces there will be an infinite variety to the length of harmonies. Throughout this text, we will be examining harmonic rhythm and the placement of harmonies within the phrase.
-        </p>
+        <p>In some music, harmonic rhythm will remain consistent, while in other pieces there will be an infinite variety to the length of harmonies. Throughout this text, we will be examining harmonic rhythm and the placement of harmonies within the phrase.</p>
     </section>
-
     <section xml:id="ShorterProgressionsFromTheCircleOfFifths">
         <title>Shorter Progressions from the Circle of Fifths</title>
         <subsection xml:id="II-V-I">
-        <title>II-V-I</title>
-        <p>The <q><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/></q> progression can be found in many pieces of music in all styles<mdash/>classical, popular, but especially jazz, since the Great American Songbook (popular songs from the 1930s, 40’s, and 50’s) on which jazz repertoire is built contains many examples of this progression.
-        </p>
-        <figure><caption>Ellington, <q>Take the ‘A’ Train</q></caption>
-            <image source="images/unit2/harmony-ii-V-I-A-train"><description></description></image><index><main>Ellington, Duke</main><sub>"Take the 'A' Train"</sub></index><index><main>songs (popular)</main><sub>"Take the 'A' Train"</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/MENQyu4D7Ig?t=11s">Click to open a performance on YouTube.</url></p>
-        <figure><caption>Davis, <q>Tune-Up</q></caption>
-            <image source="images/unit2/harmony-ii-V-I-tune-up"><description></description></image><index><main>Davis, Miles</main><sub>"Tune-Up"</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/aXYtoKaJplM?t=5s">Click to open a performance on YouTube.</url></p>
-        <figure><caption>Hupfeld, <q>As Time Goes By</q></caption>
-            <image source="images/unit2/harmony-ii-V-I-as-time-goes-by"><description></description></image><index><main>songs (popular)</main><sub>"As Time Goes By"</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/IrqZ0N4a7E4">Click to open a performance on YouTube.</url></p>
+            <title>II-V-I</title>
+            <p>The <q><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/></q> progression can be found in many pieces of music in all styles<mdash/>classical, popular, but especially jazz, since the Great American Songbook (popular songs from the 1930s, 40’s, and 50’s) on which jazz repertoire is built contains many examples of this progression.</p>
+            <figure>
+                <caption>Ellington, <q>Take the ‘A’ Train</q></caption>
+                <image source="images/unit2/harmony-ii-V-I-A-train"><description/></image><idx><h>Ellington, Duke</h><h>"Take the 'A' Train"</h></idx><idx><h>songs (popular)</h><h>"Take the 'A' Train"</h></idx>
+            </figure>
+            <p><url href="https://youtu.be/MENQyu4D7Ig?t=11s">Click to open a performance on YouTube.</url></p>
+            <figure>
+                <caption>Davis, <q>Tune-Up</q></caption>
+                <image source="images/unit2/harmony-ii-V-I-tune-up"><description/></image><idx><h>Davis, Miles</h><h>"Tune-Up"</h></idx>
+            </figure>
+            <p><url href="https://youtu.be/aXYtoKaJplM?t=5s">Click to open a performance on YouTube.</url></p>
+            <figure>
+                <caption>Hupfeld, <q>As Time Goes By</q></caption>
+                <image source="images/unit2/harmony-ii-V-I-as-time-goes-by"><description/></image><idx><h>songs (popular)</h><h>"As Time Goes By"</h></idx>
+            </figure>
+            <p><url href="https://youtu.be/IrqZ0N4a7E4">Click to open a performance on YouTube.</url></p>
         </subsection>
-
         <subsection xml:id="VI-II-V-I">
-        <title>VI-II-V-I</title>
-        <introduction><p>This progression can occur in one of the following three ways (or orderings):
-        </p>
-        <ul>
-            <li><p><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/></p></li>
-            <li><p><chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/></p></li>
-            <li><p><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/></p></li>
-        </ul>
-        <p>
-            One can think of these reorderings as rotations, as shown in the example below.
-        </p>
-        <figure><caption>Rotations of the <chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/> progression</caption>
-            <image source="images/unit2/harmony-vi-ii-V-I-rotations-diagram"><description>Rotations of the vi-ii-V-I progression</description></image>
-        </figure>
-    </introduction>
+            <title>VI-II-V-I</title>
+            <introduction>
+                <p>
+                    This progression can occur in one of the following three ways (or orderings):
+                    <ul>
+                        <li><p><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/></p></li>
+                        <li><p><chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/></p></li>
+                        <li><p><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/></p></li>
+                    </ul>
+                </p>
+                <p>One can think of these reorderings as rotations, as shown in the example below.</p>
+                <figure>
+                    <caption>Rotations of the <chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/> progression</caption>
+                    <image source="images/unit2/harmony-vi-ii-V-I-rotations-diagram"><description>Rotations of the vi-ii-V-I progression</description></image>
+                </figure>
+            </introduction>
             <subsubsection xml:id="vi-ii-V-I">
                 <title>vi-ii-V-I</title>
-                <p>The <chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/> progression contains the last four chords of the circle of fifths progression.
-                </p>
-        <figure><caption>Kern, <q>All the things you Are</q></caption>
-            <image source="images/unit2/harmony-vi-ii-V-I-all-the-things"><description></description></image><index><main>songs (popular)</main><sub>"All the things you Are"</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/2c8fu2mWTsc?t=18s">Click to open a performance on YouTube.</url></p>
-        <p>Here is another example from more recent popular music.
-        </p>
-        <figure><caption>Rasted, Norreen, Diff, and Nystrøm, <q>Barbie Girl</q> (chords only)</caption>
-            <image source="images/unit2/harmony-vi-ii-V-I-barbie-girl"><description></description></image><index><main>songs (popular)</main><sub>"All the things you Are"</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/ZyhrYis509A?t=15s">Click to open a performance on YouTube.</url></p>
-        </subsubsection>
-
-        <subsubsection xml:id="I-vi-ii-V">
-            <title>I-vi-ii-V</title>
-        <p>Here are examples of the <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/> progression, sometimes called the 1950s progression <!--link to 1950s progression section--> because of its prevalence during that decade, although this progression was also widely used in the 1930s and '40s.
-        </p>
-        <figure><caption>Rodgers, <q>Blue Moon</q> (1930s)</caption>
-            <image source="images/unit2/harmony-vi-ii-V-I-blue-moon"><description></description></image><index><main>songs (popular)</main><sub>"Blue Moon"</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/JIXLZGK9vWQ?t=8s">Click to open a performance on YouTube.</url></p>
-
-        <figure><caption>Lawrence and Trenet, <q>Beyond The Sea</q> (1940s)</caption>
-            <image source="images/unit2/harmony-vi-ii-V-I-beyond-the-sea"><description></description></image><index><main>songs (popular)</main><sub>"Beyond The Sea"</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/_R8HhlaMvko?t=6s">Click to open a performance on YouTube.</url></p>
-        <p>Listen for this bass line in the next recording.
-        </p>
-
-        <figure><caption>Lymon, Santiago, Merchant, <q>Why Do Fools Fall in Love</q> (1950s)</caption>
-            <image source="images/unit2/harmony-vi-ii-V-I-why-do-fools"><description></description></image><index><main>songs (popular)</main><sub>"Why Do Fools Fall in Love"</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/mEHcTciiXQY">Click to open a performance on YouTube.</url></p>
-        </subsubsection>
-
-        <subsubsection xml:id="ii-V-I-vi">
-            <title>ii-V-I-vi</title>
-        <p>Below is an example of the <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/> progression. In this example, the <chord root="vi"/> chord acts as a link between the <chord root="V"/><ndash/><chord root="I"/> cadence in the middle of the phrase and the <chord root="ii"/> chord at the beginning of the next phrase. This harmonic activity after the arrival on the <chord root="I"/> chord is like a <q>turnaround</q> in jazz. We will discuss turnarounds more in a later chapter on jazz harmony<!--add jazz chapter link later-->.
-        </p>
-
-        <figure><caption>Wright, Forrest, Borodin, <q>Stranger in Paradise</q></caption>
-            <image source="images/unit2/harmony-vi-ii-V-I-stranger-in-paradise"><description></description></image><index><main>songs (popular)</main><sub>"Stranger in Paradise"</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/WFrUsa5SUv0?t=13s">Click to open a performance on YouTube.</url></p>
-        <p>If you view this video on YouTube, you will briefly see the double bass part, which has lead-sheet symbols on it.
-        </p>
-        </subsubsection>
-    </subsection>
-
+                <p>The <chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/> progression contains the last four chords of the circle of fifths progression.</p>
+                <figure>
+                    <caption>Kern, <q>All the things you Are</q></caption>
+                    <image source="images/unit2/harmony-vi-ii-V-I-all-the-things"><description/></image><idx><h>songs (popular)</h><h>"All the things you Are"</h></idx>
+                </figure>
+                <p><url href="https://youtu.be/2c8fu2mWTsc?t=18s">Click to open a performance on YouTube.</url></p>
+                <p>Here is another example from more recent popular music.</p>
+                <figure>
+                    <caption>Rasted, Norreen, Diff, and Nystrøm, <q>Barbie Girl</q> (chords only)</caption>
+                    <image source="images/unit2/harmony-vi-ii-V-I-barbie-girl"><description/></image><idx><h>songs (popular)</h><h>"All the things you Are"</h></idx>
+                </figure>
+                <p><url href="https://youtu.be/ZyhrYis509A?t=15s">Click to open a performance on YouTube.</url></p>
+            </subsubsection>
+            <subsubsection xml:id="I-vi-ii-V">
+                <title>I-vi-ii-V</title>
+                <p>Here are examples of the <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/> progression, sometimes called the 1950s progression <!--link to 1950s progression section--> because of its prevalence during that decade, although this progression was also widely used in the 1930s and '40s.</p>
+                <figure>
+                    <caption>Rodgers, <q>Blue Moon</q> (1930s)</caption>
+                    <image source="images/unit2/harmony-vi-ii-V-I-blue-moon"><description/></image><idx><h>songs (popular)</h><h>"Blue Moon"</h></idx>
+                </figure>
+                <p><url href="https://youtu.be/JIXLZGK9vWQ?t=8s">Click to open a performance on YouTube.</url></p>
+                <figure>
+                    <caption>Lawrence and Trenet, <q>Beyond The Sea</q> (1940s)</caption>
+                    <image source="images/unit2/harmony-vi-ii-V-I-beyond-the-sea"><description/></image><idx><h>songs (popular)</h><h>"Beyond The Sea"</h></idx>
+                </figure>
+                <p><url href="https://youtu.be/_R8HhlaMvko?t=6s">Click to open a performance on YouTube.</url></p>
+                <p>Listen for this bass line in the next recording.</p>
+                <figure>
+                    <caption>Lymon, Santiago, Merchant, <q>Why Do Fools Fall in Love</q> (1950s)</caption>
+                    <image source="images/unit2/harmony-vi-ii-V-I-why-do-fools"><description/></image><idx><h>songs (popular)</h><h>"Why Do Fools Fall in Love"</h></idx>
+                </figure>
+                <p><url href="https://youtu.be/mEHcTciiXQY">Click to open a performance on YouTube.</url></p>
+            </subsubsection>
+            <subsubsection xml:id="ii-V-I-vi">
+                <title>ii-V-I-vi</title>
+                <p>Below is an example of the <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/> progression. In this example, the <chord root="vi"/> chord acts as a link between the <chord root="V"/><ndash/><chord root="I"/> cadence in the middle of the phrase and the <chord root="ii"/> chord at the beginning of the next phrase. This harmonic activity after the arrival on the <chord root="I"/> chord is like a <q>turnaround</q> in jazz. We will discuss turnarounds more in a later chapter on jazz harmony<!--add jazz chapter link later-->.</p>
+                <figure>
+                    <caption>Wright, Forrest, Borodin, <q>Stranger in Paradise</q></caption>
+                    <image source="images/unit2/harmony-vi-ii-V-I-stranger-in-paradise"><description/></image><idx><h>songs (popular)</h><h>"Stranger in Paradise"</h></idx>
+                </figure>
+                <p><url href="https://youtu.be/WFrUsa5SUv0?t=13s">Click to open a performance on YouTube.</url></p>
+                <p>If you view this video on YouTube, you will briefly see the double bass part, which has lead-sheet symbols on it.</p>
+            </subsubsection>
+        </subsection>
         <subsection xml:id="III-VI-II-V">
             <title>III-VI-II-V</title>
-                <p>The <chord root="iii"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/> circle of fifths segment is sometimes repeated (or looped) within a song.
-                </p>
-
-        <figure><caption>Masser and Creed, <q>Greatest Love of All</q></caption>
-            <image source="images/unit2/harmony-iii-vi-ii-V-greatest-love"><description></description></image><index><main>songs (popular)</main><sub>"Greatest Love of All" (Whitney Houston)</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/IYzlVDlE72w?t=1m33s">Click to open a performance on YouTube.</url></p>
-        <p>Sometimes, this progression is rotated to <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/>, as in <q>September,</q> the well known song by Earth, Wind, and Fire.
-        </p>
-
-        <figure><caption>White, McKay, Willis, <q>September</q></caption>
-            <image source="images/unit2/harmony-iii-vi-ii-V-september"><description></description></image><index><main>songs (popular)</main><sub>"September" (Earth, Wind, and Fire)</sub></index>
-        </figure>
-        <p><url href="https://youtu.be/Gs069dndIYk?t=51s">Click to open a performance on YouTube.</url></p>
-        </subsection>       
-    </section>  
-
+            <p>The <chord root="iii"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/> circle of fifths segment is sometimes repeated (or looped) within a song.</p>
+            <figure>
+                <caption>Masser and Creed, <q>Greatest Love of All</q></caption>
+                <image source="images/unit2/harmony-iii-vi-ii-V-greatest-love"><description/></image><idx><h>songs (popular)</h><h>"Greatest Love of All" (Whitney Houston)</h></idx>
+            </figure>
+            <p><url href="https://youtu.be/IYzlVDlE72w?t=1m33s">Click to open a performance on YouTube.</url></p>
+            <p>Sometimes, this progression is rotated to <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/>, as in <q>September,</q> the well known song by Earth, Wind, and Fire.</p>
+            <figure>
+                <caption>White, McKay, Willis, <q>September</q></caption>
+                <image source="images/unit2/harmony-iii-vi-ii-V-september"><description/></image><idx><h>songs (popular)</h><h>"September" (Earth, Wind, and Fire)</h></idx>
+            </figure>
+            <p><url href="https://youtu.be/Gs069dndIYk?t=51s">Click to open a performance on YouTube.</url></p>
+        </subsection>
+    </section>
     <section xml:id="HarmonicFunction">
-    <title>Harmonic Function</title> 
+        <title>Harmonic Function</title>
         <introduction>
-            <p>Now we will address non-circle-of-fifths progressions. Notice that we have not included the <chord root="vii" mode="diminished"/> or <chord root="IV"/> chord in any of the shorter circle of fifths progressions above. However, it is a common axiom that Rock ‘n’ Roll is made up of three chords: <chord root="I"/>, <chord root="IV"/>, and <chord root="V"/>. This is because each of those chords represents a harmonic function. <term>Harmonic function</term><index><main>harmonic function</main><sub>definition of</sub></index> refers to the tendency of certain chords to progress to other chords, or to remain at rest. Many texts on music theory enumerate three harmonic functions. In this text, we will discuss four.
-            </p>
-
+            <p>Now we will address non-circle-of-fifths progressions. Notice that we have not included the <chord root="vii" mode="diminished"/> or <chord root="IV"/> chord in any of the shorter circle of fifths progressions above. However, it is a common axiom that Rock ‘n’ Roll is made up of three chords: <chord root="I"/>, <chord root="IV"/>, and <chord root="V"/>. This is because each of those chords represents a harmonic function. <term>Harmonic function</term><idx><h>harmonic function</h><h>definition of</h></idx> refers to the tendency of certain chords to progress to other chords, or to remain at rest. Many texts on music theory enumerate three harmonic functions. In this text, we will discuss four.</p>
             <ol>
-                <li><p>Tonic function (abbreviated <q>ton.</q>): The <chord root="I"/> chord has tonic function, which is a state of stability and rest. Tonic chords do not demand progression to other chords.
-                </p></li>
-
-                <li><p xml:id="DominantFunction">Dominant function (abbreviated <q>dom.</q>): The <chord root="V"/> and <chord root="vii" mode="diminished"/> (chords containing the leading tone <scaledeg>7</scaledeg> and supertonic <scaledeg>2</scaledeg>) tend to progress to tonic (<chord root="I"/>). <em>Special note</em>: The <chord root="I" bass="5th"/> chord has <em>dominant</em> function when it resolves to the <chord root="V"/> chord, as in the third chord from the end of the <q>Star-Spangled Banner.</q>
-            </p>
-                <p>
-                <figure><caption>Key and Smith, <q>The Star-Spangled Banner</q></caption>
-                    <image source="images/unit2/harmony-function-six-four-is-dom"><description></description></image><index><main>The Star-Spangled Banner</main></index>
-                </figure>
-                </p></li>
-
-                <li><p>Pre-dominant function (abbreviated <q>pre-dom.</q>): The <chord root="IV"/> and <chord root="ii"/> (chords containing the subdominant <scaledeg>4</scaledeg> and submediant <scaledeg>6</scaledeg>) tend to progress to chords of dominant function
-                </p></li>
-
-                <li><p>Tonic prolongation function (abbreviated <q>ton. prol.</q>): The <chord root="vi"/> and <chord root="iii"/> (chords that share two common tones with  <scaledeg>1</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><scaledeg>5</scaledeg> from the tonic triad) tend to occur after the tonic chord and progress to chords of pre-dominant function.
-                </p></li>
+                <li><p>Tonic function (abbreviated <q>ton.</q>): The <chord root="I"/> chord has tonic function, which is a state of stability and rest. Tonic chords do not demand progression to other chords.</p></li>
+                <li>
+                    <p xml:id="DominantFunction">Dominant function (abbreviated <q>dom.</q>): The <chord root="V"/> and <chord root="vii" mode="diminished"/> (chords containing the leading tone <scaledeg>7</scaledeg> and supertonic <scaledeg>2</scaledeg>) tend to progress to tonic (<chord root="I"/>). <em>Special note</em>: The <chord root="I" bass="5th"/> chord has <em>dominant</em> function when it resolves to the <chord root="V"/> chord, as in the third chord from the end of the <q>Star-Spangled Banner.</q></p>
+                    <figure>
+                        <caption>Key and Smith, <q>The Star-Spangled Banner</q></caption>
+                        <image source="images/unit2/harmony-function-six-four-is-dom"><description/></image><idx><h>The Star-Spangled Banner</h></idx>
+                    </figure>
+                </li>
+                <li><p>Pre-dominant function (abbreviated <q>pre-dom.</q>): The <chord root="IV"/> and <chord root="ii"/> (chords containing the subdominant <scaledeg>4</scaledeg> and submediant <scaledeg>6</scaledeg>) tend to progress to chords of dominant function</p></li>
+                <li><p>Tonic prolongation function (abbreviated <q>ton. prol.</q>): The <chord root="vi"/> and <chord root="iii"/> (chords that share two common tones with  <scaledeg>1</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><scaledeg>5</scaledeg> from the tonic triad) tend to occur after the tonic chord and progress to chords of pre-dominant function.</p></li>
             </ol>
-
-            <p>Harmonic function is represented on a flowchart in the next section.
-            </p>
+            <p>Harmonic function is represented on a flowchart in the next section.</p>
         </introduction>
         <subsection xml:id="HarmonicFlowchart">
             <title>The Harmonic Flowchart</title>
-            <figure><caption>Harmonic Flowchart in Major</caption>
-                    <image source="images/unit2/harmony-function-diagram-major"><description>Harmonic Flowchart in Major</description></image><index><main>harmonic flowchart</main><sub>in major</sub></index>
-                </figure>
-            <p>Remember that <chord root="IV"/> goes to <chord root="I"/> in the <xref ref="PlagalCadence" text="title">plagal cadence</xref> and <chord root="V"/> goes to <chord root="vi"/> in the <xref ref="DeceptiveCadence" text="title">deceptive cadence</xref>. <em>These are exceptions to the harmonic flowchart</em>.
-            </p>
-            <p>Here is the Harmonic Flowchart in minor. Note the addition of the subtonic <chord root="VII"/> chord, which has one function<mdash/>to progress to <chord root="III"/>.
-            </p>
-            <figure><caption>Harmonic Flowchart in Minor</caption>
-                    <image source="images/unit2/harmony-function-diagram-minor"><description>Harmonic Flowchart in Minor</description></image><index><main>harmonic flowchart</main><sub>in minor</sub></index>
-                </figure>
-                <p>
-                    The tonic chord I can progress directly to a chord of any other function and, in fact, many pieces begin with a I-V-I progression, representing harmonic function of Tonic-Dominant-Tonic.
-                </p>
+            <figure>
+                <caption>Harmonic Flowchart in Major</caption>
+                <image source="images/unit2/harmony-function-diagram-major"><description>Harmonic Flowchart in Major</description></image><idx><h>harmonic flowchart</h><h>in major</h></idx>
+            </figure>
+            <p>Remember that <chord root="IV"/> goes to <chord root="I"/> in the <xref ref="PlagalCadence" text="title">plagal cadence</xref> and <chord root="V"/> goes to <chord root="vi"/> in the <xref ref="DeceptiveCadence" text="title">deceptive cadence</xref>. <em>These are exceptions to the harmonic flowchart</em>.</p>
+            <p>Here is the Harmonic Flowchart in minor. Note the addition of the subtonic <chord root="VII"/> chord, which has one function<mdash/>to progress to <chord root="III"/>.</p>
+            <figure>
+                <caption>Harmonic Flowchart in Minor</caption>
+                <image source="images/unit2/harmony-function-diagram-minor"><description>Harmonic Flowchart in Minor</description></image><idx><h>harmonic flowchart</h><h>in minor</h></idx>
+            </figure>
+            <p>The tonic chord I can progress directly to a chord of any other function and, in fact, many pieces begin with a I-V-I progression, representing harmonic function of Tonic-Dominant-Tonic.</p>
         </subsection>
-
         <subsection xml:id="TonicDominantTonicProgression">
             <title>Tonic-Dominant-Tonic Progression</title>
-            <p>This is the most elemental progression in music, often realized with I-V-I.
-            </p>
-
-            <figure><caption>Mozart, Sonata in G major, K. 283, I.</caption>
-            <image source="images/unit2/harmony-T-D-T-k283"><description></description></image><index><main>Mozart, W.A.</main><sub>Sonata in G major, K. 283, I.</sub></index>
+            <p>This is the most elemental progression in music, often realized with I-V-I.</p>
+            <figure>
+                <caption>Mozart, Sonata in G major, K. 283, I.</caption>
+                <image source="images/unit2/harmony-T-D-T-k283"><description/></image><idx><h>Mozart, W.A.</h><h>Sonata in G major, K. 283, I.</h></idx>
             </figure>
             <p><url href="https://youtu.be/OmQQoohTW80">Click to open a performance on YouTube.</url></p>
-
-            <figure><caption>Beethoven, Piano Sonata in C major, Op. 2, No. 3, I.</caption>
-            <image source="images/unit2/harmony-T-D-T-op2no3"><description></description></image><index><main>Beethoven</main><sub>Piano Sonata in C major, Op. 2, No. 3, I.</sub></index>
+            <figure>
+                <caption>Beethoven, Piano Sonata in C major, Op. 2, No. 3, I.</caption>
+                <image source="images/unit2/harmony-T-D-T-op2no3"><description/></image><idx><h>Beethoven</h><h>Piano Sonata in C major, Op. 2, No. 3, I.</h></idx>
             </figure>
             <p><url href="https://youtu.be/o1iUR3GG4DQ">Click to open a performance on YouTube.</url></p>
-
-            <figure><caption>Verdi, <booktitle>Rigoletto</booktitle>, "La donna &#x00E8; mobile"</caption>
-            <image source="images/unit2/harmony-T-D-T-la-donna"><description></description></image><index><main>Verdi</main><sub>"La Donna e mobile"</sub></index>
+            <figure>
+                <caption>Verdi, <booktitle>Rigoletto</booktitle>, "La donna è mobile"</caption>
+                <image source="images/unit2/harmony-T-D-T-la-donna"><description/></image><idx><h>Verdi</h><h>"La Donna e mobile"</h></idx>
             </figure>
             <p><url href="https://youtu.be/99NloaManx0?t=9s">Click to open a performance on YouTube.</url></p>
-
-            <figure><caption>Lennon-McCartney, <q>Hey Jude</q></caption>
-            <image source="images/unit2/harmony-T-D-T-hey-jude"><description></description></image><index><main>songs (popular)</main><sub>"Hey Jude" (Beatles)</sub></index>
+            <figure>
+                <caption>Lennon-McCartney, <q>Hey Jude</q></caption>
+                <image source="images/unit2/harmony-T-D-T-hey-jude"><description/></image><idx><h>songs (popular)</h><h>"Hey Jude" (Beatles)</h></idx>
             </figure>
             <p><url href="https://youtu.be/A_MjCqQoLLA?t=55s">Click to open a performance on YouTube.</url></p>
-
-            <figure><caption>S. Shafer and L. Shafer, <q>All My Ex’s Live in Texas</q></caption>
-            <image source="images/unit2/harmony-T-D-T-george-strait"><description></description></image><index><main>songs (popular)</main><sub>"All My Ex’s Live in Texas" (George Strait)</sub></index>
+            <figure>
+                <caption>S. Shafer and L. Shafer, <q>All My Ex’s Live in Texas</q></caption>
+                <image source="images/unit2/harmony-T-D-T-george-strait"><description/></image><idx><h>songs (popular)</h><h>"All My Ex’s Live in Texas" (George Strait)</h></idx>
             </figure>
             <p><url href="https://youtu.be/-EMxNFPaU2s?t=1m30s">Click to open a performance on YouTube.</url></p>
-
-            <p>The principle of <q>Tonic<ndash/>Dominant<ndash/>Tonic</q> could also be represented with <chord root="I"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>. Even though we learned that <q>dominant</q> means <q><scaledeg>5</scaledeg></q> (and also <q><chord root="V"/></q>) in <xref ref="ScaleDegreeNames" text="title">earlier sections</xref>, <q>dominant <em>function</em></q> in terms of harmony means <q>a chord that <em>progresses to</em> the tonic chord.</q> We will revisit this concept and other possibilities for <q>dominant function</q> later.
-            </p>
+            <p>The principle of <q>Tonic<ndash/>Dominant<ndash/>Tonic</q> could also be represented with <chord root="I"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>. Even though we learned that <q>dominant</q> means <q><scaledeg>5</scaledeg></q> (and also <q><chord root="V"/></q>) in <xref ref="ScaleDegreeNames" text="title">earlier sections</xref>, <q>dominant <em>function</em></q> in terms of harmony means <q>a chord that <em>progresses to</em> the tonic chord.</q> We will revisit this concept and other possibilities for <q>dominant function</q> later.</p>
         </subsection>
-
         <subsection xml:id="TonicPredominantDominantTonicProgression">
             <title>Tonic-PreDominant-Dominant-Tonic Progression</title>
-            <p>This sequence of harmonic functions can be realized in four possible ways: 
-            </p>
-
+            <p>This sequence of harmonic functions can be realized in four possible ways:</p>
             <ul>
                 <li><p><chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/></p></li>
                 <li><p><chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/></p></li>
                 <li><p><chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/></p></li>
                 <li><p><chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/></p></li>
             </ul>
-            <p>Here are examples with <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>.
-            </p>
-
-            <figure><caption>J.S. Bach, Well-Tempered Clavier, Book I, Prelude 1 in C major</caption>
-            <image source="images/unit2/harmony-T-P-D-T-WTC-prel-1"><description></description></image><index><main>Bach, J.S.</main><sub>Well-Tempered Clavier, Book I, Prelude 1 in C major</sub></index>
+            <p>Here are examples with <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>.</p>
+            <figure>
+                <caption>J.S. Bach, Well-Tempered Clavier, Book I, Prelude 1 in C major</caption>
+                <image source="images/unit2/harmony-T-P-D-T-WTC-prel-1"><description/></image><idx><h>Bach, J.S.</h><h>Well-Tempered Clavier, Book I, Prelude 1 in C major</h></idx>
             </figure>
             <p><url href="https://youtu.be/vqM4tCZ7RV8">Click to open a performance on YouTube.</url></p>
-
-            <figure><caption>Mozart, Symphony No. 40 in G minor, K. 550, I. (textural reduction)</caption>
-            <image source="images/unit2/harmony-T-P-D-T-k550"><description></description></image><index><main>Mozart, W.A.</main><sub>Symphony No. 40 in G minor, K. 550, I., harmonic function in primary theme</sub></index>
+            <figure>
+                <caption>Mozart, Symphony No. 40 in G minor, K. 550, I. (textural reduction)</caption>
+                <image source="images/unit2/harmony-T-P-D-T-k550"><description/></image><idx><h>Mozart, W.A.</h><h>Symphony No. 40 in G minor, K. 550, I., harmonic function in primary theme</h></idx>
             </figure>
             <p><url href="https://youtu.be/r_m1phdmwiw">Click to open a performance on YouTube.</url></p>
-
-            <figure><caption>Kander and Ebb, <q>New York, New York</q></caption>
-            <image source="images/unit2/harmony-T-P-D-T-new-york"><description></description></image><index><main>songs (popular)</main><sub>"New York, New York" (Liza Minnelli)</sub></index>
+            <figure>
+                <caption>Kander and Ebb, <q>New York, New York</q></caption>
+                <image source="images/unit2/harmony-T-P-D-T-new-york"><description/></image><idx><h>songs (popular)</h><h>"New York, New York" (Liza Minnelli)</h></idx>
             </figure>
             <p><url href="https://youtu.be/5-pyc_z7WbY?t=16s">Click to open a performance on YouTube.</url></p>
-
-            <figure><caption>Trainor and Kadish, <q>All About That Bass</q> (bass line and chord symbols only)</caption>
-            <image source="images/unit2/harmony-T-P-D-T-trainor"><description></description></image><index><main>songs (popular)</main><sub>"All About That Bass" (Meghan Trainor)</sub></index>
+            <figure>
+                <caption>Trainor and Kadish, <q>All About That Bass</q> (bass line and chord symbols only)</caption>
+                <image source="images/unit2/harmony-T-P-D-T-trainor"><description/></image><idx><h>songs (popular)</h><h>"All About That Bass" (Meghan Trainor)</h></idx>
             </figure>
             <p><url href="https://youtu.be/7PCkvCPvDXk">Click to open a performance on YouTube.</url></p>
-
-            <p>Here are examples with <chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/> realizing the Ton-PreDom-Dom-Ton progression.
-            </p>
-
-            <figure><caption>Chopin, Waltz in A-flat major, Op. 34 No. 1</caption>
-            <image source="images/unit2/harmony-I-IV-V-I-chopin"><description></description></image><index><main>Chopin</main><sub>Waltz in A-flat major, Op. 34 No. 1</sub></index>
+            <p>Here are examples with <chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/> realizing the Ton-PreDom-Dom-Ton progression.</p>
+            <figure>
+                <caption>Chopin, Waltz in A-flat major, Op. 34 No. 1</caption>
+                <image source="images/unit2/harmony-I-IV-V-I-chopin"><description/></image><idx><h>Chopin</h><h>Waltz in A-flat major, Op. 34 No. 1</h></idx>
             </figure>
             <p><url href="https://youtu.be/pceSX1hceOI?t=11s">Click to open a performance on YouTube.</url></p>
-
-            <figure><caption>Crane, Kauffman, Skloff, Willis, Solem, Wilde, <q>I'll Be There For You</q> (bass line and chords only)</caption>
-            <image source="images/unit2/harmony-I-IV-V-rembrandts"><description></description></image><index><main>songs (popular)</main><sub>"I'll Be There For You" (The Rembrandts)</sub></index>
+            <figure>
+                <caption>Crane, Kauffman, Skloff, Willis, Solem, Wilde, <q>I'll Be There For You</q> (bass line and chords only)</caption>
+                <image source="images/unit2/harmony-I-IV-V-rembrandts"><description/></image><idx><h>songs (popular)</h><h>"I'll Be There For You" (The Rembrandts)</h></idx>
             </figure>
             <p><url href="https://youtu.be/CXnEgbDcITo?t=31s">Click to open a performance on YouTube.</url></p>
-
-            <p>Progressions using <chord root="vii" mode="diminished"/> (<chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/> and <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>) are less common because of the instability of diminished chords.
-            </p>
+            <p>Progressions using <chord root="vii" mode="diminished"/> (<chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/> and <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>) are less common because of the instability of diminished chords.</p>
         </subsection>
-
         <subsection xml:id="tonic-tonprol-predom-dom">
             <title>The Tonic-Tonic Prolongation-PreDominant-Dominant Progression</title>
-            <introduction><p>This progression is most commonly realized with <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>, although in classical music one will often encounter <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii" bass="3rd"/><ndash/><chord root="V"/> (mentioned <xref ref="VI-II-V-I" text="title">above</xref> in the section on <chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>
-            ).
-            </p>
-            <p>Notice the bass line starts with descending thirds.
-            </p>
-
-            <figure><caption>Compare <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/> to <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii" bass="3rd"/><ndash/><chord root="V"/> (the bass lines are the same)</caption>
-            <image source="images/unit2/harmony-I-vi-IV-V-vs-I-vi-ii6-V"><description></description></image>
-            </figure>
-
-            <p>Here is a musical example with I-vi-ii6-V.
-            </p>
-
-            <figure><caption>Beethoven, Pathetique Sonata, Op. 13, I.</caption>
-            <image source="images/unit2/harmony-I-vi-ii6-V-pathetique"><description></description></image><index><main>Beethoven</main><sub>Pathetique Sonata, Op. 13, I., closing theme</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/SSeveT_9ZxE?t=3m17s">Click to open a performance on YouTube.</url></p>
-        </introduction>
+            <introduction>
+                <p>This progression is most commonly realized with <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>, although in classical music one will often encounter <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii" bass="3rd"/><ndash/><chord root="V"/> (mentioned <xref ref="VI-II-V-I" text="title">above</xref> in the section on <chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>
+                ).</p>
+                <p>Notice the bass line starts with descending thirds.</p>
+                <figure>
+                    <caption>Compare <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/> to <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii" bass="3rd"/><ndash/><chord root="V"/> (the bass lines are the same)</caption>
+                    <image source="images/unit2/harmony-I-vi-IV-V-vs-I-vi-ii6-V"><description/></image>
+                </figure>
+                <p>Here is a musical example with I-vi-ii6-V.</p>
+                <figure>
+                    <caption>Beethoven, Pathetique Sonata, Op. 13, I.</caption>
+                    <image source="images/unit2/harmony-I-vi-ii6-V-pathetique"><description/></image><idx><h>Beethoven</h><h>Pathetique Sonata, Op. 13, I., closing theme</h></idx>
+                </figure>
+                <p><url href="https://youtu.be/SSeveT_9ZxE?t=3m17s">Click to open a performance on YouTube.</url></p>
+            </introduction>
             <subsubsection xml:id="I-vi-IV-V">
                 <title>I-vi-IV-V</title>
-                <p>As mentioned earlier, the progression <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/> was so prevalent in the 1950’s that it is known as the <q>‘50’s progression</q> and the <q>50’s doo-wop progression.</q>
-                </p>
-                <p>Listen for this bass line in the following examples.
-                </p>
-
-                <figure><caption><chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/> bass line in C major</caption><image source="images/unit2/harmony-I-vi-IV-V-bass-line-in-C" width="60%"><description></description></image>
-            </figure>
-
-
-            <ul>
-                <li><p>Carmichael and Loesser, <q>Heart and Soul</q> (in C major)
-                <url href="https://youtu.be/pNjpTOB4ksY?t=19s">(YouTube)</url>
-                <index><main>songs (popular)</main><sub>"Heart and Soul"</sub></index>
-            </p></li>
-
-                <li><p>Williams, Belvin, Hodge, <q>Earth Angel</q> (in A-flat major)
-                <url href="https://youtu.be/t2tTibkhu-c">(YouTube)</url>
-                <index><main>songs (popular)</main><sub>"Earth Angel" (The Penguins)</sub></index></p></li>
-
-                <li><p>Parton, <q>I Will Always Love You</q> (in A major)
-                <url href="https://youtu.be/3JWTaaS7LdU?t=1m46s">(YouTube)</url><index><main>songs (popular)</main><sub>"I Will Always Love You" (Whitney Houston)</sub></index></p></li>
-
-                <li><p>Johnny Ramone, Dee Dee Ramone, Joey Ramone, <q>Rock ‘n’ Roll High School</q> (in C major)
-                <url href="https://youtu.be/vSkQEoZngyc?t=50s">(YouTube)</url>
-                <index><main>songs (popular)</main><sub>"Rock ‘n’ Roll High School" (The Ramones)</sub></index></p></li>
-
-            </ul>
-
-                <p>In the above examples, the chords have have half-note <xref ref="HarmonicRhythm" text="title">harmonic rhythm</xref>. In the following example, the chords have whole-note harmonic rhythm (4 beats per chord).
-                </p>
-
-            <ul>
-                <li><p>Stephens and Gad, <q>All of Me</q> (in A-flat major)
-                <url href="https://youtu.be/450p7goxZqg?t=1m2s">(YouTube)</url>
-                <index><main>songs (popular)</main><sub>"All of Me" (John Legend)</sub></index></p></li>
-            </ul>
-
-                <p>The <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/> progression can also be rotated to <chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/>, as in the following example.
-                </p>
-
-            <figure><caption>Atwey, Messinger, Pellizzer, Spivak, Tanas, <q>Rude</q> (bass line and chords only)</caption><image source="images/unit2/harmony-I-vi-IV-V-rotated-rude"><description></description></image><index><main>songs (popular)</main><sub>"Rude" (by MAGIC!)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/PIh2xe4jnpk?t=14s">Click to open a performance on YouTube.</url></p>
-            <p>You will see more examples of Tonic-Tonic Prolongation-PreDominant-Dominant progressions, including the use of the <chord root="iii"/> chord, in the Practice Exercises and the Homework.
-            </p>
+                <p>As mentioned earlier, the progression <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/> was so prevalent in the 1950’s that it is known as the <q>‘50’s progression</q> and the <q>50’s doo-wop progression.</q></p>
+                <p>Listen for this bass line in the following examples.</p>
+                <figure>
+                    <caption><chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/> bass line in C major</caption><image source="images/unit2/harmony-I-vi-IV-V-bass-line-in-C" width="60%"><description/></image>
+                </figure>
+                <ul>
+                    <li><p>Carmichael and Loesser, <q>Heart and Soul</q> (in C major)
+                    <url href="https://youtu.be/pNjpTOB4ksY?t=19s">(YouTube)</url>
+                    <idx><h>songs (popular)</h><h>"Heart and Soul"</h></idx></p></li>
+                    <li><p>Williams, Belvin, Hodge, <q>Earth Angel</q> (in A-flat major)
+                    <url href="https://youtu.be/t2tTibkhu-c">(YouTube)</url>
+                    <idx><h>songs (popular)</h><h>"Earth Angel" (The Penguins)</h></idx></p></li>
+                    <li><p>Parton, <q>I Will Always Love You</q> (in A major)
+                    <url href="https://youtu.be/3JWTaaS7LdU?t=1m46s">(YouTube)</url><idx><h>songs (popular)</h><h>"I Will Always Love You" (Whitney Houston)</h></idx></p></li>
+                    <li><p>Johnny Ramone, Dee Dee Ramone, Joey Ramone, <q>Rock ‘n’ Roll High School</q> (in C major)
+                    <url href="https://youtu.be/vSkQEoZngyc?t=50s">(YouTube)</url>
+                    <idx><h>songs (popular)</h><h>"Rock ‘n’ Roll High School" (The Ramones)</h></idx></p></li>
+                </ul>
+                <p>In the above examples, the chords have have half-note <xref ref="HarmonicRhythm" text="title">harmonic rhythm</xref>. In the following example, the chords have whole-note harmonic rhythm (4 beats per chord).</p>
+                <ul>
+                    <li><p>Stephens and Gad, <q>All of Me</q> (in A-flat major)
+                    <url href="https://youtu.be/450p7goxZqg?t=1m2s">(YouTube)</url>
+                    <idx><h>songs (popular)</h><h>"All of Me" (John Legend)</h></idx></p></li>
+                </ul>
+                <p>The <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/> progression can also be rotated to <chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/>, as in the following example.</p>
+                <figure>
+                    <caption>Atwey, Messinger, Pellizzer, Spivak, Tanas, <q>Rude</q> (bass line and chords only)</caption><image source="images/unit2/harmony-I-vi-IV-V-rotated-rude"><description/></image><idx><h>songs (popular)</h><h>"Rude" (by MAGIC!)</h></idx>
+                </figure>
+                <p><url href="https://youtu.be/PIh2xe4jnpk?t=14s">Click to open a performance on YouTube.</url></p>
+                <p>You will see more examples of Tonic-Tonic Prolongation-PreDominant-Dominant progressions, including the use of the <chord root="iii"/> chord, in the Practice Exercises and the Homework.</p>
             </subsubsection>
         </subsection>
-</section>
-
+    </section>
     <section xml:id="EmbellishingHarmonies">
         <title>Embellishing Harmonies</title>
-        <p>Some chords do not have harmonic function. They act as passing or neighboring harmonies to embellish tonic, dominant, and sometimes pre-dominant function. 
-        </p>
-        <p>Here is an example with a passing harmony.
-        </p>
-
-        <figure><caption>Passing harmony embellishing tonic function</caption><image source="images/unit2/harmony-passing-harmony-example"><description></description></image>
-            </figure>
-
-            <p>In this case, the <chord root="vii" mode="diminished" bass="3rd"/> chord is a passing chord rather than a chord with dominant function. (Remember that the <chord root="I" bass="5th"/> chord <xref ref="DominantFunction" text="title">has dominant function</xref>.)
-            </p>
+        <p>Some chords do not have harmonic function. They act as passing or neighboring harmonies to embellish tonic, dominant, and sometimes pre-dominant function.</p>
+        <p>Here is an example with a passing harmony.</p>
+        <figure>
+            <caption>Passing harmony embellishing tonic function</caption><image source="images/unit2/harmony-passing-harmony-example"><description/></image>
+        </figure>
+        <p>In this case, the <chord root="vii" mode="diminished" bass="3rd"/> chord is a passing chord rather than a chord with dominant function. (Remember that the <chord root="I" bass="5th"/> chord <xref ref="DominantFunction" text="title">has dominant function</xref>.)</p>
     </section>
-
     <section xml:id="ExceptionsCreatedBySequences">
         <title>Exceptions Created by Harmonic Sequences</title>
-        <p>Exceptions to the harmonic flowchart often can be explained by harmonic sequences.
-        </p>
-
-        <figure><caption>Forsey, Moroder, Cara, <q>Flashdance... What A Feeling</q></caption>
-            <image source="images/unit2/harmony-exceptions-flashdance"><description></description></image><index><main>songs (popular)</main><sub>"Flashdance... What A Feeling" (Irene Cara)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/Q4TK82N1nEk?t=10s">Click to open a performance on YouTube.</url></p>
-
-            <p>The sequence is between the first two bars and the last two bars of the example.
-            </p>
-
-
-
-            <figure><caption>Exceptions in <q>Flashdance... What A Feeling</q> created by sequence</caption>
-            <image source="images/unit2/harmony-exceptions-flashdance-diagram"><description></description></image>
-            </figure>
-
-            <p>There are unusual chord resolutions in the verse of <q>Hotel California,</q> in the example below.
-            </p>
-
-            <figure><caption>Felder, Henley, Frey, <q>Hotel California</q></caption>
-            <image source="images/unit2/harmony-exceptions-hotel-cal"><description></description></image><index><main>songs (popular)</main><sub>"Hotel California" (The Eagles)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/pSIjpv7yz84?t=19s">Click to open a performance on YouTube.</url></p>
-
-            <p>The example below shows how these exceptions come about through harmonic sequences.
-               </p> 
-
-            <figure><caption>Exceptions in <q>Hotel California</q> created through sequences</caption>
-            <image source="images/unit2/harmony-exceptions-hotel-diagram"><description></description></image>
-            </figure>
-
-            <p>Look for harmonic sequences as a possible explanation when you encounter unusual chord progressions.
-            </p>
+        <p>Exceptions to the harmonic flowchart often can be explained by harmonic sequences.</p>
+        <figure>
+            <caption>Forsey, Moroder, Cara, <q>Flashdance... What A Feeling</q></caption>
+            <image source="images/unit2/harmony-exceptions-flashdance"><description/></image><idx><h>songs (popular)</h><h>"Flashdance... What A Feeling" (Irene Cara)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/Q4TK82N1nEk?t=10s">Click to open a performance on YouTube.</url></p>
+        <p>The sequence is between the first two bars and the last two bars of the example.</p>
+        <figure>
+            <caption>Exceptions in <q>Flashdance... What A Feeling</q> created by sequence</caption>
+            <image source="images/unit2/harmony-exceptions-flashdance-diagram"><description/></image>
+        </figure>
+        <p>There are unusual chord resolutions in the verse of <q>Hotel California,</q> in the example below.</p>
+        <figure>
+            <caption>Felder, Henley, Frey, <q>Hotel California</q></caption>
+            <image source="images/unit2/harmony-exceptions-hotel-cal"><description/></image><idx><h>songs (popular)</h><h>"Hotel California" (The Eagles)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/pSIjpv7yz84?t=19s">Click to open a performance on YouTube.</url></p>
+        <p>The example below shows how these exceptions come about through harmonic sequences.</p>
+        <figure>
+            <caption>Exceptions in <q>Hotel California</q> created through sequences</caption>
+            <image source="images/unit2/harmony-exceptions-hotel-diagram"><description/></image>
+        </figure>
+        <p>Look for harmonic sequences as a possible explanation when you encounter unusual chord progressions.</p>
     </section>
-
     <section xml:id="SubtonicVIIinPopMusic">
         <title>The Subtonic VII Chord in Popular Music</title>
-        <p>Although we will discuss mode mixture and the Mixolydian mode later, the ubiquity of the subtonic chord (<flat/><chord root="VII"/>) in rock and pop makes it important to discuss here.
-        </p>
-
-        <p>The <flat/><chord root="VII"/> chord can precede tonic, dominant, and pre-dominant chords, which means it can substitute for any function except tonic.
-        </p>
-
-        <figure><caption>Harmonic Flowchart for Popular Music with Subtonic <chord root="VII"/> chord in Major</caption>
-            <image source="images/unit2/harmony-flowchart-with-bVII"><description></description></image>
-            </figure>
-
-        <p>Notice also that movement from <chord root="IV"/><ndash/><chord root="I"/> (from the plagal cadence) is common in the following examples from popular music.
-        </p>
-
-        <p>Here are examples ending with <flat/><chord root="VII"/><ndash/><chord root="IV"/><ndash/><chord root="I"/>, where <chord root="IV"/> progresses to <chord root="I"/> (a plagal cadence) and is preceded by <flat/><chord root="VII"/>.
-        </p>
-
-        <figure><caption>Lennon<ndash/>McCartney, <q>Hey Jude</q> (bass line and chords only)</caption>
-            <image source="images/unit2/harmony-bVII-hey-jude"><description></description></image><index><main>songs (popular)</main><sub>"Hey Jude" (The Beatles)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/A_MjCqQoLLA?t=4m31s">Click to open a performance on YouTube.</url></p>
-
-        <p>Consider the following questions: When a phrase ends on the <chord root="IV"/> chord, does it have dominant function (i.e, is it a half cadence)? Does <chord root="IV"/> have dominant function in popular music when it progresses to <chord root="I"/>? If so, does <flat/><chord root="VII"/> have pre-dominant function in the above progression?
-        </p>
-
-        <p>Notice that <flat/><chord root="VII"/> begings the phrase in the following example, and proceeds to a <chord root="IV"/><ndash/><chord root="I"/> conclusion.
-        </p>
-
-        <figure><caption>U2, <q>Desire</q> (bass line and chords)</caption>
-            <image source="images/unit2/harmony-bVII-U2-desire"><description></description></image><index><main>songs (popular)</main><sub>"Desire" (U2)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/z8rQ575DWD8?t=29s">Click to open a performance on YouTube.</url></p>
-
-        <p>The following example has <flat/><chord root="VII"/> preceding <em>and following</em> the <chord root="IV"/> chord. Does the <flat/><chord root="VII"/> chord have tonic prolongation as labeled, or is it <q>pre pre-dominant</q> in function?
-        </p>
-
-        <figure><caption>Forsey and Schiff, <q>Don’t You (Forget About Me)</q> (bass line and chords)</caption>
-            <image source="images/unit2/harmony-bVII-dont-you-forget"><description></description></image><index><main>songs (popular)</main><sub>"Don’t You (Forget About Me)" (Simple Minds)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/CdqoNKCCt7A?t=37s">Click to open a performance on YouTube.</url></p>
-
-
-        <p>Here is an example with <flat/><chord root="VII"/> cadencing to the <chord root="I"/> chord in the first four bars then progressing to the <chord root="vi"/> chord in a deceptive cadence in the second four bars.
-        </p>
-
-        <figure><caption>Becker and Fagen, <q>Reelin’ in the Years</q> (bass line and chords)</caption>
-            <image source="images/unit2/harmony-bVII-reelin-in-the-years"><description></description></image><index><main>songs (popular)</main><sub>"Reelin’ in the Years" (Steely Dan)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/RVJiwyg0iDM?t=58s">Click to open a performance on YouTube.</url></p>
+        <p>Although we will discuss mode mixture and the Mixolydian mode later, the ubiquity of the subtonic chord (<flat/><chord root="VII"/>) in rock and pop makes it important to discuss here.</p>
+        <p>The <flat/><chord root="VII"/> chord can precede tonic, dominant, and pre-dominant chords, which means it can substitute for any function except tonic.</p>
+        <figure>
+            <caption>Harmonic Flowchart for Popular Music with Subtonic <chord root="VII"/> chord in Major</caption>
+            <image source="images/unit2/harmony-flowchart-with-bVII"><description/></image>
+        </figure>
+        <p>Notice also that movement from <chord root="IV"/><ndash/><chord root="I"/> (from the plagal cadence) is common in the following examples from popular music.</p>
+        <p>Here are examples ending with <flat/><chord root="VII"/><ndash/><chord root="IV"/><ndash/><chord root="I"/>, where <chord root="IV"/> progresses to <chord root="I"/> (a plagal cadence) and is preceded by <flat/><chord root="VII"/>.</p>
+        <figure>
+            <caption>Lennon<ndash/>McCartney, <q>Hey Jude</q> (bass line and chords only)</caption>
+            <image source="images/unit2/harmony-bVII-hey-jude"><description/></image><idx><h>songs (popular)</h><h>"Hey Jude" (The Beatles)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/A_MjCqQoLLA?t=4m31s">Click to open a performance on YouTube.</url></p>
+        <p>Consider the following questions: When a phrase ends on the <chord root="IV"/> chord, does it have dominant function (i.e, is it a half cadence)? Does <chord root="IV"/> have dominant function in popular music when it progresses to <chord root="I"/>? If so, does <flat/><chord root="VII"/> have pre-dominant function in the above progression?</p>
+        <p>Notice that <flat/><chord root="VII"/> begings the phrase in the following example, and proceeds to a <chord root="IV"/><ndash/><chord root="I"/> conclusion.</p>
+        <figure>
+            <caption>U2, <q>Desire</q> (bass line and chords)</caption>
+            <image source="images/unit2/harmony-bVII-U2-desire"><description/></image><idx><h>songs (popular)</h><h>"Desire" (U2)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/z8rQ575DWD8?t=29s">Click to open a performance on YouTube.</url></p>
+        <p>The following example has <flat/><chord root="VII"/> preceding <em>and following</em> the <chord root="IV"/> chord. Does the <flat/><chord root="VII"/> chord have tonic prolongation as labeled, or is it <q>pre pre-dominant</q> in function?</p>
+        <figure>
+            <caption>Forsey and Schiff, <q>Don’t You (Forget About Me)</q> (bass line and chords)</caption>
+            <image source="images/unit2/harmony-bVII-dont-you-forget"><description/></image><idx><h>songs (popular)</h><h>"Don’t You (Forget About Me)" (Simple Minds)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/CdqoNKCCt7A?t=37s">Click to open a performance on YouTube.</url></p>
+        <p>Here is an example with <flat/><chord root="VII"/> cadencing to the <chord root="I"/> chord in the first four bars then progressing to the <chord root="vi"/> chord in a deceptive cadence in the second four bars.</p>
+        <figure>
+            <caption>Becker and Fagen, <q>Reelin’ in the Years</q> (bass line and chords)</caption>
+            <image source="images/unit2/harmony-bVII-reelin-in-the-years"><description/></image><idx><h>songs (popular)</h><h>"Reelin’ in the Years" (Steely Dan)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/RVJiwyg0iDM?t=58s">Click to open a performance on YouTube.</url></p>
     </section>
-
     <section xml:id="BestsellerProgression">
         <title>The Best-Seller Progression</title>
-        <figure><caption>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> <q>Best-Seller</q> Progression</caption>
-            <image source="images/unit2/harmony-bestseller-basic-version"><description></description></image>
-            </figure>
+        <figure>
+            <caption>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> <q>Best-Seller</q> Progression</caption>
+            <image source="images/unit2/harmony-bestseller-basic-version"><description/></image>
+        </figure>
         <p>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression occurs in many popular songs, has a <url href="https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression">
-         Wikipedia page</url>, and has been <url href="http://www.newyorker.com/books/page-turner/the-bestseller-code-tells-us-what-we-already-know">mentioned in a New Yorker article</url> about bestselling novels  (see the third paragraph from the end of the article). The music group Axis of Awesome made <url href="https://youtu.be/oOlDewpCfZQ">a compilation of several songs</url> with the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression that makes for an entertaining summary (warning: there is some language after the 5<ndash/>minute mark). The song titles and artists are in the information section of the video.  
-        </p>
-
-        <p>Here is a written-out example that includes the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression.
-        </p>
-
-        <figure><caption>Adkins and Wilson, <q>Someone Like You</q></caption>
-            <image source="images/unit2/harmony-bestseller-someone-like-you"><description></description></image><index><main>songs (popular)</main><sub>"Someone Like You" (Adele)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/hLQl3WQQoQ0?t=1m13s">Click to open a performance on YouTube.</url></p>
-
-            <p>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression can be rotated to become <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> and <chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/>.
-            </p>
-
-            <figure><caption>Example of <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> rotation to <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/></caption>
-            <image source="images/unit2/harmony-bestseller-rotation-diagram"><description></description></image>
-            </figure>
-
-            <p>Here is an example with the <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> progression.
-            </p>
-
-            <figure><caption>Adkins and Kursten, <q>Hello</q></caption>
-            <image source="images/unit2/harmony-bestseller-hello"><description></description></image><index><main>songs (popular)</main><sub>"Hello" (Adele)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/YQHsXMglC9A?t=2m21s">Click to open a performance on YouTube.</url></p>
-
-            <p>The <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> progression can also be thought of as being in minor: <chord root="i"/><ndash/><chord root="VI"/><ndash/><chord root="III"/><ndash/><chord root="VII"/>
-            </p>
-
-            <figure><caption><q>Best-Seller</q> Progression with Roman Numerals in Major and Relative Minor</caption>
-            <image source="images/unit2/harmony-bestseller-in-minor"><description></description></image>
-            </figure>
-
-            <p>Whether you hear this progression in major or minor depends on whether you hear the first chord as the tonic or if you hear the third and fourth chord as tonic and dominant.
-            </p>
-
-            <p>Here is an example with the <chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/> progression.
-            </p>
-
-            <figure><caption>Stewart, Nash, Harrell, Carter, <q>Umbrella</q></caption>
-            <image source="images/unit2/harmony-bestseller-umbrella"><description></description></image><index><main>songs (popular)</main><sub>"Umbrella" (Rihanna)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/92XKG9OwN4A?t=1m6s">Click to open a performance on YouTube.</url></p><!--to 1:18-->
-
+        Wikipedia page</url>, and has been <url href="http://www.newyorker.com/books/page-turner/the-bestseller-code-tells-us-what-we-already-know">mentioned in a New Yorker article</url> about bestselling novels  (see the third paragraph from the end of the article). The music group Axis of Awesome made <url href="https://youtu.be/oOlDewpCfZQ">a compilation of several songs</url> with the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression that makes for an entertaining summary (warning: there is some language after the 5<ndash/>minute mark). The song titles and artists are in the information section of the video.</p>
+        <p>Here is a written-out example that includes the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression.</p>
+        <figure>
+            <caption>Adkins and Wilson, <q>Someone Like You</q></caption>
+            <image source="images/unit2/harmony-bestseller-someone-like-you"><description/></image><idx><h>songs (popular)</h><h>"Someone Like You" (Adele)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/hLQl3WQQoQ0?t=1m13s">Click to open a performance on YouTube.</url></p>
+        <p>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression can be rotated to become <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> and <chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/>.</p>
+        <figure>
+            <caption>Example of <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> rotation to <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/></caption>
+            <image source="images/unit2/harmony-bestseller-rotation-diagram"><description/></image>
+        </figure>
+        <p>Here is an example with the <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> progression.</p>
+        <figure>
+            <caption>Adkins and Kursten, <q>Hello</q></caption>
+            <image source="images/unit2/harmony-bestseller-hello"><description/></image><idx><h>songs (popular)</h><h>"Hello" (Adele)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/YQHsXMglC9A?t=2m21s">Click to open a performance on YouTube.</url></p>
+        <p>The <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> progression can also be thought of as being in minor: <chord root="i"/><ndash/><chord root="VI"/><ndash/><chord root="III"/><ndash/><chord root="VII"/></p>
+        <figure>
+            <caption><q>Best-Seller</q> Progression with Roman Numerals in Major and Relative Minor</caption>
+            <image source="images/unit2/harmony-bestseller-in-minor"><description/></image>
+        </figure>
+        <p>Whether you hear this progression in major or minor depends on whether you hear the first chord as the tonic or if you hear the third and fourth chord as tonic and dominant.</p>
+        <p>Here is an example with the <chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/> progression.</p>
+        <figure>
+            <caption>Stewart, Nash, Harrell, Carter, <q>Umbrella</q></caption>
+            <image source="images/unit2/harmony-bestseller-umbrella"><description/></image><idx><h>songs (popular)</h><h>"Umbrella" (Rihanna)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/92XKG9OwN4A?t=1m6s">Click to open a performance on YouTube.</url></p><!--to 1:18-->
     </section>
-
     <section xml:id="i-VII-VI-VII">
         <title>The i-VII-VI-VII Progression</title>
         <p>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> (<chord root="A" mode="m"/><ndash/><chord root="G"/><ndash/><chord root="F"/><ndash/><chord root="G"/>) progression is similar to the descending <scaledeg>1</scaledeg>
-        <ndash/><flat/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg> bass line of the <q>Andalusian progression</q> (<chord root="A" mode="m"/><ndash/><chord root="G"/><ndash/><chord root="F"/><ndash/><chord root="E"/>) in flamenco music, with the exception of the last bass note or chord.
-        </p>
-
-        <p>Here are examples of the <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression.
-        </p>
-
-        <figure><caption>Page and Plant, <q>Stairway to Heaven</q> (chords and bass line only)</caption>
-            <image source="images/unit2/harmony-i-VII-VI-stairway"><description></description></image><index><main>songs (popular)</main><sub>"Stairway to Heaven" (Led Zeppelin)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/iXQUu5Dti4g?t=6m43s">Click to open a performance on YouTube.</url></p>
-
-        <figure><caption>Adkins and Epworth, <q>Rolling In The Deep</q> (chords and bass line only)</caption>
-            <image source="images/unit2/harmony-i-VII-VI-rolling-in-the"><description></description></image><index><main>songs (popular)</main><sub>"Rolling In The Deep" (Adele)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/rYEDA3JcQqw?t=57s">Click to open a performance on YouTube.</url></p>
-
-        <p>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression can also be rotated to become <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/>.
-        </p>
-
-        <figure><caption>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression rotating to <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/></caption>
-            <image source="images/unit2/harmony-i-VII-VI-rotation-diagram"><description></description></image>
-            </figure>
-
-        <p>In some cases, the fourth chord is eliminated. In that case, <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/> becomes <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="i"/>, as in the following examples.
-        </p>
-
-        <figure><caption>Bridges, Broadus, J. Mollings, L. Mollings, Roberts II, <q>All I Do Is Win</q> (chords and bass line)</caption>
-            <image source="images/unit2/harmony-i-VII-VI-all-i-do"><description></description></image><index><main>songs (popular)</main><sub>"All I Do Is Win" (DJ Khaled)</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/4RYlgoQrshw?t=5s">Click to open a performance on YouTube.</url></p>
-
-        <figure><caption>Glass, Metamorphosis Two</caption>
-            <image source="images/unit2/harmony-i-VII-VI-glass"><description></description></image><index><main>Glass, Philip</main><sub>Metamorphosis Two</sub></index>
-            </figure>
-            <p><url href="https://youtu.be/F6AggxvVFRY?t=56s">Click to open a performance on YouTube.</url></p>
-
-        <p>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression can also be thought of as being in a major key: <chord root="vi"/><ndash/><chord root="V"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>.
-        </p>
-
-        <figure><caption>The same progression viewed from minor and relative major</caption>
-            <image source="images/unit2/harmony-i-VII-VI-min-and-rel-maj"><description></description></image>
-            </figure>
-
-        <p>There are several more common harmonic progressions to explore in future chapters dealing with topics like secondary chords, mode mixture, the Neapolitan chord, augmented sixth chords, and jazz harmony.<!--make links someday-->
-        </p>
+        <ndash/><flat/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg> bass line of the <q>Andalusian progression</q> (<chord root="A" mode="m"/><ndash/><chord root="G"/><ndash/><chord root="F"/><ndash/><chord root="E"/>) in flamenco music, with the exception of the last bass note or chord.</p>
+        <p>Here are examples of the <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression.</p>
+        <figure>
+            <caption>Page and Plant, <q>Stairway to Heaven</q> (chords and bass line only)</caption>
+            <image source="images/unit2/harmony-i-VII-VI-stairway"><description/></image><idx><h>songs (popular)</h><h>"Stairway to Heaven" (Led Zeppelin)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/iXQUu5Dti4g?t=6m43s">Click to open a performance on YouTube.</url></p>
+        <figure>
+            <caption>Adkins and Epworth, <q>Rolling In The Deep</q> (chords and bass line only)</caption>
+            <image source="images/unit2/harmony-i-VII-VI-rolling-in-the"><description/></image><idx><h>songs (popular)</h><h>"Rolling In The Deep" (Adele)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/rYEDA3JcQqw?t=57s">Click to open a performance on YouTube.</url></p>
+        <p>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression can also be rotated to become <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/>.</p>
+        <figure>
+            <caption>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression rotating to <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/></caption>
+            <image source="images/unit2/harmony-i-VII-VI-rotation-diagram"><description/></image>
+        </figure>
+        <p>In some cases, the fourth chord is eliminated. In that case, <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/> becomes <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="i"/>, as in the following examples.</p>
+        <figure>
+            <caption>Bridges, Broadus, J. Mollings, L. Mollings, Roberts II, <q>All I Do Is Win</q> (chords and bass line)</caption>
+            <image source="images/unit2/harmony-i-VII-VI-all-i-do"><description/></image><idx><h>songs (popular)</h><h>"All I Do Is Win" (DJ Khaled)</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/4RYlgoQrshw?t=5s">Click to open a performance on YouTube.</url></p>
+        <figure>
+            <caption>Glass, Metamorphosis Two</caption>
+            <image source="images/unit2/harmony-i-VII-VI-glass"><description/></image><idx><h>Glass, Philip</h><h>Metamorphosis Two</h></idx>
+        </figure>
+        <p><url href="https://youtu.be/F6AggxvVFRY?t=56s">Click to open a performance on YouTube.</url></p>
+        <p>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression can also be thought of as being in a major key: <chord root="vi"/><ndash/><chord root="V"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>.</p>
+        <figure>
+            <caption>The same progression viewed from minor and relative major</caption>
+            <image source="images/unit2/harmony-i-VII-VI-min-and-rel-maj"><description/></image>
+        </figure>
+        <p>There are several more common harmonic progressions to explore in future chapters dealing with topics like secondary chords, mode mixture, the Neapolitan chord, augmented sixth chords, and jazz harmony.<!--make links someday--></p>
     </section>
-
-
-
     <exercises xml:id="HarmonicProgressionExercises">
         <title>Practice Exercises</title>
-        <p>Day One:
-        </p>
+        <p>Day One:</p>
         <exercise>
             <statement>
                 <p>Write the circle of fifths progression in the following keys with root position triads. Label Roman numerals below and lead-sheet symbols above.</p>
                 <ol>
-                    <li><p>In F major:
-                    </p>
+                    <li><p>In F major:</p>
                     <p>
-                    <image source="images/unit2/PRAC-EXER-harmony-write-circle-F"><description></description></image></p>
+                        <image source="images/unit2/PRAC-EXER-harmony-write-circle-F"><description/></image></p>
                     </li>
                 </ol>
                 <ol>
-                    <li><p>In B minor:
-                    </p>
+                    <li><p>In B minor:</p>
                     <p>
-                    <image source="images/unit2/PRAC-EXER-harmony-write-circle-b"><description></description></image></p>
+                        <image source="images/unit2/PRAC-EXER-harmony-write-circle-b"><description/></image></p>
                     </li>
                 </ol>
             </statement>
             <answer>
-            <p>In F major:</p>
+                <p>In F major:</p>
                 <p>1. F-A-C</p>
                 <p>2. IV = B<flat/>-D-F</p>
                 <p>3. viiº = E-G-B<flat/></p>
@@ -636,7 +520,7 @@
                 <p>6. ii = G-B<flat/>-D</p>
                 <p>7. V = C-E-G</p>
                 <p>8. F-A-C</p>
-            <p>In B minor:</p>
+                <p>In B minor:</p>
                 <p>1. B-D-F<sharp/></p>
                 <p>2. iv = E-G-B</p>
                 <p>3. VII = A-C<sharp/>-E</p>
@@ -645,117 +529,104 @@
                 <p>6. iiº = C<sharp/>-E-G</p>
                 <p>7. V = F<sharp/>-A<sharp/>-C<sharp/></p>
                 <p>8. B-D-F<sharp/></p>
-        </answer>
-    </exercise>
-
-         <exercise>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Review. Write the following intervals above the given note.</p>
-                    <p><image source="images/unit2/PRAC-EXER-harmony-write-interval-review"><description></description></image>
-                </p>
+                <p><image source="images/unit2/PRAC-EXER-harmony-write-interval-review"><description/></image></p>
             </statement>
-            <answer><p>1. A<doubleflat/>, 2. A<sharp/>, 3. D, 4. C<sharp/>, 5. G, 6. G</p>
-        </answer>
-    </exercise>
-
-    <exercise>
+            <answer>
+                <p>1. A<doubleflat/>, 2. A<sharp/>, 3. D, 4. C<sharp/>, 5. G, 6. G</p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Review. Given the lead-sheet symbol and key, write the key signature, triad or seventh chord, and Roman numeral.</p>
-                    <p><image source="images/unit2/PRAC-EXER-harmony-write-RN-review"><description></description></image>
-                </p>
+                <p><image source="images/unit2/PRAC-EXER-harmony-write-RN-review"><description/></image></p>
             </statement>
             <answer>
-            <p>1. 4 flats in key signature, iv, B<flat/>-D<flat/>-F</p>
-            <p>2. 3 sharps in key signature, IV, D-F<sharp/>-A</p>
-            <p>3. 3 flats in key signature, iiº, F-A<flat/>-D</p>
-            <p>4. 4 sharps in key signature, vi, C<sharp/>-E-G<sharp/></p>
-            <p>5. 2 flats in signature, viiº7, F<sharp/>-A-C-E<flat/></p>
-            <p>6. 5 sharps in key signature, V7/5th, C<sharp/>-E-F<sharp/>-A<sharp/></p>
-            <p>7. 1 flat in key signature, i/3rd, F-A-D</p>
-            <p>8. 1 flat in key signature, iii, A-C-E</p>
-        </answer>
-    </exercise>
-
-    <exercise>
+                <p>1. 4 flats in key signature, iv, B<flat/>-D<flat/>-F</p>
+                <p>2. 3 sharps in key signature, IV, D-F<sharp/>-A</p>
+                <p>3. 3 flats in key signature, iiº, F-A<flat/>-D</p>
+                <p>4. 4 sharps in key signature, vi, C<sharp/>-E-G<sharp/></p>
+                <p>5. 2 flats in signature, viiº7, F<sharp/>-A-C-E<flat/></p>
+                <p>6. 5 sharps in key signature, V7/5th, C<sharp/>-E-F<sharp/>-A<sharp/></p>
+                <p>7. 1 flat in key signature, i/3rd, F-A-D</p>
+                <p>8. 1 flat in key signature, iii, A-C-E</p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Review. Correct the rhythmic notation of the following example.</p>
-                    <p><image source="images/unit2/PRAC-EXER-harmony-rhy-correct-review"><description></description></image>
-                </p>
+                <p><image source="images/unit2/PRAC-EXER-harmony-rhy-correct-review"><description/></image></p>
             </statement>
-            
-    </exercise>
-
-    <p>Day Two:
-    </p>
-
-    <exercise>
+        </exercise>
+        <p>Day Two:</p>
+        <exercise>
             <statement>
                 <p>For each cadence, label the chord(s) involved.</p>
-                    <table>
-            <tabular halign="left">
-                <row>
-                    <cell>Half Cadence =</cell>
-                    <cell><fillin characters="4"/></cell>
-                </row> 
-                <row>   
-                    <cell>Deceptive Cadence =</cell>
-                    <cell><fillin characters="4"/> <fillin characters="4"/></cell>
-                </row>
-                <row>
-                    <cell>Plagal Cadence =</cell>
-                    <cell><fillin characters="4"/> <fillin characters="4"/></cell>
-                </row>
-                <row>
-                    <cell>Authentic Cadence =</cell>
-                    <cell><fillin characters="4"/> <fillin characters="4"/></cell>
-                </row>
-            </tabular>
-        </table>
-            </statement>
-            <answer><p>HC = V</p>
-            <p>DC = V-vi</p>
-            <p>PC = IV-I</p>
-            <p>AC = V-I</p>
-        </answer>
-    </exercise>
-
-    <exercise>
-            <statement>
-                <p>Analyze the following progressions with lead-sheet symbols above and Roman numerals below.</p>
-                    <p><image source="images/unit2/PRAC-EXER-harmony-analyzing-four-chord-progs"><description></description></image>
-                </p>
+                <sidebyside>
+                    <tabular halign="left">
+                        <row>
+                            <cell>Half Cadence =</cell>
+                            <cell><fillin characters="4"/></cell>
+                        </row>
+                        <row>
+                            <cell>Deceptive Cadence =</cell>
+                            <cell><fillin characters="4"/> <fillin characters="4"/></cell>
+                        </row>
+                        <row>
+                            <cell>Plagal Cadence =</cell>
+                            <cell><fillin characters="4"/> <fillin characters="4"/></cell>
+                        </row>
+                        <row>
+                            <cell>Authentic Cadence =</cell>
+                            <cell><fillin characters="4"/> <fillin characters="4"/></cell>
+                        </row>
+                    </tabular>
+                </sidebyside>
             </statement>
             <answer>
-                <table>
-            <tabular halign="left">
-                <row>
-                    <cell>In F major:</cell>
-                    <cell>In E major:</cell>
-                </row> 
-                <row>   
-                    <cell>1. F, I</cell>
-                    <cell>1. C<sharp/>m, vi</cell>
-                </row>
-                <row>
-                    <cell>2. Dm, vi</cell>
-                    <cell>2. A, IV</cell>
-                </row>
-                <row>
-                    <cell>3. Gm/B<flat/>, ii/3rd</cell>
-                    <cell>3. E, I</cell>
-                </row>
-                <row>
-                    <cell>4. C, V</cell>
-                    <cell>4. B, V</cell>
-                </row>
-            </tabular>
-        </table>
-        </answer>
-    </exercise>
-
-
-
-    <exercise>
+                <p>HC = V</p>
+                <p>DC = V-vi</p>
+                <p>PC = IV-I</p>
+                <p>AC = V-I</p>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Analyze the following progressions with lead-sheet symbols above and Roman numerals below.</p>
+                <p><image source="images/unit2/PRAC-EXER-harmony-analyzing-four-chord-progs"><description/></image></p>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <tabular halign="left">
+                        <row>
+                            <cell>In F major:</cell>
+                            <cell>In E major:</cell>
+                        </row>
+                        <row>
+                            <cell>1. F, I</cell>
+                            <cell>1. C<sharp/>m, vi</cell>
+                        </row>
+                        <row>
+                            <cell>2. Dm, vi</cell>
+                            <cell>2. A, IV</cell>
+                        </row>
+                        <row>
+                            <cell>3. Gm/B<flat/>, ii/3rd</cell>
+                            <cell>3. E, I</cell>
+                        </row>
+                        <row>
+                            <cell>4. C, V</cell>
+                            <cell>4. B, V</cell>
+                        </row>
+                    </tabular>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>For the progression, do the following:</p>
                 <ol>
@@ -764,14 +635,11 @@
                     <li><p>Analyze the harmonic function of each harmony using the abbreviations <q>ton.</q> for tonic function, <q>dom.</q> for dominant function, <q>pre-dom.</q> for pre-dominant function, and <q>ton. prol.</q> for tonic prolongation function</p></li>
                     <li><p>Specify the cadence that ends the progression</p></li>
                 </ol>
-                    <p><image source="images/unit2/PRAC-EXER-harmony-write-analyze-progs"><description></description></image>
-                </p>
+                <p><image source="images/unit2/PRAC-EXER-harmony-write-analyze-progs"><description/></image></p>
             </statement>
             <answer><p>
-                <image source="images/unit2/PRAC-EXER-harmony-D-maj-prog-answer"><description></description></image>
-            </p>
-        </answer>
-    </exercise>
-
-</exercises>
+                <image source="images/unit2/PRAC-EXER-harmony-D-maj-prog-answer"><description/></image></p>
+            </answer>
+        </exercise>
+    </exercises>
 </chapter>

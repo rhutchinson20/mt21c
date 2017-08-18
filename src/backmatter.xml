@@ -1,12 +1,11 @@
-<backmatter xml:id="backmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
-    <title>Back Matter</title> 
-    <index-part>
-        <index-list />
-    </index-part>
-
-    <xi:include href="./gfdl-mathbook.xml" />
-    
+<?xml version="1.0" encoding="UTF-8"?>
+<backmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="backmatter">
+    <title>Back Matter</title>
+    <xi:include href="./gfdl-mathbook.xml"/>
+    <index>
+        <index-list/>
+    </index>
     <colophon>
-        <p>This book was authored and produced with <url href="https://mathbook.pugetsound.edu">PreTeXt</url>.</p>
+        <p>This book was authored and produced with <url href="https://mathbook.pugetsound.edu"><pretext/></url>.</p>
     </colophon>
 </backmatter>
