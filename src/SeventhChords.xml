@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="SeventhChords">
     <title>Seventh Chords</title>
-    <section xml:id="TriadsIntroduction">
+    <section xml:id="SeventhChordsIntroduction">
         <title>Introduction to Seventh Chords</title>
         <p>A <term>seventh chord</term><index><main>seventh chord</main><sub>definition of</sub></index> adds to a triad another note a third higher than the fifth. Chords, being built in thirds, have members that are odd numbers<mdash/>third, fifth, seventh, and we will eventually discuss extensions of the ninth, eleventh, and thirteenth. The fifteenth would be the double octave, so chords only extend as high as the thirteenth.</p>
-        <figure><caption/>
+        <figure>
+            <caption/>
             <image source="images/unit2/7th-chords-basic-intro"><description>Example showing chords built in 3rds up to the 13th</description></image>
         </figure>
         <p>In classical and popular music, there are five types of seventh chords commonly encountered:</p>
@@ -15,42 +16,45 @@
             <li><p>the half-diminished seventh chord</p></li>
             <li><p>the fully-diminished seventh chord (often called diminished seventh chord)</p></li>
         </ul>
-        <figure><caption/>
+        <figure>
+            <caption/>
             <image source="images/unit2/7th-chords-all-five-types"><description>All five types of seventh chords, with their abbreviated labels</description></image><index><main>seventh chord</main><sub>example of 5 types</sub></index>
         </figure>
-        <p>Another way to differentiate between the five types of seventh chords is by learning how the thirds are stacked in each one.
-        </p>
-        <figure><caption/>
+        <p>Another way to differentiate between the five types of seventh chords is by learning how the thirds are stacked in each one.</p>
+        <figure>
+            <caption/>
             <image source="images/unit2/7th-chords-stacking-of-3rds"><description>All five types of seventh chords, shown with the types of thirds in each chord</description></image>
         </figure>
-        <p>In later chapters we will discuss other seventh chords built on augmented triads and minor triads.
-        </p>
+        <p>In later chapters we will discuss other seventh chords built on augmented triads and minor triads.</p>
     </section>
 
 
     <section xml:id="IVover5SusChord">
         <title>The IV/5 "sus" chord</title>
         <p>An additional four-note chord that sounds like and functions similar to a <chord root="V" bps="7"/> chord is the <chord root="IV"/>/<scaledeg>5</scaledeg> (or <chord root="F" bass="G"/> in <n pc="C"/> major) chord. In popular music this chord often is substituted for the <chord root="V" bps="7"/> chord</p>
-        <figure><caption/>
+        <figure>
+            <caption/>
             <image source="images/unit2/7th-chords-F-over-G"><description>F triad with G in bass, also known as F/G</description></image>
         </figure>
         <p>Here is a musical example with the <chord root="IV"/>/<scaledeg>5</scaledeg> chord in <n pc="A" acc="flat"/> major.</p>
-        <figure><caption/>
+        <figure>
+            <caption/>
             <image source="images/unit2/7th-chords-ooh-child"><description>"O-o-h Child" by The Five Stairsteps</description></image><index><main>songs (popular)</main><sub>"O-o-h Child" (The Five Stairsteps)</sub></index>
         </figure>
         <p><url href="https://youtu.be/gIsj8VxQNkw?t=38s">Click to open a performance on YouTube.</url></p>
     </section>
     <section xml:id="RomanNumeralsOfDiatonicSeventhChords">
         <title>Roman Numerals of Diatonic Seventh Chords</title>
-            <p>When notating seventh chords with Roman numerals, there are a few conventions to follow. An uppercase Roman numeral means a major triad and a lowercase Roman numeral means a minor triad. Adding <q>7</q> after a Roman numeral means there is a minor seventh between the root and seventh of the chord. Therefore, <chord root="V" bps="7"/> means a major triad with a minor seventh between the root and seventh and <chord root="vi" bps="7"/> means a minor triad and a minor seventh between the root and seventh. Add <q>M7</q> for a major seventh chord (e.g., <chord root="I" mode="M" bps="7"/>). The half-diminished symbol (<chord mode="halfdiminished" bps="7"/>) means there is a diminished triad with a minor seventh from root to seventh. The diminished symbol (<chord mode="diminished" bps="7"/>) on a seventh chord means the triad is diminished and the distance from the root to seventh is a diminished seventh.</p>
-            <p>Below are the diatonic seventh chords used in major and minor and their Roman numerals.
-            </p>
-            <figure><caption/>
-                <image source="images/unit2/7th-chords-RN-in-major"><description>Roman numerals for diatonic seventh chords in major</description></image>
-            </figure>
-            <figure><caption/>
-                <image source="images/unit2/7th-chords-RN-in-minor"><description>Roman numerals for diatonic seventh chords in minor</description></image>
-            </figure>
+        <p>When notating seventh chords with Roman numerals, there are a few conventions to follow. An uppercase Roman numeral means a major triad and a lowercase Roman numeral means a minor triad. Adding <q>7</q> after a Roman numeral means there is a minor seventh between the root and seventh of the chord. Therefore, <chord root="V" bps="7"/> means a major triad with a minor seventh between the root and seventh and <chord root="vi" bps="7"/> means a minor triad and a minor seventh between the root and seventh. Add <q>M7</q> for a major seventh chord (e.g., <chord root="I" mode="M" bps="7"/>). The half-diminished symbol (<chord mode="halfdiminished" bps="7"/>) means there is a diminished triad with a minor seventh from root to seventh. The diminished symbol (<chord mode="diminished" bps="7"/>) on a seventh chord means the triad is diminished and the distance from the root to seventh is a diminished seventh.</p>
+        <p>Below are the diatonic seventh chords used in major and minor and their Roman numerals.</p>
+        <figure>
+            <caption/>
+            <image source="images/unit2/7th-chords-RN-in-major"><description>Roman numerals for diatonic seventh chords in major</description></image>
+        </figure>
+        <figure>
+            <caption/>
+            <image source="images/unit2/7th-chords-RN-in-minor"><description>Roman numerals for diatonic seventh chords in minor</description></image>
+        </figure>
     </section>
 
     <exercises xml:id="SeventhChordsExercises">
@@ -60,48 +64,47 @@
                 <p>Analyze the given chords with lead-sheet symbols above and Roman numerals below.</p>
                 <p><image source="images/unit2/PRAC-EXER-7th-chords-ID"><description></description></image></p>
             </statement>
-            <answer><p>1. <chord root="D" bps="7"/>, <chord root="V" bps="7"/></p>
-            <p>2. <chord root="G" mode="major" bps="7"/>, <chord root="IV" bps="M7"/></p>
-            <p>3. <chord root="D sharp" mode="halfdiminished" bps="7"/>, <chord root="ii" mode="halfdiminished" bps="7"/></p>
-            <p>4. <chord root="B" mode="m" bps="7" bass="D"/>, <chord root="iii" bps="7" bass="3rd"/></p>
-            <p>5. <chord root="C sharp" mode="diminished" bps="7" bass="E"/>, <chord root="vii" mode="diminished" bps="7" bass="3rd"/></p>
-        </answer>
-    </exercise>
+            <answer>
+                <p>1. <chord root="D" bps="7"/>, <chord root="V" bps="7"/></p>
+                <p>2. <chord root="G" mode="major" bps="7"/>, <chord root="IV" bps="M7"/></p>
+                <p>3. <chord root="D sharp" mode="halfdiminished" bps="7"/>, <chord root="ii" mode="halfdiminished" bps="7"/></p>
+                <p>4. <chord root="B" mode="m" bps="7" bass="D"/>, <chord root="iii" bps="7" bass="3rd"/></p>
+                <p>5. <chord root="C sharp" mode="diminished" bps="7" bass="E"/>, <chord root="vii" mode="diminished" bps="7" bass="3rd"/></p>
+            </answer>
+        </exercise>
 
 
-    <exercise>
+        <exercise>
             <statement>
                 <p>Given the Roman numeral, provide the notes of the chord and the lead-sheet symbol above.</p>
                 <p><image source="images/unit2/PRAC-EXER-7th-chords-writing"><description></description></image></p>
             </statement>
-            <answer><p>1. Bm7, B-D-F<sharp/>-A</p>
-            <p>2. <chord root="A" mode="halfdiminished" bps="7"/>, A-C-E<flat/>-G</p>
-            <p>3. <chord root="C sharp" mode="halfdiminished" bps="7"/>, C<sharp/>-E-G-B</p>
-            <p>4. <chord root="G" bps="7"/>, G-B<natural/>-D-F</p>
-            <p>5. Emaj<chord bps="7"/>/G<sharp/>, G<sharp/>-B-D<sharp/>-E</p>
-        </answer>
-    </exercise>
-    <exercise>
+            <answer>
+                <p>1. Bm7, B-D-F<sharp/>-A</p>
+                <p>2. <chord root="A" mode="halfdiminished" bps="7"/>, A-C-E<flat/>-G</p>
+                <p>3. <chord root="C sharp" mode="halfdiminished" bps="7"/>, C<sharp/>-E-G-B</p>
+                <p>4. <chord root="G" bps="7"/>, G-B<natural/>-D-F</p>
+                <p>5. Emaj<chord bps="7"/>/G<sharp/>, G<sharp/>-B-D<sharp/>-E</p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Analyze the harmonies in the excerpts with lead-sheet symbols above and Roman numerals below.</p>
                 <ol>
-                            <li><p>"No Scrubs" <index><main>songs (popular)</main><sub>"No Scrubs" (TLC)</sub></index><url href="https://youtu.be/FrLequ6dUdM?t=8s">(YouTube)</url>
-                        </p>
-                        <p><image source="images/unit2/PRAC-EXER-7th-chords-no-scrubs"><description></description></image>
-                    </p>
-                        </li>
-                            <li><p>Mozart, Piano Sonata K. 545, I <index><main>Mozart, W.A.</main><sub>Piano Sonata K. 545, I., primary theme</sub></index><url href="https://youtu.be/5NkzTTkqTB4">(YouTube)</url>
-                            </p>
-                            <p><image source="images/unit2/PRAC-EXER-7th-chords-k545"><description></description></image>
-                            </p>
-                        </li>
-                        </ol>
+                    <li>
+                        <p>"No Scrubs" <index><main>songs (popular)</main><sub>"No Scrubs" (TLC)</sub></index><url href="https://youtu.be/FrLequ6dUdM?t=8s">(YouTube)</url></p>
+                        <p><image source="images/unit2/PRAC-EXER-7th-chords-no-scrubs"><description></description></image></p>
+                    </li>
+                    <li>
+                        <p>Mozart, Piano Sonata K. 545, I <index><main>Mozart, W.A.</main><sub>Piano Sonata K. 545, I., primary theme</sub></index><url href="https://youtu.be/5NkzTTkqTB4">(YouTube)</url></p>
+                        <p><image source="images/unit2/PRAC-EXER-7th-chords-k545"><description></description></image></p>
+                    </li>
+                </ol>
             </statement>
-            <answer><p>a. "No Scrubs": 1. <chord root="D flat" mode="m" bps="7"/>, <chord root="iv" bps="7"/>; 2. <chord root="A flat" mode="m"/>, <chord root="i"/>; 3. <chord root="E flat" bps="7"/>, <chord root="V" bps="7"/>; 4. <chord root="A flat" mode="m"/>, <chord root="i"/>
-            </p>
-            <p>b. Mozart: 1. <chord root="C"/>, <chord root="I"/>; 2. <chord root="G" bps="7" bass="D"/>, <chord root="V" bps="7" bass="5th"/>; 3. <chord root="C"/>, <chord root="I"/>; 4. <chord root="F" bass="C"/>, <chord root="IV" bass="5th"/>; 5. <chord root="C"/>, <chord root="I"/>; 6. <chord root="G" bps="7" bass="B"/>, <chord root="V" bps="7" bass="3rd"/>; 7. <chord root="C"/>, <chord root="I"/>; Cadence type: Authentic Cadence (AC)
-            </p>
-        </answer>
-    </exercise>
-</exercises>
+            <answer>
+                <p>a. "No Scrubs": 1. <chord root="D flat" mode="m" bps="7"/>, <chord root="iv" bps="7"/>; 2. <chord root="A flat" mode="m"/>, <chord root="i"/>; 3. <chord root="E flat" bps="7"/>, <chord root="V" bps="7"/>; 4. <chord root="A flat" mode="m"/>, <chord root="i"/></p>
+                <p>b. Mozart: 1. <chord root="C"/>, <chord root="I"/>; 2. <chord root="G" bps="7" bass="D"/>, <chord root="V" bps="7" bass="5th"/>; 3. <chord root="C"/>, <chord root="I"/>; 4. <chord root="F" bass="C"/>, <chord root="IV" bass="5th"/>; 5. <chord root="C"/>, <chord root="I"/>; 6. <chord root="G" bps="7" bass="B"/>, <chord root="V" bps="7" bass="3rd"/>; 7. <chord root="C"/>, <chord root="I"/>; Cadence type: Authentic Cadence (AC)</p>
+            </answer>
+        </exercise>
+    </exercises>
 </chapter>

@@ -1,63 +1,63 @@
-        <frontmatter xml:id="index">
-            <titlepage>
-                <author>
-                    <personname>Robert Hutchinson</personname>
-                    <institution>University of Puget Sound</institution>
-                </author>
-                <date>DRAFT <today/> DRAFT</date>
-            </titlepage>
+<frontmatter xml:id="index">
+    <titlepage>
+        <author>
+            <personname>Robert Hutchinson</personname>
+            <institution>University of Puget Sound</institution>
+        </author>
+        <date>DRAFT <today/> DRAFT</date>
+    </titlepage>
 
-            <colophon>
+    <colophon>
 
-            	<website>
-			<name><c>musictheory.pugetsound.edu</c></name>
-			<address>http://musictheory.pugetsound.edu</address>
-		</website>
+        <website>
+            <name><c>musictheory.pugetsound.edu</c></name>
+            <address>http://musictheory.pugetsound.edu</address>
+        </website>
 
-		<copyright>
-			<year>2017</year>
-			<holder>Robert Hutchinson</holder>
-			<minilicense>GFDL License</minilicense>
-			<shortlicense>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of the license is included in the appendix entitled <q>GNU Free Documentation License.</q></shortlicense>
-		</copyright>
+        <copyright>
+            <year>2017</year>
+            <holder>Robert Hutchinson</holder>
+            <minilicense>GFDL License</minilicense>
+            <shortlicense>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of the license is included in the appendix entitled <q>GNU Free Documentation License.</q></shortlicense>
+        </copyright>
 
-            </colophon>
+    </colophon>
 
-            <acknowledgement>
-            	<p>I owe a huge thanks to Robert Beezer for recommending PreTeXt (formerly <q>MathBook XML</q>)as a means to author this <em>Music Theory for the 21st<ndash/>Century Classroom</em>. His work creating the <q>world</q> of PreTeXt made it easier than I could have imagined to create this text in all its forms (online, PDF, and print).
-            	</p>
-            	<p>Also of incredible value, and without whom this text would not exist, is Jahrme Risner, who helped me wrap my head around the nitty gritty of PreTeXt and patiently coached me through entering commands in the terminal.
-            	</p>
-            	<p>Finally, I must thank my wife, Dawn Padula, Director of Vocal Studies at the University of Puget Sound and musician extraordinaire, for entertaining my endless questions about my choices for musical examples and the clarity of explanations and diagrams.
-            	</p>
-            </acknowledgement>
+    <acknowledgement>
+        <p>I owe a huge thanks to Robert Beezer for recommending PreTeXt (formerly <q>MathBook XML</q>)as a means to author this <em>Music Theory for the 21st<ndash/>Century Classroom</em>. His work creating the <q>world</q> of PreTeXt made it easier than I could have imagined to create this text in all its forms (online, PDF, and print).
+    </p>
+    <p>Also of incredible value, and without whom this text would not exist, is Jahrme Risner, who helped me wrap my head around the nitty gritty of PreTeXt and patiently coached me through entering commands in the terminal.
+    </p>
+    <p>Finally, I must thank my wife, Dawn Padula, Director of Vocal Studies at the University of Puget Sound and musician extraordinaire, for entertaining my endless questions about my choices for musical examples and the clarity of explanations and diagrams.
+    </p>
+</acknowledgement>
 
-            <preface>
-            	<p><em>Music Theory for the 21st<ndash/>Century Classroom</em> is an openly<ndash/>licensed four<ndash/>semester college music theory textbook. This text differs from other music theory textbooks by focusing less on four<ndash/>part (SATB) voiceleading and more on relating harmony to the phrase. Also, in traditional music theory textbooks, there is little emphasis on motivic analysis and analysis of melodic units smaller than the phrase. In my opinion, this led to students having difficulty with creating melodies, since the training they are given is typically to write a <q>melody</q> in quarter notes in the soprano voice of voiceleading exercises. When the assignments in those texts ask students to do more than this, the majority of the students struggl to create a melody with continuity and with appropriate placement of harmonies within a phrase because the text had not prepared them to do so.
-            	</p>
+<preface>
+    <p><em>Music Theory for the 21st<ndash/>Century Classroom</em> is an openly<ndash/>licensed four<ndash/>semester college music theory textbook. This text differs from other music theory textbooks by focusing less on four<ndash/>part (SATB) voiceleading and more on relating harmony to the phrase. Also, in traditional music theory textbooks, there is little emphasis on motivic analysis and analysis of melodic units smaller than the phrase. In my opinion, this led to students having difficulty with creating melodies, since the training they are given is typically to write a <q>melody</q> in quarter notes in the soprano voice of voiceleading exercises. When the assignments in those texts ask students to do more than this, the majority of the students struggl to create a melody with continuity and with appropriate placement of harmonies within a phrase because the text had not prepared them to do so.
+</p>
 
-            	<p>In <em>Music Theory for the 21st<ndash/>Century Classroom</em>, students learn about motive, fragment, phrase, and subphrase, as well as types of melodic alteration like inversion, intervallic change, augmentation, diminution, rhythmic change, ornamentation, extension, and retrograde. By understanding motive and subphrase (also known as <q>phrase segment</q> or <q>phrase member</q>), I believe students will better understand the logic and construction of melodies, which will aid them in creating their own
-            	</p>
+<p>In <em>Music Theory for the 21st<ndash/>Century Classroom</em>, students learn about motive, fragment, phrase, and subphrase, as well as types of melodic alteration like inversion, intervallic change, augmentation, diminution, rhythmic change, ornamentation, extension, and retrograde. By understanding motive and subphrase (also known as <q>phrase segment</q> or <q>phrase member</q>), I believe students will better understand the logic and construction of melodies, which will aid them in creating their own
+</p>
 
-            	<p>This text is meant to take the student from the basics of reading and writing pitches and rhythms through twelve<ndash/>tone technique and minimalism over the course of four semesters. Whenever possible, popular music and music from film and musical theater is included to illustrate melodic and harmonic concepts, always within the context of the phrase. 
-            	</p>
+<p>This text is meant to take the student from the basics of reading and writing pitches and rhythms through twelve<ndash/>tone technique and minimalism over the course of four semesters. Whenever possible, popular music and music from film and musical theater is included to illustrate melodic and harmonic concepts, always within the context of the phrase. 
+</p>
 
-            	<p>Performances of notated examples are linked to legal, copyrighted YouTube videos with the start and stop time embedded to prevent the instructor the need to search for the passage. The online nature of the text allows links between related concepts (including the index) as well as to relevant pages on the internet.
-            	</p>
+<p>Performances of notated examples are linked to legal, copyrighted YouTube videos with the start and stop time embedded to prevent the instructor the need to search for the passage. The online nature of the text allows links between related concepts (including the index) as well as to relevant pages on the internet.
+</p>
 
-            	<p>While I have considered creating a unique curriculum for the theory program at my university since 2001, the impetus to create an online music theory textbook that could be of use not only to my students but to students at other colleges came from reading <q><url href="http://dx.doi.org/10.18177/sym.2016.56.fr.11118">Transforming Music Study from its Foundations: A Manifesto for Progressive Change in the Undergraduate Preparation of Music Majors</url></q> by the College Music Society’s Task Force on the Undergraduate Music Major.
-            	</p>
+<p>While I have considered creating a unique curriculum for the theory program at my university since 2001, the impetus to create an online music theory textbook that could be of use not only to my students but to students at other colleges came from reading <q><url href="http://dx.doi.org/10.18177/sym.2016.56.fr.11118">Transforming Music Study from its Foundations: A Manifesto for Progressive Change in the Undergraduate Preparation of Music Majors</url></q> by the College Music Society’s Task Force on the Undergraduate Music Major.
+</p>
 
-            	<p>The ideas in <q>the Manifesto,</q> as it is often called<mdash/>that colleges need to train students to be composer<ndash/>performer<ndash/>improvisers (and I would add <q>arrangers</q>) like Bach and Beethoven as well as Charlie Parker and Jimmy Page<mdash/>resonated with my musical experience growing up, which included writing, arranging, and playing popular music on electric guitar, electric bass, keyboards, and drumset in high school<mdash/>both in my uncle’s home recording studio and with a garage band I formed. It also resonated with my experiences playing jazz and fusion as a professional bassist ever since I was in college, a situation where the majority of the basslines I play are improvised from lead-sheet symbols. 
-            	</p>
-            	<p>My Ph.D. is in composition with a supporting area in music theory. I teach students to write motet and fugues in the upper<ndash/>division counterpoint class. I believe in compositional craft. I also acknowledge that there are many things one can value in music, including lyrics, groove, production, texture, emotion, harmony, virtuosity, and intellect, to name a few. In this textbook I try to cover as many as possible of these items that relate to how music is made and how understanding can enrich one’s experience.
-            	</p>
+<p>The ideas in <q>the Manifesto,</q> as it is often called<mdash/>that colleges need to train students to be composer<ndash/>performer<ndash/>improvisers (and I would add <q>arrangers</q>) like Bach and Beethoven as well as Charlie Parker and Jimmy Page<mdash/>resonated with my musical experience growing up, which included writing, arranging, and playing popular music on electric guitar, electric bass, keyboards, and drumset in high school<mdash/>both in my uncle’s home recording studio and with a garage band I formed. It also resonated with my experiences playing jazz and fusion as a professional bassist ever since I was in college, a situation where the majority of the basslines I play are improvised from lead-sheet symbols. 
+</p>
+<p>My Ph.D. is in composition with a supporting area in music theory. I teach students to write motet and fugues in the upper<ndash/>division counterpoint class. I believe in compositional craft. I also acknowledge that there are many things one can value in music, including lyrics, groove, production, texture, emotion, harmony, virtuosity, and intellect, to name a few. In this textbook I try to cover as many as possible of these items that relate to how music is made and how understanding can enrich one’s experience.
+</p>
 
-            	<attribution>
-					<line>Robert Hutchinson</line>
-					<line>Tacoma, Washington 2017</line>
-				</attribution>
+<attribution>
+    <line>Robert Hutchinson</line>
+    <line>Tacoma, Washington 2017</line>
+</attribution>
 
-            </preface>
+</preface>
 
-        </frontmatter>
+</frontmatter>

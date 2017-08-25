@@ -6,10 +6,12 @@
         <p>A <term>triad</term><index><main>triad</main><sub>definition of</sub></index> consists of three notes stacked in consecutive thirds. A triad is also called a <term>chord</term><index><main>chord</main></index> as well as a <term>harmony</term><index><main>harmony</main></index>. (Harmony also refers to chord progressions.)</p>
         <p>The lowest note of a triad when it is stacked in thirds is called the <term>root</term><index><main>root</main></index>. The middle note is the third and the highest note of the triad is the fifth. (We will discuss inversions of triads later.)</p>
         <figure>
+            <caption/>
             <image source="images/unit1/basic-triads"><description></description></image>
         </figure>
         <p>There are four qualities of triads<mdash/><term>augmented</term><index><main>triad</main><sub>augmented</sub></index>, <term>major</term><index><main>triad</main><sub>major</sub></index>, <term>minor</term><index><main>triad</main><sub>minor</sub></index>, and <term>diminished</term><index><main>triad</main><sub>diminished</sub></index>.</p>
         <figure>
+            <caption/>
             <image source="images/unit1/triads-the-4-types"><description></description></image>
         </figure>
         <p>Major and minor triads are common, diminished triads are less common, and augmented triads are rare.</p>
@@ -17,51 +19,62 @@
     <section xml:id="LeadSheetSymbols">
         <title>Lead Sheet Symbols</title>
         <p><term>Lead-sheet symbols</term><index><main>lead-sheet symbols</main></index> (also known as <q>lead-sheet notation</q> and <q>lead-sheet chord symbols</q>) are often used as shorthand for chords in popular music and jazz. These symbols allow a guitarist or pianist to choose how to <q>voice</q> the chords, i.e., how they want to arrange the notes.</p>
-        <figure>
+        <sidebyside>
             <image source="images/unit1/triads-voicings-of-C-major-triad-B"><description></description></image>
-        </figure>
+        </sidebyside>
         <p>Here is a musical example with lead-sheet symbols and guitar tablature.</p>
+
         <figure>
-            <image source="images/unit1/leadsheet-edge-of-glory"><description></description></image><index><main>songs (popular)</main><sub>"Edge of Glory" (Lady Gaga)</sub></index>
+            <caption/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit1/leadsheet-edge-of-glory">
+                        <description></description>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="3LiXsWZVdWc" start="33" end="44" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup><index><main>songs (popular)</main><sub>"Edge of Glory" (Lady Gaga)</sub></index>
         </figure>
-        <p><url href="https://youtu.be/3LiXsWZVdWc?t=33s">Click to open a performance on YouTube.</url></p>
+
     </section>
     <section xml:id="InvertedTriads">
         <title>Inverted Triads</title>
         <introduction>
             <p>An <term>inverted triad</term><index><main>inverted triad</main></index><index><main>triad</main><sub>inverted</sub></index><index><main>inverted chord</main></index> does not have the root as the lowest note. It is important to distinguish between <em>root</em> and <em>bass</em>. The root of a chord is the lowest note <em>when the notes are stacked in thirds</em>. The <em>bass</em> is the lowest note, which might be the root, third, or fifth.</p>
             <p>A triad is in <q><term>root position</term></q><index><main>root position</main></index> when the root is the lowest note, <q><term>first inversion</term></q><index><main>first inversion</main></index> when the third of the chord is the lowest note, and <q><term>second inversion</term></q><index><main>second inversion</main></index> when the fifth of the chord is the lowest note.</p>
-            <figure>
+            <sidebyside>
                 <image source="images/unit1/triads-intro-to-inversion"><description></description></image>
-            </figure>
+            </sidebyside>
         </introduction>
         <subsection xml:id="SlashChords">
             <title>"Slash" Chords</title>
             <p>In lead-sheet notation, an inverted chord has the triad before the slash (/) and the bass note after it. <q><chord root="C" bass="E"/></q> means a <n pc="C"/> triad with an <n pc="E"/> as the lowest note.  Therefore, a <term>slash chord</term><index><main>slash chord</main></index> has a bass note that is not the root of the chord. In fact, it is possible to have slash chords where the bass note is not one of the chord tones (e.g., <chord root="C" bass="F sharp"/>).</p>
-            <figure>
+            <sidebyside>
                 <image source="images/unit1/leadsheet-infograph-on-slash-chord"><description></description></image>
-            </figure>
+            </sidebyside>
         </subsection>
     </section>
     <section xml:id="SimpleSusChords">
         <title>Simple "Sus" Chords</title>
         <p>Common in popular music are <q>sus</q> chords, with <q>sus</q> being a shortening of <q>suspended,</q> a term we will study in the chapter on non-chord tones.<!--link to Non Chord Tones someday--></p>
         <p>The two basic sus chords are the sus4 and sus2 chords. In the <term>sus4</term><index><main>sus4 chord</main></index> chord (also labeled simply as <q>sus</q>), a perfect 4th replaces the 3rd of the chord. In the <term>sus2</term><index><main>sus2 chord</main></index><index><main>sus9 chord</main></index> chord (sometimes called <q>sus9</q>), a major 2nd replaces the 3rd of the chord. Both of these sus chords have a perfect 5th from the root to the fifth.</p>
-        <figure>
+        <sidebyside>
             <image source="images/unit1/lead-sheet-sus-chords"><description></description></image>
-        </figure>
+        </sidebyside>
         <p>Here is a musical example with a sus4 chord.</p>
-        <figure>
+        <sidebyside>
             <image source="images/unit1/lead-sheet-sus4-hard-to-say-im-sorry-B"><description></description></image><index><main>songs (popular)</main><sub>"Hard to Say I'm Sorry" (Chicago)</sub></index>
-        </figure>
+        </sidebyside>
         <p><url href="https://youtu.be/zqq3tW3iACw?t=11s">Click here to open a performance on YouTube.</url></p>
         <p>Here is a musical example with a sus2 chord.</p>
-        <figure>
+        <sidebyside>
             <image source="images/unit1/leadsheet-sus2-love-song"><description></description></image><index><main>songs (popular)</main><sub>"Love Song" (Sara Bareilles)</sub></index>
-        </figure>
+        </sidebyside>
         <p><url href="https://youtu.be/qi7Yh16dA0w?t=7s">Click here to open a performance on YouTube.</url></p>
-        <!--<video youtube="qi7Yh16dA0w" start="7" end="15"/>
-        doesn't play back-->
+        <!-- <video youtube="qi7Yh16dA0w" start="7" end="15"/> -->
+        <!-- doesn't play back -->
         <p>We will not invert sus chords in this text. In later chapters, we will discuss more sophisticated sus chords like <chord root="C" bps="9" suspended="yes"/> and <chord root="C" suspended="yes"><alteration><flat/>9</alteration></chord>.</p>
     </section>
 
@@ -73,41 +86,46 @@
                 <p>Analyze the triad types (M, m, +, º) using lead-sheet symbols. Sus2 and sus4 chords are also included.</p>
                 <p><image source="images/unit1/PRAC-EXER-Triad-ID"><description></description></image></p>
             </statement>
-            <answer><p>1. <chord root="A sharp" mode="diminished"/>, 2. <n pc="F"/>sus4, 3. <chord root="B flat" mode="augmented"/>, 4. <chord root="D flat"/>, 5. <n pc="E"/>sus2</p>
-        </answer>
-    </exercise>
-    <exercise>
+            <answer>
+                <p>1. <chord root="A sharp" mode="diminished"/>, 2. <n pc="F"/>sus4, 3. <chord root="B flat" mode="augmented"/>, 4. <chord root="D flat"/>, 5. <n pc="E"/>sus2</p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Write the specified triads and sus chords.</p>
                 <p><image source="images/unit1/PRAC-EXER-Triad-writing"><description></description></image></p>
             </statement>
-            <answer><p>1. <n pc="B"/><n pc="D"/><n pc="F" acc="sharp"/>, 2. <n pc="E"/><n pc="G" acc="sharp"/><n pc="B" acc="sharp"/>, 3. <n pc="A" acc="flat"/><n pc="B" acc="flat"/><n pc="E" acc="flat"/>, 4. <n pc="C" acc="sharp"/><n pc="E" acc="sharp"/><n pc="G" acc="sharp"/>, 5. <n pc="D"/><n pc="G"/><n pc="A"/>, 6. <n pc="F"/><n pc="A" acc="flat"/><n pc="C" acc="flat"/></p>
-        </answer>
-    </exercise>
-    <exercise>
+            <answer>
+                <p>1. <n pc="B"/><n pc="D"/><n pc="F" acc="sharp"/>, 2. <n pc="E"/><n pc="G" acc="sharp"/><n pc="B" acc="sharp"/>, 3. <n pc="A" acc="flat"/><n pc="B" acc="flat"/><n pc="E" acc="flat"/>, 4. <n pc="C" acc="sharp"/><n pc="E" acc="sharp"/><n pc="G" acc="sharp"/>, 5. <n pc="D"/><n pc="G"/><n pc="A"/>, 6. <n pc="F"/><n pc="A" acc="flat"/><n pc="C" acc="flat"/></p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Analyze the following inverted triads using slash notation.</p>
                 <p><image source="images/unit1/PRAC-EXER-triad-inverted-ID"><description></description></image></p>
             </statement>
-            <answer><p>1. <chord root="D" mode="m" bass="F"/>, 2. <chord root="G" mode="m" bass="D"/>, 3. <chord root="A sharp" mode="diminished" bass="C sharp"/>, 4. <chord root="F" bass="A"/>, 5. <chord root="B flat" bass="F"/>, 6. <chord root="C" mode="m" bass="G"/></p>
-        </answer>
-    </exercise>
-    <exercise>
+            <answer>
+                <p>1. <chord root="D" mode="m" bass="F"/>, 2. <chord root="G" mode="m" bass="D"/>, 3. <chord root="A sharp" mode="diminished" bass="C sharp"/>, 4. <chord root="F" bass="A"/>, 5. <chord root="B flat" bass="F"/>, 6. <chord root="C" mode="m" bass="G"/></p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Write the specified inverted triads.</p>
                 <p><image source="images/unit1/PRAC-EXER-Triad-Inverted-Writing"><description></description></image></p>
             </statement>
-            <answer><p>(lowest to highest) 1. <n pc="D"/><n pc="G"/><n pc="B"/>, 2. <n pc="D"/><n pc="F" acc="sharp"/><n pc="B"/>, 3. <n pc="F"/><n pc="A" acc="flat"/><n pc="D" acc="flat"/>, 4. <n pc="B" acc="flat"/><n pc="E"/><n pc="G"/></p>
-        </answer>
-    </exercise>
-    <exercise>
+            <answer>
+                <p>(lowest to highest) 1. <n pc="D"/><n pc="G"/><n pc="B"/>, 2. <n pc="D"/><n pc="F" acc="sharp"/><n pc="B"/>, 3. <n pc="F"/><n pc="A" acc="flat"/><n pc="D" acc="flat"/>, 4. <n pc="B" acc="flat"/><n pc="E"/><n pc="G"/></p>
+            </answer>
+        </exercise>
+        <exercise>
             <statement>
                 <p>Correct the misspelled triads. Label your corrected spelling with lead-sheet notation. All of the examples are in root position (the lowest note is the root).</p>
                 <p><image source="images/unit1/PRAC-EXER-Triads-misspelled"><description></description></image></p>
             </statement>
-            <answer><p>1. <n pc="F" acc="sharp"/><n pc="A" acc="sharp"/><n pc="C" acc="sharp"/>, 2. <n pc="G"/><n pc="B" acc="flat"/><n pc="D"/>, 3. <n pc="A" acc="flat"/><n pc="C" acc="flat"/><n pc="E" acc="flat"/></p>
-        </answer>
-    </exercise>
+            <answer>
+                <p>1. <n pc="F" acc="sharp"/><n pc="A" acc="sharp"/><n pc="C" acc="sharp"/>, 2. <n pc="G"/><n pc="B" acc="flat"/><n pc="D"/>, 3. <n pc="A" acc="flat"/><n pc="C" acc="flat"/><n pc="E" acc="flat"/></p>
+            </answer>
+        </exercise>
 
-</exercises>
+    </exercises>
 </chapter>
