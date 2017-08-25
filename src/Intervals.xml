@@ -6,11 +6,11 @@
         <introduction>
             <p>Intervals are the building blocks of scales, chords (or harmonies), and melodies. <term>Intervals</term><idx><h>intervals</h><h>definition of</h></idx> are a measurement between two pitches, either vertically or horizontally. When measuring vertically, we refer to <term>harmonic intervals</term><idx><h>intervals</h><h>harmonic</h></idx> because the two notes sound simultaneously. When measuring horizontally, we refer to <term>melodic intervals</term><idx><h>intervals</h><h>melodic</h></idx> because the notes occur one after the other.</p>
             <sidebyside>
-                <image source="images/unit1/harmonic-and-melodic-intervals"><description/></image>
+                <image source="images/unit1/harmonic-and-melodic-intervals"/>
             </sidebyside>
             <p>When you measure from the tonic up to each scale degree of a major scale, you find the following intervals:</p>
             <sidebyside>
-                <image source="images/unit1/intervals-of-major-scale"><description/></image>
+                <image source="images/unit1/intervals-of-major-scale"/>
             </sidebyside>
             <p>All intervals in the example above are either <q>perfect</q> or <q>major.</q></p>
         </introduction>
@@ -19,16 +19,16 @@
             <p>There are two elements to naming intervals: the quality and the number (for example, <q>major sixth,</q> abbreviated as <q>M6</q>).</p>
             <p>Odd-numbered intervals will always be a line to a line or a space to a space.</p>
             <sidebyside>
-                <image source="images/unit1/intervals-numeric-odd-only"><description/></image>
+                <image source="images/unit1/intervals-numeric-odd-only"/>
             </sidebyside>
             <p>Even-numbered intervals will always be a space to a line or a line to a space.</p>
             <sidebyside>
-                <image source="images/unit1/intervals-numeric-even-only"><description/></image>
+                <image source="images/unit1/intervals-numeric-even-only"/>
             </sidebyside>
         </subsection>
         <subsection xml:id="IntervalQuality">
             <title>Interval Quality: Perfect versus Major/Minor</title>
-            <p>Intervals such as the unison, fourth, fifth, and octave can be classified as <q><term>perfect</term><idx><h>intervals</h><h>perfect</h></idx></q> but never <q>major</q> or <q>minor</q>. Conversely, the intervals of the second, third, sixth, and seventh can be <term>major</term><idx><h>intervals</h><h>major</h></idx> or minor but never perfect in quality.</p>
+            <p>Intervals such as the unison, fourth, fifth, and octave can be classified as <q><term>perfect</term></q><idx><h>intervals</h><h>perfect</h></idx> but never <q>major</q> or <q>minor</q>. Conversely, the intervals of the second, third, sixth, and seventh can be <term>major</term><idx><h>intervals</h><h>major</h></idx> or minor but never perfect in quality.</p>
             <sidebyside>
                 <tabular halign="center">
                     <row>
@@ -43,11 +43,11 @@
             </sidebyside>
             <p>Perfect intervals are always natural to natural, sharp to sharp, and flat to flat except for the fourths and fifths between <n pc="B"/> and <n pc="F"/>, which involve <n pc="B"/> to <n pc="F" acc="sharp"/> and <n pc="B" acc="flat"/> to <n pc="F"/>.</p>
             <sidebyside>
-                <image source="images/unit1/intervals-perfect-except-B-to-F"><description/></image>
+                <image source="images/unit1/intervals-perfect-except-B-to-F"/>
             </sidebyside>
             <p><term>Minor intervals</term><idx><h>intervals</h><h>minor</h></idx> are one half step smaller than major intervals.</p>
             <sidebyside>
-                <image source="images/unit1/intervals-major-versus-minor"><description/></image>
+                <image source="images/unit1/intervals-major-versus-minor" width="60%"/>
             </sidebyside>
         </subsection>
     </section>
@@ -56,11 +56,11 @@
         <p><idx><h>intervals</h><h>how to identify</h></idx>Here are two methods for identifying intervals.</p>
         <p>The first method involves thinking of the lower note of an interval as the tonic (the first note of the scale). Remember that all the notes above the tonic in a major scale are perfect or major. Determine if the upper note is in the major scale. If it is not, determine if the interval is a half step smaller than a major interval, in which case it is a minor interval.</p>
         <sidebyside>
-            <image source="images/unit1/how-to-ID-interval"><description/></image>
+            <image source="images/unit1/how-to-ID-interval"/>
         </sidebyside>
         <p>If the lower note of an interval has a sharp or flat on it, cover up the accidental, determine the interval, then factor the accidental back in.</p>
         <sidebyside>
-            <image source="images/unit1/interval-ID-covering-lower-note"><description/></image>
+            <image source="images/unit1/interval-ID-covering-lower-note"/>
         </sidebyside>
         <p>The second method is to memorize how many half steps there are in each interval. To determine the size of an interval, count the number of half steps between the two notes then refer to your memory.</p>
         <sidebyside>
@@ -113,9 +113,9 @@
                 </row>
             </tabular>
         </sidebyside>
-        <p>* A <q>tritone</q> is a generic name for an augmented fourth (+4) or diminished fifth (º5) VERSUS <chord mode="augmented"/>4 or <chord mode="diminished"/>5. These two intervals are enharmonic. <xref ref="AugmentedAndDiminishedIntervals" text="title"/> are discussed below<!--make link for aug dim int-->.</p>
+        <p>* A <q>tritone</q> is a generic name for an augmented fourth (<chord mode="augmented"/>4) or diminished fifth (<chord mode="diminished"/>5). These two intervals are enharmonic. <xref ref="AugmentedAndDiminishedIntervals" text="title"/> are discussed below.</p>
         <sidebyside>
-            <image source="images/unit1/interval-ID-by-counting-half-steps"><description/></image>
+            <image source="images/unit1/interval-ID-by-counting-half-steps"/>
         </sidebyside>
     </section>
     <section xml:id="HowToWriteIntervals">
@@ -123,7 +123,7 @@
         <p><idx><h>intervals</h><h>how to write</h></idx>To write an interval <em>above</em> a given note, use the two methods given below.</p>
         <p>If you are asked to write a minor sixth above the note <n pc="A"/>, start with the <n pc="A"/> major scale and key signature. In <n pc="A"/> major, there is an <n pc="F" acc="sharp"/>, which is a major sixth above the note <n pc="A"/>. Therefore, <n pc="F" acc="natural"/> is a minor sixth above <n pc="A"/>.</p>
         <sidebyside>
-            <image source="images/unit1/interval-writing-above"><description/></image>
+            <image source="images/unit1/interval-writing-above"/>
         </sidebyside>
         <p>Alternatively, you can simply count the number of half steps. If you know there are 8 half steps in a minor sixth, you can count from <n pc="A"/> up to <n pc="F"/>.</p>
         <p>Writing small intervals up to a major third <em>below</em> a given note is straightforward using a combination of whole and half steps. However, to write larger intervals below a given note, it is sometimes helpful to invert the interval first (<xref ref="InversionOfIntervals" text="title"/> is discussed in the next section).</p>
@@ -132,20 +132,20 @@
         <title>Inversion of Intervals Explained</title>
         <p><idx><h>intervals</h><h>inversion of</h></idx>There are only two notes in an interval, one lower and one higher. To invert an interval, change the position of the notes so the note that was lower is now higher.</p>
         <sidebyside>
-            <image source="images/unit1/inversion-of-intervals"><description/></image>
+            <image source="images/unit1/inversion-of-intervals"/>
         </sidebyside>
         <p>In the above example, a m6 inverts to a M3. This is true for all notes a M3 (or m6) away from each other. Below are examples of how intervals invert.</p>
         <sidebyside>
-            <image source="images/unit1/interval-inversions-on-staff"><description/></image>
+            <image source="images/unit1/interval-inversions-on-staff"/>
         </sidebyside>
         <p>Note that the symbol <chord mode="diminished"/> represents “diminished” (one half step smaller than perfect or minor) and the symbol <chord mode="augmented"/> represents “augmented” (one half step larger than perfect or major).</p>
         <p>Below is a chart of how intervals invert.</p>
-        <sidebyside width="70%">
-            <image source="images/unit1/interval-inversion-chart"><description/></image>
+        <sidebyside>
+            <image source="images/unit1/interval-inversion-chart" width="70%"/>
         </sidebyside>
         <p>To write a small interval <em>below</em> a given note, you should be able to combine whole steps and half steps up to the interval of a perfect fourth (two whole steps plus one half step). To write a larger interval below a given note, invert the interval size, determine the note <em>above</em>, then write it <em>below</em> the given note.</p>
         <sidebyside>
-            <image source="images/unit1/interval-inversion-staff-example"><description/></image>
+            <image source="images/unit1/interval-inversion-staff-example"/>
         </sidebyside>
     </section>
     <section xml:id="AugmentedAndDiminishedIntervals">
@@ -153,22 +153,26 @@
         <p><term>Augmented intervals</term><idx><h>augmented intervals</h></idx><idx><h>intervals</h><h>augmented</h></idx> are one half step <em>larger</em> than perfect or major intervals and <term>diminished intervals</term><idx><h>diminished intervals</h></idx><idx><h>intervals</h><h>diminished</h></idx> are one half step <em>smaller</em> than perfect or minor intervals.</p>
         <p>Remember that perfect intervals (unisons, fourths, fifths, and octaves) can never be major or minor, and major and minor intervals (seconds, thirds, sixths, and sevenths) can never be perfect in quality. However, any size of interval can be augmented or diminished.</p>
         <sidebyside>
-            <image source="images/unit1/interval-quality-continuum"><description/></image>
+            <image source="images/unit1/interval-quality-continuum"/>
         </sidebyside>
         <p>Here are musical examples illustrating the continuum of interval quality.</p>
-        <sidebyside>
-            <image source="images/unit1/intervals-d-P-A"><description/></image>
-        </sidebyside>
-        <sidebyside>
-            <image source="images/unit1/intervals-d-m-M-A"><description/></image>
-        </sidebyside>
+        <sbsgroup>
+            <sidebyside>
+                <image source="images/unit1/intervals-d-P-A"/>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit1/intervals-d-m-M-A"/>
+            </sidebyside>
+        </sbsgroup>
     </section>
     <exercises xml:id="IntervalsPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>
             <statement>
                 <p>Specify only the number, not the quality, for each example.</p>
-                <p><image source="images/unit1/PRAC-EXER-Intervals-number-only"><description/></image></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Intervals-number-only"/>
+                </sidebyside>
             </statement>
             <answer>
                 <p>1. 6, 2. 4, 3. 2, 4. 8, 5. 7</p>
@@ -177,7 +181,9 @@
         <exercise>
             <statement>
                 <p>Identify the interval quality and size for each example.</p>
-                <p><image source="images/unit1/PRAC-EXER-Interval-ID"><description/></image></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Interval-ID"/>
+                </sidebyside>
             </statement>
             <answer>
                 <p>1. m6, 2. M3, 3. M2, 4. P5, 5. m7, 6. +4</p>
@@ -186,7 +192,9 @@
         <exercise>
             <statement>
                 <p>Write the following intervals <em>above</em> the given note.</p>
-                <p><image source="images/unit1/PRAC-EXER-Intervals-above"><description/></image></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Intervals-above"/>
+                </sidebyside>
             </statement>
             <answer>
                 <p>Upper notes: 1. <n pc="D" acc="flat"/>, 2.  <n pc="G" acc="flat"/>, 3. <n pc="A" acc="sharp"/>, 4. <n pc="B" acc="sharp"/>, 5. <n pc="F" acc="flat"/>, 6. <n pc="F" acc="flat"/></p>
@@ -195,7 +203,9 @@
         <exercise>
             <statement>
                 <p>Write the following intervals <em>below</em> the given note.</p>
-                <p><image source="images/unit1/PRAC-EXER-Intervals-below"><description/></image></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Intervals-below"/>
+                </sidebyside>
             </statement>
             <answer>
                 <p>Lower notes: 1. <n pc="G" acc="sharp"/>, 2.  <n pc="A" acc="sharp"/>, 3. <n pc="F"/>, 4. <n pc="G" acc="flat"/>, 5. <n pc="F" acc="sharp"/>, 6. <n pc="B" acc="flat"/></p>
