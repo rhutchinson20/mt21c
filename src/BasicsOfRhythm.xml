@@ -7,25 +7,39 @@
     <section xml:id="TimeSignature">
         <title>Time Signature</title>
         <p>In a <term>time signature</term><idx><h>time signature</h></idx>, the top number of the time signature tells you <q>how many</q> and the bottom number tells you <q>of what.</q></p>
-        <sidebyside><image source="images/unit1/time-signature-explanation"><description>An image showing various time signatures</description></image></sidebyside>
+        <sidebyside>
+            <image source="images/unit1/time-signature-explanation">
+                <description>An image showing various time signatures</description>
+            </image>
+        </sidebyside>
     </section>
     <section xml:id="DurationalSymbols">
         <title>Durational Symbols</title>
         <p>In the present day, the most common time signature is 4/4<!--fix time signatures later--> (also known as <q>common time</q>). It makes sense to introduce durational symbols in the context of 4/4 because a whole note takes up a whole measure in 4/4, a half note takes up half a measure of 4/4, a quarter note takes up 1/4 of a measure, and so on.</p>
-        <sidebyside>
-            <image source="images/unit1/durational-symbols"><description>An illustration of the above paragraph in musical symbols</description></image><idx><h>durational symbols</h></idx>
-        </sidebyside>
+        <figure>
+            <caption/>
+            <idx><h>durational symbols</h></idx>
+            <image source="images/unit1/durational-symbols">
+                <description>An illustration of the above paragraph in musical symbols</description>
+            </image>
+        </figure>
         <p>Here are durational symbols for rests.</p>
         <sidebyside>
-            <image source="images/unit1/rests-whole-through-32nd"><description>Musical symbols for rests</description></image>
+            <image source="images/unit1/rests-whole-through-32nd">
+                <description>Musical symbols for rests</description>
+            </image>
         </sidebyside>
         <p>To put this information into practice, listen to the durational values double in speed in each measure of the following example.</p>
         <sidebyside>
-            <image source="images/unit1/durational-values-doubling"><description>Each measure has values twice as fast as the previous, from quarter notes to 32nd notes</description></image>
+            <image source="images/unit1/durational-values-doubling">
+                <description>Each measure has values twice as fast as the previous, from quarter notes to 32nd notes</description>
+            </image>
         </sidebyside>
-        <p>Two rare durational values are the double whole note (also called a <q>breve</q>) and the 64<m>^\mathrm{th}</m> note, which is twice as fast as a 32<m>^\mathrm{nd}</m> note.</p>
+        <p>Two rare durational values are the double whole note (also called a <q>breve</q>) and the 64th note, which is twice as fast as a 32nd note.</p>
         <sidebyside>
-            <image source="images/unit1/double-whole-notes-and-64th-notes"><description>musical symbols for double whole notes and 64th notes</description></image>
+            <image source="images/unit1/double-whole-notes-and-64th-notes">
+                <description>musical symbols for double whole notes and 64th notes</description>
+            </image>
         </sidebyside>
     </section>
     <section xml:id="DotsAndTies">
@@ -34,7 +48,9 @@
         <p>A <term>tie</term><idx><h>tie</h></idx> links two notes together to create a new duration. Ties occur between notes of the same pitch. A <term>slur</term><idx><h>slur</h></idx>, which looks like a tie, is placed over or under notes of different pitches and means to play them in a connected manner.</p>
         <p>A <term>dot</term><idx><h>dot</h></idx> added to a note increases the duration of that note by half. A second dot represents half the value of the first dot, or a quarter of the original duration. (These are known as “double-dotted notes.”)</p>
         <sidebyside>
-            <image source="images/unit1/ties-and-dots"><description>And example illustrating the difference between ties and slurs, and how dots add to the value of a note</description></image>
+            <image source="images/unit1/ties-and-dots">
+                <description>And example illustrating the difference between ties and slurs, and how dots add to the value of a note</description>
+            </image>
         </sidebyside>
     </section>
     <section xml:id="meter">
@@ -45,16 +61,22 @@
         <p>Meters with two beats in a bar are described as <em>duple</em><idx><h>meter</h><h>duple</h></idx>. If there are three beats in a bar, the meter is described as <em>triple</em><idx><h>meter</h><h>triple</h></idx>, and if there are four beats in a bar, the meter is described as <em>quadruple</em><idx><h>meter</h><h>quadruple</h></idx>.</p>
         <p>If the beats are normally divided into two parts, the meter is described as <term>simple</term><idx><h>simple meter</h></idx><idx><h>meter</h><h>simple</h></idx>. If the beats are normally divided into three parts, the meter is described as <term>compound</term><idx><h>compound meter</h></idx><idx><h>meter</h><h>compound</h></idx>.</p>
         <sidebyside>
-            <image source="images/unit1/simple-meters"><description>Examples time signatures with simple duple, simple triple, and simple quadruple meter</description></image>
+            <image source="images/unit1/simple-meters">
+                <description>Examples time signatures with simple duple, simple triple, and simple quadruple meter</description>
+            </image>
         </sidebyside>
         <p>The time signature <!--time signatures-->2/8 is <q>simple duple meter.</q> The time signature 3/2 is <q>simple triple meter.</q> Finally, 4/4 is <q>simple quadruple meter.</q></p>
         <p>When describing meter, we say how the beat is divided before the number of beats in the measure.</p>
         <sidebyside>
-            <image source="images/unit1/meter-explanation"><description>Graphic showing "simple" and "compound" occur before "duple," "triple," or "quadruple"</description></image>
+            <image source="images/unit1/meter-explanation">
+                <description>Graphic showing "simple" and "compound" occur before "duple," "triple," or "quadruple"</description>
+            </image>
         </sidebyside>
         <p>With compound meters the bottom number specifies <em>the division of the beat</em>. The beat value is a dotted note. We say <!--time signatures-->6/16 is <q>compound duple meter</q> because it has two beats. The time signature 6/8 is also compound duple. Compound time signatures have a top number greater than four that is divisible by 3 (6, 9, 12).</p>
         <sidebyside>
-            <image source="images/unit1/compound-meters"><description>Example showing time signatures with compound meter, such as 6/16, 9/8, and 12/4</description></image>
+            <image source="images/unit1/compound-meters">
+                <description>Example showing time signatures with compound meter, such as 6/16, 9/8, and 12/4</description>
+            </image>
         </sidebyside>
     </section>
     <section xml:id="Tuplets">
@@ -62,25 +84,29 @@
         <p><term>Tuplet</term><idx><h>tuplet</h></idx> is a generic term that describes a grouping of notes that would not normally occur within a beat.</p>
         <p>A quarter note naturally divides into two eighth notes or four sixteenth notes. A <term>triplet</term><idx><h>triplet</h></idx><idx><h>tuplet</h><h>triplet</h></idx> is a grouping of three eighth notes that occurs within the span of the quarter note. A <term>quintuplet</term><idx><h>quintuplet</h></idx><idx><h>tuplet</h><h>quintuplet</h></idx> would be a grouping of five sixteenth notes to occur within the span of one quarter note. It is not uncommon to see quintuplets, sextuplets, and septuplets.</p>
         <sidebyside>
-            <image source="images/unit1/tuplets"><description>An example with triplets, quintuplets, and sextuplets</description></image>
+            <image source="images/unit1/tuplets">
+                <description>An example with triplets, quintuplets, and sextuplets</description>
+            </image>
         </sidebyside>
         <p>If you write a piece of music that naturally has a triplet division to the beat, you should use <!--time signature-->6/8, 9/8 or 12/8 depending on the number of beats in each measure.</p>
         <figure>
-            <caption>These two measures sound the same</caption>
+            <caption>Two measures that sound the same</caption>
             <sidebyside widths="35% 35%" margins="10%">
                 <image source="images/unit1/triplets-in-2-4"/><image source="images/unit1/triplets-in-6-8"/>
             </sidebyside>
         </figure>
         <p>In compound meter, a <term>duplet</term><idx><h>duplet</h></idx><idx><h>tuplet</h><h>duplet</h></idx> is a grouping of two eighth notes to occur within the span of a dotted quarter note and a <term>quadruplet</term><idx><h>quadruplet</h></idx><idx><h>tuplet</h><h>quadruplet</h></idx> is a grouping of four eighth notes to occur with the span of a dotted quarter note.</p>
         <sidebyside>
-            <image source="images/unit1/duplet-and-quadruplet"><description>An example with duplets and quadruplets in compound meter, 6/8</description></image>
+            <image source="images/unit1/duplet-and-quadruplet">
+                <description>An example with duplets and quadruplets in compound meter, 6/8</description>
+            </image>
         </sidebyside>
     </section>
     <section xml:id="CommonRhythmicNotationErrors">
         <title>Common Rhythmic Notation Errors</title>
         <p>The standard practice when notating rhythms is to use beaming to show where the beginning of each beat occurs.</p>
         <p>Consider the following example:</p>
-        <sidebyside width="80%">
+        <sidebyside>
             <image source="images/unit1/rhythmic-notation-1"/>
         </sidebyside>
         <p>It is difficult to discern where the downbeats are.</p>
@@ -99,7 +125,9 @@
         <p><term>Syncopation</term><idx><h>syncopation</h></idx> occurs when notes on weak beats and on weak parts of beats are emphasized and nearby strong beats are deemphasized. Syncopation is common in popular music.</p>
         <p>Strong beats are the first beat of each measure (in 2/4 and 3/4) and beats 1 and 3 in <!--time signature-->4/4.  Syncopation <em>at the beat level</em> involves ties across those strong beats. Numbers in parentheses in the example below are beats that are obscured through syncopation.</p>
         <sidebyside>
-            <image source="images/unit1/synco-at-beat-level"><description>Syncopation at the beat level</description></image>
+            <image source="images/unit1/synco-at-beat-level">
+                <description>Syncopation at the beat level</description>
+            </image>
         </sidebyside>
         <p>Syncopation can also occur at the <em>division of the beat</em> level. Below are two syncopation figures that don’t show the beat but are acceptable because they are common and to write them out correctly involves more symbols (beamed eighths and ties) for the performer to comprehend.</p>
         <sidebyside>
@@ -115,35 +143,47 @@
         <title>Practice Exercises</title>
         <exercise>
             <statement>
-                <p>After listening to each example, specify the meter (e.g., <q>compound triple</q>).</p>
-                <ol>
-                    <li><p><url href="https://youtu.be/Mxrh1CrMmTY?t=45s">Sousa, <q>Washington Post March</q></url></p></li>
-                    <li><p><url href="https://youtu.be/HuS5NuXRb5Y">The Beatles, <q>Eleanor Rigby</q></url></p></li>
-                    <li><p><url href="https://youtu.be/4iUwkJuRdiY">Verdi, <q>La donna e mobile</q></url></p></li>
-                    <li><p><url href="https://youtu.be/qH0iFkxQba4?t=9s">Third Day, <q>Morning Has Broken</q></url></p></li>
-                    <li><p><url href="https://youtu.be/93ASUImTedo?t=2m6s">Latch featuring Sam Smith, <q>Disclosure</q></url></p></li>
-                </ol>
+                <p>
+                    After listening to each example, specify the meter (e.g., <q>compound triple</q>).
+                    <ol>
+                        <li><p><url href="https://youtu.be/Mxrh1CrMmTY?t=45s">Sousa, <q>Washington Post March</q></url></p></li>
+                        <li><p><url href="https://youtu.be/HuS5NuXRb5Y">The Beatles, <q>Eleanor Rigby</q></url></p></li>
+                        <li><p><url href="https://youtu.be/4iUwkJuRdiY">Verdi, <q>La donna e mobile</q></url></p></li>
+                        <li><p><url href="https://youtu.be/qH0iFkxQba4?t=9s">Third Day, <q>Morning Has Broken</q></url></p></li>
+                        <li><p><url href="https://youtu.be/93ASUImTedo?t=2m6s">Latch featuring Sam Smith, <q>Disclosure</q></url></p></li>
+                    </ol>
+                </p>
             </statement>
             <answer>
-                <ol>
-                    <li><p>Compound Duple (or Compound Quadruple)</p></li>
-                    <li><p>Simple Quadruple (or Simple Duple)</p></li>
-                    <li><p>Compound Duple (or a fast Simple Triple)</p></li>
-                    <li><p>Compound Triple</p></li>
-                    <li><p>Compound Duple (or Compound Quadruple</p></li>
-                </ol>
+                <p>
+                    <ol>
+                        <li><p>Compound Duple (or Compound Quadruple)</p></li>
+                        <li><p>Simple Quadruple (or Simple Duple)</p></li>
+                        <li><p>Compound Duple (or a fast Simple Triple)</p></li>
+                        <li><p>Compound Triple</p></li>
+                        <li><p>Compound Duple (or Compound Quadruple</p></li>
+                    </ol>
+                </p>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>For each example, specify the implied time signature and the meter (e.g., <q>simple duple</q>).</p>
-                <p><image source="images/unit1/PRAC-EXER-Rhy-Beeth-Op-110-III"/></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Rhy-Beeth-Op-110-III"/>
+                </sidebyside>
                 <p>a. Time Signature: <fillin characters="5"/> Meter: <fillin characters="13"/> <fillin characters="18"/></p>
-                <p><image source="images/unit1/PRAC-EXER-Rhy-Corelli-Op-5-No-1"/></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Rhy-Corelli-Op-5-No-1"/>
+                </sidebyside>
                 <p>b. Time Signature: <fillin characters="5"/> Meter: <fillin characters="13"/> <fillin characters="18"/></p>
-                <p><image source="images/unit1/PRAC-EXER-Rhy-Moz-K-283"/></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Rhy-Moz-K-283"/>
+                </sidebyside>
                 <p>c. Time Signature: <fillin characters="5"/> Meter: <fillin characters="13"/> <fillin characters="18"/></p>
-                <p><image source="images/unit1/PRAC-EXER-Gervaise-Pavane" width="90%"/></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Gervaise-Pavane" width="90%"/>
+                </sidebyside>
                 <p>d. Time Signature: <fillin characters="5"/> Meter: <fillin characters="13"/> <fillin characters="18"/></p>
             </statement>
             <answer>
@@ -156,7 +196,9 @@
         <exercise>
             <statement>
                 <p>Use one note value (with one or two dots if necessary) to show the sum of all the rhythmic values given.</p>
-                <p><image source="images/unit1/PRAC-EXER-sum-of-rhy-values" width="70%"/></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-sum-of-rhy-values" width="70%"/>
+                </sidebyside>
             </statement>
             <answer>
                 <p>1. Dotted quarter note</p>
@@ -168,11 +210,10 @@
         <exercise>
             <statement>
                 <p>Correct the incorrect rhythmic notation in each example in order to show the beats. The subdivisions grouped into beats are shown in parentheses above the rhythms to be corrected.</p>
-                <p><image source="images/unit1/PRAC-EXER-Rhy-Correction"/></p>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Rhy-Correction"/>
+                </sidebyside>
             </statement>
-            <answer>
-                <!--need answers-->
-            </answer>
         </exercise>
     </exercises>
 </chapter>
