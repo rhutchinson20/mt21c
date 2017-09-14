@@ -124,5 +124,8 @@
                 <p>b. Mozart: 1. <chord root="C"/>, <chord root="I"/>; 2. <chord root="G" bps="7" bass="D"/>, <chord root="V" bps="7" bass="5th"/>; 3. <chord root="C"/>, <chord root="I"/>; 4. <chord root="F" bass="C"/>, <chord root="IV" bass="5th"/>; 5. <chord root="C"/>, <chord root="I"/>; 6. <chord root="G" bps="7" bass="B"/>, <chord root="V" bps="7" bass="3rd"/>; 7. <chord root="C"/>, <chord root="I"/>; Cadence type: Authentic Cadence (AC)</p>
             </answer>
         </exercise>
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_7.pdf">here to download the homework.</url></p>
+        </conclusion>
     </exercises>
 </chapter>
