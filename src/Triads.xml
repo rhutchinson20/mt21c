@@ -22,7 +22,7 @@
         </sidebyside>
         <p>Here is a musical example with lead-sheet symbols and guitar tablature.</p>
         <figure>
-            <caption/>
+            <caption>Germanotta, Garibay, Blair, <q>Edge of Glory</q></caption>
             <idx><h>songs (popular)</h><h>"Edge of Glory" (Lady Gaga)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -35,6 +35,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
+        <p>As you can see in the example above, major triads are represented by an uppercase letter (<chord root="A"/>, <chord root="E"/>, and <chord root="D"/>) while minor triads are represented with the root in uppercase followed by a lowercase <q>m</q> (e.g., <chord root="F sharp" mode="m"/>). Diminished triads are represented by including the diminished symbol (<chord mode="diminished"/>) after the chord root (e.g., <chord root="C" mode="diminished"/>) while augmented triads are represented by including the augmented symbol after the root (<chord root="C" mode="augmented"/>).</p> 
     </section>
     <section xml:id="InvertedTriads">
         <title>Inverted Triads</title>
@@ -62,20 +63,34 @@
         </sidebyside>
         <p>Here is a musical example with a sus4 chord.</p>
         <figure>
-            <caption/>
+            <caption>Cetera and Foster, <q>Hard to Say I'm Sorry</q></caption>
             <idx><h>songs (popular)</h><h>"Hard to Say I'm Sorry" (Chicago)</h></idx>
-            <image source="images/unit1/lead-sheet-sus4-hard-to-say-im-sorry-B"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit1/lead-sheet-sus4-hard-to-say-im-sorry-B">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="PLtKoLkxDSQ" start="0" end="13" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/zqq3tW3iACw?t=11s">Click here to open a performance on YouTube.</url></p>
         <p>Here is a musical example with a sus2 chord.</p>
         <figure>
-            <caption/>
+            <caption>Bareilles, <q>Love Song</q></caption>
             <idx><h>songs (popular)</h><h>"Love Song" (Sara Bareilles)</h></idx>
-            <image source="images/unit1/leadsheet-sus2-love-song"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit1/leadsheet-sus2-love-song">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="qi7Yh16dA0w" start="7" end="16" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/qi7Yh16dA0w?t=7s">Click here to open a performance on YouTube.</url></p>
-        <!-- <video youtube="qi7Yh16dA0w" start="7" end="15"/> -->
-        <!-- doesn't play back -->
         <p>We will not invert sus chords in this text. In later chapters, we will discuss more sophisticated sus chords like <chord root="C" bps="9" suspended="yes"/> and <chord root="C" suspended="yes"><alteration><flat/>9</alteration></chord>.</p>
     </section>
     <exercises xml:id="TriadsPracticeExercises">
