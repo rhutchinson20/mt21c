@@ -54,23 +54,35 @@
             <title>Examples of Authentic Cadences</title>
             <idx><h>authentic cadence</h><h>musical examples</h></idx>
             <figure>
-                <caption/>
-                <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
-                <image source="images/unit2/cadences-auth-cad-star-spangled">
-                    <description>An authentic V-I cadence concluding the Star-Spangled Banner</description>
-                </image>
-            </figure>
-            <p><url href="https://youtu.be/LGvW6jHUHiY?t=1m17s">Click here to open a performance on YouTube.</url></p>
+            	<caption>Francis Scott Key and John Stafford Smith, <q>Star-Spangled Banner</q></caption>
+            	<idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
+            	<sbsgroup>
+                	<sidebyside>
+                    	<image source="images/unit2/cadences-auth-cad-star-spangled">
+                        	<description/>
+                    	</image>
+                	</sidebyside>
+                	<sidebyside margins="37%">
+                    	<video youtube="LGvW6jHUHiY" start="77" end="93" play-at="select" preview="generic"/>
+                	</sidebyside>
+            	</sbsgroup>
+        	</figure>
             <p>In the example above, the notes surrounded by parentheses are non-chord tones, which will be studied later<!--link to non-chord tones someday-->. Also, there are seventh chords in this example, which we will study in the next chapter<!--link seventh chords someday-->.</p>
             <p>Here is another example ending with an authentic cadence.</p>
             <figure>
-                <caption/>
-                <idx><h>songs (popular)</h><h>"I Want to Hold Your Hand" (Beatles)</h></idx>
-                <image source="images/unit2/cadences-auth-cad-i-want-to-hold">
-                    <description>An authentic V-I cadence concluding the hook of "I Want to Hold Your Hand" by the Beatles.</description>
-                </image>
-            </figure>
-            <p><url href="https://youtu.be/jenWdylTtzs?t=21s">Click here to open a performance on YouTube.</url></p>
+            	<caption>Lennon<ndash/>McCartney, <q>I Want to Hold Your Hand</q></caption>
+            	<idx><h>songs (popular)</h><h>"I Want to Hold Your Hand" (Beatles)</h></idx>
+            	<sbsgroup>
+                	<sidebyside>
+                    	<image source="images/unit2/cadences-auth-cad-i-want-to-hold">
+                        	<description/>
+                    	</image>
+                	</sidebyside>
+                	<sidebyside margins="37%">
+                    	<video youtube="jenWdylTtzs" start="21" end="29" play-at="select" preview="generic"/>
+                	</sidebyside>
+            	</sbsgroup>
+        	</figure>
         </subsection>
         <subsection xml:id="PlagalCadenceExamples">
             <title>Examples of Plagal Cadences</title>
@@ -83,89 +95,143 @@
                 </image>
             </figure>
             <figure>
-                <caption/>
+                <caption>Pink, Bhasker, and Ruess, <q>Just Give Me a Reason</q></caption>
                 <idx><h>songs (popular)</h><h>"Just Give Me A Reason" (Pink)</h></idx>
-                <image source="images/unit2/cadences-plagal-cad-just-give-me">
-                    <description>Plagal cadence during first phrase of verse of "Just Give Me a Reason"</description>
-                </image>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/cadences-plagal-cad-just-give-me">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="OpQFFLBMEPI" start="19" end="30" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/OpQFFLBMEPI?t=19s">Click here to open a performance on YouTube.</url></p>
             <figure>
-                <caption/>
+                <caption>Hozer-Byrne, <q>Take Me to Church</q></caption>
                 <idx><h>songs (popular)</h><h>"Take Me to Church" (Hozier)</h></idx>
-                <image source="images/unit2/cadences-plagal-cad-take-me-to-church">
-                    <description>Plagal cadence during prechorus of "Take Me to Church"</description>
-                </image>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/cadences-plagal-cad-take-me-to-church">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="PVjiKRfKpPI" start="47" end="58" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/PVjiKRfKpPI?t=47s">Click here to open a performance on YouTube.</url></p>
         </subsection>
         <subsection xml:id="DeceptiveCadenceExamples">
             <title>Examples of Deceptive Cadences</title>
             <idx><h>deceptive cadence</h><h>musical examples</h></idx>
             <figure>
-                <caption/>
+                <caption>Mozart, <q>Voi che sapete</q></caption>
                 <idx><h>Mozart, W.A.</h><h>Voi che sapete</h></idx>
-                <image source="images/unit2/cadences-deceptive-cad-voi-che">
-                    <description>Deceptive cadence near end of "Voi che sapete" by Mozart</description>
-                </image>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/cadences-deceptive-cad-voi-che">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="53geSxS8-Ak" start="142" end="152" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/53geSxS8-Ak?t=2m22s">Click here to open a performance on YouTube.</url></p>
             <figure>
-                <caption/>
+                <caption>Kelly and Steinberg, <q>True Colors</q></caption>
                 <idx><h>songs (popular)</h><h>"True Colors" (Cyndi Lauper)</h></idx>
-                <image source="images/unit2/cadences-deceptive-cad-true-colors">
-                    <description>Deceptive cadence near end of "True Colors" by Cyndi Lauper</description>
-                </image>
-            </figure>
-            <p><url href="https://youtu.be/LPn0KFlbqX8?t=1m">Click here to open a performance on YouTube.</url></p>
-            <p>The following example, from the prelude to Act I of Richard Wagner's opera <em>Tristan und Isolde</em>, is arguably one of the most famous deceptive cadences in the history of music.</p>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/cadences-deceptive-cad-true-colors">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="LPn0KFlbqX8" start="60" end="75" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>            
+            <p>The following example, from the prelude to Act I of Richard Wagner's opera <booktitle>Tristan und Isolde</booktitle>, is arguably one of the most famous deceptive cadences in the history of music.</p>
             <figure>
-                <caption/>
+                <caption>Wagner, <booktitle>Tristan und Isolde</booktitle>, Prelude to Act I</caption>
                 <idx><h>Wagner, Richard</h><h>Tristan und Isolde, Prelude to Act I</h></idx>
-                <image source="images/unit2/cadences-deceptive-cad-tristan">
-                    <description>Deceptive cadence at bar 17 of prelude to Act One of Tristan und Isolde by Richard Wagner</description>
-                </image>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/cadences-deceptive-cad-tristan">
+                            <description>Deceptive cadence at bar 17 of prelude to Act One of Tristan und Isolde by Richard Wagner</description>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="cq4uPQUGrgM" start="113" end="128" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/cq4uPQUGrgM?t=1m53s">Click here to open a performance on YouTube.</url></p>
             <p>A deceptive cadence means <chord root="V"/> did not go to <chord root="I"/>. This means that <q><chord root="V"/> to not<ndash/><chord root="I"/></q> is technically a more correct description for a deceptive cadence than <chord root="V"/><ndash/><chord root="vi"/>, which is the most common realization of <q><chord root="V"/> to not<ndash/><chord root="I"/>.</q></p>
             <p>In the example below, <chord root="V"/> goes to <chord root="IV" bass="3rd"/>.</p>
             <figure>
-                <caption/>
+                <caption>Mozart, <booktitle>Ave Verum Corpus</booktitle>, K. 618</caption>
                 <idx><h>Mozart, W.A.</h><h>Ave verum corpus, K. 618</h></idx>
-                <image source="images/unit2/cadences-deceptive-cad-ave-verum">
-                    <description>Deceptive cadence near end of "Ave verum corpus" by Mozart</description>
-                </image>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/cadences-deceptive-cad-ave-verum">
+                            <description>Deceptive cadence near end of "Ave verum corpus" by Mozart</description>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="9JY4QC13_1Y" start="127" end="164" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/9JY4QC13_1Y?t=2m7s">Click here to open a performance on YouTube.</url></p>
         </subsection>
         <subsection xml:id="HalfCadenceExamples">
             <title>Examples of Half Cadences</title><idx><h>deceptive cadence</h><h>musical examples</h></idx>
             <figure>
-                <caption/>
+                <caption>Mozart, <booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, I.</caption>
                 <idx><h>Mozart, W.A.</h><h>Eine kleine Nachtmusik, K. 525, I.</h></idx>
-                <image source="images/unit2/cadences-half-cad-eine-kleine">
-                    <description>Half cadence at end of transition in first movement of Eine Kleine Nachtmusik, K. 525, by Mozart</description>
-                </image>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/cadences-half-cad-eine-kleine">
+                            <description>Half cadence at end of transition in first movement of Eine Kleine Nachtmusik, K. 525, by Mozart</description>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="TpPuLwtDQrY" start="43" end="51" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/TpPuLwtDQrY?t=43s">Click here to open a performance on YouTube.</url></p>
             <figure>
-                <caption/>
+                <caption>Sheeran and Wadge, <q>Thinking Out Loud</q></caption>
                 <idx><h>songs (popular)</h><h>"Thinking Out Loud" (Ed Sheeran)</h></idx>
-                <image source="images/unit2/cadences-half-cad-thinking-out-loud">
-                    <description>Half cadence at end of prechorus of "Thinking Out Loud" by Ed Sheeran</description>
-                </image>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/cadences-half-cad-thinking-out-loud">
+                            <description>Half cadence at end of prechorus of "Thinking Out Loud" by Ed Sheeran</description>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="lp-EO5I60KA" start="68" end="80" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/lp-EO5I60KA?t=1m8s">Click here to open a performance on YouTube.</url></p>
-            <p>Note on <term>incomplete chords</term><idx><h>incomplete chords</h></idx>: Incomplete chords contain only root and third but no fifth.</p>
-            <p>Additionally, you may encounter chords with no thirds in rock and pop music. If you encounter a chord that has only a root and fifth, label it with a <q>5</q> after the root in lead sheet labeling (e.g., <chord root="B" bps="5"/>, as in the next example).</p>
+            <p>You may encounter chords with no thirds in rock and pop music. If you encounter a chord that has only a root and fifth, label it with a <q>5</q> after the root in lead sheet labeling (e.g., <chord root="B" bps="5"/>, as in the next example).</p>
+            <p>Additionally, you may encounter <term>incomplete chords</term><idx><h>incomplete chords</h></idx>, which are chords containing only the root and third but no fifth.</p>
             <figure>
-                <caption/>
+                <caption>Bieber, Blanco, and Sheeran, <q>Love Yourself</q></caption>
                 <idx><h>songs (popular)</h><h>"Love Yourself" (Justin Bieber)</h></idx>
-                <image source="images/unit2/cadences-half-cad-love-yourself">
-                    <description>Half cadence at end of prechorus of "Love Yourself" by Justin Bieber</description>
-                </image>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/cadences-half-cad-love-yourself">
+                            <description>Half cadence at end of prechorus of "Love Yourself" by Justin Bieber</description>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="oyEuk8j8imI" start="57" end="69" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/oyEuk8j8imI?t=57s">Click here to open a performance on YouTube.</url></p>
         </subsection>
     </section>
     <exercises xml:id="RomanNumeralPracticeExercises">

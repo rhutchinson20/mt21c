@@ -64,6 +64,7 @@
         </figure>
         <p>Note the overlapping keys at the bottom of the circle. <n pc="B"/> major is enharmonically the same as <n pc="C" acc="flat"/> major; <n pc="F" acc="sharp"/> major is enharmonically the same as <n pc="G" acc="flat"/> major; and <n pc="C" acc="sharp"/> major is enharmonically the same as <n pc="D" acc="flat"/> major.</p>
     </section>
+    <!--another section is needed on identifying key signatures by last sharp and second-to-last flat-->
     <exercises xml:id="MajorKeysPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>
