@@ -15,12 +15,42 @@
         <p>Major and minor triads are common, diminished triads are less common, and augmented triads are rare.</p>
     </section>
     <section xml:id="LeadSheetSymbols">
-        <title>Lead Sheet Symbols</title>
-        <p><term>Lead-sheet symbols</term><idx><h>lead-sheet symbols</h></idx> (also known as <q>lead-sheet notation</q> and <q>lead-sheet chord symbols</q>) are often used as shorthand for chords in popular music and jazz. These symbols allow a guitarist or pianist to choose how to <q>voice</q> the chords, i.e., how they want to arrange the notes.</p>
+        <title>Lead<ndash/>Sheet Symbols</title>
+        <p><term>Lead<ndash/>sheet symbols</term><idx><h>lead<ndash/>sheet symbols</h></idx> (also known as <q>lead<ndash/>sheet notation</q> and <q>lead-sheet chord symbols</q>) are often used as shorthand for chords in popular music and jazz. These symbols allow a guitarist or pianist to choose how to <q>voice</q> the chords, i.e., how they want to arrange the notes.</p>
         <sidebyside>
             <image source="images/unit1/triads-voicings-of-C-major-triad-B"/>
         </sidebyside>
-        <p>Here is a musical example with lead-sheet symbols and guitar tablature.</p>
+        <p>Lead<ndash/>sheet symbols for triads communicate the <em>root</em> and <em>quality</em> of a chord.</p>
+        <sidebyside>
+            <tabular halign="center">
+                <row header="yes" bottom="major">
+                    <cell><em>Lead<ndash/>Sheet Symbol</em></cell>
+                    <cell><em>Chord Quality</em></cell>
+                    <cell><em>Notes in the Chord</em></cell>
+                </row>
+                <row>
+                    <cell><chord root="F"/></cell>
+                    <cell>major</cell>
+                    <cell><n pc="F"/><ndash/><n pc="A"/><ndash/><n pc="C"/></cell>
+                </row>
+                <row>
+                    <cell><chord root="G" mode="m"/></cell>
+                    <cell>minor</cell>
+                    <cell><n pc="G"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D"/></cell>
+                </row>
+                <row>
+                    <cell><chord root="D" mode="diminished"/></cell>
+                    <cell>diminished</cell>
+                    <cell><n pc="D"/><ndash/><n pc="F"/><ndash/><n pc="A" acc="flat"/></cell>
+                </row>
+                <row>
+                    <cell><chord root="C" mode="augmented"/></cell>
+                    <cell>augmented</cell>
+                    <cell><n pc="C"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="sharp"/></cell>
+                </row>
+            </tabular>
+        </sidebyside>
+        <p>Here is a musical example with lead<ndash/>sheet symbols and guitar tablature.</p>
         <figure>
             <caption>Germanotta, Garibay, Blair, <q>Edge of Glory</q></caption>
             <idx><h>songs (popular)</h><h>"Edge of Glory" (Lady Gaga)</h></idx>
@@ -51,6 +81,41 @@
             <p>In lead-sheet notation, an inverted chord has the triad before the slash (/) and the bass note after it. <q><chord root="C" bass="E"/></q> means a <n pc="C"/> triad with an <n pc="E"/> as the lowest note.  Therefore, a <term>slash chord</term><idx><h>slash chord</h></idx> has a bass note that is not the root of the chord. In fact, it is possible to have slash chords where the bass note is not one of the chord tones (e.g., <chord root="C" bass="F sharp"/>).</p>
             <sidebyside>
                 <image source="images/unit1/leadsheet-infograph-on-slash-chord"/>
+            </sidebyside>
+            <p>Remember, in a slash chord, the first letter you see represents the root of the chord. The letter after the slash is the lowest note (the bass)</p>
+            <sidebyside>
+                <tabular halign="center">
+                    <row header="yes" bottom="major">
+                        <cell><em>Lead<ndash/>Sheet Symbol</em></cell>
+                        <cell><em>Root of Chord</em></cell>
+                        <cell><em>Notes in the Chord</em></cell>
+                        <cell><em>Bass Note (Lowest Note)</em></cell>
+                    </row>
+                    <row>
+                        <cell><chord root="F" bass="A"/></cell>
+                        <cell><n pc="F"/></cell>
+                        <cell><n pc="F"/><ndash/><n pc="A"/><ndash/><n pc="C"/></cell>
+                        <cell><n pc="A"/></cell>
+                    </row>
+                    <row>
+                        <cell><chord root="D" mode="m" bass="A"/></cell>
+                        <cell><n pc="G"/></cell>
+                        <cell><n pc="D"/><ndash/><n pc="F"/><ndash/><n pc="A"/></cell>
+                        <cell><n pc="A"/></cell>
+                    </row>
+                    <row>
+                        <cell><chord root="G" mode="diminished" bass="D flat"/></cell>
+                        <cell><n pc="G"/></cell>
+                        <cell><n pc="G"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/></cell>
+                        <cell><n pc="D" acc="flat"/></cell>
+                    </row>
+                    <row>
+                        <cell><chord root="C" mode="augmented" bass="G sharp"/></cell>
+                        <cell><n pc="C"/></cell>
+                        <cell><n pc="C"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="sharp"/></cell>
+                        <cell><n pc="G" acc="sharp"/></cell>
+                    </row>
+                </tabular>
             </sidebyside>
         </subsection>
         <!--another section is needed on analyzing inverted triads by stacking up the notes in thirds to determine the root-->
