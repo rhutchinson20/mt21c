@@ -44,13 +44,19 @@
         </sidebyside>
         <p>Here is a musical example with the <chord root="IV"/>/<scaledeg>5</scaledeg> chord in <n pc="A" acc="flat"/> major.</p>
         <figure>
-            <caption/>
-            <idx><h>songs (popular)</h><h>"O-o-h Child" (The Five Stairsteps)</h></idx>
-            <image source="images/unit2/7th-chords-ooh-child">
-                <description>"O-o-h Child" by The Five Stairsteps</description>
-            </image>
+            <caption>Vincent, <q>O-o-h Child</q></caption>
+            <idx><h>songs (popular)</h><h><q>O-o-h Child</q> (The Five Stairsteps)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/7th-chords-ooh-child">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="gIsj8VxQNkw" start="38" end="49" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/gIsj8VxQNkw?t=38s">Click to open a performance on YouTube.</url></p>
     </section>
     <section xml:id="RomanNumeralsOfDiatonicSeventhChords">
         <title>Roman Numerals of Diatonic Seventh Chords</title>

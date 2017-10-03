@@ -12,6 +12,7 @@
         <xi:include href="./RomanNumeralsAndCadences.xml"/>
         <xi:include href="./SeventhChords.xml"/>
         <xi:include href="./HarmonicProgression.xml"/>
+        <xi:include href="./NonChordTones.xml"/>
         <xi:include href="./backmatter.xml"/>
     </book>
 </mathbook>

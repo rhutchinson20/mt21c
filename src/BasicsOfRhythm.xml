@@ -122,7 +122,7 @@
             <image source="images/unit1/rhythmic-notation-4"/>
         </sidebyside>
         <p>The exception to this practice of <q>showing the beats</q> involves syncopation.</p>
-        <p><term>Syncopation</term><idx><h>syncopation</h></idx> occurs when notes on weak beats and on weak parts of beats are emphasized and nearby strong beats are deemphasized. Syncopation is common in popular music.</p>
+        <p xml:id="syncopation-definition"><term>Syncopation</term><idx><h>syncopation</h></idx> occurs when notes on weak beats and on weak parts of beats are emphasized and nearby strong beats are deemphasized. Syncopation is common in popular music.</p>
         <p>Strong beats are the first beat of each measure (in 2/4 and 3/4) and beats 1 and 3 in <!--time signature-->4/4.  Syncopation <em>at the beat level</em> involves ties across those strong beats. Numbers in parentheses in the example below are beats that are obscured through syncopation.</p>
         <sidebyside>
             <image source="images/unit1/synco-at-beat-level">

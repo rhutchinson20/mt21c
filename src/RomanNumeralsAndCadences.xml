@@ -35,7 +35,7 @@
                 <description>The most commonly used diatonic triads in A minor: A minor, B diminished, C major, D minor, E major, F major, and G-sharp diminished, with Roman numerals</description>
             </image>
         </sidebyside>
-        <p>Notice that both <chord root="VII"/> (the <q>subtonic triad</q>) and <chord root="vii" mode="diminished"/> (the <q>leading-tone triad</q>) are included. The subtonic triad (<chord root="VII"/>) regularly occurs in circle of fifth progressions in minor (discussed in an upcoming section<!--link to Circle of Fifths someday-->) and in rock and pop music, while the leading-tone triad (<chord root="vii" mode="diminished"/>) usually is either a passing harmony or has dominant function (harmonic function will be discussed in an upcoming section<!--link to Harmonic Function someday-->).</p>
+        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q>subtonic triad</q>) and <chord root="vii" mode="diminished"/> (the <q>leading<ndash/>tone triad</q>) are included. The subtonic triad (<chord root="VII"/>) regularly occurs in <xref ref="CircleOfFifths" text="title">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="title">in rock and pop music</xref>, while the leading<ndash/>tone triad (<chord root="vii" mode="diminished"/>) usually is either a passing harmony or has <xref ref="HarmonicFunction" text="title">dominant function</xref>.</p>
     </section>
     <section xml:id="cadences">
         <title>Cadences</title>
@@ -286,5 +286,6 @@
         <conclusion>
             <p>Click <url href="../hw/MT21C_HW_6.pdf">here to download the homework.</url></p>
         </conclusion>
+        <!--In C major, 5 is the note ___. The Roman numeral for a chord built on 5 is ___. Now spell the chord: ______________; In D minor, 4 is ___. What are the three notes when you built a triad on this note in the key signature of D minor? The Roman numeral for a chord built on 4 is ___.  ______________; And then, similarly, maybe something very basic where they’d be given a chord and asked “what member of this chord is in the bass?-->
     </exercises>
 </chapter>
