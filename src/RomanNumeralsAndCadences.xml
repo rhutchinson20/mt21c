@@ -5,12 +5,110 @@
         <title>Roman Numeral Chord Symbols</title>
         <p>Music is full of patterns that are similar from one piece to the next. As we saw with minor scales, we were able to use scale degree numbers to show the different patterns for harmonic, melodic, and natural minor, despite the fact that there are 15 minor key signatures. Using numbers instead of note names helps us see these patterns. Thinking of music in terms of numbers is also helpful with <term>transposition</term><idx><h>transposition</h><h>definition of</h></idx>, which means moving melodies and/or chord progressions from one key to another. Thinking of music in terms of numbers also helps us to analyze it and to spot similar patterns between many different pieces in different keys.</p>
         <p>We will use Roman numerals to represent chords within a specified key. The Roman numeral <q><chord root="I"/></q> represents a triad built on <scaledeg>1</scaledeg>, or the 1st note of the scale. Uppercase Roman numerals represent major triads and lowercase Roman numerals (e.g., <q><chord root="i"/></q>) represent minor triads. Uppercase Roman numerals with a <q><chord mode="augmented"/></q> are augmented (e.g., <q><chord root="III" mode="augmented"/></q>), and lowercase Roman numerals with a <q><chord mode="diminished"/></q> are diminished (e.g., <q><chord root="vii" mode="diminished"/></q>). (There is also the <url href="https://en.wikipedia.org/wiki/Nashville_number_system">Nashville Number System</url>, which uses Arabic numbers for chords instead of Roman numerals.)</p>
+        <sidebyside>
+                <tabular halign="center">
+                    <row header="yes" bottom="major">
+                        <cell><em>Key</em></cell>
+                        <cell><em>Lead<ndash/>Sheet</em></cell>
+                        <cell><em>Root</em></cell>
+                        <cell><em>Scale Degree of Root</em></cell>
+                        <cell><em>Roman Numeral</em></cell>
+                        <cell><em>Notes in Chord</em></cell>
+                    </row>
+                    <row>
+                        <cell><n pc="G"/></cell>
+                        <cell><chord root="B" mode="m"/></cell>
+                        <cell><n pc="B"/></cell>
+                        <cell><scaledeg>3</scaledeg></cell>
+                        <cell><chord root="iii"/></cell>
+                        <cell><n pc="B"/><ndash/><n pc="D"/><ndash/><n pc="F" acc="sharp"/></cell>
+                    </row>
+                    <row>
+                        <cell><n pc="f"/></cell>
+                        <cell><chord root="G" mode="diminished"/></cell>
+                        <cell><n pc="G"/></cell>
+                        <cell><scaledeg>2</scaledeg></cell>
+                        <cell><chord root="ii" mode="diminished"/></cell>
+                        <cell><n pc="G"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/></cell>
+                    </row>
+                    <row>
+                        <cell><n pc="c"/></cell>
+                        <cell><chord root="E flat"/></cell>
+                        <cell><n pc="E" acc="flat"/></cell>
+                        <cell><scaledeg>3</scaledeg></cell>
+                        <cell><chord root="III"/></cell>
+                        <cell><n pc="E" acc="flat"/><ndash/><n pc="G"/><ndash/><n pc="B" acc="flat"/></cell>
+                    </row>
+                    <!-- save if needed 
+                    <row>
+                        <cell><n pc="A" acc="flat"/></cell>
+                        <cell><chord root="F" mode="m"/></cell>
+                        <cell><n pc="F"/></cell>
+                        <cell><scaledeg>6</scaledeg></cell>
+                        <cell><chord root="vi"/></cell>
+                        <cell><n pc="F"/><ndash/><n pc="A" acc="flat"/><ndash/><n pc="C"/></cell>
+                    </row>
+                    <row>
+                        <cell><n pc="b"/></cell>
+                        <cell><chord root="A sharp" mode="diminished"/></cell>
+                        <cell><n pc="A" acc="sharp"/></cell>
+                        <cell>(<sharp/>)<scaledeg>7</scaledeg></cell>
+                        <cell><chord root="vii" mode="diminished"/></cell>
+                        <cell><n pc="A" acc="sharp"/><ndash/><n pc="C" acc="sharp"/><ndash/><n pc="E"/></cell>
+                    </row>
+                    <row>
+                        <cell><n pc="d"/></cell>
+                        <cell><chord root="C"/></cell>
+                        <cell><n pc="C"/></cell>
+                        <cell><scaledeg>7</scaledeg></cell>
+                        <cell><chord root="VII"/></cell>
+                        <cell><n pc="C"/><ndash/><n pc="E"/><ndash/><n pc="G"/></cell>
+                    </row>-->
+                </tabular>
+            </sidebyside> 
         <p>For inversion of Roman numerals, we will use a modified <q>slash chord</q> notation until we study Figured Bass later on. For now, we will write <q><chord root="I"/>/3rd</q> if the 3rd of the <chord root="I"/> chord is the bass note, for example.</p>
         <sidebyside>
             <image source="images/unit2/RN-inversions-for-now">
                 <description>C: I/3rd means E is the bass note for C-E-G</description>
             </image>
         </sidebyside>
+        <p>The following table offers more examples.</p>
+        <sidebyside>
+            <tabular halign="center">
+                <row header="yes" bottom="major">
+                    <cell><em>Key</em></cell>
+                    <cell><em>Roman Num.</em></cell>
+                    <cell><em>Root</em></cell>
+                    <cell><em>Scale Deg. of Root</em></cell>
+                    <cell><em>Notes in Chord</em></cell>
+                    <cell><em>Bass Note</em></cell>
+                </row>
+                <row>
+                    <cell><n pc="g"/></cell>
+                    <cell><chord root="V" bass="3rd"/></cell>
+                    <cell><n pc="D"/></cell>
+                    <cell><scaledeg>5</scaledeg></cell>
+                    <cell><n pc="D"/><ndash/><n pc="F" acc="sharp"/><ndash/><n pc="A"/></cell>
+                    <cell><n pc="F" acc="sharp"/></cell>
+                </row>
+                <row>
+                    <cell><n pc="a"/></cell>
+                    <cell><chord root="iv" bass="5th"/></cell>
+                    <cell><n pc="D"/></cell>
+                    <cell><scaledeg>4</scaledeg></cell>
+                    <cell><n pc="D"/><ndash/><n pc="F"/><ndash/><n pc="A"/></cell>
+                    <cell><n pc="A"/></cell>
+                </row>
+                <row>
+                    <cell><n pc="D"/></cell>
+                    <cell><chord root="vii" mode="diminished" bass="3rd"/></cell>
+                    <cell><n pc="C" acc="sharp"/></cell>
+                    <cell><scaledeg>7</scaledeg></cell>
+                    <cell><n pc="C" acc="sharp"/><ndash/><n pc="E"/><ndash/><n pc="G"/></cell>
+                    <cell><n pc="E"/></cell>
+                </row>
+            </tabular>
+        </sidebyside> 
     </section>
     <section xml:id="DiatonicChordsInMajor">
         <title>Diatonic Chords in Major</title>

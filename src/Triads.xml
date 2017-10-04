@@ -82,7 +82,7 @@
             <sidebyside>
                 <image source="images/unit1/leadsheet-infograph-on-slash-chord"/>
             </sidebyside>
-            <p>Remember, in a slash chord, the first letter you see represents the root of the chord. The letter after the slash is the lowest note (the bass)</p>
+            <p>Remember, in a slash chord, the first letter you see represents the root of the chord. The letter after the slash is the lowest note (the bass).</p>
             <sidebyside>
                 <tabular halign="center">
                     <row header="yes" bottom="major">
@@ -119,6 +119,45 @@
             </sidebyside>
         </subsection>
         <!--another section is needed on analyzing inverted triads by stacking up the notes in thirds to determine the root-->
+    </section>
+    <section xml:id="AnalyzingChords">
+        <title>Analyzing Chords</title>
+        <p>When a three<ndash/>note chord is represented by four or more notes (some of which are duplicates of the original three notes) and spread out across a grand staff, use the following procedure to arrive at a lead<ndash/>sheet symbol.</p>
+        <p>Write all the notes only on the lines of the staff in treble clef to determine the root of the chord (you may need to use ledger lines).</p>
+        <sidebyside>
+            <image source="images/unit1/triads-analyzing-stacking-on-lines"/>
+        </sidebyside>
+        <p>You could also choose to write all the notes only on the spaces in a staff.</p>
+        <sidebyside>
+            <image source="images/unit1/triads-analyzing-stacking-on-spaces"/>
+        </sidebyside>
+        <p>The bottom note is the root when the chord is stacked as a triad.</p>
+        <p>Next, determine the quality of the triad (major, minor, diminished, or augmented) by analyzing if there is a M3 or m3 from the root to the 3rd, and if there is a M3 or m3 from the 3rd to 5th.</p>
+        <sidebyside widths="35% 35%" margins="10%">
+            <image source="images/unit1/triads-analyzing-3rd-from-D-to-F"/>
+            <image source="images/unit1/triads-analyzing-3rd-from-F-to-A"/>
+        </sidebyside>
+        <p>Since there is a m3 (3 half steps) from <n pc="D"/> to <n pc="F"/> and a M3 (4 half steps) from <n pc="F"/> to <n pc="A"/>, the triad is minor.</p>
+        <p>Finally, determine if the chord is inverted by checking to see if a note other than the root is lowest note. Since the bass note (lowest note) is the root <n pc="D"/> (meaning the chord is in root position), we write <chord root="D" mode="m"/>.</p>
+        <p>Now, try the process again.</p>
+        <sidebyside widths="33%" margins="33%">
+            <image source="images/unit1/triads-analyzing-2nd-chord-to-try"/>
+        </sidebyside>
+        <p>Stack the notes only on lines in the treble clef.</p>
+        <sidebyside widths="33%" margins="33%">
+            <image source="images/unit1/triads-analyzing-2nd-chord-stacked"/>
+        </sidebyside>
+        <p>The root is <n pc="E"/>.</p>
+        <p>Analyze the quality of the triad by measuring from <n pc="E"/> to <n pc="G"/> and from <n pc="G"/> to <n pc="B" acc="flat"/>.</p>
+        <sidebyside widths="33%" margins="33%">
+            <image source="images/unit1/triads-analyzing-2nd-chord-on-piano"/>
+        </sidebyside>
+        <p>It is an <n pc="E"/> diminished triad (<chord root="E" mode="diminished"/>).</p>
+        <p>Finally, determine if the chord is inverted. Is the root (<n pc="E"/>) the lowest note?</p>
+        <sidebyside widths="33%" margins="33%">
+            <image source="images/unit1/triads-analyzing-2nd-chord-to-try"/>
+        </sidebyside>
+        <p>Since the lowest note is <n pc="G"/>, our lead-sheet symbol is <chord root="E" mode="diminished" bass="G"/>.</p>
     </section>
     <section xml:id="SimpleSusChords">
         <title>Simple "Sus" Chords</title>
