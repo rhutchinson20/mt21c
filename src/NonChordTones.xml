@@ -450,7 +450,7 @@
         <p>Because composers are notorious for <q>breaking the rules,</q> you will encounter examples in the real world that either defy explanation or have multiple valid explanations. One <q>utility</q> non<ndash/>chord tone is the incomplete neighbor.</p>
         <figure>
             <caption>Puccini, <booktitle>Gianni Schicchi</booktitle>, <q>O mio babbino caro</q></caption>
-            <idx><h>Puccini</h><h>Piano Sonata in C major, K. 545, II</h></idx>
+            <idx><h>Puccini</h><h><booktitle>Gianni Schicchi</booktitle>, <q>O mio babbino caro</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-inc-nt-o-mio">
@@ -462,7 +462,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>You may also find incomplete neighbor groups, especially in late Romantic music and jazz. Keep an open mind when analyzing music.</p>
+        <p>You may also find incomplete double neighbor figures, especially in late Romantic music and jazz. Keep an open mind when analyzing music.</p>
     </section>
     <section xml:id="AddingNonChordTones">
         <title>Adding Non<ndash/>Chord Tones to a Chord Progression</title>
@@ -589,7 +589,7 @@
                 <p>Analyze the harmonies with lead-sheet symbols above the staff and Roman numerals below, then analyze the non<ndash/>chord tones.</p>
                 <ol>
                     <li>
-                        <p>Holland<mdash/>Dozier<mdash/>Holland, <q>Stop! In the Name of Love</q><idx><h>songs (popular)</h><h>"Stop! In the Name of Love" (The Supremes)</h></idx><url href="https://youtu.be/tuei1XUAGRo?t=52s"> (YouTube)</url></p>
+                        <p>Holland<mdash/>Dozier<mdash/>Holland, <q>Stop! In the Name of Love</q><idx><h>songs (popular)</h><h>"Stop! In the Name of Love" (The Supremes)</h></idx> <url href="https://youtu.be/tuei1XUAGRo?t=52s"> (YouTube)</url></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-NCT-stop-in-the-name"/>
                         </sidebyside>

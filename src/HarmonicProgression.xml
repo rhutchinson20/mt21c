@@ -11,20 +11,33 @@
             <caption>J.S. Bach, Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</caption>
             <idx><h>Bach, J.S.</h><h>Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</h></idx>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Bach)</h></idx>
-            <image source="images/unit2/harmony-circle-brandenburg2">
-                <description>Circle of 5ths progression in D minor in J.S. Bach's 2nd Brandenburg Concerto</description>
-            </image>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-circle-brandenburg2">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="dHrvGOd6G20" start="76" end="86" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/dHrvGOd6G20?t=1m16s">Click to open a performance on YouTube.</url></p>
         <figure xml:id="handel-passacaglia">
             <caption>Handel, Suite in G minor, Passacaglia</caption>
+            <idx><h>Bach, J.S.</h><h>Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</h></idx>
             <idx><h>Handel</h><h>Suite in G minor, Passacaglia</h></idx>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Handel)</h></idx>
-            <image source="images/unit2/harmony-circle-handel">
-                <description>Circle of 5ths progression in G minor in Handel's Passacaglia from the Suite in G minor</description>
-            </image>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-circle-handel">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="f6jvsEb-Usk" start="0" end="17" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/f6jvsEb-Usk">Click to open a performance on YouTube.</url></p>
         <p>This circle (the circle of fifths <em>for harmonic progression</em>) is different than the circle of fifths for key signatures because this circle of fifths for <em>harmonic progression</em> contains diatonic notes only. (The circle of fifths for key signatures (<xref ref="circle-of-fifths-major" text="type-global"/>) contained all 12 notes of the chromatic scale.)</p>
         <figure>
             <caption>Circle of Fifths for Harmonic Progression</caption>
@@ -45,47 +58,79 @@
             <caption>Mozart, Piano Sonata in C, K. 545, I (1780s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Mozart)</h></idx>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 545, I., secondary theme</h></idx>
-            <image source="images/unit2/harmony-circle-mozart">
-                <description>Circle of 5ths progression diagram in Mozart's K. 545, I</description>
-            </image>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-circle-mozart">
+                        <description>Circle of 5ths progression diagram in Mozart's K. 545, I</description>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="5NkzTTkqTB4" start="34" end="43" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/5NkzTTkqTB4?t=34s">Click to open a performance on YouTube.</url></p>
+
         <figure xml:id="wagner-meistersinger">
             <caption>Wagner, Die Meistersinger, Act II, Scene 6 (1860s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Wagner)</h></idx>
             <idx><h>Wagner, Richard</h><h>Die Meistersinger, Act II, Scene 6</h></idx>
-            <image source="images/unit2/harmony-circle-wagner">
-                <description>Circle of 5ths progression in Die Meistersinger by Wagner</description>
-            </image>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-circle-wagner">
+                        <description>Circle of 5ths progression in Die Meistersinger by Wagner</description>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="PiIblkOtm3g" start="109" end="116" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/PiIblkOtm3g?t=1m49s">Click to open a performance on YouTube.</url></p>
         <figure xml:id="fly-me-to-the-moon">
             <caption>Howard, “Fly Me To The Moon” (chords only) (1950s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Fly Me to the Moon)</h></idx>
             <idx><h>songs (popular)</h><h>"Fly Me to the Moon"</h></idx>
-            <image source="images/unit2/harmony-circle-fly-me">
-                <description>Circle of 5ths progression in Die Meistersinger by Wagner</description>
-            </image>
+
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-circle-fly-me">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="K8wE58PTIkw" start="7" end="24" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/K8wE58PTIkw?t=7s">Click to open a performance on YouTube.</url></p>
         <figure xml:id="i-will-survive">
             <caption>Perren and Fekaris, “I Will Survive” (chords only) (1970s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (I Will Survive)</h></idx>
             <idx><h>songs (popular)</h><h>"I Will Survive"</h></idx>
-            <image source="images/unit2/harmony-circle-i-will-survive">
-                <description>Circle of 5ths progression in I Will Survive</description>
-            </image>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-circle-i-will-survive">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="FHhZPp08s74" start="22" end="39" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/FHhZPp08s74?t=22s">Click to open a performance on YouTube.</url></p>
         <figure xml:id="i-love-you-like-a-love-song">
             <caption>Armato and James, “I Love You Like A Love Song” (2010s) (bass and chords only)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (I Love You Like a Love Song)</h></idx>
             <idx><h>songs (popular)</h><h>"I Love You Like a Love Song"</h></idx>
-            <image source="images/unit2/harmony-circle-love-song">
-                <description>Circle of 5ths progression in I Love You Like a Love Song</description>
-            </image>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-circle-love-song">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="EgT_us6AsDg" start="57" end="74" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/EgT_us6AsDg?t=57s">Click to open a performance on YouTube.</url></p>
         <p>The circle of fifths progression has a feeling of inevitability about it because it consists of <term>harmonic sequences</term><idx><h>harmonic sequence</h></idx>. To understand harmonic sequence we will first look at melodic sequences, since the bass line is the <q>melody</q> in a harmonic sequence. Ask yourself what happens after this melodic idea:</p>
         <figure>
             <caption>Beethoven, Symphony No. 5, I.</caption>
@@ -94,7 +139,7 @@
                 <description>Opening of Beethoven's Fifth Symphony</description>
             </image>
         </figure>
-        <p>Therefore, a <term>sequence</term><idx><h>sequence</h><h>definition of</h></idx> is a musical idea repeated at a different pitch level.</p>
+        <p xml:id="sequence-definition">Therefore, a <term>sequence</term><idx><h>sequence</h><h>definition of</h></idx> is a musical idea repeated at a different pitch level.</p>
         <p>Sequences can be short or long. For example, look at this familiar idea and notice how all four bars are sequenced down a step in the following four bars.</p>
         <figure xml:id="mozart-k550-melody">
             <caption>Mozart, Symphony No. 40, I.</caption>
@@ -113,11 +158,17 @@
         <p>Sometimes we will hear a circle of fifths sequence where some of the chords are not in root position, as in the <xref ref="handel-passacaglia" text="title">Handel</xref> and <xref ref="mozart-k545-st" text="title">Mozart</xref> examples. In these two examples, we are hearing the sequence of the roots, even though they are not clearly presented in the bass.</p>
         <figure>
             <caption>Handel Passacaglia with roots as open note heads</caption>
-            <image source="images/unit2/harmony-circle-roots-inverted-handel">
-                <description>Circle of 5ths progression with roots as open note heads</description>
-            </image>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-circle-roots-inverted-handel">
+                        <description>Circle of 5ths progression with roots as open note heads</description>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="f6jvsEb-Usk" start="0" end="17" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/f6jvsEb-Usk">Click to open a performance on YouTube.</url></p>
         <p>We will return to the idea of harmonic sequence later in this chapter.</p>
     </section>
     <section xml:id="HarmonicRhythm">
@@ -127,11 +178,17 @@
         <figure>
             <caption>Bastille, <q>Pompeii</q></caption>
             <idx><h>songs (popular)</h><h>"Pompeii" (Bastille)</h></idx>
-            <image source="images/unit2/harmony-acceleration-harmonic-rhythm">
-                <description>accelerating harmonic rhythm</description>
-            </image>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-acceleration-harmonic-rhythm">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="F90Cw4l-8NY" start="71" end="87" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/F90Cw4l-8NY?t=1m11s">Click to open a performance on YouTube.</url></p>
         <p>In some music, harmonic rhythm will remain consistent, while in other pieces there will be an infinite variety to the length of harmonies. Throughout this text, we will be examining harmonic rhythm and the placement of harmonies within the phrase.</p>
     </section>
     <section xml:id="ShorterProgressionsFromTheCircleOfFifths">
@@ -143,21 +200,45 @@
                 <caption>Ellington, <q>Take the ‘A’ Train</q></caption>
                 <idx><h>Ellington, Duke</h><h>"Take the 'A' Train"</h></idx>
                 <idx><h>songs (popular)</h><h>"Take the 'A' Train"</h></idx>
-                <image source="images/unit2/harmony-ii-V-I-A-train"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-ii-V-I-A-train">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="MENQyu4D7Ig" start="11" end="18" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/MENQyu4D7Ig?t=11s">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>Davis, <q>Tune-Up</q></caption>
                 <idx><h>Davis, Miles</h><h>"Tune-Up"</h></idx>
-                <image source="images/unit2/harmony-ii-V-I-tune-up"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-ii-V-I-tune-up">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="aXYtoKaJplM" start="5" end="09" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/aXYtoKaJplM?t=5s">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>Hupfeld, <q>As Time Goes By</q></caption>
                 <idx><h>songs (popular)</h><h>"As Time Goes By"</h></idx>
-                <image source="images/unit2/harmony-ii-V-I-as-time-goes-by"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-ii-V-I-as-time-goes-by">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="IrqZ0N4a7E4" start="0" end="12" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/IrqZ0N4a7E4">Click to open a performance on YouTube.</url></p>
         </subsection>
         <subsection xml:id="VI-II-V-I">
             <title>VI-II-V-I</title>
@@ -181,19 +262,36 @@
             <subsubsection xml:id="vi-ii-V-I">
                 <title>vi-ii-V-I</title>
                 <p>The <chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/> progression contains the last four chords of the circle of fifths progression.</p>
+                
                 <figure>
                     <caption>Kern, <q>All the things you Are</q></caption>
                     <idx><h>songs (popular)</h><h>"All the things you Are"</h></idx>
-                    <image source="images/unit2/harmony-vi-ii-V-I-all-the-things"/>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit2/harmony-vi-ii-V-I-all-the-things">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="2c8fu2mWTsc" start="18" end="26" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
                 </figure>
-                <p><url href="https://youtu.be/2c8fu2mWTsc?t=18s">Click to open a performance on YouTube.</url></p>
                 <p>Here is another example from more recent popular music.</p>
                 <figure>
                     <caption>Rasted, Norreen, Diff, and Nystrøm, <q>Barbie Girl</q> (chords only)</caption>
                     <idx><h>songs (popular)</h><h>"All the things you Are"</h></idx>
-                    <image source="images/unit2/harmony-vi-ii-V-I-barbie-girl"/>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit2/harmony-vi-ii-V-I-barbie-girl">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="ZyhrYis509A" start="15" end="23" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
                 </figure>
-                <p><url href="https://youtu.be/ZyhrYis509A?t=15s">Click to open a performance on YouTube.</url></p>
             </subsubsection>
             <subsubsection xml:id="I-vi-ii-V">
                 <title>I-vi-ii-V</title>
@@ -201,22 +299,46 @@
                 <figure>
                     <caption>Rodgers, <q>Blue Moon</q> (1930s)</caption>
                     <idx><h>songs (popular)</h><h>"Blue Moon"</h></idx>
-                    <image source="images/unit2/harmony-vi-ii-V-I-blue-moon"/>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit2/harmony-vi-ii-V-I-blue-moon">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="JIXLZGK9vWQ" start="8" end="19" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
                 </figure>
-                <p><url href="https://youtu.be/JIXLZGK9vWQ?t=8s">Click to open a performance on YouTube.</url></p>
                 <figure>
                     <caption>Lawrence and Trenet, <q>Beyond The Sea</q> (1940s)</caption>
                     <idx><h>songs (popular)</h><h>"Beyond The Sea"</h></idx>
-                    <image source="images/unit2/harmony-vi-ii-V-I-beyond-the-sea"/>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit2/harmony-vi-ii-V-I-beyond-the-sea">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="_R8HhlaMvko" start="6" end="15" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
                 </figure>
-                <p><url href="https://youtu.be/_R8HhlaMvko?t=6s">Click to open a performance on YouTube.</url></p>
                 <p>Listen for this bass line in the next recording.</p>
                 <figure>
                     <caption>Lymon, Santiago, Merchant, <q>Why Do Fools Fall in Love</q> (1950s)</caption>
                     <idx><h>songs (popular)</h><h>"Why Do Fools Fall in Love"</h></idx>
-                    <image source="images/unit2/harmony-vi-ii-V-I-why-do-fools"/>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit2/harmony-vi-ii-V-I-why-do-fools">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="mEHcTciiXQY" start="0" end="16" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
                 </figure>
-                <p><url href="https://youtu.be/mEHcTciiXQY">Click to open a performance on YouTube.</url></p>
             </subsubsection>
             <subsubsection xml:id="ii-V-I-vi">
                 <title>ii-V-I-vi</title>
@@ -224,10 +346,18 @@
                 <figure>
                     <caption>Wright, Forrest, Borodin, <q>Stranger in Paradise</q></caption>
                     <idx><h>songs (popular)</h><h>"Stranger in Paradise"</h></idx>
-                    <image source="images/unit2/harmony-vi-ii-V-I-stranger-in-paradise"/>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit2/harmony-vi-ii-V-I-stranger-in-paradise">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="WFrUsa5SUv0" start="13" end="27" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
                 </figure>
-                <p><url href="https://youtu.be/WFrUsa5SUv0?t=13s">Click to open a performance on YouTube.</url></p>
-                <p>If you view this video on YouTube, you will briefly see the double bass part, which has lead-sheet symbols on it.</p>
+                <p>If you view this video on YouTube, you will briefly see the double bass part, which has lead<ndash/>sheet symbols on it.</p>
             </subsubsection>
         </subsection>
         <subsection xml:id="III-VI-II-V">
@@ -236,16 +366,32 @@
             <figure>
                 <caption>Masser and Creed, <q>Greatest Love of All</q></caption>
                 <idx><h>songs (popular)</h><h>"Greatest Love of All" (Whitney Houston)</h></idx>
-                <image source="images/unit2/harmony-iii-vi-ii-V-greatest-love"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-iii-vi-ii-V-greatest-love">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="IYzlVDlE72w" start="93" end="110" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/IYzlVDlE72w?t=1m33s">Click to open a performance on YouTube.</url></p>
             <p>Sometimes, this progression is rotated to <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/>, as in <q>September,</q> the well known song by Earth, Wind, and Fire.</p>
             <figure>
                 <caption>White, McKay, Willis, <q>September</q></caption>
                 <idx><h>songs (popular)</h><h>"September" (Earth, Wind, and Fire)</h></idx>
-                <image source="images/unit2/harmony-iii-vi-ii-V-september"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-iii-vi-ii-V-september">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="Gs069dndIYk" start="51" end="59" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/Gs069dndIYk?t=51s">Click to open a performance on YouTube.</url></p>
         </subsection>
     </section>
     <section xml:id="HarmonicFunction">
@@ -295,33 +441,73 @@
             <figure>
                 <caption>Mozart, Sonata in G major, K. 283, I.</caption>
                 <idx><h>Mozart, W.A.</h><h>Sonata in G major, K. 283, I.</h></idx>
-                <image source="images/unit2/harmony-T-D-T-k283"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-T-D-T-k283">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="OmQQoohTW80" start="0" end="07" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/OmQQoohTW80">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>Beethoven, Piano Sonata in C major, Op. 2, No. 3, I.</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata in C major, Op. 2, No. 3, I.</h></idx>
-                <image source="images/unit2/harmony-T-D-T-op2no3"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-T-D-T-op2no3">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="o1iUR3GG4DQ" start="0" end="07" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/o1iUR3GG4DQ">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>Verdi, <booktitle>Rigoletto</booktitle>, "La donna è mobile"</caption>
                 <idx><h>Verdi</h><h>"La Donna e mobile"</h></idx>
-                <image source="images/unit2/harmony-T-D-T-la-donna"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-T-D-T-la-donna">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="99NloaManx0" start="9" end="16" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/99NloaManx0?t=9s">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>Lennon-McCartney, <q>Hey Jude</q></caption>
                 <idx><h>songs (popular)</h><h>"Hey Jude" (Beatles)</h></idx>
-                <image source="images/unit2/harmony-T-D-T-hey-jude"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-T-D-T-hey-jude">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="A_MjCqQoLLA" start="55" end="70" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/A_MjCqQoLLA?t=55s">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>S. Shafer and L. Shafer, <q>All My Ex’s Live in Texas</q></caption>
                 <idx><h>songs (popular)</h><h>"All My Ex’s Live in Texas" (George Strait)</h></idx>
-                <image source="images/unit2/harmony-T-D-T-george-strait"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-T-D-T-george-strait">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="-EMxNFPaU2s" start="90" end="105" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/-EMxNFPaU2s?t=1m30s">Click to open a performance on YouTube.</url></p>
             <p>The principle of <q>Tonic<ndash/>Dominant<ndash/>Tonic</q> could also be represented with <chord root="I"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>. Even though we learned that <q>dominant</q> means <q><scaledeg>5</scaledeg></q> (and also <q><chord root="V"/></q>) in <xref ref="ScaleDegreeNames" text="title">earlier sections</xref>, <q>dominant <em>function</em></q> in terms of harmony means <q>a chord that <em>progresses to</em> the tonic chord.</q> We will revisit this concept and other possibilities for <q>dominant function</q> later.</p>
         </subsection>
         <subsection xml:id="TonicPredominantDominantTonicProgression">
@@ -339,40 +525,88 @@
             <figure>
                 <caption>J.S. Bach, Well-Tempered Clavier, Book I, Prelude 1 in C major</caption>
                 <idx><h>Bach, J.S.</h><h>Well-Tempered Clavier, Book I, Prelude 1 in C major</h></idx>
-                <image source="images/unit2/harmony-T-P-D-T-WTC-prel-1"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-T-P-D-T-WTC-prel-1">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="vqM4tCZ7RV8" start="0" end="14" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/vqM4tCZ7RV8">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>Mozart, Symphony No. 40 in G minor, K. 550, I. (textural reduction)</caption>
                 <idx><h>Mozart, W.A.</h><h>Symphony No. 40 in G minor, K. 550, I., harmonic function in primary theme</h></idx>
-                <image source="images/unit2/harmony-T-P-D-T-k550"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-T-P-D-T-k550">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="r_m1phdmwiw" start="0" end="12" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/r_m1phdmwiw">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>Kander and Ebb, <q>New York, New York</q></caption>
                 <idx><h>songs (popular)</h><h>"New York, New York" (Liza Minnelli)</h></idx>
-                <image source="images/unit2/harmony-T-P-D-T-new-york"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-T-P-D-T-new-york">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="5-pyc_z7WbY" start="16" end="28" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/5-pyc_z7WbY?t=16s">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>Trainor and Kadish, <q>All About That Bass</q> (bass line and chord symbols only)</caption>
                 <idx><h>songs (popular)</h><h>"All About That Bass" (Meghan Trainor)</h></idx>
-                <image source="images/unit2/harmony-T-P-D-T-trainor"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-T-P-D-T-trainor">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="7PCkvCPvDXk" start="0" end="16" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/7PCkvCPvDXk">Click to open a performance on YouTube.</url></p>
             <p>Here are examples with <chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/> realizing the Ton-PreDom-Dom-Ton progression.</p>
             <figure>
                 <caption>Chopin, Waltz in A-flat major, Op. 34 No. 1</caption>
                 <idx><h>Chopin</h><h>Waltz in A-flat major, Op. 34 No. 1</h></idx>
-                <image source="images/unit2/harmony-I-IV-V-I-chopin"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-I-IV-V-I-chopin">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="pceSX1hceOI" start="11" end="16" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/pceSX1hceOI?t=11s">Click to open a performance on YouTube.</url></p>
             <figure>
                 <caption>Crane, Kauffman, Skloff, Willis, Solem, Wilde, <q>I'll Be There For You</q> (bass line and chords only)</caption>
                 <idx><h>songs (popular)</h><h>"I'll Be There For You" (The Rembrandts)</h></idx>
-                <image source="images/unit2/harmony-I-IV-V-rembrandts"/>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-I-IV-V-rembrandts">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="CXnEgbDcITo" start="31" end="37" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
-            <p><url href="https://youtu.be/CXnEgbDcITo?t=31s">Click to open a performance on YouTube.</url></p>
             <p>Progressions using <chord root="vii" mode="diminished"/> (<chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/> and <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>) are less common because of the instability of diminished chords.</p>
         </subsection>
         <subsection xml:id="tonic-tonprol-predom-dom">
@@ -389,9 +623,17 @@
                 <figure>
                     <caption>Beethoven, Pathetique Sonata, Op. 13, I.</caption>
                     <idx><h>Beethoven</h><h>Pathetique Sonata, Op. 13, I., closing theme</h></idx>
-                    <image source="images/unit2/harmony-I-vi-ii6-V-pathetique"/>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit2/harmony-I-vi-ii6-V-pathetique">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="SSeveT_9ZxE" start="197" end="205" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
                 </figure>
-                <p><url href="https://youtu.be/SSeveT_9ZxE?t=3m17s">Click to open a performance on YouTube.</url></p>
             </introduction>
             <subsubsection xml:id="I-vi-IV-V">
                 <title>I-vi-IV-V</title>
@@ -427,9 +669,17 @@
                 <figure>
                     <caption>Atwey, Messinger, Pellizzer, Spivak, Tanas, <q>Rude</q> (bass line and chords only)</caption>
                     <idx><h>songs (popular)</h><h>"Rude" (by MAGIC!)</h></idx>
-                    <image source="images/unit2/harmony-I-vi-IV-V-rotated-rude"/>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit2/harmony-I-vi-IV-V-rotated-rude">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="PIh2xe4jnpk" start="14" end="21" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
                 </figure>
-                <p><url href="https://youtu.be/PIh2xe4jnpk?t=14s">Click to open a performance on YouTube.</url></p>
                 <p>You will see more examples of Tonic-Tonic Prolongation-PreDominant-Dominant progressions, including the use of the <chord root="iii"/> chord, in the Practice Exercises and the Homework.</p>
             </subsubsection>
         </subsection>
@@ -449,9 +699,17 @@
         <figure>
             <caption>Forsey, Moroder, Cara, <q>Flashdance... What A Feeling</q></caption>
             <idx><h>songs (popular)</h><h>"Flashdance... What A Feeling" (Irene Cara)</h></idx>
-            <image source="images/unit2/harmony-exceptions-flashdance"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-exceptions-flashdance">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="Q4TK82N1nEk" start="10" end="21" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/Q4TK82N1nEk?t=10s">Click to open a performance on YouTube.</url></p>
         <p>The sequence is between the first two bars and the last two bars of the example.</p>
         <figure>
             <caption>Exceptions in <q>Flashdance... What A Feeling</q> created by sequence</caption>
@@ -461,9 +719,17 @@
         <figure>
             <caption>Felder, Henley, Frey, <q>Hotel California</q></caption>
             <idx><h>songs (popular)</h><h>"Hotel California" (The Eagles)</h></idx>
-            <image source="images/unit2/harmony-exceptions-hotel-cal"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-exceptions-hotel-cal">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="YW4dzWE1SUs" start="12" end="39" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/pSIjpv7yz84?t=19s">Click to open a performance on YouTube.</url></p>
         <p>The example below shows how these exceptions come about through harmonic sequences.</p>
         <figure>
             <caption>Exceptions in <q>Hotel California</q> created through sequences</caption>
@@ -484,31 +750,63 @@
         <figure>
             <caption>Lennon<ndash/>McCartney, <q>Hey Jude</q> (bass line and chords only)</caption>
             <idx><h>songs (popular)</h><h>"Hey Jude" (The Beatles)</h></idx>
-            <image source="images/unit2/harmony-bVII-hey-jude"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-bVII-hey-jude">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="A_MjCqQoLLA" start="271" end="284" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/A_MjCqQoLLA?t=4m31s">Click to open a performance on YouTube.</url></p>
         <p>Consider the following questions: When a phrase ends on the <chord root="IV"/> chord, does it have dominant function (i.e, is it a half cadence)? Does <chord root="IV"/> have dominant function in popular music when it progresses to <chord root="I"/>? If so, does <flat/><chord root="VII"/> have pre-dominant function in the above progression?</p>
         <p>Notice that <flat/><chord root="VII"/> begings the phrase in the following example, and proceeds to a <chord root="IV"/><ndash/><chord root="I"/> conclusion.</p>
         <figure>
             <caption>U2, <q>Desire</q> (bass line and chords)</caption>
             <idx><h>songs (popular)</h><h>"Desire" (U2)</h></idx>
-            <image source="images/unit2/harmony-bVII-U2-desire"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-bVII-U2-desire">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="z8rQ575DWD8" start="29" end="34" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/z8rQ575DWD8?t=29s">Click to open a performance on YouTube.</url></p>
         <p>The following example has <flat/><chord root="VII"/> preceding <em>and following</em> the <chord root="IV"/> chord. Does the <flat/><chord root="VII"/> chord have tonic prolongation as labeled, or is it <q>pre pre-dominant</q> in function?</p>
         <figure>
             <caption>Forsey and Schiff, <q>Don’t You (Forget About Me)</q> (bass line and chords)</caption>
             <idx><h>songs (popular)</h><h>"Don’t You (Forget About Me)" (Simple Minds)</h></idx>
-            <image source="images/unit2/harmony-bVII-dont-you-forget"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-bVII-dont-you-forget">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="CdqoNKCCt7A" start="37" end="46" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/CdqoNKCCt7A?t=37s">Click to open a performance on YouTube.</url></p>
         <p>Here is an example with <flat/><chord root="VII"/> cadencing to the <chord root="I"/> chord in the first four bars then progressing to the <chord root="vi"/> chord in a deceptive cadence in the second four bars.</p>
         <figure>
             <caption>Becker and Fagen, <q>Reelin’ in the Years</q> (bass line and chords)</caption>
             <idx><h>songs (popular)</h><h>"Reelin’ in the Years" (Steely Dan)</h></idx>
-            <image source="images/unit2/harmony-bVII-reelin-in-the-years"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-bVII-reelin-in-the-years">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="RVJiwyg0iDM" start="58" end="73" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/RVJiwyg0iDM?t=58s">Click to open a performance on YouTube.</url></p>
     </section>
     <section xml:id="BestsellerProgression">
         <title>The Best-Seller Progression</title>
@@ -522,9 +820,17 @@
         <figure>
             <caption>Adkins and Wilson, <q>Someone Like You</q></caption>
             <idx><h>songs (popular)</h><h>"Someone Like You" (Adele)</h></idx>
-            <image source="images/unit2/harmony-bestseller-someone-like-you"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-bestseller-someone-like-you">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="hLQl3WQQoQ0" start="73" end="81" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/hLQl3WQQoQ0?t=1m13s">Click to open a performance on YouTube.</url></p>
         <p>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression can be rotated to become <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> and <chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/>.</p>
         <figure>
             <caption>Example of <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> rotation to <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/></caption>
@@ -534,9 +840,17 @@
         <figure>
             <caption>Adkins and Kursten, <q>Hello</q></caption>
             <idx><h>songs (popular)</h><h>"Hello" (Adele)</h></idx>
-            <image source="images/unit2/harmony-bestseller-hello"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-bestseller-hello">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="YQHsXMglC9A" start="141" end="154" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/YQHsXMglC9A?t=2m21s">Click to open a performance on YouTube.</url></p>
         <p>The <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> progression can also be thought of as being in minor: <chord root="i"/><ndash/><chord root="VI"/><ndash/><chord root="III"/><ndash/><chord root="VII"/></p>
         <figure>
             <caption><q>Best-Seller</q> Progression with Roman Numerals in Major and Relative Minor</caption>
@@ -547,9 +861,17 @@
         <figure>
             <caption>Stewart, Nash, Harrell, Carter, <q>Umbrella</q></caption>
             <idx><h>songs (popular)</h><h>"Umbrella" (Rihanna)</h></idx>
-            <image source="images/unit2/harmony-bestseller-umbrella"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-bestseller-umbrella">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="92XKG9OwN4A" start="66" end="78" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/92XKG9OwN4A?t=1m6s">Click to open a performance on YouTube.</url></p><!--to 1:18-->
     </section>
     <section xml:id="i-VII-VI-VII">
         <title>The i-VII-VI-VII Progression</title>
@@ -559,15 +881,31 @@
         <figure>
             <caption>Page and Plant, <q>Stairway to Heaven</q> (chords and bass line only)</caption>
             <idx><h>songs (popular)</h><h>"Stairway to Heaven" (Led Zeppelin)</h></idx>
-            <image source="images/unit2/harmony-i-VII-VI-stairway"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-i-VII-VI-stairway">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="iXQUu5Dti4g" start="403" end="414" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/iXQUu5Dti4g?t=6m43s">Click to open a performance on YouTube.</url></p>
         <figure>
             <caption>Adkins and Epworth, <q>Rolling In The Deep</q> (chords and bass line only)</caption>
             <idx><h>songs (popular)</h><h>"Rolling In The Deep" (Adele)</h></idx>
-            <image source="images/unit2/harmony-i-VII-VI-rolling-in-the"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-i-VII-VI-rolling-in-the">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="rYEDA3JcQqw" start="57" end="69" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/rYEDA3JcQqw?t=57s">Click to open a performance on YouTube.</url></p>
         <p>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression can also be rotated to become <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/>.</p>
         <figure>
             <caption>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression rotating to <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/></caption>
@@ -577,15 +915,31 @@
         <figure>
             <caption>Bridges, Broadus, J. Mollings, L. Mollings, Roberts II, <q>All I Do Is Win</q> (chords and bass line)</caption>
             <idx><h>songs (popular)</h><h>"All I Do Is Win" (DJ Khaled)</h></idx>
-            <image source="images/unit2/harmony-i-VII-VI-all-i-do"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-i-VII-VI-all-i-do">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="4RYlgoQrshw" start="5" end="17" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/4RYlgoQrshw?t=5s">Click to open a performance on YouTube.</url></p>
         <figure>
             <caption>Glass, Metamorphosis Two</caption>
             <idx><h>Glass, Philip</h><h>Metamorphosis Two</h></idx>
-            <image source="images/unit2/harmony-i-VII-VI-glass"/>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit2/harmony-i-VII-VI-glass">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="F6AggxvVFRY" start="56" end="75" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
         </figure>
-        <p><url href="https://youtu.be/F6AggxvVFRY?t=56s">Click to open a performance on YouTube.</url></p>
         <p>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression can also be thought of as being in a major key: <chord root="vi"/><ndash/><chord root="V"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>.</p>
         <figure>
             <caption>The same progression viewed from minor and relative major</caption>

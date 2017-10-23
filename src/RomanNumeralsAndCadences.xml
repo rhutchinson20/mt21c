@@ -66,7 +66,7 @@
                     </row>-->
                 </tabular>
             </sidebyside> 
-        <p>For inversion of Roman numerals, we will use a modified <q>slash chord</q> notation until we study Figured Bass later on. For now, we will write <q><chord root="I"/>/3rd</q> if the 3rd of the <chord root="I"/> chord is the bass note, for example.</p>
+        <p>For inversion of Roman numerals, we will use a modified <q>slash chord</q> notation until we study Figured Bass<!--add link to Figured Bass later on--> later on. For now, we will write <q><chord root="I"/>/3rd</q> if the 3rd of the <chord root="I"/> chord is the bass note, for example.</p>
         <sidebyside>
             <image source="images/unit2/RN-inversions-for-now">
                 <description>C: I/3rd means E is the bass note for C-E-G</description>
