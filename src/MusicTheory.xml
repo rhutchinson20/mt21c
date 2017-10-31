@@ -14,6 +14,7 @@
         <xi:include href="./HarmonicProgression.xml"/>
         <xi:include href="./NonChordTones.xml"/>
         <xi:include href="./MelodicAnalysis.xml"/>
+        <xi:include href="./FormInPopularMusic.xml"/>
         <xi:include href="./backmatter.xml"/>
     </book>
 </mathbook>

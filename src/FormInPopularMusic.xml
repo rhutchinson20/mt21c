@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="FormInPopularMusic">
+    <title>Form in Popular Music</title>
+    <introduction><p>The overall form of a piece of popular music usually can be broken down into smaller 4<ndash/>, 8<ndash/>, 12<ndash/>, or 16<ndash/>bar sections. The material in this chapter is informed by John Covach’s essay <q><url href="http://www.academia.edu/7634222/_Form_in_Rock_Music_A_Primer_in_Engaging_Music_Essays_in_Music_Analysis_ed._D._Stein_Oxford_University_Press_2005_65-76">Form in Rock Music</url></q> from <booktitle>Engaging Music: Essays in Music Analysis</booktitle> (ed. D. Stein).</p>
+    </introduction>
+    <section xml:id="VerseChorusForm">
+        <title>Verse<ndash/>Chorus Form</title>
+        <p>The <term>Verse<ndash/>Chorus form</term><idx><h>Verse<ndash/>Chorus form</h></idx> is arguably the most common musical form of present day popular music and is probably familiar to most readers of this text. In Verse<ndash/>Chorus form, the chorus contains the <q>hook,</q> the memorable refrain, while the verse typically contains less memorable melodic material. A clear example can be found in the 1985 song <q>We Are the World.</q></p>
+        <table>
+            <caption>Jackson and Richie, <q>We Are The World</q></caption><!--index these songs!-->
+            <tabular>
+                <col/>
+                <col/>
+                <row>
+                    <cell>0:00<ndash/>0:26</cell>
+                    <cell><em>Introduction</em>, 6 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>0:26<ndash/>0:53</cell>
+                    <cell><em>Verse 1</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>0:53<ndash/>1:18</cell>
+                    <cell><em>Verse 2</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>1:18<ndash/>1:49</cell>
+                    <cell><em>Chorus</em>, 9 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>1:49<ndash/>2:14</cell>
+                    <cell><em>Verse 3</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>2:14<ndash/>2:41</cell>
+                    <cell><em>Chorus</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>2:41<ndash/>3:08</cell>
+                    <cell><em>Bridge</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>3:08<ndash/>3:35</cell>
+                    <cell><em>Chorus</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>3:35<ndash/>4:02</cell>
+                    <cell><em>Chorus</em>, 8 bars ending with key change</cell>
+                </row>
+                <row>
+                    <cell>4:02<ndash/>end</cell>
+                    <cell><em>Chorus</em>, 7 times in F major with fade out</cell>
+                </row>
+            </tabular>
+        </table>
+        <sidebyside margins="37%">
+            <video youtube="9AjkUyX0rVw" play-at="select" preview="generic"/>
+        </sidebyside>
+        <p>Common additions to the Verse<ndash/>Chorus form, beside the bridge, are the pre<ndash/>chorus and post<ndash/>chorus.</p>
+        <table>
+            <caption>Cobain, Novoselic, and Grohl, <q>Smells Like Teen Spirit</q></caption>
+            <tabular>
+                <col/>
+                <col/>
+                <row>
+                    <cell>0:00<ndash/>0:25</cell>
+                    <cell><em>Introduction</em>, 12 bars</cell>
+                </row>
+                <row>
+                    <cell>0:25<ndash/>0:42</cell>
+                    <cell><em>Verse 1</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>0:42<ndash/>0:58</cell>
+                    <cell><em>Pre<ndash/>chorus</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>0:58<ndash/>1:23</cell>
+                    <cell><em>Chorus</em>, 9 bars</cell>
+                </row>
+                <row>
+                    <cell>1:23<ndash/>1:31</cell>
+                    <cell><em>Post<ndash/>chorus</em>, 4 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>1:31<ndash/>1:39</cell>
+                    <cell><em>Interlude</em>, 4 bars</cell>
+                </row>
+                <row>
+                    <cell>1:39<ndash/>1:56</cell>
+                    <cell><em>Verse 2</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>1:56<ndash/>2:12</cell>
+                    <cell><em>Pre<ndash/>chorus</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>2:12<ndash/>2:37</cell>
+                    <cell><em>Chorus</em>, 12 bars</cell>
+                </row>
+                <row>
+                    <cell>2:37<ndash/>2:45</cell>
+                    <cell><em>Post<ndash/>chorus</em>, 4 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>2:45<ndash/>3:02</cell>
+                    <cell><em>Guitar solo</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>3:02<ndash/>3:10</cell>
+                    <cell><em>Interlude</em>, 4 bars</cell>
+                </row>
+                <row>
+                    <cell>3:10<ndash/>3:26</cell>
+                    <cell><em>Verse 3</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>3:26<ndash/>3:42</cell>
+                    <cell><em>Pre<ndash/>chorus</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>3:42<ndash/>4:37</cell>
+                    <cell><em>Chorus</em>, 21 bars</cell>
+                </row>
+            </tabular>
+        </table>
+        <sidebyside margins="37%">
+            <video youtube="hTWKbfoikeg" play-at="select" preview="generic"/>
+        </sidebyside>
+        <p>It is worth noting that there may disagreement about labeling sections in a form. One person may call a section a <q>pre<ndash/>chorus,</q> another may call it a <q>first chorus,</q> while another may call it <q>verse part b.</q> There is ambiguity in naming sections and disagreement is to be expected.</p>
+        <p>There are <q>simple</q> and <q>contrasting</q> verse<ndash/>chorus forms. A <term>simple verse<ndash/>chorus</term><idx><h>simple verse<ndash/>chorus form</h></idx> form has the same harmonic progression for the verse and chorus (e.g., <q><url href="https://youtu.be/7PCkvCPvDXk">All About That Bass</url></q>). The chord progressions for the verse and chorus are different in a <term>contrasting verse<ndash/>chorus</term><idx><h>contrasting verse<ndash/>chorus form</h></idx> form like <q>We Are the World.</q></p>
+    </section>
+    <section xml:id="AABAForm">
+        <title>AABA Form</title>
+        <p>The AABA form is associated with the hits of the musicals of the 1930s and remained one of the most popular forms of popular music until the 1950s, when Rock ‘n’ Roll became popular. Each section (A or B) is typically 8 measures long. The A sections contain the primary melody we associate with the song while the B section provides contrast and is often called the <q>bridge</q> or <q>middle eight.</q></p>
+        <table>
+            <caption>Gershwin, <q>I Got Rhythm</q></caption>
+            <tabular>
+                <col/>
+                <col/>
+                <row>
+                    <cell>0:00<ndash/>0:10</cell>
+                    <cell><em>Introduction</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>0:10<ndash/>0:18</cell>
+                    <cell><em>A section (A1)</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>0:18<ndash/>0:26</cell>
+                    <cell><em>A section (A2)</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>0:26<ndash/>0:35</cell>
+                    <cell><em>B section</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>0:35<ndash/>0:45</cell>
+                    <cell><em>A section (A3)</em>, 10 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>0:45<ndash/>0:53</cell>
+                    <cell><em>A section</em>, 8 bars (instrumental shout chorus)</cell>
+                </row>
+                <row>
+                    <cell>0:53<ndash/>1:02</cell>
+                    <cell><em>Introduction</em>, 8 bars (shout chorus continues)</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>1:02<ndash/>1:10</cell>
+                    <cell><em>A section (A1)</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>1:10<ndash/>1:19</cell>
+                    <cell><em>A section (A2)</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>1:19<ndash/>1:27</cell>
+                    <cell><em>B section</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>1:27<ndash/>1:35</cell>
+                    <cell><em>A section (A3)</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>1:35<ndash/>1:54</cell>
+                    <cell><em>Coda</em>, 12 bars</cell>
+                </row>
+            </tabular>
+        </table>
+        <sidebyside margins="37%">
+            <video youtube="Q_jKTPsh54Y" play-at="select" preview="generic"/>
+        </sidebyside>
+        <p>It is common for one or more of the A sections to be instrumental, and it is also common to eliminate an A section on the repeat of the entire AABA form (AABAABA, for example).</p>
+        <p>Other well known songs with AABA form include Over the Rainbow from The Wizard of Oz as well as many famous songs from the <booktitle>Great American Songbook</booktitle> by George Gershwin (<q>Let’s Call the Whole Thing Off,</q> <q>Someone to Watch Over Me</q>), Cole Porter (<q>Anything Goes,</q> <q>Love for Sale,</q> <q>I Get A Kick Out of You</q>), Irving Berlin (<q>Blue Skies,</q> <q>Puttin’ on the Ritz</q>), and Jerome Kern (<q>The Way You Look Tonight,</q> <q>Smoke Gets In Your Eyes</q>).</p>
+        <p>The AABA form continued to be dominant into the 1960s (including Beatles songs like <q>Yesterday,</q> <q>Norwegian Wood,</q> and <q><url href="https://youtu.be/A_MjCqQoLLA">Hey Jude</url>,</q> to name a few). The AABA form is less common in the present day but can be found in songs like The Cure’s <q><url href="https://youtu.be/0thnAQKadpo">Friday, I’m in Love</url></q> (1992) and Norah Jones’s <q><url href="https://youtu.be/tO4dxvguQDk">Don’t Know Why</url></q> (1999).</p>
+        <p>A note on terminology: the entire 32<ndash/>bar AABA form is sometimes called a <q>refrain</q> or <q>chorus,</q> and some AABA songs are preceded by a <q>verse.</q> This means a song like <q><url href="https://youtu.be/gjUXG-Fz8pc">Someone To Watch Over Me</url></q> begins with a verse and is followed by a <q>refrain</q> (which could also be called a <q>chorus</q>). Other synonymous terms you may encounter for <q>verse</q> in the context of AABA form are <q>prelude</q> and <q>introduction.</q></p>
+    </section>
+    <section xml:id="ABACForm">
+        <title>ABAC Form</title>
+        <p>Many popular songs from the 1930s<ndash/>1950s were in the 32<ndash/>bar ABAC form. Well<ndash/>known examples include <q><url html="https://youtu.be/IBWmYG1o93I">White Christmas</url>,</q>  <q><url href="https://youtu.be/fWN9UfUV9eE?t=38s">Someday My Prince Will Come</url>,</q> and <q><url html="https://youtu.be/xV0MBh-_BDI">When I Fall In Love</url>.</q></p>
+        <p><q>Star Dust</q> is an example of an ABAC form that is usually performed with a verse preceding the refrain.</p>
+        <table>
+            <caption>Carmichael, <q>Star Dust</q></caption><!--index these songs!-->
+            <tabular>
+                <col/>
+                <col/>
+                <row>
+                    <cell>0:00<ndash/>0:13</cell>
+                    <cell><em>Introduction</em>, 4 bars</cell>
+                </row>
+                <row>
+                    <cell>0:13<ndash/>1:13</cell>
+                    <cell><em>Verse</em>, 16 bars (8 bars + 8 bars)</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>1:13<ndash/>1:41</cell>
+                    <cell><em>A section</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>1:41<ndash/>2:07</cell>
+                    <cell><em>B section</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>2:07<ndash/>2:32</cell>
+                    <cell><em>A section</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell>2:32<ndash/>2:57</cell>
+                    <cell><em>C section</em>, 8 bars</cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>2:57<ndash/>3:12</cell>
+                    <cell><em>Coda</em>, 4 bars</cell>
+                </row>
+            </tabular>
+        </table>
+        <sidebyside margins="37%">
+            <video youtube="hWkoFj14HkE" play-at="select" preview="generic"/>
+        </sidebyside>
+        <p>The ABAC form may also occur as ABAB’ where the B’ section begins the same as the B section but ends differently.</p>
+    </section>
+    <section xml:id="TwelveBarBlues">
+        <title>The 12<ndash/>Bar Blues</title>
+        <p>Associated with the Blues genre, which originated in the early 1900s, the 12<ndash/>bar blues was also popular during the Swing Era of the 1930s and 1940s, (examples include <q>In The Mood</q> and <q>One O’Clock Jump</q>), as well as during the early years of Rock ‘n’ Roll in the 1950s (<q>Johnny B. Goode,</q> <q>Hound Dog,</q> <q>Rock around the Clock</q>). The basic 12<ndash/>bar blues progression is shown below.</p>
+        <table>
+            <caption>Berry, <q>Johnny B. Goode</q></caption><!--index these songs!-->
+            <tabular>
+                <col right="minor"/>
+                <col right="minor"/>
+                <col right="minor"/>
+                <col right="minor"/>
+                <col right="minor"/>
+                <row>
+                    <cell>Bars 1<ndash/>4:</cell>
+                    <cell>I</cell>
+                    <cell>I</cell>
+                    <cell>I</cell>
+                    <cell>I</cell>
+                </row>
+                <row>
+                    <cell right="none"/>
+                    <cell right="none"/>
+                    <cell right="none"/>
+                    <cell right="none"/>
+                    <cell right="none"/>
+                </row>
+                <row>
+                    <cell>Bars 5<ndash/>8:</cell>
+                    <cell>IV</cell>
+                    <cell>IV</cell>
+                    <cell>I</cell>
+                    <cell>I</cell>
+                </row>
+                <row>
+                    <cell right="none"/>
+                    <cell right="none"/>
+                    <cell right="none"/>
+                    <cell right="none"/>
+                    <cell right="none"/>
+                </row>
+                <row>
+                    <cell>Bars 9<ndash/>12:</cell>
+                    <cell>V</cell>
+                    <cell>IV</cell>
+                    <cell>I</cell>
+                    <cell>I</cell>
+                </row>
+            </tabular>
+        </table>
+        <sidebyside margins="37%">
+            <video youtube="nPyvtWn9CKQ" play-at="select" preview="generic"/>
+        </sidebyside>
+    </section>
+    <section xml:id="HarmonicallyClosedAndOpenSections">
+        <title>Harmonically Closed and Open Sections</title>
+        <p>A harmonically closed section ends on the tonic chord (<chord root="I"/>). A harmonically open section typically ends on a non<ndash/>tonic chord like <chord root="V"/>, but could also end on <chord root="IV"/>.</p>
+        <p>In an AABA form, the A sections are usually harmonically closed, ending on <chord root="I"/>, and the B section (or bridge) is usually harmonically open, ending on <chord root="V"/>.</p>
+        <p>In verse<ndash/>chorus form, a section that leads into the chorus (verse, pre<ndash/>chorus, and bridge) are usually harmonically open, while choruses can be harmonically closed or open.</p>
+        <p>If you compose a piece in AABA or verse<ndash/>chorus form, placing harmonically open and closed sections appropriately is important to the flow of the music.</p>
+        <p>For example, the verse and bridge on <q>We Are the World</q> are harmonically open (end on <chord root="V"/>) while the chorus is harmonically closed (ends on the tonic chord, <chord root="I"/>).</p>
+    </section>
+    <exercises xml:id="PopFormPracticeExercises">
+        <title>Practice Exercises</title>
+        <exercise>
+            <statement>
+                <p>For each song, fill in the beginning and ending time for each section, label each section type (verse, pre<ndash/>chorus, chorus, post<ndash/>chorus, interlude, introduction, A, B, or C section, etc.), and the number of bars in each section of the form.</p>
+                <ol>
+                    <li>
+                        <sidebyside>
+                            <table>
+                                <caption>Bahler, <q>She's Out of My Life</q></caption><!--index these songs!-->
+                                <tabular>
+                                    <col/>
+                                    <col/>
+                                    <col/>
+                                    <col/>
+                                    <row>
+                                        <cell>Time:</cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell>Section Type: <fillin characters="20"/>,</cell>
+                                        <cell><fillin characters="5"/> bars</cell>
+                                    </row>
+                                    <row>
+                                        <cell>Time:</cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell>Section Type: <fillin characters="20"/>,</cell>
+                                        <cell><fillin characters="5"/> bars</cell>
+                                    </row>
+                                    <row>
+                                        <cell>Time:</cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell>Section Type: <fillin characters="20"/>,</cell>
+                                        <cell><fillin characters="5"/> bars</cell>
+                                    </row>
+                                    <row>
+                                        <cell>Time:</cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell>Section Type: <fillin characters="20"/>,</cell>
+                                        <cell><fillin characters="5"/> bars</cell>
+                                    </row>
+                                    <row>
+                                        <cell>Time:</cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell>Section Type: <fillin characters="20"/>,</cell>
+                                        <cell><fillin characters="5"/> bars</cell>
+                                    </row>
+                                </tabular>
+                            </table>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="6DQJPL9Yuq0" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <sbsgroup>
+                            <sidebyside>
+                                <table>
+                                    <caption>Lennon<ndash/>McCartney, <q>Penny Lane</q></caption><!--index these songs!-->
+                                    <tabular>
+                                        <col/>
+                                        <col/>
+                                        <col/>
+                                        <col/>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                        <row>
+                                            <cell>Time:</cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell>Section Type: <fillin characters="20"/>,</cell>
+                                            <cell><fillin characters="5"/> bars</cell>
+                                        </row>
+                                    </tabular>
+                                </table>
+                            </sidebyside>
+                            <sidebyside margins="37%">
+                                <video youtube="S-rB0pHI9fU" play-at="select" preview="generic"/>
+                            </sidebyside>
+                        </sbsgroup>
+                    </li>
+                </ol>
+            </statement>
+            <answer>
+                <p>She's Out of My Life:</p>
+                <ul>
+                    <li><p>0:00<ndash/>0:40, Introduction, approx. 4 bars of keyboard</p></li>
+                    <li><p>0:40<ndash/>1:25, A, 12 bars</p></li>
+                    <li><p>1:25<ndash/>2:05, A, 11 bars</p></li>
+                    <li><p>2:05<ndash/>2:35, B, 8 bars</p></li>
+                    <li><p>2:35<ndash/>3:33, A, 13 bars</p></li>
+                </ul>
+                <p>Penny Lane:</p>
+                <ul>
+                    <li><p>0:00<ndash/>0:20, Verse 1, 8 bars</p></li>
+                    <li><p>0:20<ndash/>0:38, Verse 2, 8 bars</p></li>
+                    <li><p>0:38<ndash/>0:54, Chorus, 8 bars</p></li>
+                    <li><p>0:54<ndash/>1:11, Verse 3, 8 bars</p></li>
+                    <li><p>1:11<ndash/>1:28, Trumpet Solo on Verse progression, 8 bars</p></li>
+                    <li><p>1:28<ndash/>1:45, Chorus, 8 bars</p></li>
+                    <li><p>1:45<ndash/>2:02, Verse 4, 8 bars</p></li>
+                    <li><p>2:02<ndash/>2:19, Verse 5, 8 bars</p></li>
+                    <li><p>2:19<ndash/>2:36, Chorus, 8 bars</p></li>
+                    <li><p>2:36<ndash/>3:02, Chorus a whole step higher, 9 bars</p></li>
+                </ul>
+            </answer>
+        </exercise>
+    </exercises>
+</chapter>
