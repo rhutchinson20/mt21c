@@ -2,7 +2,7 @@
 <chapter xml:id="MelodicAnalysis">
     <title>Melodic Analysis</title>
     <introduction>
-        <p>We will divide analysis of melodies into motives<!--make link later--> (which can be broken into fragments<!--make link later-->) and phrases<!--make link later--> (which can be broken into subphrases<!--make link later-->) in order to understand the construction of melodies. We will discuss periods and sentences in another chapter.</p>
+        <p>We will divide analysis of melodies into <xref ref="MotiveSection" text="title">motives</xref> (which can be broken into <xref ref="FragmentSection" text="title">fragments</xref>) and <xref ref="PhraseSection" text="title">phrases</xref> (which can be broken into <xref ref="subphrase" text="title">subphrases</xref>) in order to understand the construction of melodies. We will discuss periods and sentences in another chapter.</p>
     </introduction>
     <section xml:id="MotiveSection">
         <title>Motive</title>
@@ -360,7 +360,7 @@
                 </sidebyside>
             </sbsgroup>  
         </figure>
-        <p>Here is an example of a six-measure phrase that ends with a <chord root="V" bps="7"/><ndash/><chord root="i"/> cadence in <n pc="G"/> minor.</p>
+        <p>Here is an example of a six<ndash/>measure phrase that ends with a <chord root="V" bps="7"/><ndash/><chord root="i"/> cadence in <n pc="G"/> minor.</p>
         <figure>
             <caption>Mozart, Symphony No. 40, K. 550, III</caption>
             <idx><h>Mozart, W.A.</h><h>Symphony No. 40, K. 550, III</h></idx>
