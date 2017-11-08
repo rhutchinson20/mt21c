@@ -89,7 +89,6 @@
             <caption>Howard, “Fly Me To The Moon” (chords only) (1950s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Fly Me to the Moon)</h></idx>
             <idx><h>songs (popular)</h><h>"Fly Me to the Moon"</h></idx>
-
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/harmony-circle-fly-me">
@@ -143,7 +142,7 @@
         <p>Sequences can be short or long. For example, look at this familiar idea and notice how all four bars are sequenced down a step in the following four bars.</p>
         <figure xml:id="mozart-k550-melody">
             <caption>Mozart, Symphony No. 40, I.</caption>
-            <idx><h>Mozart</h><h>Symphony No. 40, K. 550, I. (opening melody)</h></idx>
+            <idx><h>Mozart, W.A.</h><h>Symphony No. 40, K. 550, I. (opening melody)</h></idx>
             <image source="images/unit2/harmony-melodic-sequence-mozart">
                 <description>Opening of Mozart's 40th Symphony</description>
             </image>
@@ -439,8 +438,8 @@
             <title>Tonic-Dominant-Tonic Progression</title>
             <p>This is the most elemental progression in music, often realized with I-V-I.</p>
             <figure>
-                <caption>Mozart, Sonata in G major, K. 283, I.</caption>
-                <idx><h>Mozart, W.A.</h><h>Sonata in G major, K. 283, I.</h></idx>
+                <caption>Mozart, Piano Sonata, K. 283, I.</caption>
+                <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 283, I.</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/harmony-T-D-T-k283">
@@ -538,7 +537,7 @@
             </figure>
             <figure>
                 <caption>Mozart, Symphony No. 40 in G minor, K. 550, I. (textural reduction)</caption>
-                <idx><h>Mozart, W.A.</h><h>Symphony No. 40 in G minor, K. 550, I., harmonic function in primary theme</h></idx>
+                <idx><h>Mozart, W.A.</h><h>Symphony No. 40, K. 550, I.</h><h>harmonic function in primary theme</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/harmony-T-P-D-T-k550">

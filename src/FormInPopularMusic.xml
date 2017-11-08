@@ -364,10 +364,10 @@
                 <p>For each song, fill in the beginning and ending time for each section, label each section type (verse, pre<ndash/>chorus, chorus, post<ndash/>chorus, interlude, introduction, A, B, or C section, etc.), and the number of bars in each section of the form.</p>
                 <ol>
                     <li>
+                        <idx><h>songs (popular)</h><h><q>She's Out of My Life</q> (Michael Jackson)</h></idx>
                         <sidebyside>
                             <table>
                                 <caption>Bahler, <q>She's Out of My Life</q></caption>
-                                <idx><h>songs (popular)</h><h><q>She's Out of My Life</q> (Michael Jackson)</h></idx>
                                 <tabular>
                                     <col/>
                                     <col/>
@@ -412,10 +412,10 @@
                     </li>
                     <li>
                         <sbsgroup>
+                            <idx><h>songs (popular)</h><h><q>Penny Lane</q> (The Beatles)</h></idx>
                             <sidebyside>
                                 <table>
                                     <caption>Lennon<ndash/>McCartney, <q>Penny Lane</q></caption>
-                                    <idx><h>songs (popular)</h><h><q>Penny Lane</q> (The Beatles)</h></idx>
                                     <tabular>
                                         <col/>
                                         <col/>
@@ -515,5 +515,8 @@
                 </ul>
             </answer>
         </exercise>
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_13.pdf">here to download the homework assignment for this chapter.</url></p>
+        </conclusion>
     </exercises>
 </chapter>

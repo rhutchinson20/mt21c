@@ -530,7 +530,7 @@
                     </ul>
                     <figure>
                         <caption>Schumann, <booktitle>Album for the Young</booktitle>, Op. 68, No. 16, <q>First Loss</q></caption>
-                        <idx><h>Schumann</h><h><booktitle>Album for the Young</booktitle>, Op. 68, No. 16, <q>First Loss</q></h></idx>
+                        <idx><h>Schumann, Robert</h><h><booktitle>Album for the Young</booktitle>, Op. 68, No. 16, <q>First Loss</q></h></idx>
                         <sbsgroup>
                             <sidebyside>
                                 <image source="images/unit2/PRAC-EXER-phrase-subphrase-schumann">
@@ -543,8 +543,8 @@
                         </sbsgroup>  
                     </figure>
                 </statement>
-
             </exercise>
+            <!--this last exercise not needed; phrases will be covered in the chapter on periods
             <exercise>
                 <statement>
                     <p>Listen to the following example and determine the number of phrases. Analyze the chords with the lead<ndash/>sheet symbols above and Roman numerals below. Label the non<ndash/>chord tone type for notes in parentheses.</p>
@@ -564,6 +564,7 @@
                     </figure>
                 </statement>
             </exercise>
+            End of exercise not being used-->
         </exercisegroup>
         <conclusion>
             <p>Click <url href="../hw/MT21C_HW_11.pdf">here to download the first assignment for this chapter.</url></p>

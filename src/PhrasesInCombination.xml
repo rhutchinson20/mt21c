@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="PhrasesInCombination">
+    <title>Phrases in Combination</title>
+    <section xml:id="PerfectAuthenticCadence">
+        <title>The Perfect Authentic Cadence</title>
+        <p>We will now distinguish between two types of authentic (<chord root="V"/><ndash/><chord root="I"/>) cadences: the Perfect Authentic Cadence (PAC) and the Imperfect Authentic Cadence (IAC).</p>
+        <p>The <term>Perfect Authentic Cadence</term><idx><h>Perfect Authentic Cadence</h></idx> must meet three requirements:</p>
+        <ol>
+            <li><p><chord root="V"/><ndash/><chord root="I"/></p></li>
+            <li><p>Both chords in Root position</p></li>
+            <li><p>Tonic scale degree (<scaledeg>1</scaledeg>) in the highest voice of the tonic chord</p></li>
+        </ol>
+        <sidebyside margins="20%">
+            <image source="images/unit3/phrases-PAC-example">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>If at least one of these requirements is not met (one or both of the chords are inverted, tonic is not in the highest voice, or <chord root="vii" mode="diminished"/> occurs in place of <chord root="V"/>), the cadence is an <term>Imperfect Authentic Cadence</term><idx><h>imperfect authentic cadence</h><h>definition of</h></idx> (IAC).</p>
+    </section>
+    <section xml:id="SentenceStructure">
+        <title>The Sentence</title>
+        <p>A sentence in music is a phrase with a specific melodic construction: a melodic idea (motive 1 or subphrase a) is either repeated or sequenced then followed by either related or unrelated material leading to a cadence.</p>
+        <p>In this first example, Mozart sequences motive 1 from measure 1 up a step in measure 2. Measure 3 contains related material and measure 4 contains cadential material.</p>
+        <figure>
+            <caption>Sentence Structure in Mozart, K. 331, I</caption>
+            <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 331, I</h><h>sentence structure in</h></idx>
+            <idx><h>sentence structure</h><h>example of</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/phrases-sentence-moz-k331i">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="R_NnOW9f8hs" start="0" end="13" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>In the next example, Beethoven changes the intervals of subphrase a in measures 3<ndash/>4 to fit the dominant harmony. He extracts motive 2 from subphrases a and a’ in measures 5<ndash/>6. Measures 7<ndash/>8 lead to a half cadence.</p>
+        <figure>
+            <caption>Sentence Structure in Beethoven, Op. 2, No. 1, I</caption>
+            <idx><h>Beethoven</h><h>Piano Sonata, Op. 2, No. 1, I</h><h>sentence structure in</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/phrases-sentence-beeth-op2no1iC">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="3Po1z4r_hs8" start="0" end="13" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>In the next example, unrelated material follows subphrase a and its repetition.</p>
+        <figure>
+            <caption>Sentence Structure in Mozart, K. 333, I</caption>
+            <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 333, I</h><h>sentence structure in</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/phrases-sentence-moz-k333-st">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="ag81EMx1j28" start="358" end="373" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+    </section>
+    <section xml:id="PeriodForm">
+        <title>The Period</title>
+        <introduction>
+            <p>In music, a <term>period</term><idx><h>period</h><h>definition of</h></idx> consists of at least two phrases with the final phrase ending in a more conclusive cadence than the first phrase.</p>
+        </introduction>
+        <subsection xml:id="ConclusivenessOfCadence">
+            <title>Conclusiveness of Cadence</title>
+            <p>Because period form involves <q>more conclusive</q> and <q>less conclusive</q> cadences, it is important to distinguish between inconclusive and conclusive cadences. Conclusive cadences end on the tonic chord, while inconclusive cadences do not.</p>
+            <sidebyside>
+                <tabular halign="center">
+                    <row>
+                        <cell><em>Inconclusive Cadences</em></cell>
+                        <cell><em>Conclusive Cadences</em></cell>
+                    </row>
+                    <row>
+                        <cell>Deceptive Cadence (<chord root="V"/><ndash/><chord root="vi"/>)</cell>
+                        <cell>Authentic Cadence (<chord root="V"/><ndash/><chord root="I"/>)</cell>
+                    </row>
+                    <row>
+                        <cell>Half Cadence (ends on <chord root="V"/>)</cell>
+                        <cell>Plagal Cadence (<chord root="IV"/><ndash/><chord root="I"/>)</cell>
+                    </row>
+                </tabular>
+            </sidebyside>
+            <p>In addition, the <xref ref="PerfectAuthenticCadence" text="title">perfect authentic cadence</xref> (PAC) is more conclusive than the imperfect authentic cadence (IAC). While the plagal cadence (PC) occurs less frequently than the other three cadences listed in the table above, it will sometimes occur in root position at the end of a phrase after an inverted imperfect authentic cadence (IAC) has concluded a previous phrase, with the understanding that a root position PC could be considered more conclusive than an inverted IAC.</p>
+            <p>Generally, a period will either contain a phrase ending in a half cadence (HC) followed by a phrase ending in an authentic cadence (IAC or PAC), or it will contain a phrase ending in an IAC following by a phrase ending in a PAC.</p>
+        </subsection>
+        <subsection xml:id="PeriodExamples">
+            <title>Examples of the <q>Less Conclusive<ndash/>More Conclusive</q> Cadential Formula</title>
+            <p>In the first example, a HC concludes the first phrase and a PAC concludes the second phrase, making a period.</p>
+            <figure>
+                <caption>Mozart, Piano Sonata K. 331, I</caption>
+                <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 331, I</h><h>period form</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-period-K331">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="R_NnOW9f8hs" start="0" end="24" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>Here is a formal diagram of the above example.</p>
+            <figure>
+                <caption>Diagram of Mozart, K. 331, I, mm. 1-8</caption>
+                <image source="images/unit3/phrases-period-diagram-par-HC-PAC">
+                    <description/>
+                </image>
+            </figure>
+            <p>Notice that one or more phrases within a period can be a <xref ref="SentenceStructure" text="title">sentence</xref>, as in the example above, since sentences are phrases with specific melodic structure.</p>
+            <p>In the next example, the first phrase concludes with an IAC and the second phrase concludes with a PAC.</p>
+            <figure>
+                <caption>Haydn, Piano Sonata in F Major, Hob. XVI:9 , III. Scherzo</caption>
+                <idx><h>Haydn</h><h>Piano Sonata in F Major, Hob. XVI:9 , III</h><h>period form</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-period-haydn-pno">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="hmu-6FJT5Bw" start="0" end="8" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the next example, the first phrase ends with an IAC and is followed by a second phrase ending with a PAC.</p>
+            <figure>
+                <caption>Beethoven, Bagatelle in A minor, WoO 59, <q>F&#x00FC;r Elise</q></caption>
+                <idx><h>Beethoven</h><h>Bagatelle in A minor, WoO 59, <q>F&#x00FC;r Elise</q></h><h>period form</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-period-fur-elise">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="L_QxrwSsssM" start="8" end="21" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>Another example with a less conclusive cadence followed by a more conclusive cadence is <q>Lean on Me</q> by Bill Withers.</p>
+            <figure>
+                <caption><q>Lean on Me</q> by Bill Withers</caption>
+                <sidebyside margins="37%">
+                    <video youtube="fOZ-MySzAac" start="0" end="27" play-at="select" preview="generic"/>
+                </sidebyside>
+            </figure>
+        </subsection>
+        <subsection xml:id="AntecedentsAndConsequents">
+            <title>Antecedents and Consequents</title>
+            <p>In a period, the phrase ending with the less conclusive cadence is called the <q><term>antecedent</term></q><idx><h>antecedent</h><h>definition of</h></idx> and the phrase ending with the more conclusive cadence is called the <q><term>consequent</term><idx><h>consequent</h><h>definition of</h></idx>.</q> These can be thought of as being in a <q>question and answer</q> relationship.</p>
+            <figure>
+                <caption>Antecedent and Consequent in Mozart, Piano Sonata K. 331, I</caption>
+                <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 331, I</h><h>antecendent and consequent in</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-period-331-w-antecedent-consequent">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="R_NnOW9f8hs" start="0" end="23" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+        </subsection>
+        <subsection xml:id="ParallelAndContrastingPeriods">
+            <title>Parallel and Contrasting Periods</title>
+            <p>Periods are labeled as <q>parallel</q> or <q>contrasting</q> based on the melodic material. In a <term>parallel period</term><idx><h>parallel period</h></idx>, the melodies in both phrases begin similarly. In a <term>contrasting period</term><idx><h>contrasting period</h></idx>, the phrases begin differently.</p>
+            <p>The three preceding examples are parallel periods</p>
+            <p>The apostrophe mark (') is called <q>prime</q> and is used to show a phrase is similar to a previous phrase but ends with a different cadence. Therefore a’ is called <q>a prime</q> and a’’ is called <q>a double prime.</q> If you are analyzing a piece that requires triple and quadruple primes, it is clearer to use <chord root="a" bps="1"/>, <chord root="a" bps="2"/>, <chord root="a" bps="3"/>, and so on.</p>
+            <p>Below is an example of a contrasting period.</p>
+            <figure>
+                <caption>Beethoven, Piano Sonata in C minor, Op. 13, (Path&#x00E9;tique), II</caption>
+                <idx><h>Beethoven</h><h>Piano Sonata in C minor, Op. 13, (Path&#x00E9;tique), II</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-period-contrasting-pathetique-ii">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="rGM7WnV8X68" start="0" end="37" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <figure>
+                <caption>Formal diagram of the example above (2nd movement of Beethoven Path&#x00E9;tique sonata)</caption>
+                <sidebyside>
+                    <image source="images/unit3/phrases-period-diagram-cont-HC-PAC">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+        </subsection>
+        <subsection xml:id="RepeatedPhrase">
+            <title>Repeated Phrase</title>
+            <p>If you encounter a section consisting of the same phrase occurring twice, call it a <q>repeated phrase.</q></p>
+            <figure>
+                <caption>Robert Schumann, Album for the Young, Op. 68, No. 17, <q>Little Morning Wanderer</q></caption>
+                <idx><h>Schumann, Robert</h><h>Album for the Young, Op. 68, No. 17, <q>Little Morning Wanderer</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-repeated-phrase-schumann">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="Qy8NLd7d6VE" start="0" end="17" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <figure>
+                <caption>Formal diagram of the example above (<q>Little Morning Wanderer</q>)</caption>
+                <sidebyside>
+                    <image source="images/unit3/phrases-repeated-phrase-diagram">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <p>In following two sections, we will examine periods containing more than two phrases.</p>
+        </subsection>
+    </section>
+    <section xml:id="AsymmetricalPeriod">
+        <title>The Asymmetrical Period</title>
+        <p>Asymmetrical periods consist of three or five phases. In an asymmetrical period, there will be an unequal number of antecedents and consequents, hence the <q>asymmetry.</q> In the example below, there is one antecedent and two consequents.</p>
+        <figure>
+            <caption>Chopin, Prelude Op. 28, No. 20, in C minor</caption>
+            <idx><h>Chopin</h><h>Prelude Op. 28, No. 20, in C minor</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/phrases-asymmetrical-period-chopin-prelude">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="UPptFNwQppA" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+    </section>
+    <section xml:id="DoublePeriodForm">
+        <title>The Double Period</title>
+        <introduction>
+            <title>The Double Period</title>
+            <p>A <term>double period</term><idx><h>double period</h><h>definition of</h></idx> consists of at least 4 phrases and is comprised of an <term>antecedent group</term><idx><h>antecedent group</h></idx> and a <term>consequent group</term><idx><h>consequent group</h></idx>. The first two phrases in a double period are the antecedent group and the final two phrases are the consequent group, which ends with a cadence that <q>answers</q> the less conclusive cadence (or <q>question</q>) that ended the antecedent group.</p>
+            <p>The melodic scheme of <em>abab’</em> (four phrases) is commonly encountered in a double period. A double period with this melodic scheme would be described as a <q><em>parallel</em> double period</q> because both the antecedent group and consequent group begin with the same melody.</p>
+            <figure>
+                <caption>Beethoven, Piano Sonata Op. 10, No. 1, II</caption>
+                <idx><h>Beethoven</h><h>Piano Sonata Op. 10, No. 1, II (double period)</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-double-period-op-10-no-1-II">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="3NzRdk4zo2o" start="3" end="75" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <figure>
+                <caption>Formal diagram of a double period (Beethoven, Op. 10, No. 1, II)</caption>
+                <sidebyside>
+                    <image source="images/unit3/phrases-double-period-op-10-diagram">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <p>A double period will typically have one of the following cadential schemes:</p>
+            <figure>
+                <caption>Possible cadential schemes in a double period</caption>
+                <sidebyside>
+                    <image source="images/unit3/phrases-double-period-cadential-schemes-diagram">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <p>Notice that the first two phrases of an antecedent group can consist of an IAC followed by a HC (<q>Scheme 3</q> in the above example). This may seem confusing if you are focused on analyzing phrases solely in groups of two instead considering how many phrases are in a section before analyzing the cadential scheme and the form.</p>
+        </introduction>
+        <subsection xml:id="RepeatedPeriod">
+            <title>Repeated Period</title>
+            <p>You may encounter a section consisting of four phrases that is not a double period but instead is a <term>repeated period</term><idx><h>repeated period</h></idx>.</p>
+            <figure>
+                <caption>Beethoven, Piano Sonata Op. 53, I</caption>
+                <idx><h>Beethoven</h><h>Piano Sonata Op. 53, I (repeated period)</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-repeated-period-waldstein">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="Duj7q2oPqas" start="52" end="82" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>Examine the difference between the following diagrams:</p>
+            <figure>
+                <caption>Formal diagram of a repeated period (Beethoven, Op. 53, I)</caption>
+                <sidebyside>
+                    <image source="images/unit3/phrases-repeated-period-waldstein-diagram">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <figure>
+                <caption>Formal diagram of a double period (Beethoven, Op. 10, No. 1, II)</caption>
+                <sidebyside>
+                    <image source="images/unit3/phrases-double-period-op-10-diagram">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <p>In the next section we will examine phrase combinations that are not periods.</p>
+        </subsection>
+    </section>
+    <section xml:id="PhraseGroupsAndPhaseChains">
+        <title>Phrase Groups and Phase Chains</title>
+        <p>Phrase groups and phrase chains are not periods. In phrase groups and phrase chains, <em>the final cadence is a half cadence</em>. A <term>phrase group</term><idx><h>phrase group</h><h>definition of</h></idx> consists of at least two phrases whose melodies begin similarly and has the final phrase ending in a half cadence. The terminology in this section draws from Douglass Green’s <booktitle>Form in Tonal Music</booktitle>.</p>
+        <figure>
+            <caption>Couperin, 5 Pi&#x00E8;ces de Clavecin, 4. Le Petit<ndash/>Rien (Ordre XIV, 8)</caption>
+            <idx><h>Couperin</h><h>5 Pi&#x00E8;ces de Clavecin, 4. Le Petit<ndash/>Rien (Ordre XIV, 8) (phrase group)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/phrases-phrase-group-couperin">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="oh6ByhUep0s" start="31" end="39" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>A <term>phrase chain</term><idx><h>phrase chain</h><h>definition of</h></idx> also ends in a half cadence and consists of at least two phrases with <em>contrasting</em> melodies.</p>
+        <figure>
+            <caption>Beethoven, Sonatina in F, Anh. 5 No. 2, II. Rondo</caption>
+            <idx><h>Beethoven</h><h>Sonatina in F, Anh. 5 No. 2, II. Rondo (phrase chain)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/phrases-phrase-chain-beethoven-rondo">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="O93GspATPzs" start="57" end="70" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+    </section>
+    <section xml:id="Elision">
+        <title>The Elision</title>
+        <p>An elision is a special device for joining phrases together in an overlapping manner. In an elision, the final bar of one phrase is simultaneously the first bar of the next phrase.</p>
+        <figure>
+            <caption>Mozart, Eine kleine Nachtmusik, K. 525, I.</caption>
+            <idx><h>Mozart, W.A.</h><h>Eine kleine Nachtmusik, K. 525, I. (elsion)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/phrases-elision-mozart">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="TpPuLwtDQrY" start="20" end="39" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+    </section>
+    <exercises xml:id="PhrasesInCombinationPracticeExercises">
+        <title>Practice Exercises</title>
+        <exercise>
+            <statement>
+                <p>For each excerpt below, do the following:</p>
+                <ul>
+                    <li><p>Label chords with Roman numerals at the ends of phrases to determine cadences</p></li>
+                    <li><p>Label cadences by type (PAC, IAC, HC, PC, DC)</p></li>
+                    <li><p>Examine the motivic structure to determine if a phrase is a sentence</p></li>
+                    <li><p>Create a diagram of the form using cadence abbreviations (HC, DC, PC, IAC, and PAC) and letters to designate melody (<em>a</em>, <em>a’</em>, <em>b</em>, etc.). Use the <q>prime</q> symbol (') to show if a melody ends with a different cadence. In this chapter, the prime symbol should not be used to represent embellishment of the melody or changes in the harmonization or register.</p></li>
+                    <li><p>Name the form of the excerpt (sentence, parallel period, contrasting period, asymmetrical period, parallel double period, repeated phrase, repeated period).</p></li>
+                </ul>
+                <ol>
+                    <li>
+                        <p>Mozart, <booktitle>The Magic Flute</booktitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></p>
+                        <figure>
+                            <caption/>
+                            <idx><h>Mozart, W.A.</h><h><booktitle>The Magic Flute</booktitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit3/PRAC-EXER-phrases-mozart-ein-madchen">
+                                        <description/>
+                                    </image>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="CI0hJLioGF0" start="0" end="15" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                    <li>
+                        <p>Mozart, Piano Sonata K. 333, I</p>
+                        <figure>
+                            <caption/>
+                            <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 333, I</h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1">
+                                        <description/>
+                                    </image>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="ag81EMx1j28" start="329" end="358" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                </ol>
+            </statement>
+            <answer>
+                <p>Mozart, <booktitle>The Magic Flute</booktitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q>:</p>
+                <ul>
+                    <li><p>Chords: <chord root="I"/><ndash/><chord root="V"/>, <chord root="V"/><ndash/><chord root="I"/></p></li>
+                    <li><p>Cadences: HC, PAC</p></li>
+                    <li><p>No Sentences</p></li>
+                    <li><p>Melodic labels: <em>a</em>, <em>b</em></p></li>
+                    <li><p>Form: contrasting period</p></li>
+                </ul>
+                <p>Mozart, Piano Sonata K. 333, I:</p>
+                <ul>
+                    <li><p>Chords: <chord root="vii" mode="diminished"/><ndash/><chord root="I"/>, <chord root="vi"/><ndash/><chord root="V"/>, <chord root="vii" mode="diminished"/><ndash/><chord root="I"/>, <chord root="V"/><ndash/><chord root="I"/></p></li>
+                    <li><p>Cadences: IAC, HC, IAC, PAC</p></li>
+                    <li><p>The 2nd phrase is a sentence</p></li>
+                    <li><p>Melodic labels: <em>a</em>, <em>b</em>, <em>a</em>, <em>b'</em></p></li>
+                    <li><p>Form: parallel double period</p></li>
+                </ul>
+            </answer>
+        </exercise>
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_14.pdf">here to download the homework assignment for this chapter.</url></p>
+        </conclusion>
+    </exercises>
+</chapter>
