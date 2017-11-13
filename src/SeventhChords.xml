@@ -35,7 +35,7 @@
         <p>In later chapters we will discuss other seventh chords built on augmented triads and minor triads.</p>
     </section>
     <section xml:id="IVover5SusChord">
-        <title>The IV/5 "sus" chord</title>
+        <title>The IV/5 <q>sus</q> chord</title>
         <p>An additional four-note chord that sounds like and functions similar to a <chord root="V" bps="7"/> chord is the <chord root="IV"/>/<scaledeg>5</scaledeg> (or <chord root="F" bass="G"/> in <n pc="C"/> major) chord. In popular music this chord often is substituted for the <chord root="V" bps="7"/> chord</p>
         <sidebyside>
             <image source="images/unit2/7th-chords-F-over-G">
@@ -44,8 +44,8 @@
         </sidebyside>
         <p>Here is a musical example with the <chord root="IV"/>/<scaledeg>5</scaledeg> chord in <n pc="A" acc="flat"/> major.</p>
         <figure>
-            <caption>Vincent, <q>O-o-h Child</q></caption>
-            <idx><h>songs (popular)</h><h><q>O-o-h Child</q> (The Five Stairsteps)</h></idx>
+            <caption>Vincent, <q>O<ndash/>o<ndash/>h Child</q></caption>
+            <idx><h>songs (popular)</h><h><q>O<ndash/>o<ndash/>h Child</q> (The Five Stairsteps)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/7th-chords-ooh-child">
@@ -79,7 +79,7 @@
         <title>Practice Exercises</title>
         <exercise>
             <statement>
-                <p>Analyze the given chords with lead-sheet symbols above and Roman numerals below.</p>
+                <p>Analyze the given chords with lead<ndash/>sheet symbols above and Roman numerals below.</p>
                 <sidebyside>
                     <image source="images/unit2/PRAC-EXER-7th-chords-ID"/>
                 </sidebyside>
@@ -94,7 +94,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Given the Roman numeral, provide the notes of the chord and the lead-sheet symbol above.</p>
+                <p>Given the Roman numeral, provide the notes of the chord and the lead<ndash/>sheet symbol above.</p>
                 <sidebyside>
                     <image source="images/unit2/PRAC-EXER-7th-chords-writing"/>
                 </sidebyside>
@@ -109,10 +109,10 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Analyze the harmonies in the excerpts with lead-sheet symbols above and Roman numerals below.</p>
+                <p>Analyze the harmonies in the excerpts with lead<ndash/>sheet symbols above and Roman numerals below.</p>
                 <ol>
                     <li>
-                        <p>"No Scrubs" <idx><h>songs (popular)</h><h>"No Scrubs" (TLC)</h></idx><url href="https://youtu.be/FrLequ6dUdM?t=8s">(YouTube)</url></p>
+                        <p><q>No Scrubs</q> <idx><h>songs (popular)</h><h><q>No Scrubs</q> (TLC)</h></idx><url href="https://youtu.be/FrLequ6dUdM?t=8s">(YouTube)</url></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-7th-chords-no-scrubs"/>
                         </sidebyside>
@@ -126,7 +126,7 @@
                 </ol>
             </statement>
             <answer>
-                <p>a. "No Scrubs": 1. <chord root="D flat" mode="m" bps="7"/>, <chord root="iv" bps="7"/>; 2. <chord root="A flat" mode="m"/>, <chord root="i"/>; 3. <chord root="E flat" bps="7"/>, <chord root="V" bps="7"/>; 4. <chord root="A flat" mode="m"/>, <chord root="i"/></p>
+                <p>a. <q>No Scrubs</q>: 1. <chord root="D flat" mode="m" bps="7"/>, <chord root="iv" bps="7"/>; 2. <chord root="A flat" mode="m"/>, <chord root="i"/>; 3. <chord root="E flat" bps="7"/>, <chord root="V" bps="7"/>; 4. <chord root="A flat" mode="m"/>, <chord root="i"/></p>
                 <p>b. Mozart: 1. <chord root="C"/>, <chord root="I"/>; 2. <chord root="G" bps="7" bass="D"/>, <chord root="V" bps="7" bass="5th"/>; 3. <chord root="C"/>, <chord root="I"/>; 4. <chord root="F" bass="C"/>, <chord root="IV" bass="5th"/>; 5. <chord root="C"/>, <chord root="I"/>; 6. <chord root="G" bps="7" bass="B"/>, <chord root="V" bps="7" bass="3rd"/>; 7. <chord root="C"/>, <chord root="I"/>; Cadence type: Authentic Cadence (AC)</p>
             </answer>
         </exercise>

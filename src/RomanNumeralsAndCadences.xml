@@ -169,7 +169,7 @@
             <p>Here is another example ending with an authentic cadence.</p>
             <figure>
             	<caption>Lennon<ndash/>McCartney, <q>I Want to Hold Your Hand</q></caption>
-            	<idx><h>songs (popular)</h><h>"I Want to Hold Your Hand" (Beatles)</h></idx>
+            	<idx><h>songs (popular)</h><h><q>I Want to Hold Your Hand</q> (Beatles)</h></idx>
             	<sbsgroup>
                 	<sidebyside>
                     	<image source="images/unit2/cadences-auth-cad-i-want-to-hold">
@@ -194,7 +194,7 @@
             </figure>
             <figure>
                 <caption>Pink, Bhasker, and Ruess, <q>Just Give Me a Reason</q></caption>
-                <idx><h>songs (popular)</h><h>"Just Give Me A Reason" (Pink)</h></idx>
+                <idx><h>songs (popular)</h><h><q>Just Give Me a Reason</q> (Pink)</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/cadences-plagal-cad-just-give-me">
@@ -208,7 +208,7 @@
             </figure>
             <figure>
                 <caption>Hozer-Byrne, <q>Take Me to Church</q></caption>
-                <idx><h>songs (popular)</h><h>"Take Me to Church" (Hozier)</h></idx>
+                <idx><h>songs (popular)</h><h><q>Take Me to Church</q> (Hozier)</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/cadences-plagal-cad-take-me-to-church">
@@ -240,7 +240,7 @@
             </figure>
             <figure>
                 <caption>Kelly and Steinberg, <q>True Colors</q></caption>
-                <idx><h>songs (popular)</h><h>"True Colors" (Cyndi Lauper)</h></idx>
+                <idx><h>songs (popular)</h><h><q>True Colors</q> (Cyndi Lauper)</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/cadences-deceptive-cad-true-colors">
@@ -302,7 +302,7 @@
             </figure>
             <figure>
                 <caption>Sheeran and Wadge, <q>Thinking Out Loud</q></caption>
-                <idx><h>songs (popular)</h><h>"Thinking Out Loud" (Ed Sheeran)</h></idx>
+                <idx><h>songs (popular)</h><h><q>Thinking Out Loud</q> (Ed Sheeran)</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/cadences-half-cad-thinking-out-loud">
@@ -318,7 +318,7 @@
             <p>Additionally, you may encounter <term>incomplete chords</term><idx><h>incomplete chords</h></idx>, which are chords containing only the root and third but no fifth.</p>
             <figure>
                 <caption>Bieber, Blanco, and Sheeran, <q>Love Yourself</q></caption>
-                <idx><h>songs (popular)</h><h>"Love Yourself" (Justin Bieber)</h></idx>
+                <idx><h>songs (popular)</h><h><q>Love Yourself</q> (Justin Bieber)</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/cadences-half-cad-love-yourself">
@@ -363,13 +363,13 @@
                 <p>Label lead-sheet symbols above and Roman numerals below and analyze the type of cadence that ends the phrase.</p>
                 <ol>
                     <li>
-                        <p>"Columbia, the Gem of the Ocean" <idx><h>Columbia, the Gem of the Ocean</h></idx><url href="https://youtu.be/Iyn3HEVFOhM?t=8s">(YouTube)</url></p>
+                        <p><q>Columbia, the Gem of the Ocean</q> <idx><h>Columbia, the Gem of the Ocean</h></idx><url href="https://youtu.be/Iyn3HEVFOhM?t=8s">(YouTube)</url></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-cadences-columbia"/>
                         </sidebyside>
                     </li>
                     <li>
-                        <p>"Could You Be Loved" <idx><h>songs (popular)</h><h>"Could You Be Loved" (Bob Marley)</h></idx><url href="https://youtu.be/y6OLrzVTuGw?t=23s">(YouTube)</url></p>
+                        <p><q>Could You Be Loved</q> <idx><h>songs (popular)</h><h><q>Could You Be Loved</q> (Bob Marley)</h></idx><url href="https://youtu.be/y6OLrzVTuGw?t=23s">(YouTube)</url></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-cadences-could-you-be"/>
                         </sidebyside>
@@ -377,8 +377,8 @@
                 </ol>
             </statement>
             <answer>
-                <p>a. "Columbia, the Gem of the Ocean": 1. <chord root="G"/>, <chord root="I"/>; 2. <chord root="D"/>, <chord root="V"/>; 3. <chord root="G"/>, <chord root="I"/>; 4. <chord root="C"/>, <chord root="IV"/>; 5. <chord root="G"/>, <chord root="I"/>; 6. <chord root="D"/>, <chord root="V"/>; Cadence type = Half Cadence (HC)</p>
-                <p>b. "Could You Be Loved": 1. <chord root="D"/>, <chord root="I"/>; 2. <chord root="B" mode="m"/>, <chord root="vi"/>; 3. <chord root="G"/>, <chord root="IV"/>; 4. <chord root="D"/>, <chord root="I"/>; Cadence type = Plagal Cadence (PC)</p>
+                <p>a. <q>Columbia, the Gem of the Ocean</q>: 1. <chord root="G"/>, <chord root="I"/>; 2. <chord root="D"/>, <chord root="V"/>; 3. <chord root="G"/>, <chord root="I"/>; 4. <chord root="C"/>, <chord root="IV"/>; 5. <chord root="G"/>, <chord root="I"/>; 6. <chord root="D"/>, <chord root="V"/>; Cadence type = Half Cadence (HC)</p>
+                <p>b. <q>Could You Be Loved</q>: 1. <chord root="D"/>, <chord root="I"/>; 2. <chord root="B" mode="m"/>, <chord root="vi"/>; 3. <chord root="G"/>, <chord root="IV"/>; 4. <chord root="D"/>, <chord root="I"/>; Cadence type = Plagal Cadence (PC)</p>
             </answer>
         </exercise>
         <conclusion>

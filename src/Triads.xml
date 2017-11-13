@@ -53,7 +53,7 @@
         <p>Here is a musical example with lead<ndash/>sheet symbols and guitar tablature.</p>
         <figure>
             <caption>Germanotta, Garibay, Blair, <q>Edge of Glory</q></caption>
-            <idx><h>songs (popular)</h><h>"Edge of Glory" (Lady Gaga)</h></idx>
+            <idx><h>songs (popular)</h><h><q>Edge of Glory</q> (Lady Gaga)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit1/leadsheet-edge-of-glory">
@@ -165,8 +165,8 @@
         <p>Since the lowest note is <n pc="G"/>, the chord is inverted. Our lead-sheet symbol is <chord root="E" mode="diminished" bass="G"/>, which means we have an <chord root="E" mode="diminished"/> chord with a <n pc="G"/> in the bass.</p>
     </section>
     <section xml:id="SimpleSusChords">
-        <title>Simple "Sus" Chords</title>
-        <p>Common in popular music are <q>sus</q> chords, with <q>sus</q> being a shortening of <q>suspended,</q> a term we will study in the chapter on non-chord tones.<!--link to Non Chord Tones someday--></p>
+        <title>Simple <q>Sus</q> Chords</title>
+        <p>Common in popular music are <q>sus</q> chords, with <q>sus</q> being a shortening of <q>suspended,</q> a term we will study in the chapter on <xref ref="NonChordTones" text="title">non<ndash/>chord tones</xref>.</p>
         <p>The two basic sus chords are the sus4 and sus2 chords. In the <term>sus4</term><idx><h>sus4 chord</h></idx> chord (also labeled simply as <q>sus</q>), a perfect 4th replaces the 3rd of the chord. In the <term>sus2</term><idx><h>sus2 chord</h></idx><idx><h>sus9 chord</h></idx> chord (sometimes called <q>sus9</q>), a major 2nd replaces the 3rd of the chord. Both of these sus chords have a perfect 5th from the root to the fifth.</p>
         <sidebyside>
             <image source="images/unit1/lead-sheet-sus-chords"/>
@@ -174,7 +174,7 @@
         <p>Here is a musical example with a sus4 chord.</p>
         <figure>
             <caption>Cetera and Foster, <q>Hard to Say I'm Sorry</q></caption>
-            <idx><h>songs (popular)</h><h>"Hard to Say I'm Sorry" (Chicago)</h></idx>
+            <idx><h>songs (popular)</h><h><q>Hard to Say I'm Sorry</q> (Chicago)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit1/lead-sheet-sus4-hard-to-say-im-sorry-B">
@@ -189,7 +189,7 @@
         <p>Here is a musical example with a sus2 chord.</p>
         <figure>
             <caption>Bareilles, <q>Love Song</q></caption>
-            <idx><h>songs (popular)</h><h>"Love Song" (Sara Bareilles)</h></idx>
+            <idx><h>songs (popular)</h><h><q>Love Song</q> (Sara Bareilles)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit1/leadsheet-sus2-love-song">
@@ -207,7 +207,7 @@
         <title>Practice Exercises</title>
         <exercise>
             <statement>
-                <p>Analyze the triad types (M, m, +, º) using lead-sheet symbols. Sus2 and sus4 chords are also included.</p>
+                <p>Analyze the triad types (M, m, <chord mode="augmented"/>, <chord mode="diminished"/>) using lead-sheet symbols. Sus2 and sus4 chords are also included.</p>
                 <sidebyside>
                     <image source="images/unit1/PRAC-EXER-Triad-ID"/>
                 </sidebyside>

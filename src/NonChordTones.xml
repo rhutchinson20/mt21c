@@ -73,7 +73,7 @@
         <p>Passing tones are notes that pass between chord tones.</p>
         <figure>
             <caption>Desrouleaux, Kirkpatrick, Martin, Robbins, Allan, <q>Want to Want Me</q></caption>
-            <idx><h>songs (popular)</h><h>"Want to Want Me" (Jason Derulo)</h></idx>
+            <idx><h>songs (popular)</h><h><q>Want to Want Me</q> (Jason Derulo)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-pt-derulo">
@@ -89,7 +89,7 @@
         <p>There can be two consecutive diatonic passing tones in a descending scale segment from the root and fifth of a chord.</p>
         <figure>
             <caption>Hupfeld, <q>As Time Goes By</q></caption>
-            <idx><h>songs (popular)</h><h>"As Time Goes By" (from the motion picture <booktitle>Casablanca</booktitle>)</h></idx>
+            <idx><h>songs (popular)</h><h><q>As Time Goes By</q> (from the motion picture <booktitle>Casablanca</booktitle>)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-pt-as-time-goes">
@@ -104,7 +104,7 @@
         <p>Here is an example with chromatic passing tones.</p>
         <figure>
             <caption>Monk, <q>Blue Monk</q></caption>
-            <idx><h>Monk, Thelonious</h><h>"Blue Monk"</h></idx>
+            <idx><h>Monk, Thelonious</h><h><q>Blue Monk</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-pt-blue-monk">
@@ -258,8 +258,8 @@
         </figure>
         <p>The double neighbor is sometimes confused with escape tones and appoggiaturas. Be sure to keep track of chord tones when analyzing non<ndash/>chord tones. Look at the next example and ask yourself how you would analyze the harmony and non-chord tones on beat 4 of the first measure.</p>
         <figure>
-            <caption>Mozart, Piano Sonata in Bb, K. 333, I</caption>
-            <idx><h>Kuhlau</h><h>Piano Sonata in Bb, K. 333, I</h></idx>
+            <caption>Mozart, Piano Sonata K. 333, I</caption>
+            <idx><h>Mozart</h><h>Piano Sonata K. 333, I</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-dn-k333i">
@@ -431,7 +431,7 @@
         <p>A retardation is usually an accented non<ndash/>chord tone, meaning it occurs on a downbeat. A retardation is approached by the same note and resolves up by step.</p>
         <figure>
             <caption>Mozart, Piano Sonata in C major, K. 545, II</caption>
-            <idx><h>Mozart, W.A.</h><h>Piano Sonata in C major, K. 545, II</h></idx>
+            <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 545, II</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-ret-k545ii">
@@ -573,29 +573,29 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Analyze the harmonies with lead-sheet symbols above the staff and Roman numerals below. Add the following non<ndash/>chord tones: two suspensions, one passing tone, and one appoggiatura. Do not add non<ndash/>chord tones to the bass.</p>
+                <p>Analyze the harmonies with lead<ndash/>sheet symbols above the staff and Roman numerals below. Add the following non<ndash/>chord tones: two suspensions, one passing tone, and one appoggiatura. Do not add non<ndash/>chord tones to the bass.</p>
                 <sidebyside>
                     <image source="images/unit2/PRAC-EXER-NCT-add-NCTs"/>
                 </sidebyside>
             </statement>
             <answer>
-                <p>Lead-sheet: <n pc="B" acc="flat"/>, <n pc="D"/>m, <n pc="E" acc="flat"/>, <n pc="F"/></p>
+                <p>Lead<ndash/>sheet: <n pc="B" acc="flat"/>, <n pc="D"/>m, <n pc="E" acc="flat"/>, <n pc="F"/></p>
                 <p>Rom. num.: I, iii, IV, V</p>
                 <!--add finale of answer-->
             </answer>
         </exercise>
         <exercise>
             <statement>
-                <p>Analyze the harmonies with lead-sheet symbols above the staff and Roman numerals below, then analyze the non<ndash/>chord tones.</p>
+                <p>Analyze the harmonies with lead<ndash/>sheet symbols above the staff and Roman numerals below, then analyze the non<ndash/>chord tones.</p>
                 <ol>
                     <li>
-                        <p>Holland<mdash/>Dozier<mdash/>Holland, <q>Stop! In the Name of Love</q><idx><h>songs (popular)</h><h>"Stop! In the Name of Love" (The Supremes)</h></idx> <url href="https://youtu.be/tuei1XUAGRo?t=52s"> (YouTube)</url></p>
+                        <p>Holland<mdash/>Dozier<mdash/>Holland, <q>Stop! In the Name of Love</q><idx><h>songs (popular)</h><h><q>Stop! In the Name of Love</q> (The Supremes)</h></idx> <url href="https://youtu.be/tuei1XUAGRo?t=52s"> (YouTube)</url></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-NCT-stop-in-the-name"/>
                         </sidebyside>
                     </li>
                     <li>
-                        <p>Schumann, <booktitle>Dichterliebe</booktitle>, Op. 48, 1. <q>Im wundersch&#x00F6;nen Monat Mai</q> <idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48, </h><h>1. <q>Im wundersch&#x00F6;nen Monat Mai</q></h></idx><url href="https://youtu.be/xIMgAZocYQc?t=11s">(YouTube)</url></p>
+                        <p>Robert Schumann, <booktitle>Dichterliebe</booktitle>, Op. 48, 1. <q>Im wundersch&#x00F6;nen Monat Mai</q> <idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48, </h><h>1. <q>Im wundersch&#x00F6;nen Monat Mai</q></h></idx><url href="https://youtu.be/xIMgAZocYQc?t=11s">(YouTube)</url></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-NCT-im-wunderschonen"/>
                         </sidebyside>
@@ -603,18 +603,18 @@
                 </ol>
             </statement>
             <answer>
-                <p>a. "Stop! In the Name of Love" example</p>
-                <p>Lead-sheet symbols: Am, G/B, F, G</p>
+                <p>a. <q>Stop! In the Name of Love</q> example</p>
+                <p>Lead<ndash/>sheet symbols: Am, G/B, F, G</p>
                 <p>Roman numerals: vi, V/3rd, IV IVM7, V</p>
                 <p>Measure 2: 7<ndash/>6 suspension in voice part and in right hand of piano, appoggiatura in left hand of piano</p>
                 <p>Measure 3: 9<ndash/>8 suspension (or incomplete neighbor) in voice part and right hand of piano</p>
                 <p>Measure 4: 6<ndash/>5 suspension in voice and right hand of piano</p>
-                <p>b. Schumann example</p>
+                <p>b. Robert Schumann example</p>
                 <p>Pickup measure: appoggiatura in right hand of piano;</p>
                 <p>Measure 1: appoggiatura in left hand of piano; 7<ndash/>6 suspension, appoggiatura in right hand of piano; Roman numeral: iv/3rd</p>
                 <p>Measure 2: appoggiatura in right hand; Roman numeral: V7</p>
-                <p>Measure 3: anticipation, appoggiatura in voice part; appoggiatura in right hand; Roman numeral: ii/3rd, V7, Lead-sheet symbol: E7</p>
-                <p>Measure 4: 4<ndash/>3 suspension; appoggiatura in right hand; Roman numeral: I, Lead-sheet symbol: A</p>
+                <p>Measure 3: anticipation, appoggiatura in voice part; appoggiatura in right hand; Roman numeral: ii/3rd, V7, Lead<ndash/>sheet symbol: E7</p>
+                <p>Measure 4: 4<ndash/>3 suspension; appoggiatura in right hand; Roman numeral: I, Lead<ndash/>sheet symbol: A</p>
             </answer>
         </exercise>
         <conclusion>

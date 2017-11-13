@@ -9,6 +9,7 @@
         <table>
             <caption>Jackson and Richie, <q>We Are The World</q></caption>
             <idx><h>songs (popular)</h><h><q>We Are The World</q></h></idx>
+            <!--inbetween table and tabular would be a sidebyside with left margin = 0 look for margins attribute-->
             <tabular>
                 <col/>
                 <col/>
@@ -17,8 +18,8 @@
                     <cell><em>Introduction</em>, 6 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
+                    <cell><nbsp/></cell>
                 </row>
                 <row>
                     <cell>0:26<ndash/>0:53</cell>
@@ -33,8 +34,8 @@
                     <cell><em>Chorus</em>, 9 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
+                    <cell><nbsp/></cell>
                 </row>
                 <row>
                     <cell>1:49<ndash/>2:14</cell>
@@ -45,16 +46,16 @@
                     <cell><em>Chorus</em>, 8 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
+                    <cell><nbsp/></cell>
                 </row>
                 <row>
                     <cell>2:41<ndash/>3:08</cell>
                     <cell><em>Bridge</em>, 8 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
+                    <cell><nbsp/></cell>
                 </row>
                 <row>
                     <cell>3:08<ndash/>3:35</cell>
@@ -101,7 +102,7 @@
                     <cell><em>Post<ndash/>chorus</em>, 4 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
                     <cell></cell>
                 </row>
                 <row>
@@ -125,7 +126,7 @@
                     <cell><em>Post<ndash/>chorus</em>, 4 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
                     <cell></cell>
                 </row>
                 <row>
@@ -133,7 +134,7 @@
                     <cell><em>Guitar solo</em>, 8 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
                     <cell></cell>
                 </row>
                 <row>
@@ -174,7 +175,7 @@
                     <cell><em>Introduction</em>, 8 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
                     <cell></cell>
                 </row>
                 <row>
@@ -194,7 +195,7 @@
                     <cell><em>A section (A3)</em>, 10 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
                     <cell></cell>
                 </row>
                 <row>
@@ -206,7 +207,7 @@
                     <cell><em>Introduction</em>, 8 bars (shout chorus continues)</cell>
                 </row>
                 <row>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
                     <cell></cell>
                 </row>
                 <row>
@@ -226,7 +227,7 @@
                     <cell><em>A section (A3)</em>, 8 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
                     <cell></cell>
                 </row>
                 <row>
@@ -262,7 +263,7 @@
                     <cell><em>Verse</em>, 16 bars (8 bars + 8 bars)</cell>
                 </row>
                 <row>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
                     <cell></cell>
                 </row>
                 <row>
@@ -282,7 +283,7 @@
                     <cell><em>C section</em>, 8 bars</cell>
                 </row>
                 <row>
-                    <cell></cell>
+                    <cell><nbsp/></cell>
                     <cell></cell>
                 </row>
                 <row>
@@ -412,7 +413,7 @@
                     </li>
                     <li>
                         <sbsgroup>
-                            <idx><h>songs (popular)</h><h><q>Penny Lane</q> (The Beatles)</h></idx>
+                            <idx><h>songs (popular)</h><h><q>Penny Lane</q> (Beatles)</h></idx>
                             <sidebyside>
                                 <table>
                                     <caption>Lennon<ndash/>McCartney, <q>Penny Lane</q></caption>
