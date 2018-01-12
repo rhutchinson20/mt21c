@@ -259,7 +259,7 @@
         <p>The double neighbor is sometimes confused with escape tones and appoggiaturas. Be sure to keep track of chord tones when analyzing non<ndash/>chord tones. Look at the next example and ask yourself how you would analyze the harmony and non-chord tones on beat 4 of the first measure.</p>
         <figure>
             <caption>Mozart, Piano Sonata K. 333, I</caption>
-            <idx><h>Mozart</h><h>Piano Sonata K. 333, I</h></idx>
+            <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 333, I</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-dn-k333i">
@@ -278,7 +278,7 @@
         <p>An anticipation is a non<ndash/>chord tone that anticipates the arrival of the next chord and is often found at cadences, as in the next example.</p>
         <figure>
             <caption>Handel, <booktitle>Rinaldo</booktitle>, <q>Lascia ch'io pianga</q></caption>
-            <idx><h>Handel</h><h>Piano Sonata in Bb, K. 333, I</h></idx>
+            <idx><h>Handel</h><h><booktitle>Rinaldo</booktitle>, <q>Lascia ch'io pianga</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-ant-handel">

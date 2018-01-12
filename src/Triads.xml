@@ -203,6 +203,7 @@
         </figure>
         <p>We will not invert sus chords in this text. In later chapters, we will discuss more sophisticated sus chords like <chord root="C" bps="9" suspended="yes"/> and <chord root="C" suspended="yes"><alteration><flat/>9</alteration></chord>.</p>
     </section>
+    <!--a section is needed on analyzing chords in simple two-part textures, like in Bach Inventions and Mozart Piano Sonatas(and more analysis examples of this type are needed)-->
     <exercises xml:id="TriadsPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="RomanNumeralsAndCadences">
-    <title>Roman Numerals and cadences</title>
+    <title>Roman Numerals and Cadences</title>
     <section xml:id="RomanNumeralChordSymbols">
         <title>Roman Numeral Chord Symbols</title>
         <p>Music is full of patterns that are similar from one piece to the next. As we saw with minor scales, we were able to use scale degree numbers to show the different patterns for harmonic, melodic, and natural minor, despite the fact that there are 15 minor key signatures. Using numbers instead of note names helps us see these patterns. Thinking of music in terms of numbers is also helpful with <term>transposition</term><idx><h>transposition</h><h>definition of</h></idx>, which means moving melodies and/or chord progressions from one key to another. Thinking of music in terms of numbers also helps us to analyze it and to spot similar patterns between many different pieces in different keys.</p>
@@ -133,13 +133,13 @@
                 <description>The most commonly used diatonic triads in A minor: A minor, B diminished, C major, D minor, E major, F major, and G-sharp diminished, with Roman numerals</description>
             </image>
         </sidebyside>
-        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q>subtonic triad</q>) and <chord root="vii" mode="diminished"/> (the <q>leading<ndash/>tone triad</q>) are included. The subtonic triad (<chord root="VII"/>) regularly occurs in <xref ref="CircleOfFifths" text="title">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="title">in rock and pop music</xref>, while the leading<ndash/>tone triad (<chord root="vii" mode="diminished"/>) usually is either a passing harmony or has <xref ref="HarmonicFunction" text="title">dominant function</xref>.</p>
+        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q><term>subtonic triad</term></q><idx><h>subtonic triad</h><h>definition of</h></idx>) and <chord root="vii" mode="diminished"/> (the <q>leading<ndash/>tone triad</q>) are included. The subtonic triad (<chord root="VII"/>) regularly occurs in <xref ref="CircleOfFifths" text="title">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="title">in rock and pop music</xref>, while the leading<ndash/>tone triad (<chord root="vii" mode="diminished"/>) usually is either a passing harmony or has <xref ref="HarmonicFunction" text="title">dominant function</xref>.</p>
     </section>
     <section xml:id="cadences">
         <title>Cadences</title>
         <introduction>
             <p>
-                We’ve been studying harmony<mdash/>triads and chords. A <term>cadence</term><idx><h>cadence</h><h>definition of</h></idx> is a harmonic arrival point, a harmonic moment of stasis. A cadence can be compared to a comma or period in written language<mdash/>the ear gets a moment to process a short passage of music, then the music continues. We will differentiate between four basic cadences now, adding more specificity in a later chapter<!--link to PAC and IAC someday-->.
+                We’ve been studying harmony<mdash/>triads and chords. A <term>cadence</term><idx><h>cadence</h><h>definition of</h></idx> is a harmonic arrival point, a harmonic moment of stasis. A cadence can be compared to a comma or period in written language<mdash/>the ear gets a moment to process a short passage of music, then the music continues. We will differentiate between four basic cadences now, adding <xref ref="PerfectAuthenticCadence" text="title">more specificity in a later chapter</xref>.
                 <ol>
                     <li xml:id="AuthenticCadence"><p><term>Authentic Cadence</term><idx><h>authentic cadence</h><h>definition of</h></idx><idx><h>cadence</h><h>authentic</h></idx> (AC): a phrase ending with the chords <chord root="V"/><ndash/><chord root="I"/></p></li>
                     <li xml:id="PlagalCadence"><p><term>Plagal Cadence</term><idx><h>plagal cadence</h><h>definition of</h></idx><idx><h>cadence</h><h>plagal</h></idx> (PC): a phrase ending with the chords <chord root="IV"/><ndash/><chord root="I"/></p></li>
@@ -288,7 +288,7 @@
             <title>Examples of Half Cadences</title><idx><h>deceptive cadence</h><h>musical examples</h></idx>
             <figure>
                 <caption>Mozart, <booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, I.</caption>
-                <idx><h>Mozart, W.A.</h><h>Eine kleine Nachtmusik, K. 525, I.</h></idx>
+                <idx><h>Mozart, W.A.</h><h><booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, I.</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/cadences-half-cad-eine-kleine">

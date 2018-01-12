@@ -165,7 +165,7 @@
             <p><term>Diminution</term><idx><h>diminution</h></idx> is the opposite of augmentation and usually refers to the exact halving of the duration of every rhythmic value in a motive or phrase. However, diminution can also refer to the use of shorter rhythmic values, as in the following example.</p>
             <figure>
                 <caption>Diminution of the first four notes in <q>Uranus</q> from <booktitle>The Planets</booktitle> by Holst</caption>
-                <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
+                <idx><h>Holst</h><h><booktitle>The Planets</booktitle>, <q>Uranus</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/motive-diminution-uranus">
@@ -252,7 +252,7 @@
         </subsection>
         <subsection xml:id="RetrogradeSection">
             <title>Retrograde</title>
-            <p>While rare in tonal music, it is worth mentioning <term>retrograde</term><idx>retrograde<h></h></idx>, which is an exact reversing of the order of notes, as can be seen in the following example from popular music.</p>
+            <p>While rare in tonal music, it is worth mentioning <term>retrograde</term><idx><h>retrograde</h></idx>, which is an exact reversing of the order of notes, as can be seen in the following example from popular music.</p>
             <figure>
                 <caption>Melodic Retrograde in <q>Toxic</q> by Dennis, Karlsson, Winnberg, Jonback </caption>
                 <idx><h>songs (popular)</h><h><q>Toxic</q> (Britney Spears)</h></idx>
@@ -390,7 +390,7 @@
                 </sidebyside>
             </sbsgroup>  
         </figure>
-        <p>Examples of seven<ndash/>measure phrases are rare and often involve elisions<!--make link later-->, which will be covered in a later chapter<!--make link later--> when we discuss how phrases are combined to create small forms like periods and phrase groups<!--make link later-->.</p>
+        <p>Examples of seven<ndash/>measure phrases are rare and often involve <xref ref="Elision" text="title">elisions</xref>, which will be covered in a later <xref ref="PhrasesInCombination" text="title">chapter</xref> when we discuss how phrases are combined to create small forms like <xref ref="PeriodForm" text="title">periods</xref> and <xref ref="PhraseGroupsAndPhaseChains" text="title">phrase groups</xref>.</p>
     </section>
     <section xml:id="subphrase">
         <title>Subphrase</title>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="FiguredBass">
+    <title>Figured Bass</title>
+    <section xml:id="FiguredBassHistoricalContext">
+        <title>Historical Context</title>
+        <p>In the Baroque era in music (roughly 1600<ndash/>1750 C.E.), a shorthand was developed for writing chords. (Lead<ndash/>sheet symbols are the modern shorthand for representing chords). <term>Figured bass</term><idx><h>figured bass</h><h>definition of</h></idx>
+        (also known as <term>thoroughbass</term><idx><h>thoroughbass</h><see>figured bass</see></idx>) consists of a bass line notated on a staff accompanied by numbers representing intervals to be played above the bass note within the key signature. (These figured<ndash/>bass numbers are traditionally notated below the bass line.)</p>
+        <figure>
+            <caption>Handel's handwritten manuscript of Recorder Sonata in A minor, HWV 362, I. Larghetto</caption>
+            <sidebyside margins="20%">
+                <image source="images/unit4/figured-bass-handel-flute-sonata-manuscript">
+                    <description>Handel's handwritten manuscript with figured bass numbers</description>
+                </image>
+            </sidebyside>
+        </figure>
+        <figure>
+            <caption>Handel, Recorder Sonata in A minor, HWV 362, I. Larghetto, without figured bass realization</caption>
+            <sidebyside>
+                <image source="images/unit4/figured-bass-handel-flute-sonata-figures">
+                    <description>An edition with figured bass numbers but without the chords realized</description>
+                </image>
+            </sidebyside>
+        </figure>
+        <figure>
+            <caption>Handel, Recorder Sonata in A minor, HWV 362, I. Larghetto, with figured bass realization</caption>
+            <idx><h>Handel</h><h>Recorder Sonata in A minor, HWV 362, I. Larghetto</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit4/figured-bass-handel-flute-sonata-realized">
+                        <description>An edition where the chords have been realized</description>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="ljj6URbK8Xg" start="0" end="13" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Like lead<ndash/>sheet symbols, figured bass allowed a keyboardist or guitarist freedom in choosing chord voicings. While some early music specialists perform from scores with the original notation, editions of Baroque compositions by composers like J.S. Bach and Handel that were originally notated with figured bass have been <q>realized</q> or written out in modern editions.</p>
+        <p>In the present day, figured bass is taught in music theory courses primarily as a shorthand for chord inversion symbols (although many music programs also endeavor to teach students to perform at the piano music written with figured bass notation).</p>
+    </section>
+    <section xml:id="FiguredBassInversionSymbols">
+        <title>Figured Bass Inversion Symbols</title>
+        <p>Following are the figured bass inversion symbols most commonly used for triads and seventh chords. (Remember that figured bass numbers represent intervals above the bass note within the key signature.)</p>
+        <figure>
+            <caption>Figured Bass Inversion Symbols for Triads</caption>
+            <idx><h>figured bass</h><h>for triads</h></idx>
+            <sidebyside margins="10%">
+                <image source="images/unit4/figured-bass-for-triads">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <figure>
+            <caption>Figured Bass Inversion Symbols for Seventh Chords</caption>
+            <idx><h>figured bass</h><h>for seventh chords</h></idx>
+            <sidebyside margins="10%">
+                <image source="images/unit4/figured-bass-for-seventh-chords">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Unlike original figured bass notation in the Baroque era, in music theory courses, figured bass inversion symbols are placed after Roman numerals.</p>
+        <p>Compare figured bass symbols to the modified slash notation we have been using in previous chapters.</p>
+        <figure>
+            <caption>Roman Numerals with Figured Bass versus Roman Numerals with Modifed Slash Notation</caption>
+            <sidebyside>
+                <image source="images/unit4/figured-bass-vs-modified-slash">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Because the figures <chord bps="6 5"/>, <chord bps="4 3"/>, and <chord bps="4 2"/> are only used for seventh chords, the <q>7</q> is omitted when labeling inverted seventh chords.</p>
+        <figure>
+            <caption><q>7</q> is not included when 7th chords are inverted</caption>
+            <sidebyside margins="34%">
+                <image source="images/unit4/figured-bass-dont-use-7-with-inversion">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Notice that it is essential with seventh chords to include symbols like <q>M</q> (for a major seventh chord) and <chord mode="diminished"/> and <chord mode="halfdiminished"/> <em>before</em> the figured bass numbers and <em>after</em> the Roman numeral.</p>
+        <figure>
+            <caption/>
+            <sidebyside>
+                <image source="images/unit4/figured-bass-7ths-in-staff">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+    </section>
+    <section xml:id="FiguredBassAdditionalInformation">
+        <title>Additional Information</title>
+        <p>Though we will not use them in our harmonic analyses, you will sometimes encounter figured bass symbols containing all of the intervals above the bass note in Baroque music containing figured bass. The common figured bass inversion symbols in the sections above are abbreviations of the figures given in the examples below.</p>
+        <figure>
+            <caption><q>Full</q> Figured Bass symbols showing <em>every</em> interval above the lowest note</caption>
+            <sidebyside>
+                <image source="images/unit4/figured-bass-full-figures-on-staff">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Additionally, you may notice that figured bass numbers in actual music (but not in Roman numeral labeling) <em>may be altered chromatically</em> with the following symbols.</p>
+        <figure>
+            <caption>Figured Bass with Chromatic Alterations</caption>
+            <idx><h>figured bass</h><h>chromatic alterations to</h></idx>
+            <sidebyside>
+                <image source="images/unit4/figured-bass-chromatic-alterations">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+    </section>
+    <exercises xml:id="FiguredBassPracticeExercises">
+        <title>Practice Exercises</title>
+        <exercise>
+            <statement>
+                <p>Analyze the triads with lead-sheet symbols above and Roman numerals with figured bass inversion symbols below the staff.</p>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze-triads-in-treb">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <ul>
+                    <li><p>Lead<ndash/>sheet: 1. <chord root="C" bass="G"/>; 2. <chord root="B" mode="diminished" bass="D"/>; 3. <chord root="Dm" bass="F"/>; 4. <chord root="G"/></p></li>
+                    <li><p>Figured bass: 1. <chord root="I" bps="6 4"/>; 2. <chord root="vii" mode="diminished" bps="6"/>; 3. <chord root="ii" bps="6 4"/>; 4. <chord root="V"/></p></li>
+                </ul>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Analyze the seventh chords with lead-sheet symbols above and Roman numerals with figured bass inversion symbols below the staff.</p>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze-sevenths-in-treb">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <ul>
+                    <li><p>Lead<ndash/>sheet: 1. <chord root="Em7" bass="G"/>; 2. <chord root="G7" bass="F"/>; 3. <chord root="Cmaj7" bass="G"/>; 4. <chord root="Fmaj7"/></p></li>
+                    <li><p>Figured bass: 1. <chord root="iii" bps="6 5"/>; 2. <chord root="V" bps="4 2"/>; 3. <chord root="IM" bps="4 3"/>; 4. <chord root="IVM" bps="7"/></p></li>
+                </ul>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Label the given chords using lead-sheet symbols above and Roman numerals with figured bass inversion symbols below.</p>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <ul>
+                    <li><p>Lead<ndash/>sheet: 1. <chord root="D" mode="diminished" bass="F"/>; 2. <chord root="A" mode="diminished" bps="7" bass="G"/>; 3. <chord root="E" mode="halfdiminished" bps="7"/>; 4. <chord root="Dmaj7" bass="F sharp"/></p></li>
+                    <li><p>Figured bass: 1. <chord root="ii" mode="diminished" bps="6"/>; 2. <chord root="vii" mode="diminished" bps="4 2"/>; 3. <chord root="vii" mode="halfdiminished" bps="7"/>; 4. <chord root="IM" bps="6 5"/></p></li>
+                </ul>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Write the specified chords. Analyze the chords with lead<ndash/>sheet symbols. Include key signatures.</p>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-figured-bass-writing">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Analyze the excerpt using Roman numerals with figured bass inversion symbols below and lead<ndash/>sheet symbols above. Analyze non<ndash/>chord tones.</p>
+                <figure>
+                    <caption>J.S. Bach, Chorale 175, <q>Jesus, meine Zuversicht</q></caption>
+                    <sidebyside>
+                        <image source="images/unit4/PRAC-EXER-figured-bass-bach-chorale-analysis">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </figure>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze-bach-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_16.pdf">here to download the first homework assignment for this chapter.</url></p>
+        </conclusion>
+    </exercises>
+</chapter>

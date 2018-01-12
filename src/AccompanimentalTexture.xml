@@ -57,7 +57,7 @@
 		<p>In the following example by Schubert, the melody at times moves in a slightly different rhythm that the chords below.</p>
 		<figure>
 			<caption>Schubert, <booktitle>Die Winterreise</booktitle>, <q>Die Nebensonnen</q></caption>
-			<idx><h>Star<ndash/>Spangled Banner</h></idx>
+			<idx><h>Schubert</h><h><booktitle>Die Winterreise</booktitle>, <q>Die Nebensonnen</q></h></idx>
 			<sbsgroup>
 				<sidebyside>
 					<image source="images/unit3/texture-chorale-nebensonnen">
@@ -236,7 +236,7 @@
 			<p>This section contains the following subsections below:</p>
 			<ul>
 				<li><p><xref ref="One-Two-And" text="title">The <q>1 (2) <ampersand/></q> rhythm</xref></p></li>
-				<li><p><xref ref="WalkingOnSunshineRhythm" text="title">The <q>Walking On Sunshine</q> Rhythm</xref></p></li>
+				<li><p><xref ref="WalkingOnSunshineRhythm" text="title">The <q>Barbara Ann</q> Rhythm</xref></p></li>
 				<li><p><xref ref="EighthNoteChords" text="title">Repeated 8th<ndash/>note Chords</xref></p></li>
 				<li><p><xref ref="QuarterNoteChords" text="title">Repeated Quarter<ndash/>note Chords</xref></p></li>
 			</ul>
@@ -376,19 +376,19 @@
 			</figure>
 		</subsection>
 		<subsection xml:id="WalkingOnSunshineRhythm">
-			<title>The <q>Walking On Sunshine</q> Rhythm</title>
-			<p>It is easier to describe the next block chord accompaniment pattern as the <q>Walking On Sunshine</q> rhytm than the <q>1 2 3 (4) <ampersand/> (1) <ampersand/> (2) <ampersand/> 3</q> rhythm. Below are six examples of piece that use this rhythm, whether with block chords or solely in the bass line.</p>
+			<title>The <q>Barbara Ann</q> Rhythm</title>
+			<p>It is easier to describe the next block chord accompaniment pattern as the <q>Barbara Ann</q> rhytm than the <q>1 2 3 (4) <ampersand/> (1) <ampersand/> (2) <ampersand/> 3</q> rhythm. Below are six examples of pieces that use this rhythm, whether with block chords or solely in the bass line.</p>
 			<figure>
-				<caption>Rew, <q>Walking On Sunshine</q></caption>
-				<idx><h>songs (popular)</h><h><q>Walking On Sunshine</q> (Katrina and the Waves)</h></idx>
+				<caption>Fassert, <q>Barbara Ann</q></caption>
+				<idx><h>songs (popular)</h><h><q>Barbara Ann</q> (Beach Boys)</h></idx>
 				<sbsgroup>
 					<sidebyside>
-						<image source="images/unit3/texture-walking-on-sunshine">
+						<image source="images/unit3/texture-walking-barbara-ann">
 							<description/>
 						</image>
 					</sidebyside>
 					<sidebyside margins="37%">
-						<video youtube="iPUmE-tne5U" start="9" end="27" play-at="select" preview="generic"/>
+						<video youtube="-bSnI-a0BSc" start="0" end="21" play-at="select" preview="generic"/>
 					</sidebyside>
 				</sbsgroup>
 			</figure>
@@ -407,7 +407,7 @@
 				</sbsgroup>
 			</figure>
 			<figure>
-				<caption>Allen, Hall, Oates, <q>Maneater</q></caption>
+				<caption>Allen, Hall, and Oates, <q>Maneater</q></caption>
 				<idx><h>songs (popular)</h><h><q>Maneater</q> (Hall and Oates)</h></idx>
 				<sbsgroup>
 					<sidebyside>
@@ -421,16 +421,16 @@
 				</sbsgroup>
 			</figure>
 			<figure>
-				<caption>Fassert, <q>Barbara Ann</q></caption>
-				<idx><h>songs (popular)</h><h><q>Barbara Ann</q> (Beach Boys)</h></idx>
+				<caption>Rew, <q>Walking On Sunshine</q></caption>
+				<idx><h>songs (popular)</h><h><q>Walking On Sunshine</q> (Katrina and the Waves)</h></idx>
 				<sbsgroup>
 					<sidebyside>
-						<image source="images/unit3/texture-walking-barbara-ann">
+						<image source="images/unit3/texture-walking-on-sunshine">
 							<description/>
 						</image>
 					</sidebyside>
 					<sidebyside margins="37%">
-						<video youtube="-bSnI-a0BSc" start="0" end="21" play-at="select" preview="generic"/>
+						<video youtube="iPUmE-tne5U" start="9" end="27" play-at="select" preview="generic"/>
 					</sidebyside>
 				</sbsgroup>
 			</figure>
@@ -447,7 +447,7 @@
 						<video youtube="tuK6n2Lkza0" start="60" end="70" play-at="select" preview="generic"/>
 					</sidebyside>
 				</sbsgroup>
-			</figure><!--and iggy pop's lust for life, ranked 149 out of 500 best by rolling stone-->
+			</figure><!--and iggy pop's lust for life, ranked 149 out of 500 best by rolling stone--><!--also, the vitamin string quartet cover of Pompeii has this rhythm in diminution https://youtu.be/AIcDIZGlr9U-->
 			<p>A slower version of this rhythm occurs in Deep Purple’s <q>Smoke on the Water.</q></p>
 			<figure>
 				<caption>Blackmore, Gillan, Glover, Lord, and Paice, <q>Smoke on the Water</q></caption>
@@ -572,6 +572,7 @@
 					</sidebyside> 
 				</sbsgroup>
 			</figure>
+			<!--cut Sesame Street for now
 			<figure>
 				<caption>Raposo, Stone, and Hart, <q>Sesame Street Theme (Sunny Day)</q></caption>
 				<idx><h>songs (popular)</h><h><q>Sesame Street Theme (Sunny Day)</q></h></idx>
@@ -585,7 +586,7 @@
 						<video youtube="b2rBhpVDzO8" start="23" end="30" play-at="select" preview="generic"/>
 					</sidebyside> 
 				</sbsgroup>
-			</figure>
+			</figure> -->
 			<figure>
 				<caption>Joel, <q>She's Got a Way</q></caption>
 				<idx><h>songs (popular)</h><h><q>She's Got a Way</q> (Billy Joel)</h></idx>
@@ -1098,7 +1099,7 @@
 				</image>
 			</sidebyside>
 			<p>Listen for this rhythm in the examples below.</p>
-			<figure>
+			<figure><!--make a finale examlpe for ghostbustyers-->
 				<caption>Parker, Jr., <q>Ghostbusters</q></caption>
 				<idx><h>songs (popular)</h><h><q>Ghostbusters</q> (Ray Parker Jr.)</h></idx>
 				<sidebyside margins="37%">
@@ -1111,7 +1112,7 @@
 				<sidebyside margins="37%">
 					<video youtube="0uljg5nLzWU" start="0" end="16" play-at="select" preview="generic"/>
 				</sidebyside>
-			</figure>
+			</figure><!--also include an example that this has the 3_3_2 rhythm in 16ths in pre-chorus in 8th notes in chorus-->
 			<figure>
 				<caption>Too Many Zooz, <q>Warriors</q></caption>
 				<idx><h>songs (popular)</h><h><q>Warriors</q> (Too Many Zooz)</h></idx>

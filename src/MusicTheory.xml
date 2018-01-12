@@ -17,6 +17,10 @@
         <xi:include href="./FormInPopularMusic.xml"/>
         <xi:include href="./PhrasesInCombination.xml"/>
         <xi:include href="./AccompanimentalTexture.xml"/>
+        <xi:include href="./CreatingContrast.xml"/>
+        <xi:include href="./FiguredBass.xml"/>
+        <xi:include href="./SecondaryDominants.xml"/>
+        <xi:include href="./SecondaryDiminishedChords.xml"/>
         <xi:include href="./backmatter.xml"/>
     </book>
 </mathbook>

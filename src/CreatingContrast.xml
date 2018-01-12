@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="CreatingContrast">
+	<title>Creating Contrast Between Sections</title>
+	<introduction><p>In this chapter, we will explore how a composer or arranger can create contrast between different sections in a piece of music.</p></introduction>
+	<section xml:id="The-Elements-of-Music">
+		<title>The Elements of Music</title>
+		<p>Creating contrast usually involves varying one or more of the <q>Elements of Music,</q> which are listed and explained below.</p>
+		<table>
+            <caption>The <q>Elements of Music</q></caption>
+            <tabular top="minor" bottom="minor" left="minor" right="minor">
+                <col/>
+                <col width="65%"/>
+                <row valign="top">
+                    <cell halign="center"><em>Melody</em></cell>
+                    <cell><p>We all know what melody is, but don’t confuse melody with ostinato! Melody lives and breathes and has variety.</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Harmony</em></cell>
+                    <cell><p>In this section, we will associate harmony with key and mode (major versus minor).</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Rhythm</em></cell>
+                    <cell><p>What the most common rhythmic value is in a section.</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Timbre</em></cell>
+                    <cell><p>The different tone colors of different instruments, and the different tone colors an individual instrument can produce.</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Texture</em></cell>
+                    <cell><p>Described in the previous chapter as existing in the vertical plane (the number of voices) and the horizontal plane (rhythmic activity of the various voices).</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Articulation</em></cell>
+                    <cell><p>Staccato versus legato, or short, clipped notes versus long, sustained or connected notes.</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Dynamics</em></cell>
+                    <cell><p>Loud versus soft.</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Register</em></cell>
+                    <cell><p>High versus middle versus low.</p></cell>
+                </row>
+            </tabular>
+        </table>
+        <p>In the next two sections we will look at how two different pieces exhibit contrast between various sections using the elements of music.</p>
+	</section>
+	<section xml:id="Eine-kleine-ii">
+		<title>Mozart, <booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, II.</title>
+		<p>The second movement<idx><h>Mozart, W.A.</h><h><booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, II.</h></idx> of Mozart’s <booktitle>Eine kleine Nachtmusik</booktitle> is a five<ndash/>part rondo form (ABACA).</p>
+		<p>Let us examine the elements of music in the first section (the A section).</p>
+		<figure>
+            <caption>A Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/contrast-eine-3-a-idea">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="QJHAASGUwB8" start="0" end="29" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Notice how Mozart expresses the various musical elements:</p>
+        <table>
+            <caption>A Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <tabular top="minor" bottom="minor" left="minor" right="minor">
+                <col/>
+                <col width="65%"/>
+                <row valign="top">
+                    <cell halign="center"><em>Harmony</em></cell>
+                    <cell><p>The key is C major</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Rhythm</em></cell>
+                    <cell><p>The 8th note is most common rhythmic value, though the phrase begins with quarter<ndash/>note values</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Texture</em></cell>
+                    <cell><p>The top two instruments are grouped together against a simple bass part</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Articulation</em></cell>
+                    <cell><p>Generally legato</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Dynamics</em></cell>
+                    <cell>Soft</cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Register</em></cell>
+                    <cell><p>Neither extremely high nor low</p></cell>
+                </row>
+            </tabular>
+        </table>
+        <p>Here is the beginning of the second section (the B section):</p>
+        <figure>
+            <caption>B Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/contrast-eine-3-b-idea">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="QJHAASGUwB8" start="116" end="130" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Here are the most noticeable differences:</p>
+        <table>
+            <caption>B Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <tabular top="minor" bottom="minor" left="minor" right="minor">
+                <col/>
+                <col width="65%"/>
+                <row valign="top">
+                    <cell halign="center"><em>Rhythm</em></cell>
+                    <cell><p>8th notes are the most common rhythmic value, with some 16th<ndash/>note runs</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Texture</em></cell>
+                    <cell><p>All four voices move in the same rhythm at the beginning of each subphrase</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Articulation</em></cell>
+                    <cell><p>Four staccato notes start each subphrase</p></cell>
+                </row>
+            </tabular>
+        </table>
+        <p>Now, look at the beginning of the next contrasting section (the C section):</p>
+        <figure>
+            <caption>C Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/contrast-eine-3-c-idea">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="QJHAASGUwB8" start="201" end="217" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>The following elements are noticeably changed:</p>
+        <table>
+            <caption>C Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <tabular top="minor" bottom="minor" left="minor" right="minor">
+                <col/>
+                <col width="65%"/>
+                <row valign="top">
+                    <cell halign="center"><em>Harmony</em></cell>
+                    <cell><p>This section begins in C minor</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Rhythm</em></cell>
+                    <cell><p>The accompaniment moves in 16th notes and the ornamentation of the second melody note (the turn) in the outer parts sounds as four 32nd notes</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Texture</em></cell>
+                    <cell><p>The middle two parts (Violin II and Viola) are paired together and the Violin I and Cello/Bass part engage in imitation</p></cell>
+                </row>
+                <row valign="top">
+                    <cell halign="center"><em>Articulation</em></cell>
+                    <cell><p>The middle parts are played in a <q>separated</q> manner (more staccato than legato) and the motive in the outer voices starts with a staccato note</p></cell>
+                </row>
+            </tabular>
+        </table>
+        <p>Listen to how Mozart puts the entire form together, including transitional material to smooth out the changes from one section to another.</p>
+        <figure>
+            <caption>Formal Diagram of Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/contrast-eine-ABACA-diagram">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="QJHAASGUwB8" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+	</section>
+    <section>
+        <title><q>Rude</q> by MAGIC!</title>
+        <p>Now we will examine contrast in recent popular music. Here is the musical example of the texture from the reggae section of this song, as seen in the previous chapter.</p>
+        <sidebyside>
+            <image source="images/unit3/texture-reggae-rude">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>In Verse 1 there is no bass drum, snare drum, or electric bass. All we hear are the voice part and the two guitar parts from the top two staves in the example above. There are fewer voices occurring on the vertical plane, creating a light texture.</p>
+        <figure>
+            <caption>Verse 1 of <q>Rude</q></caption>
+                <sidebyside margins="37%">
+                    <video youtube="PIh2xe4jnpk" start="0" end="8" play-at="select" preview="generic"/>
+                </sidebyside>
+        </figure>
+        <p>The bass guitar and drum groove enter in Verse 2, thickening the texture and adding the backbeat of the snare drum.</p>
+        <figure>
+            <caption>Verse 2 of <q>Rude</q></caption>
+                <sidebyside margins="37%">
+                    <video youtube="PIh2xe4jnpk" start="14" end="22" play-at="select" preview="generic"/>
+                </sidebyside>
+        </figure>
+        <p>In the pre-chorus, the guitars and bass have legato whole notes and half notes while the drummer plays cross<ndash/>stick quarter notes (if one is counting in a fast 4/4 rather than a slow 2/2). Without the snare drum backbeat, the texture lightens.</p>
+        <figure>
+            <caption>Pre<ndash/>Chorus of <q>Rude</q></caption>
+                <sidebyside margins="37%">
+                    <video youtube="PIh2xe4jnpk" start="27" end="34" play-at="select" preview="generic"/>
+                </sidebyside>
+        </figure>
+        <p>The chorus has approximately the same accompaniment as Verse 2 but the voice parts are in a higher register, repeating a 2<ndash/>measure subphrase containing the <q>hook.</q></p>
+        <figure>
+            <caption>Chorus of <q>Rude</q></caption>
+                <sidebyside margins="37%">
+                    <video youtube="PIh2xe4jnpk" start="41" end="52" play-at="select" preview="generic"/>
+                </sidebyside>
+        </figure>
+        <p>The post<ndash/>chorus emphasizes a (3+3+2)+(3+3+2) rhythm on all instruments (guitars, bass, and the bass drum, snare drum, and hi-hat of the drum set).</p>
+        <figure>
+            <caption>Post<ndash/>Chorus of <q>Rude</q></caption>
+            <sbsgroup>
+                <sidebyside width="55%">
+                    <image source="images/unit3/contrast-3-3-2-in-8ths">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="PIh2xe4jnpk" start="54" end="62" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Below is a formal diagram of the first five sections of <q>Rude.</q></p>
+        <figure>
+            <caption>First 5 Sections of <q>Rude</q></caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/contrast-rude-diagram">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="PIh2xe4jnpk" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>This five<ndash/>section unit repeats again with Verse 3, Verse 4, the Pre<ndash/>Chorus, Chorus, and Post<ndash/>Chorus.</p>
+        <p>When you listen to the entire piece, you hear how the musicians designate the form using the elements of articulation, rhythm, texture, and dynamics. One element that changes very little during entire song is the chord progression, which we examined in the chapter on harmonic progression.</p>
+        <sidebyside>
+            <image source="images/unit2/harmony-I-vi-IV-V-rotated-rude">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>While you are likely aware of successful songs in the which very few musical elements change, it is worth considering how you can articulate the form of your compositions and arrangements using the elements of music.</p>
+    </section>
+</chapter>
