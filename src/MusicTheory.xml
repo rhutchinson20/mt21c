@@ -21,6 +21,10 @@
         <xi:include href="./FiguredBass.xml"/>
         <xi:include href="./SecondaryDominants.xml"/>
         <xi:include href="./SecondaryDiminishedChords.xml"/>
+        <xi:include href="./ModeMixture.xml"/>
+        <xi:include href="./Neapolitan.xml"/>
+        <xi:include href="./AugmentedSixthChords.xml"/>
+        <xi:include href="./Modulation.xml"/>
         <xi:include href="./backmatter.xml"/>
     </book>
 </mathbook>

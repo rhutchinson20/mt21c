@@ -396,9 +396,9 @@
         <title>Harmonic Function</title>
         <introduction>
             <p>
-                Now we will address non-circle-of-fifths progressions. Notice that we have not included the <chord root="vii" mode="diminished"/> or <chord root="IV"/> chord in any of the shorter circle of fifths progressions above. However, it is a common axiom that Rock ‘n’ Roll is made up of three chords: <chord root="I"/>, <chord root="IV"/>, and <chord root="V"/>. This is because each of those chords represents a harmonic function. <term>Harmonic function</term><idx><h>harmonic function</h><h>definition of</h></idx> refers to the tendency of certain chords to progress to other chords, or to remain at rest. Many texts on music theory enumerate three harmonic functions. In this text, we will discuss four.
+                Now we will address non<ndash/>circle<ndash/>of<ndash/>fifths progressions. Notice that we have not included the <chord root="vii" mode="diminished"/> or <chord root="IV"/> chord in any of the shorter circle of fifths progressions above. However, it is a common axiom that Rock ‘n’ Roll is made up of three chords: <chord root="I"/>, <chord root="IV"/>, and <chord root="V"/>. This is because each of those chords represents a harmonic function. <term>Harmonic function</term><idx><h>harmonic function</h><h>definition of</h></idx> refers to the tendency of certain chords to progress to other chords, or to remain at rest. Many texts on music theory enumerate three harmonic functions. In this text, we will discuss four.
                 <ol>
-                    <li><p>Tonic function (abbreviated <q>ton.</q>): The <chord root="I"/> chord has tonic function, which is a state of stability and rest. Tonic chords do not demand progression to other chords.</p></li>
+                    <li><p><xref ref="ScaleDegreeNames" text="title">Tonic</xref> function (abbreviated <q>ton.</q>): The <chord root="I"/> chord has tonic function, which is a state of stability and rest. Tonic chords do not demand progression to other chords.</p></li>
                     <li xml:id="DominantFunction">
                         <p>Dominant function (abbreviated <q>dom.</q>): The <chord root="V"/> and <chord root="vii" mode="diminished"/> (chords containing the leading tone <scaledeg>7</scaledeg> and supertonic <scaledeg>2</scaledeg>) tend to progress to tonic (<chord root="I"/>). <em>Special note</em>: The <chord root="I" bass="5th"/> chord has <em>dominant</em> function when it resolves to the <chord root="V"/> chord, as in the third chord from the end of the <q>Star-Spangled Banner.</q></p>
                         <figure>
@@ -407,15 +407,15 @@
                             <image source="images/unit2/harmony-function-six-four-is-dom"/>
                         </figure>
                     </li>
-                    <li xml:id="PreDominantFunction"><p>Pre<ndash/>dominant function (abbreviated <q>pre<ndash/>dom.</q>): The <chord root="IV"/> and <chord root="ii"/> (chords containing the subdominant <scaledeg>4</scaledeg> and submediant <scaledeg>6</scaledeg>) tend to progress to chords of dominant function</p></li>
-                    <li><p>Tonic prolongation function (abbreviated <q>ton. prol.</q>): The <chord root="vi"/> and <chord root="iii"/> (chords that share two common tones with  <scaledeg>1</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><scaledeg>5</scaledeg> from the tonic triad) tend to occur after the tonic chord and progress to chords of pre-dominant function.</p></li>
+                    <li xml:id="PreDominantFunction"><p>Pre<ndash/>dominant function (abbreviated <q>pre<ndash/>dom.</q>): The <chord root="IV"/> and <chord root="ii"/> (chords containing the subdominant <scaledeg>4</scaledeg> and submediant <scaledeg>6</scaledeg>) tend to progress to chords of dominant function.</p></li>
+                    <li xml:id="TonicProlongationFunction"><p>Tonic prolongation function (abbreviated <q>ton. prol.</q>): The <chord root="vi"/> and <chord root="iii"/> (chords that share two common tones with  <scaledeg>1</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><scaledeg>5</scaledeg> from the tonic triad) tend to occur after the tonic chord and progress to chords of pre-dominant function.</p></li>
                 </ol>
                 Harmonic function is represented on a flowchart in the next section.
             </p>
         </introduction>
         <subsection xml:id="HarmonicFlowchart">
             <title>The Harmonic Flowchart</title>
-            <figure>
+            <figure xml:id="HarmonicFlowchartInMajor">
                 <caption>Harmonic Flowchart in Major</caption>
                 <idx><h>harmonic flowchart</h><h>in major</h></idx>
                 <image source="images/unit2/harmony-function-diagram-major">

@@ -56,8 +56,8 @@
 		</figure>
 		<p>In the following example by Schubert, the melody at times moves in a slightly different rhythm that the chords below.</p>
 		<figure>
-			<caption>Schubert, <booktitle>Die Winterreise</booktitle>, <q>Die Nebensonnen</q></caption>
-			<idx><h>Schubert</h><h><booktitle>Die Winterreise</booktitle>, <q>Die Nebensonnen</q></h></idx>
+			<caption>Schubert, <booktitle>Winterreise</booktitle>, D.911, <q>Die Nebensonnen</q></caption>
+			<idx><h>Schubert</h><h><booktitle>Winterreise</booktitle>, D. 911</h><h><q>Die Nebensonnen</q></h></idx>
 			<sbsgroup>
 				<sidebyside>
 					<image source="images/unit3/texture-chorale-nebensonnen">
@@ -90,10 +90,10 @@
 		<title>Arpeggiated Accompaniments</title>
 		<subsection xml:id="Arpeggios">
 			<title>Arpeggios</title>
-			<p>One way to express chords rhythmically is through arpeggios in one part and a bass line in octaves in a lower part, as in the following example from Beethoven’s Moonlight Sonata.</p>
+			<p>One way to express chords rhythmically is through arpeggios in one part and a bass line in octaves in a lower part, as in the following example from Beethoven’s <booktitle>Moonlight Sonata</booktitle>.</p>
 			<figure>
-				<caption>Beethoven, Moonlight Sonata, Op. 27, No. 2, I</caption>
-				<idx><h>Beethoven</h><h>Moonlight Sonata, Op. 27, No. 2, I</h></idx>
+				<caption>Beethoven, <booktitle>Moonlight Sonata</booktitle>, Op. 27, No. 2, I</caption>
+				<idx><h>Beethoven</h><h><booktitle>Moonlight Sonata</booktitle>, Op. 27, No. 2, I</h></idx>
 				<sbsgroup>
 					<sidebyside>
 						<image source="images/unit3/texture-arpeggios-moonlight">
@@ -151,6 +151,35 @@
 				</sbsgroup>
 			</figure>
 			<p>Notice in the above example that there is also an organ playing block chords to create a sense of legato in the texture.</p>
+			<p>The next two examples are from more recent popular music.</p>
+			<figure>
+				<caption>Adkins and Wilson, <q>Someone Like You</q></caption>
+				<idx><h>songs (popular)</h><h><q>Someone Like You</q> (Adele)</h></idx>
+				<sbsgroup>
+					<sidebyside>
+						<image source="images/unit3/textures-alberti-adele">
+							<description/>
+						</image>
+					</sidebyside>
+					<sidebyside margins="37%">
+						<video youtube="hLQl3WQQoQ0" start="73" end="81" play-at="select" preview="generic"/>
+					</sidebyside>
+				</sbsgroup>
+			</figure>
+			<figure>
+				<caption>Tedder, <q>Secrets</q></caption>
+				<idx><h>songs (popular)</h><h><q>Secrets</q> (One Republic)</h></idx>
+				<sbsgroup>
+					<sidebyside>
+						<image source="images/unit3/texture-alberti-one-republic">
+							<description/>
+						</image>
+					</sidebyside>
+					<sidebyside margins="37%">
+						<video youtube="qHm9MG9xw1o" start="8" end="24" play-at="select" preview="generic"/>
+					</sidebyside>
+				</sbsgroup>
+			</figure>
 			<p>Below is an example in 4/4 with arpeggios in sixteenth notes.</p>
 			<figure>
 				<caption>Briggs, Burress, Cottle, Lopes, <q>No Scrubs</q></caption>
@@ -169,7 +198,7 @@
 		</subsection>
 		<subsection xml:id="AlbertiBass">
 			<title>Alberti Bass</title>
-			<p>Alberti bass accompaniment patterns involve arpeggios that do not arpeggiate chords in a simple upward or downward motion, as you can see in the examples below.</p>
+			<p>Alberti bass accompaniment patterns involve arpeggios that do not arpeggiate chords in a simple upward or downward motion, but in a <q>low<ndash/>high<ndash/>middle<ndash/>high</q> pattern as you can see in the examples below.</p>
 			<figure>
 				<caption>Mozart, Piano Sonata K. 545, I</caption>
 				<idx><h>Mozart, W.A.</h><h>Piano Sonata K. 545, I</h></idx>
@@ -196,35 +225,6 @@
 					</sidebyside>
 					<sidebyside margins="37%">
 						<video youtube="pV6rjpiVpBc" start="12" end="20" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
-			</figure>
-			<p>The next two examples are from more recent popular music.</p>
-			<figure>
-				<caption>Tedder, <q>Secrets</q></caption>
-				<idx><h>songs (popular)</h><h><q>Secrets</q> (One Republic)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-alberti-one-republic">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="qHm9MG9xw1o" start="8" end="24" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
-			</figure>
-			<figure>
-				<caption>Adkins and Wilson, <q>Someone Like You</q></caption>
-				<idx><h>songs (popular)</h><h><q>Someone Like You</q> (Adele)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/textures-alberti-adele">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="hLQl3WQQoQ0" start="73" end="81" play-at="select" preview="generic"/>
 					</sidebyside>
 				</sbsgroup>
 			</figure>
@@ -482,8 +482,8 @@
 				</sbsgroup>
 			</figure>
 			<figure>
-				<caption>Schubert, <booktitle>Die Winterreise</booktitle>, <q>Gute Nacht</q></caption>
-				<idx><h>Schubert</h><h><booktitle>Die Winterreise</booktitle>, <q>Gute Nacht</q></h></idx>
+				<caption>Schubert, <booktitle>Winterreise</booktitle>, D. 911<q>Gute Nacht</q></caption>
+				<idx><h>Schubert</h><h><booktitle>Winterreise</booktitle>, D. 911</h><h><q>Gute Nacht</q></h></idx>
 				<sbsgroup>
 					<sidebyside>
 						<image source="images/unit3/texture-8ths-gute-nacht">
@@ -497,7 +497,7 @@
 			</figure>
 			<figure>
 				<caption>Robert Schumann, <booktitle>Dichterliebe</booktitle>, <q>Ich grolle nicht</q></caption>
-				<idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48</h><h><q>7. Ich grolle nicht</q></h></idx>
+				<idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48</h><h><q>Ich grolle nicht</q></h></idx>
 				<sbsgroup>
 					<sidebyside>
 						<image source="images/unit3/texture-8ths-ich-grolle">
@@ -814,7 +814,7 @@
 	<section xml:id="ThreeTwoClave">
 		<title>The 3<ndash/>2 Clav&#x00E9;</title>
 		<introduction>
-			<p>The 3<ndash/>2 clav&#x00E9; (and the 2<ndash/>3 clav&#x00E9;) are essential rhythmic elements in Afro-Cuban music. In this section we will see how cross rhythms implied by the 3<ndash/>2 clav&#x00E9; can be viewed as a possible source of cross rhythms in popular music. Here is a video demonstration of a 3<ndash/>2 clav&#x00E9;.</p>
+			<p>The 3<ndash/>2 clav&#x00E9; (and the 2<ndash/>3 clav&#x00E9;) <idx><h>3<ndash/>2 clave</h></idx>are essential rhythmic elements in Afro-Cuban music. In this section we will see how cross rhythms implied by the 3<ndash/>2 clav&#x00E9; can be viewed as a possible source of cross rhythms in popular music. Here is a video demonstration of a 3<ndash/>2 clav&#x00E9;.</p>
 			<sidebyside margins="4%">
 				<video youtube="dxVeiPQ1juo" start="3" end="20" play-at="select"/>
 			</sidebyside>
@@ -830,7 +830,7 @@
 					<description/>
 				</image>
 			</sidebyside>
-			<p>The 3<ndash/>2 Clav&#x00E9; has also been called the <q>Bo Diddley Beat</q> because of its use by Bo Diddley in the 1950s. Look at the rhythms shown above as you listen to the following examples.</p>
+			<p>The 3<ndash/>2 Clav&#x00E9; has also been called the <q>Bo Diddley Beat</q><idx><h>Bo Diddley beat</h></idx> because of its use by Bo Diddley in the 1950s. Look at the rhythms shown above as you listen to the following examples.</p>
 			<figure>
 				<caption>Dixon, <q>Pretty Thing</q></caption>
 				<idx><h>songs (popular)</h><h><q>Pretty Thing</q> (Bo Diddley)</h></idx>
@@ -846,8 +846,8 @@
 				</sidebyside>
 			</figure>
 			<figure>
-				<caption>Ballard, <q>Back in the New York groove</q></caption>
-				<idx><h>songs (popular)</h><h><q>Back in the New York groove</q> (Ace Frehley)</h></idx>
+				<caption>Ballard, <q>Back in the New York Groove</q></caption>
+				<idx><h>songs (popular)</h><h><q>Back in the New York Groove</q> (Ace Frehley)</h></idx>
 				<sidebyside margins="37%">
 					<video youtube="KH-xch-NoIo" start="0" end="20" play-at="select" preview="generic"/>
 				</sidebyside>
@@ -1099,12 +1099,19 @@
 				</image>
 			</sidebyside>
 			<p>Listen for this rhythm in the examples below.</p>
-			<figure><!--make a finale examlpe for ghostbustyers-->
+			<figure>
 				<caption>Parker, Jr., <q>Ghostbusters</q></caption>
 				<idx><h>songs (popular)</h><h><q>Ghostbusters</q> (Ray Parker Jr.)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="Rc5IQoCFqL8" start="45" end="63" play-at="select" preview="generic"/>
-				</sidebyside>
+				<sbsgroup>
+					<sidebyside>
+						<image source="images/unit3/texture-3-times-8-ghostbusters">
+							<description/>
+						</image>
+					</sidebyside>
+					<sidebyside margins="37%">
+						<video youtube="Rc5IQoCFqL8" start="45" end="63" play-at="select" preview="generic"/>
+					</sidebyside> 
+				</sbsgroup>
 			</figure>
 			<figure>
 				<caption>Pink, Martin, Schuster, <q>Raise Your Glass</q></caption>

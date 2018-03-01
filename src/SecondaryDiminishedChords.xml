@@ -3,7 +3,7 @@
     <title>Secondary Diminished Chords</title>
     <section xml:id="SecondaryDiminishedChordSection">
         <title>Secondary Diminished Chords</title>
-        <p>The <chord root="vii" mode="diminished"/> chord has dominant function. Since chords of dominant function typically resolve to chords of tonic function, diminished triads as well as half<ndash/>diminished and fully<ndash/>diminished seventh chords occur as secondary diminished chords<idx><h>secondary diminished chords</h></idx>.</p>
+        <p>The <chord root="vii" mode="diminished"/> chord has dominant function (see the <xref ref="HarmonicFlowchartInMajor" text="title">Harmonic Function Flowchart</xref>). Since chords of dominant function typically resolve to chords of tonic function, diminished triads as well as half<ndash/>diminished and fully<ndash/>diminished seventh chords occur as secondary diminished chords<idx><h>secondary diminished chord</h></idx>.</p>
         <figure>
             <caption>A Harmonic Sequence with Secondary Diminished Chords in C major</caption>
             <sidebyside>
@@ -12,10 +12,10 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Below are some examples of pieces with secondary diminished chords. Notice that chromaticism is an <q>essential</q> part of secondary diminished chords (<q>non<ndash/>essential</q> chromaticism refers to chromatic non<ndash/>chords).</p>
+        <p>Below are some examples of pieces with secondary diminished chords. Notice that chromaticism is an <q>essential</q> part of secondary diminished chords (<q>non<ndash/>essential</q> chromaticism refers to chromatic non<ndash/>chord tones).</p>
         <figure>
             <caption>J.S. Bach, <booktitle>Herz und Mund und Tat und Leben</booktitle> BWV 147, X. <q>Jesus bleibet Freude</q> (<q>Jesu, Joy of Man's Desiring</q>) (1723)</caption>
-            <idx><h>J.S. Bach</h><h><booktitle>Herz und Mund und Tat und Leben</booktitle> BWV 147, X. <q>Jesus bleibet Freude</q> (<q>Jesu, Joy of Man's Desiring</q>)</h></idx>
+            <idx><h>Bach, J.S.</h><h><booktitle>Herz und Mund und Tat und Leben</booktitle> BWV 147, X. <q>Jesus bleibet Freude</q> (<q>Jesu, Joy of Man's Desiring</q>)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/sec-dim-jesu">
@@ -89,7 +89,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Notice that <chord root="vii" mode="diminished" bass="III"/> in minor is not included because it is <chord root="ii" mode="diminished"/>. Notice also that <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> has no accidentals<mdash/>it is the same as <chord root="ii" mode="halfdiminished" bps="7"/> but functions differently. The <chord root="ii" mode="halfdiminished" bps="7"/> chord progresses to <chord root="V"/> whereas the <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> chord progresses to <chord root="III"/>.</p>
+        <p>Notice that <chord root="vii" mode="diminished" bass="III"/> in minor is not included because it is <chord root="ii" mode="diminished"/>. Notice also that <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> has no accidentals<mdash/>it is the same as <chord root="ii" mode="halfdiminished" bps="7"/> but functions differently. The <chord root="ii" mode="halfdiminished" bps="7"/> chord has <xref ref="PreDominantFunction" text="title">pre<ndash/>dominant function</xref> and progresses to <chord root="V"/> whereas the <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> chord progresses to <chord root="III"/>.</p>
         <p>Minor triads are tonicized by fully diminished seventh chords. Major triads are traditionally tonicized by half diminished seventh chords but can also be tonicized by fully diminished seventh chords.</p>
     </section>
     <section xml:id="AnalyzingSecondaryDiminishedChords">
@@ -97,16 +97,16 @@
         <p>When you encounter a chord with a chromaticism and suspect it is a secondary diminished seventh chord, use the following process.</p>
         <ol>
             <li>
-                <p>Stack the chord in thirds to determine the root and quality. If the chord quality is diminished (if a triad) or a half<ndash/>diminished and fully<ndash/>diminished seventh chord, go on to step 2. If the chord quality is not a diminished triad or a half<ndash/>diminished and fully<ndash/>diminished seventh chord, the chord is not a secondary diminished chord.</p>
+                <p>Stack the chord in thirds to determine the root and quality. If the chord quality is a diminished triad or a half<ndash/>diminished and fully<ndash/>diminished seventh chord, go on to step 2. If the chord quality is not a diminished triad or a half<ndash/>diminished and fully<ndash/>diminished seventh chord, the chord is not a secondary diminished chord.</p>
                 <sidebyside margins="15%">
                     <image source="images/unit4/sec-dim-analyzing-stack-in-thirds">
                         <description/>
                     </image>
                 </sidebyside>
-                <p>The chord in question is an F<sharp/> major triad in first inversion.</p>
+                <p>The chord in question is an G<sharp/> half<ndash/>diminished seventh chord in first inversion.</p>
             </li>
             <li>
-                <p>Determine the note that would be a <em>minor 2nd above</em> the root of the chord you are analyzing. If this note would be the root of a diatonic chord, the chord you are analyzing is a secondary diminished chord.</p>
+                <p>Determine the note that would be a <em>minor 2nd above</em> the root of the chord you are analyzing. If this note of resolution would be the root of a diatonic chord, the chord you are analyzing is a secondary diminished chord.</p>
                 <sidebyside margins="15%">
                     <image source="images/unit4/sec-dim-analyzing-root-up-m2">
                         <description/>
@@ -155,7 +155,7 @@
             </statement>
             <answer>
                 <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-sec-dim-analyzing-ANSWER"><!--make this!-->
+                    <image source="images/unit4/PRAC-EXER-sec-dim-analyzing-ANSWER">
                         <description/>
                     </image>
                 </sidebyside>
@@ -170,7 +170,7 @@
             </statement>
             <answer>
                 <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-sec-dim-writing-ANSWER"><!--make this!-->
+                    <image source="images/unit4/PRAC-EXER-sec-dim-writing-ANSWER">
                         <description/>
                     </image>
                 </sidebyside>
@@ -202,7 +202,7 @@
             </answer>
         </exercise>
         <conclusion>
-            <p>Click <url href="../hw/MT21C_HW_19.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_19.pdf">here to download the first homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_20.pdf">here to download the second homework assignment for this chapter.</url></p>
             
         </conclusion>

@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="AugmentedSixthChords">
+    <title>Augmented Sixth Chords</title>
+    <section xml:id="AugmentedSixthIntroduction">
+        <title>Augmented Sixth Chords</title>
+        <p><term>Augmented sixth chords</term><idx><h>augmented sixth chords</h></idx> are a special class of <xref ref="PreDominantFunction" text="title">pre<ndash/>dominant</xref> chords with notes that approach the dominant (<scaledeg>5</scaledeg>) from a half<ndash/>step below (<sharp/><scaledeg>4</scaledeg>) and from a half<ndash/>step above (<flat/><scaledeg>6</scaledeg>) simultaneously.
+        </p>
+        <figure>
+            <caption/>
+                <sidebyside margins="20%">
+                    <image source="images/unit4/aug-6-scale-deg-approaching-5">
+                        <description/>
+                    </image>
+                </sidebyside>
+        </figure>
+        <p>In minor, <flat/><scaledeg>6</scaledeg> doesn't require a flat because <scaledeg>6</scaledeg> is lowered in the minor key signature.</p>
+    </section>
+    <section xml:id="TypesOfAugmentedSixthChords">
+        <title>Types of Augmented Sixth Chords</title>
+        <p>There are three general types of augmented sixth chords<mdash/>the <term>Italian augmented sixth chord</term><idx><h>augmented sixth chord types</h><h>Italian augmented sixth chord</h></idx> (<q><chord root="It" bps="+6"/></q>), the <term>French augmented sixth chord</term><idx><h>augmented sixth chord types</h><h>French augmented sixth chord</h></idx> (<q><chord root="Fr" bps="+6"/></q>), and the <term>German augmented sixth chord</term><idx><h>augmented sixth chord types</h><h>German augmented sixth chord</h></idx> (<q><chord root="Ger" bps="+6"/></q>). These geographic labels have persisted throughout the years despite the fact that no reasoning has been found for these designations. <fn>The 1964 <booktitle>Harvard Dictionary of Music</booktitle> states these chords are <q>rather pointlessly<ellipsis/>distinguished as <sq>Italian,</sq> <sq>German,</sq> and <sq>French</sq> sixth<ellipsis/></q></fn></p>
+        <p>All types of augmented sixth chords contain scale degrees <flat/><scaledeg>6</scaledeg> and <sharp/><scaledeg>4</scaledeg>. To these two scale degrees, the <chord root="It" bps="+6"/> adds <scaledeg>1</scaledeg>. The three notes of the <chord root="It" bps="+6"/> (<flat/><scaledeg>6</scaledeg>, <sharp/><scaledeg>4</scaledeg>, and <scaledeg>1</scaledeg>) form the foundation of the <chord root="Fr" bps="+6"/> and <chord root="Ger" bps="+6"/>. The <chord root="Fr" bps="+6"/> adds <scaledeg>2</scaledeg> to the Italian augmented sixth chord's <flat/><scaledeg>6</scaledeg>, <sharp/><scaledeg>4</scaledeg>, and <scaledeg>1</scaledeg>, and the <chord root="Ger" bps="+6"/> adds <flat/><scaledeg>3</scaledeg> to the Italian's <flat/><scaledeg>6</scaledeg>, <sharp/><scaledeg>4</scaledeg>, and <scaledeg>1</scaledeg>, as is shown in the example below.</p>
+        <figure>
+            <caption>The Three Types of Augmented Sixth Chords in Major and Minor</caption>
+                <sidebyside>
+                    <image source="images/unit4/aug-6-all-types-in-maj-and-min">
+                        <description/>
+                    </image>
+                </sidebyside>
+        </figure>
+        <p>The final chord on the first line<mdash/>the Enharmonic German <chord bps="+6"/> or <chord root="EnGer" bps="+6"/><mdash/>respells the <flat/><scaledeg>3</scaledeg> as a <sharp/><scaledeg>2</scaledeg> because the <chord root="EnGer" bps="+6"/> resolves only to major <chord root="I" bps="6 4"/>. The <chord root="EnGer" bps="+6"/> does not occur in minor.</p>
+    </section>
+    <section xml:id="AnalyzingAugmentedSixthChords">
+        <title>Analyzing Augmented Sixth Chords</title>
+        <p>Since our process for analyzing chords has been to stack them up in thirds to determine the root and quality, it is worth examing these four augmented sixth chords as stacks of thirds.</p>
+        <figure>
+            <caption>Augmented Sixth Chords Stacked in Thirds</caption>
+            <sidebyside>
+                <image source="images/unit4/aug-6-stacked-in-3rds">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Notice that all augmented sixth chords contain a <chord mode="diminished"/>3 when stacked in 3rds. None of the chords we have studied so far contain diminished thirds. Therefore, when you encounter a chord with a diminished third, it is an augmented sixth chord.</p>
+        <p>Once you determine the chord you are analyzing has a <chord mode="diminished"/>3, <em>analyze the scale degrees</em> to determine which type of augmented sixth chord it is.</p>
+    </section>
+    <section xml:id="LeadSheetAnalysisOfAugmentedSixthChords">
+        <title>Lead<ndash/>Sheet Analysis of Augmented Sixth Chords</title>
+        <p>When using lead<ndash/>sheet symbols for augmented sixth chords, we will treat them as major<ndash/>minor seventh chords built on <flat/><scaledeg>6</scaledeg>, since that matches sonic quality of the augmented sixth chords and is similar to how they occur and are spelled in jazz and popular music. The chords in parentheses are enharmonic respellings of the three augmented sixth chord types.</p>
+        <figure>
+            <caption>Augmented Sixth Chords Stacked in Thirds</caption>
+            <sidebyside>
+                <image source="images/unit4/aug-6-lead-sheet-versions">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>In the example above, we see a disagreement between <q>Classical</q> analysis and lead<ndash/>sheet analysis. The fundamental concept of lead-sheet analysis is to show root, quality, and inversion. The <q>Classical</q> spelling and the Classical analysis of augmented sixth chords show the direction of resolution (with the chromatically raised notes), which necessitate the need for original labels, since we don't have a Roman numeral or a lead<ndash/>sheet symbol that would communicate a chord containing a diminished third above the root (that is then inverted!).</p>
+        <p>Therefore, when you are asked to provide lead<ndash/>sheet symbols for augmented sixth chords, analyze each one as if it is a dominant 7th chord with a misspelled 7th (<n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="F" acc="sharp"/> instead of <n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="G" acc="flat"/>).</p>
+    </section>
+    <section xml:id="ExamplesWithAugmentedSixthChords">
+        <title>Examples with Augmented Sixth Chords</title>
+        <subsection>
+            <title>The Italian Augmented Sixth Chord</title>
+            <p>The first examples, from the first movement of Beethoven's Fifth Symphony, shows an Italian augmented sixth chord (<chord root="It" bps="+6"/>) in C minor with the <q>Classical</q> spelling.</p>
+            <figure>
+                <caption>Beethoven, Symphony No. 5, I (1808)</caption>
+                <idx><h>Beethoven</h><h>Symphony No. 5, I</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit4/aug-6-beeth-5th">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="w2YT--LLF1g" start="13" end="21" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>The next example from popular music has an <chord root="It" bps="+6"/> spelled enharmonically as a major<ndash/>minor seventh chord with the fifth omitted.</p>
+            <figure>
+                <caption>Duke Ellington, <q>It Don't Mean A Thing (If It Ain't Got That Swing)</q> (1931)</caption>
+                <idx><h>Duke Ellington</h><h><q>It Don't Mean A Thing (If It Ain't Got That Swing)</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit4/aug-6-dont-mean-a-thing">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="LYfF9VKMp4w" start="18" end="23" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+        </subsection>
+        <subsection>
+            <title>The French Augmented Sixth Chord</title>
+            <p>The next example contains an example of a French augmented sixth chord (<chord root="Fr" bps="+6"/>). Notice how the French augmented sixth chord has pre<ndash/>dominant function and intensifies the drive toward the <chord root="V"/> chord.</p>
+            <figure>
+                <caption>Schubert, <booktitle>Winterreise</booktitle>, D. 911, <q>Der Wegweiser</q> (1823)</caption>
+                <idx><h>Schubert</h><h><booktitle>Winterreise</booktitle>, D. 911</h><h><q>Der Wegweiser</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit4/aug-6-wegweiser">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="xti0xkrIZjQ" start="0" end="14" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+        </subsection>
+        <subsection>
+            <title>The German Augmented Sixth Chord</title>
+            <p>The following example, from Rossini's <booktitle>William Tell</booktitle> Overture, has a German augmented sixth chord leading to a chord of dominant function, the <chord root="I" bps="6 4"/> chord.</p>
+            <figure>
+                <caption>Rossini, <booktitle>William Tell</booktitle> Overture (1829)</caption>
+                <idx><h>Rossini</h><h><booktitle>William Tell</booktitle> Overture</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit4/aug-6-rossini-tell">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="oGPys3sKBHw" start="146" end="154" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>John Coltrane's minor blues, <q>Mr. P.C.,</q> contains a German augmented sixth chord (spelled as <chord root="VI" bps="7"/> in minor) progressing to the <chord root="V"/> chord. (Note: The bass line in this example is a jazz <q>walking</q> bass, which doesn't stick strictly to chord tones.)</p>
+            <figure>
+                <caption>John Coltrane, <q>Mr. P.C.</q> (1959)</caption>
+                <idx><h>John Coltrane</h><h><q>Mr. P.C.</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit4/aug-6-coltrane-mr-pc">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="oHDsywpCHj4" start="18" end="22" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>The next example is a movie theme and features a German augmented sixth chord spelled as a major<ndash/>minor seventh chord (<chord root="VI" bps="7"/>). In this particular case, the third of the chord doesn't occur until the fourth beat of the measure.</p>
+            <figure>
+                <caption>Henry Mancini, <q>The Pink Panther Theme</q> (1963)</caption>
+                <idx><h>Mancini, Henry</h><h><q>The Pink Panther Theme</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit4/aug-6-pink-panther">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="aUiD3nCUz0I" start="11" end="19" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>Fiona Apple's <q>Criminal,</q> from 1996, features German augmented sixth chords in the verse (<chord root="F" bps="7"/> in the key of A minor) as well as in the pre<ndash/>chorus, seen in the example below.</p>
+            <figure>
+                <caption>Fiona Apple, <q>Criminal</q> (1996)</caption>
+                <idx><h>songs (popular)</h><h><q>Criminal</q> (Fiona Apple)</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit4/aug-6-fiona-apple">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="FFOzayDpWoI" start="55" end="66" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>A repeating progression of <chord root="Am"/><ndash/><chord root="F" bps="7"/><ndash/><chord root="E"/> (<chord root="i"/><ndash/><chord root="Ger" bps="+6"/><ndash/><chord root="V"/> in Roman numerals) occurs in <q>Friend Like Me</q> from the movie and musical <booktitle>Aladdin</booktitle>.</p>
+            <figure>
+                <caption>Alan Menken and Howard Ashman, <booktitle>Aladdin</booktitle>, <q>Friend Like Me</q> (1992)</caption>
+                <idx><h>songs (popular)</h><h><q>Friend Like Me</q> (from <booktitle>Aladdin</booktitle>)</h></idx>
+                    <sidebyside margins="37%">
+                        <video youtube="0HdwdptrmQQ" start="437" end="445" play-at="select" preview="generic"/>
+                    </sidebyside>
+            </figure>
+        </subsection>
+        <subsection>
+            <title>The Enharmonic German Sixth</title>
+            <p>In the following example an <q>Enharmonic German augmented sixth</q> chord occurs. While a <chord root="G flat" bps="7"/> chord would normally have the notes <n pc="G" acc="flat"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/><ndash/><n pc="F" acc="flat"/>, the F<flat/> is respelled as an E<natural/>, creating the interval of an augmented sixth, while the fifth of the chord, D<flat/>, is respelled as a C<sharp/>, creating the interval of a doubly augmented fourth. In fact, some music theory textbooks refer to the Enharmonic German augmented sixth chord as <q>the chord of the doubly<ndash/>augmented fourth.</q> The spelling is this way because the C<sharp/> will resolve upward to a D<natural/>, the third of a major <chord root="I" bps="6 4"/> chord.</p>
+            <figure>
+                <caption>Robert Schumann, Dichterliebe, Op. 48, <q>Am leuchtenden Sommermorgen</q> (1840)</caption>
+                <idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48</h><h><q>Am leuchtenden Sommermorgen</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit4/aug-6-am-leuchtenden-EnGer">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="PMFUeLdhhuM" start="0" end="13" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+        </subsection>
+    </section>
+    <section xml:id="DescendingChromaticBassLines">
+        <title>Descending Chromatic Bass Lines</title>
+        <p>A common musical pattern is the descending chromatic bass line (<scaledeg>1</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>). Composers harmonize descending chromatic bass lines in different ways, sometimes with secondary chords, borrowed chords, and augmented sixth chords. Below are some examples from the past four centuries.</p>
+        <figure>
+            <caption>Henry Purcell, <booktitle>Dido and Aeneas</booktitle>, Z. 636, <q>When I am laid in earth</q> (Dido's Lament) (1688)</caption>
+            <idx><h>Purcell, Henry</h><h><booktitle>Dido and Aeneas</booktitle>, Z. 636</h><h><q>When I am laid in earth</q> (Dido's Lament)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit4/aug-6-dido">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="s-F19lgB0Ow" start="101" end="115" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <figure>
+            <caption>J.S. Bach, <booktitle>Mass in B minor</booktitle>, BWV 232, Crucifixus (1733)</caption>
+            <idx><h>Bach, J.S.</h><h><booktitle>Mass in B minor</booktitle>, BWV 232, Crucifixus</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit4/aug-6-crucifixus">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="hY7CGrR6sPc" start="39" end="54" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <figure>
+            <caption>Beethoven, 32 Variations in C minor, WoO 80 (1806)</caption>
+            <idx><h>Beethoven</h><h>32 Variations in C minor, WoO 80</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit4/aug-6-beeth-woo-80">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="aULQHPz9wkk" start="0" end="14" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <figure>
+            <caption>George Harrison, <q>While My Guitar Gently Weeps</q> (1968)</caption>
+            <idx><h>songs (popular)</h><h><q>While My Guitar Gently Weeps</q> (The Beatles)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit4/aug-6-while-my-guitar">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="VJDJs9dumZI" start="3" end="12" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <figure>
+            <caption>Jimmy Page and Robert Plant, <q>Stairway to Heaven</q> (1971)</caption>
+            <idx><h>songs (popular)</h><h><q>Stairway to Heaven</q> (Led Zeppelin)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit4/aug-6-stairway">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="iXQUu5Dti4g" start="0" end="9" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <figure>
+            <caption>Steven Tyler, <q>Dream On</q> (1973)</caption>
+            <idx><h>songs (popular)</h><h><q>Dream On</q> (Aerosmith)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit4/aug-6-dream-on">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="89dGC8de0CA" start="12" end="23" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <figure>
+            <caption>Robert DeLeo and Scott Weiland, <q>Interstate Love Song</q> (1994)</caption>
+            <idx><h>songs (popular)</h><h><q>Interstate Love Song</q> (Stone Temple Pilots)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit4/aug-6-interstate-love-song">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="yjJL9DGU7Gg" start="69" end="81" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <figure>
+            <caption>Christina Perri, <q>Jar of Hearts</q> (2010)</caption>
+            <idx><h>songs (popular)</h><h><q>Jar of Hearts</q> (Christina Perri)</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit4/aug-6-jar-of-hearts">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="8v_4O44sfjM" start="134" end="148" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Below is a table comparing the harmonizations of these descending bass lines.</p>
+        <table>
+            <caption/>
+            <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
+                <row header="yes" bottom="major">
+                    <cell>Bass Line</cell>
+                    <cell><scaledeg>1</scaledeg></cell>
+                    <cell><scaledeg>7</scaledeg></cell>
+                    <cell><flat/><scaledeg>7</scaledeg></cell>
+                    <cell><scaledeg>6</scaledeg></cell>
+                    <cell><flat/><scaledeg>6</scaledeg></cell>
+                    <cell><scaledeg>5</scaledeg></cell>
+                </row>
+                <row>
+                    <cell>Purcell</cell>
+                    <cell><chord root="i"/></cell>
+                    <cell><chord root="V" bps="6"/></cell>
+                    <cell><chord root="V" bps="4 2" bass="iv"/></cell>
+                    <cell><chord root="IV" bps="6"/></cell>
+                    <cell><chord root="iv" bps="6"/></cell>
+                    <cell><chord root="V"/></cell>
+                </row>
+                <row>
+                    <cell>Bach</cell>
+                    <cell><chord root="i"/><ndash/><chord root="vii" mode="diminished" bps="4 3" bass="V"/></cell>
+                    <cell><chord root="V" bps="6"/></cell>
+                    <cell><chord root="vii" bps="7"/><ndash/><chord root="vii" mode="diminished" bps="4 3" bass="iv"/></cell>
+                    <cell><chord root="IV" bps="6"/></cell>
+                    <cell><chord root="iv" bps="6"/><ndash/><chord root="Fr" bps="+6"/></cell>
+                    <cell><chord root="i" bps="6 4"/><ndash/><chord root="V" bps="6"/></cell>
+                </row>
+                <row>
+                    <cell>Beethoven</cell>
+                    <cell><chord root="i"/></cell>
+                    <cell><chord root="V" bps="6"/></cell>
+                    <cell><chord root="V" bps="4 2" bass="iv"/></cell>
+                    <cell><chord root="IV" bps="6"/></cell>
+                    <cell><chord root="Ger" bps="+6"/></cell>
+                    <cell><chord root="i" bps="6 4"/></cell>
+                </row>
+                <row>
+                    <cell>Beatles</cell>
+                    <cell><chord root="i"/></cell>
+                    <cell></cell>
+                    <cell><chord root="i" bps="4 2"/></cell>
+                    <cell><chord root="IV" bps="6 5"/></cell>
+                    <cell><chord root="VI"/></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>Led Zeppellin</cell>
+                    <cell><chord root="i"/></cell>
+                    <cell><chord root="III"/><chord bps="+M"/><chord bps="4 3"/></cell>
+                    <cell><chord root="i" bps="4 2"/></cell>
+                    <cell><chord root="IV" bps="6"/></cell>
+                    <cell><chord root="VI" bps="M7"/></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>Aerosmith</cell>
+                    <cell><chord root="i"/></cell>
+                    <cell></cell>
+                    <cell><chord root="i" bps="4 2"/></cell>
+                    <cell><sharp/><chord root="vi" mode="halfdiminished" bps="7"/></cell>
+                    <cell><chord root="VI" bps="M7"/></cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>S.T.P.</cell>
+                    <cell><chord root="i"/></cell>
+                    <cell><chord root="V" bps="6"/></cell>
+                    <cell><chord root="V" bps="4 2" bass="iv"/></cell>
+                    <cell><sharp/><chord root="vi" mode="halfdiminished" bps="7"/></cell>
+                    <cell>(<chord root="VI"/>)</cell>
+                    <cell></cell>
+                </row>
+                <row>
+                    <cell>Perri</cell>
+                    <cell><chord root="i"/></cell>
+                    <cell><chord root="V" bps="6"/></cell>
+                    <cell><chord root="i" bps="4 2"/></cell>
+                    <cell><chord root="IV" bps="6"/></cell>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+            </tabular>
+        </table>
+        <p>For the harmonization of scale degree <scaledeg>6</scaledeg>, remember that the concept of <sharp/><chord root="vi" mode="diminished"/> was introduced when <xref ref="DiatonicChordsInMinor" text="title">Roman numerals in minor</xref> were introduced. The notes of the <sharp/><chord root="vi" mode="halfdiminished" bps="7"/> chord belong to the <em>melodic</em> minor scale.</p>
+    </section>
+    <section xml:id="ChromaticPreDominantChords">
+        <title>Chromatic Pre<ndash/>Dominant Chords</title>
+        <p>The table below shows how our study of chromatic harmonies in recent chapters includes the chromatic expansion of the pre<ndash/>dominant <xref ref="HarmonicFlowchart" text="title">harmonic function</xref> category.</p>
+        <table>
+            <caption/>
+            <tabular halign="center" top="major" bottom="minor" left="minor" right="minor">
+                <row header="yes" bottom="medium">
+                    <cell>Ton.</cell>
+                    <cell>Ton. Prol.</cell>
+                    <cell>Pre<ndash/>Dom.</cell>
+                    <cell>Dom.</cell>
+                    <cell>Ton.</cell>
+                </row>
+                <row>
+                    <cell bottom="none"><chord root="I"/></cell>
+                    <cell bottom="none"><chord root="iii"/></cell>
+                    <cell bottom="none"><chord root="IV"/></cell>
+                    <cell bottom="none"><chord root="vii" mode="diminished"/></cell>
+                    <cell bottom="none"><chord root="I"/></cell>
+                </row>
+                <row>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"><chord root="vi"/></cell>
+                    <cell bottom="none"><chord root="ii"/></cell>
+                    <cell bottom="none"><chord root="V"/></cell>
+                    <cell bottom="none"></cell>
+                </row>
+                <row>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"><chord root="V" bass="V"/></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                </row>
+                <row>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"><chord root="vii" mode="diminished" bass="V"/></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                </row>
+                <row>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"><chord root="iv"/></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                </row>
+                <row>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"><chord root="ii" mode="halfdiminished" bps="7"/></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                </row>
+                <row>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"><chord root="N" bps="6"/></cell>
+                    <cell bottom="none"></cell>
+                    <cell bottom="none"></cell>
+                </row>
+                <row>
+                    <cell></cell>
+                    <cell></cell>
+                    <cell><chord root="It" bps="+6"/>, <chord root="Fr" bps="+6"/>, <chord root="Ger" bps="+6"/></cell>
+                    <cell></cell>
+                    <cell></cell>
+                </row>
+            </tabular>
+        </table>
+    </section>
+    <exercises xml:id="AugmentedSixthPracticeExercises">
+        <title>Practice Exercises</title>
+        <!--do Day One and Day Two-->
+        <exercise>
+            <statement>
+                <p>Analyze the following chords with lead<ndash/>sheet symbols above and Roman numerals with figured bass inversion symbols below.</p>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-aug6-analyzing"/>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-aug6-analyzing-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Given the Roman numeral, please write the notes of the chord and lead<ndash/>sheet symbol. Include key signatures.</p>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-aug6-writing"/>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit4/PRAC-EXER-aug6-writing-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_23.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_24.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_Unit_4_Practice_Test.pdf">here to download the Unit 4 Practice Test.</url></p>           
+        </conclusion>
+    </exercises>
+</chapter>

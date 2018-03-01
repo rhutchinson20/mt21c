@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="Modulation">
+    <title>Modulation</title>
+    <section xml:id="ModulationIntroduction">
+        <title>Modulation</title>
+        <p>At its simplest, <term>modulation</term><idx><h>modulation</h><h>definition of</h></idx> is a change of key that happens within a composition. In popular music, the change of key will often be called a <q><term>key change</term><idx><h>key change</h></idx></q> instead of a <q>modulation.</q> Those who study classical music theory typically reserve the term <q>modulation</q> for the slower and more subtle change of key that occurs in many classical pieces, although there are similarities between <q>key change</q> in popular music and the classical music term <q>direct modulation</q>, which we will study later in this chapter.</p>
+        <p>Here are examples of key changes in popular music.</p>
+        <figure>
+            <caption>Beyonc&#x00E9; Knowles, Terius Nash, and Shea Taylor, <q>Love on Top</q> (2011)</caption>
+            <idx><h>songs (popular)</h><h><q>Love on Top</q> (Beyonc&#x00E9;)</h></idx>
+            <sidebyside margins="37%">
+                <video youtube="Ob7vObnFUJc" start="93" end="236" play-at="select" preview="generic"/>
+            </sidebyside>
+        </figure>
+        <figure>
+            <caption>James Horner and Will Jennings, <q>My Heart Will Go On</q> (1997)</caption>
+            <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <booktitle>Titanic</booktitle>)</h></idx>
+            <sidebyside margins="37%">
+                <video youtube="AjnJDBHmN18" start="193" end="213" play-at="select" preview="generic"/>
+            </sidebyside>
+        </figure>
+        <figure>
+            <caption>Jon Bon Jovi, Richie Sambora, and Desmond Child, <q>Livin' on a Prayer</q> (1986)</caption>
+            <idx><h>songs (popular)</h><h><q>Livin' on a Prayer</q> (Bon Jovi)</h></idx>
+            <sidebyside margins="37%">
+                <video youtube="lDK9QqIzhwk" start="195" end="212" play-at="select" preview="generic"/>
+            </sidebyside>
+        </figure>
+    </section>
+    <section xml:id="TonicizationVersusModulation">
+        <title>Tonicization versus Modulation</title>
+        <p>Studying modulation will require us to distinguish between <xref ref="Tonicization" text="title">tonicization</xref>, which we studied recently, and modulation. Tonicization, involving secondary chords, can be as short as two chords (<chord root="V" bass="V"/> to <chord root="V"/>, for example) but can sometimes encompass several measures as in the following example.</p>
+        <figure>
+            <caption>Schubert, <booktitle>Schwanegesang</booktitle>, D. 957, <q>Abschied</q> (1828)</caption>
+            <idx><h>Schubert</h><h><booktitle>Schwanegesang</booktitle>, D. 957</h><h><q>Abschied</q></h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit5/mod-ton-vs-mod-abschied">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="yFcuiS6d1Jk" start="30" end="45" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Below is a reduction showing the underlying diatonic progression of the example above.</p>
+        <figure>
+            <caption>Reduction of Harmonies from <q>Abschied</q></caption>
+                <sidebyside margins="5%">
+                    <image source="images/unit5/mod-ton-vs-mod-abschied-reduction">
+                        <description/>
+                    </image>
+                </sidebyside>
+        </figure>
+        <p>A modulation to a new key requires an eventual cadence to confirm that new key. This cadence will often (though not always) have the following cadential formula:</p>
+        <table>
+            <caption>Cadential Formula to Establish a Key</caption>
+            <!--inbetween table and tabular would be a sidebyside with left margin = 0 look for margins attribute-->
+            <tabular>
+                <row>
+                    <cell><chord root="ii" bps="6"/></cell>
+                    <cell><chord root="I" bps="6 4"/></cell>
+                    <cell><chord root="V"/></cell>
+                    <cell><chord root="I"/></cell>
+                </row>
+                <row>
+                    <cell>Pre<ndash/>Dom.</cell>
+                    <cell>Dom.</cell>
+                    <cell>Dom.</cell>
+                    <cell>Ton.</cell>
+                </row>
+            </tabular>
+        </table>
+        <p>In his book <booktitle>Form in Tonal Music</booktitle>, Douglass Green defines a <chord root="V"/><ndash/><chord root="I"/> authentic cadence with a pre<ndash/>dominant prefix as a <q>full cadence.</q></p>
+        <p>The cadential formula above is found in the following example.</p>
+        <figure>
+            <caption>J.S. Bach, English Suite No. 4 in F Major, BWV 809, Sarabande (ca. 1715)</caption>
+            <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit5/mod-ton-vs-mod-bach-eng4-sarabande">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="9WQbN91tpWI" start="13" end="39" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Notice that this cadential formula establishes a key more strongly than the simple <chord root="V"/><ndash/><chord root="I"/> of an <xref ref="AuthenticCadence" text="title">authentic cadence</xref>. This means there will be ambiguity between a tonicization and a short modulation ending in an authentic cadence, especially in music with fast harmonic rhythm, like Bach chorales (usually in quarter<ndash/>note <xref ref="HarmonicRhythm" text="title">harmonic rhythm</xref>).</p>
+        <figure>
+            <caption>J.S. Bach, <booktitle>Christmas Oratorio</booktitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
+            <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit5/mod-ton-vs-mod-ermuntre">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="tVJy904MiIY" start="0" end="7" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>To determine pivot chords and the new key, listen to the music to hear the cadence in the new key, then work backward from the cadence to see if the dominant in the new key was approached by pre-dominant chords (<chord root="ii"/> or <chord root="IV"/>) in the new key. Then, analyze from the beginning of the phrase until you reach the new key. Finally, look for a logical pivot point. Sometimes two successive chords could logically be pivot chords. If so, include two chords on either side of your pivot bracket.</p>
+        <figure>
+            <caption>Robert Schumann, Album for the Young, Op. 68, No. 17, <q>Little Morning Wanderer</q> (1848)</caption>
+            <idx><h>Schumann, Robert</h><h>Album for the Young, Op. 68, No. 17, <q>Little Morning Wanderer</q></h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit5/mod-ton-vs-mod-little-wanderer">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="Qy8NLd7d6VE" start="0" end="9" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Before we start analyzing and writing modulations, we will examine key relationships and pivot chords.</p>
+    </section>
+    <section xml:id="KeyRelationships">
+        <title>Key Relationships</title>
+        <p>In the Baroque and Classical eras, composers typically modulated to the dominant (when starting in a major key) or to the relative minor (when starting in a minor key). In the Romantic era, composers experimented with modulating to more remote (or perhaps adventurous) key areas, described as <q>foreign</q> to the home key.</p>
+        <p><q><term>Closely related</term></q> keys<idx><h>closely related keys</h><h>definition of</h></idx> have key signatures one degree <q>sharper</q> or <q>flatter</q> than the starting key. For any major or minor key, there are five closely related keys, including the relative major or minor of the home key.</p>
+        <figure>
+            <caption>Closely Related Keys with A Major as Home Key</caption>
+                <sidebyside margins="20%">
+                    <image source="images/unit5/mod-closely-related-keysB">
+                        <description/>
+                    </image>
+                </sidebyside>
+        </figure>
+        <p>Key signatures that are not closely related are said to be <q><term>foreign</term></q><idx><h>foreign keys</h></idx> or <q><term>distantly related</term><idx><h>distantly related keys</h></idx>.</q> We will see that some types of modulations from the Romantic era, like common<ndash/>tone modulations, exploit foreign key relationships to dramatic effect.</p>
+    </section>
+    <section xml:id="ModulationsWithDiatonicPivotChords">
+        <title>Modulations with Diatonic Pivot Chords</title>
+        <introduction><p>Modulations with pivot chords will be analyzed using a pivot bracket, as we've seen earlier in the chapter.</p>
+        <p>In a <term>diatonic common chord modulation</term><idx><h>diatonic common chord modulation</h></idx><idx><h>modulation</h><h>diatonic common chord</h></idx>, the pivot chords will be diatonic in both keys.</p>
+        <figure>
+            <caption>J.S. Bach, <booktitle>Christmas Oratorio</booktitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
+            <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit5/mod-dia-cc-ermuntre">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="tVJy904MiIY" start="0" end="7" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+    </introduction>
+        <subsection xml:id="DeterminingDiatonicCommonChords">
+            <title>Determining Common Chords Between Keys</title>
+            <p>In order to compose a diatonic common chord modulation, you need to determine which chords are diatonic<mdash/>have the same root <em>and quality</em><mdash/>in both keys.</p>
+            <figure>
+                <caption>Diatonic Common Chords in G major and D major</caption>
+                <sidebyside margins="8%">
+                    <image source="images/unit5/mod-determining-cc-w-lead-sheet">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <p>We can repeat this process with Roman numerals, aligning the roots of the chords in the two keys.</p>
+            <figure>
+                <caption>Roman Numerals for Diatonic Common Chords in G major and D major</caption>
+                <sidebyside margins="8%">
+                    <image source="images/unit5/mod-determining-cc-w-RN">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <p>If you are a composer wanting to write a diatonic common chord modulation, you need to determine the best place within a progression to pivot to the new key. To do this, you need to consider the harmonic function of the pivot chords.</p>
+        </subsection>
+        <subsection xml:id="HarmonicFunctionsofDiatonicPivotChords">
+            <title>Harmonic Functions of Diatonic Pivot Chords</title>
+            <p>In terms of <xref ref="HarmonicFunction" text="title">harmonic function</xref>, composers typically do not use a pivot chord that has <xref ref="DominantFunction" text="title">dominant function</xref> in the new key because such a modulation might sound abrupt and unconvincing. Instead, the pivot chord in the first key often has tonic or <xref ref="TonicProlongationFunction" text="title">tonic prolongation function</xref>.</p>
+            <p>In the following example, the pivot chord simultaneously has tonic function in the first key and pre<ndash/>dominant function in the second key. This creates a more seamless and less jarring progression to the second key.</p>
+            <figure>
+                <caption>J.S. Bach, <booktitle>Christmas Oratorio</booktitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
+                <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-harm-func-of-pivots-ermuntre">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="tVJy904MiIY" start="0" end="7" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>The pivot chord in the first key, G, has of tonic harmonic function, while in the second key, D major, the G chord has pre<ndash/>dominant function.</p>
+            <p>Observe the harmonic function of the pivot chords in the following examples from Bach chorales.</p>
+            <figure> 
+                <caption>J.S. Bach, Chorale No. 4, <q>Es ist das Heil uns kommen her</q></caption>
+                <idx><h>Bach, J.S.</h><h>Chorale No. 4, <q>Es ist das Heil uns kommen her</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-harm-func-of-pivots-es-ist-das-heil">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="gl4FNanCrbc" start="0" end="9" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <figure>
+                <caption>J.S. Bach, Chorale No. 8, <q>Freuet euch, ihr Christen</q></caption>
+                <idx><h>Bach, J.S.</h><h>Chorale No. 8, <q>Freuet euch, ihr Christen</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-harm-func-of-pivots-freuet-euch">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="NE-uciPxYFE" start="0" end="12" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+        </subsection>
+    </section>
+    <section xml:id="HowToRecognizeAKeyAfterAModulation">
+        <title>How to Recognize a Key After a Modulation</title>
+        <p>Look for the following cues when examining music containing modulations:</p>
+        <ol>
+            <li><p>Look for recurring accidentals, then add them to the key signature to determine the new key
+                <ol>
+                    <li><p>Lowered notes (like flats) usually create <scaledeg>4</scaledeg> (as do the flats in key signatures)</p></li>
+                    <li><p>Raised notes (like sharps) often create <scaledeg>7</scaledeg>, the leading tone
+                    <ol>
+                        <li><p>If there are multiple raised notes, look for the <q>sharpest of sharps</q> (in key signature order) to determine which sharp is acting as <scaledeg>7</scaledeg></p></li>
+                    </ol></p></li>
+                </ol>
+            </p></li>
+            <li><p>If accidentals are canceled out, they indicate tonicizations or chromatic non<ndash/>chord tones</p> </li>
+        </ol>
+        <figure>
+            <caption>J.S. Bach, English Suite No. 4 in F Major, BWV 809, Sarabande (ca. 1715)</caption>
+            <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit5/mod-identifying-new-key">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="9WQbN91tpWI" start="0" end="39" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+    </section>
+    
+
+    <section xml:id="ModulationsWithChromaticPivotChords">
+        <title>Modulations with Chromatic Pivot Chords</title>
+        <introduction><p>You will sometimes encounter examples where the pivot chord is a chromatic chord in at least one (and sometimes both) of the keys involved in the modulation.</p></introduction>
+        <subsection>
+            <title>Secondary Common Chord</title>
+            <p>Below is an example where the pivot chord is a secondary chord in both keys.</p>
+            <figure>
+                <caption>Schubert, <booktitle>Schwanegesang</booktitle>, D. 957, <q>Abschied</q> (1828)</caption>
+                <idx><h>Schubert</h><h><booktitle>Schwanegesang</booktitle>, D. 957</h><h><q>Abschied</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-sec-cc-abschied">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="yFcuiS6d1Jk" start="46" end="59" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+        </subsection>
+        <subsection>
+            <title>Borrowed Common Chord</title>
+            <p>In the following example, a borrowed chord, <chord root="i" bps="6"/> in D<flat/> minor, rewritten as a C<sharp/> minor chord, is reinterpreted as <chord root="vi" bps="6"/> in the second key, E major.</p><!--purple patch footnote?-->
+            <figure>
+                <caption>Beethoven, Piano Sonata No. 31 in A<flat/> major, Op.110, I, (1821)</caption>
+                <idx><h>Beethoven</h><h>Piano Sonata Op. 110, I</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-borrowed-cc-op-110">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="Utc2ENLyEqo" start="205" end="228" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+        </subsection>
+        <subsection>
+            <title>Neapolitan Common Chord</title>
+            <p>A particularly adventurous and imaginative pivot is the Neapolitan, which can bridge the gap between two foreign (or distantly related) keys.</p>
+            <figure>
+                <caption>Schubert, <booktitle>Schwanegesang</booktitle>, D. 957, <q>Fr&#x00FC;hlingssehnsucht</q> (1828)</caption>
+                <idx><h>Schubert</h><h><booktitle>Schwanegesang</booktitle>, D. 957</h><h><q>Fr&#x00FC;hlingssehnsucht</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-N6-cc-fruhlingssehnsucht">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="PbisPRJhaPs" start="28" end="38" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the example above, Schubert bridges the tonal distance between D minor and A<flat/> minor with  <chord root="N" bps="6 5"/> (note the dominant<ndash/>seventh quality of the Neapolitan in this instance), which acts as a <chord root="V" bps="6 5"/> in A<flat/> minor, a tritone away from D minor.</p>
+        </subsection>
+        <subsection>
+            <title>Augmented Sixth Common Chord</title>
+            <p>In the next chapter, we will examine how Augmented Sixth chords are enharmonically reinterpreted in a process known as enharmonic modulation.</p><!--add link later-->
+        </subsection>
+    </section>
+    <section xml:id="ModulationsWithoutPivotChords">
+        <title>Modulations Without Pivot Chords</title>
+        <p></p>
+        
+
+
+    </section>
+    
+    <exercises xml:id="ModulationPracticeExercises">
+        <title>Practice Exercises</title>
+        <!--do Day One and Day Two
+        <exercisegroup>
+            <introduction>
+                <p>Day One</p>
+            </introduction>
+        <exercise>
+            <statement>
+                <p>For each given key, list the five closely<ndash/>related keys.</p>
+                <sidebyside>
+                    <image source="images/unit5/PRAC-EXER-aug6-analyzing"/>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit5/PRAC-EXER-aug6-analyzing-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>For each progression, analyze the Roman numerals with lead<ndash/>sheet symbols and specify the second key.</p>
+                <sidebyside>
+                    <image source="images/unit5/PRAC-EXER-aug6-writing"/>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit5/PRAC-EXER-aug6-writing-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        </exercisegroup> -->
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_25.pdf">here to download the first homework assignment for this chapter.</url></p><!--reveal the rest when they're ready
+            <p>Click <url href="../hw/MT21C_HW_26.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_27.pdf">here to download the third homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_28.pdf">here to download the fourth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_29.pdf">here to download the fifth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_Unit_5_Practice_Test.pdf">here to download the Unit 5 Practice Test.</url></p> -->          
+        </conclusion>
+    </exercises>
+</chapter>

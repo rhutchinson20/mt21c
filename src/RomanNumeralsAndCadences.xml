@@ -133,7 +133,7 @@
                 <description>The most commonly used diatonic triads in A minor: A minor, B diminished, C major, D minor, E major, F major, and G-sharp diminished, with Roman numerals</description>
             </image>
         </sidebyside>
-        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q><term>subtonic triad</term></q><idx><h>subtonic triad</h><h>definition of</h></idx>) and <chord root="vii" mode="diminished"/> (the <q>leading<ndash/>tone triad</q>) are included. The subtonic triad (<chord root="VII"/>) regularly occurs in <xref ref="CircleOfFifths" text="title">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="title">in rock and pop music</xref>, while the leading<ndash/>tone triad (<chord root="vii" mode="diminished"/>) usually is either a passing harmony or has <xref ref="HarmonicFunction" text="title">dominant function</xref>.</p>
+        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q><term>subtonic triad</term></q><idx><h>subtonic triad</h><h>definition of</h></idx>) and <chord root="vii" mode="diminished"/> (the <q>leading<ndash/>tone triad</q>) are included. The subtonic triad (<chord root="VII"/>), built on the lowered <scaledeg>7</scaledeg> that occurs in <em>natural</em> minor, regularly occurs in <xref ref="CircleOfFifths" text="title">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="title">in rock and pop music</xref>, while the leading<ndash/>tone triad (<chord root="vii" mode="diminished"/>), built on raised <scaledeg>7</scaledeg>, is usually either a passing harmony or has <xref ref="HarmonicFunction" text="title">dominant function</xref>.</p>
     </section>
     <section xml:id="cadences">
         <title>Cadences</title>
@@ -152,8 +152,8 @@
             <title>Examples of Authentic Cadences</title>
             <idx><h>authentic cadence</h><h>musical examples</h></idx>
             <figure>
-            	<caption>Francis Scott Key and John Stafford Smith, <q>Star-Spangled Banner</q></caption>
-            	<idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
+            	<caption>Francis Scott Key and John Stafford Smith, <q>Star<ndash/>Spangled Banner</q></caption>
+            	<idx><h>Star<ndash/>Spangled Banner</h><h>musical example</h></idx>
             	<sbsgroup>
                 	<sidebyside>
                     	<image source="images/unit2/cadences-auth-cad-star-spangled">

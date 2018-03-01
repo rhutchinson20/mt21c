@@ -7,7 +7,7 @@
         (also known as <term>thoroughbass</term><idx><h>thoroughbass</h><see>figured bass</see></idx>) consists of a bass line notated on a staff accompanied by numbers representing intervals to be played above the bass note within the key signature. (These figured<ndash/>bass numbers are traditionally notated below the bass line.)</p>
         <figure>
             <caption>Handel's handwritten manuscript of Recorder Sonata in A minor, HWV 362, I. Larghetto</caption>
-            <sidebyside margins="20%">
+            <sidebyside>
                 <image source="images/unit4/figured-bass-handel-flute-sonata-manuscript">
                     <description>Handel's handwritten manuscript with figured bass numbers</description>
                 </image>
@@ -88,6 +88,55 @@
             </sidebyside>
         </figure>
     </section>
+
+
+    <!--add this section when musical examples are updated
+    <section xml:id="TheCadentialSixFourChord">
+        <title>The Cadential Six<ndash/>Four Chord</title>
+        <p>A common term in music theory<mdash/>the <q><term>cadential six<ndash/>four</term></q><idx><h>cadential six<ndash/>four</h></idx> (or cadential <chord bps="6 4"/>)<mdash/>is used to refer to the <chord root="I" bps="6 4"/> that regularly proceeds the <chord root="V"/> chord in cadences.</p>
+        <figure> 
+            <caption>Mozart, Piano Sonata K. 331, I</caption>
+            <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 331, I</h><h>period form</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/phrases-period-K331">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="R_NnOW9f8hs" start="0" end="24" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <figure>
+            <caption>Francis Scott Key and John Stafford Smith, <q>The Star<ndash/>-Spangled Banner</q></caption>
+            <idx><h>Star<ndash/>Spangled Banner</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit3/textures-chorale-star-spangled">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="uBS-F944zYc" start="0" end="8" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>It is worth remembering that the cadential <chord bps="6 4"/> (or <chord root="I" bps="6 4"/>) has <xref ref="DominantFunction" text="title">dominant function</xref>, just like the <chord root="V"/> chord that usually follows it. Previously, we have called this chord <q><chord root="I" bass="5th"/></q>.</p>
+        <p>This chapter on figured bass is an appropriate time to introduce the term <q>cadential six<ndash/>four,</q> which will recur throughout this text.</p>
+    </section>
+    <section xml:id="OtherOccurrencesofSixFourChords">
+        <title>Other Occurrences of <chord bps="6 4"/> Chords</title>
+        <p>Second<ndash/>inversion chords with the fifth of the chord in the bass, also known as <chord bps="6 4"/> chords, are special chords typically only found in four situations.</p>
+        <ol>
+            <li><p>Cadential six<ndash/>four (discussed in the previous section)</p></li>
+            <li><p>Passing six<ndash/>four<idx><h>passing six<ndash/>four</h></idx>: the bass line will look like a passing<ndash/>tone figure, with three stepwise ascending or descending notes, and the middle chord will be a <chord bps="6 4"/> chord</p></li>
+            <li><p>Pedal six<ndash/>four<idx><h>pedal six<ndash/>four</h></idx>: the bassline will consist of three repeated notes, and the middle chord will be a <chord bps="6 4"/> chord (silent night)</p></li>
+            <li><p>Melodic bass six<ndash/>four<idx><h>melodic bass six<ndash/>four</h></idx>: in this situation, the bass voice has the melody; when the fifth of the chord in this bass voice melody, a <chord bps="6 4"/> chord will occur.</p></li>
+    </section>
+    -->
+
+
     <section xml:id="FiguredBassAdditionalInformation">
         <title>Additional Information</title>
         <p>Though we will not use them in our harmonic analyses, you will sometimes encounter figured bass symbols containing all of the intervals above the bass note in Baroque music containing figured bass. The common figured bass inversion symbols in the sections above are abbreviations of the figures given in the examples below.</p>

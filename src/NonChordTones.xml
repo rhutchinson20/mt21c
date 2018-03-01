@@ -5,58 +5,61 @@
         <title>Introduction to Non<ndash/>Chord Tones</title>
         <p><term>Non<ndash/>chord tones</term><idx><h>non-chord tones</h><h>definition of</h></idx> are notes that do not belong to the chord. Sometimes referred to as <q>embellishing tones</q> and <q>non<ndash/>harmonic tones,</q> non<ndash/>chord tones are classified by how they are approached and left (either by same tone, step, or leap).</p>
         <p>There are nine types of non<ndash/>chord tones.</p>
-        <tabular halign="left">
-            <row header="yes" bottom="major">
-                <cell><em>Non<ndash/>Chord Tone</em></cell>
-                <cell><em>Approached by</em></cell>
-                <cell><em>Left by</em></cell>
-            </row>
-            <row>
-                <cell>Passing Tone</cell>
-                <cell>step</cell>
-                <cell>step in same direction</cell>
-            </row>
-            <row>
-                <cell>Neighbor Tone</cell>
-                <cell>step</cell>
-                <cell>step in opposite direction</cell>
-            </row>
-            <row>
-                <cell>Appoggiatura</cell>
-                <cell>leap</cell>
-                <cell>step</cell>
-            </row>
-            <row>
-                <cell>Escape Tone</cell>
-                <cell>step</cell>
-                <cell>leap in opposite direction</cell>
-            </row>
-            <row>
-                <cell>Double Neighbor</cell>
-                <cell>see text</cell>
-                <cell>see text</cell>
-            </row>
-            <row>
-                <cell>Anticipation</cell>
-                <cell>step</cell>
-                <cell>same note</cell>
-            </row>
-            <row>
-                <cell>Pedal Point</cell>
-                <cell>same note</cell>
-                <cell>same note</cell>
-            </row>
-            <row>
-                <cell>Suspension</cell>
-                <cell>same note</cell>
-                <cell>step down</cell>
-            </row>
-            <row>
-                <cell>Retardation</cell>
-                <cell>same note</cell>
-                <cell>step up</cell>
-            </row>
-        </tabular>
+        <table>
+            <caption/>
+            <tabular halign="left">
+                <row header="yes" bottom="major">
+                    <cell><em>Non<ndash/>Chord Tone</em></cell>
+                    <cell><em>Approached by</em></cell>
+                    <cell><em>Left by</em></cell>
+                </row>
+                <row>
+                    <cell>Passing Tone</cell>
+                    <cell>step</cell>
+                    <cell>step in same direction</cell>
+                </row>
+                <row>
+                    <cell>Neighbor Tone</cell>
+                    <cell>step</cell>
+                    <cell>step in opposite direction</cell>
+                </row>
+                <row>
+                    <cell>Appoggiatura</cell>
+                    <cell>leap</cell>
+                    <cell>step</cell>
+                </row>
+                <row>
+                    <cell>Escape Tone</cell>
+                    <cell>step</cell>
+                    <cell>leap in opposite direction</cell>
+                </row>
+                <row>
+                    <cell>Double Neighbor</cell>
+                    <cell>see text</cell>
+                    <cell>see text</cell>
+                </row>
+                <row>
+                    <cell>Anticipation</cell>
+                    <cell>step</cell>
+                    <cell>same note</cell>
+                </row>
+                <row>
+                    <cell>Pedal Point</cell>
+                    <cell>same note</cell>
+                    <cell>same note</cell>
+                </row>
+                <row>
+                    <cell>Suspension</cell>
+                    <cell>same note</cell>
+                    <cell>step down</cell>
+                </row>
+                <row>
+                    <cell>Retardation</cell>
+                    <cell>same note</cell>
+                    <cell>step up</cell>
+                </row>
+            </tabular>
+        </table>
         <p>The following qualifiers can be applied to non<ndash/>chord tones:</p>
             <ul>
                 <li><p>Accented<mdash/>occuring on the beat</p></li>
@@ -190,8 +193,8 @@
         <title>Escape Tone</title>
         <p>An escape tone is approached by step and left by leap in the opposite direction. An easy example to remember is the end of the <q>Star<ndash/>Spangled Banner.</q> The word <q>of</q> in <q>home <em>of</em> the brave</q> is an escape tone.</p>
         <figure>
-            <caption>Key and Smith, <q>Star<ndash/>Spangled Banner</q></caption>
-            <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
+            <caption>Francis Scott Key and John Smith, <q>Star<ndash/>Spangled Banner</q></caption>
+            <idx><h>Star<ndash/>Spangled Banner</h><h>musical example</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-esc-star-spangled">
@@ -595,7 +598,7 @@
                         </sidebyside>
                     </li>
                     <li>
-                        <p>Robert Schumann, <booktitle>Dichterliebe</booktitle>, Op. 48, 1. <q>Im wundersch&#x00F6;nen Monat Mai</q> <idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48, </h><h>1. <q>Im wundersch&#x00F6;nen Monat Mai</q></h></idx><url href="https://youtu.be/xIMgAZocYQc?t=11s">(YouTube)</url></p>
+                        <p>Robert Schumann, <booktitle>Dichterliebe</booktitle>, Op. 48, 1. <q>Im wundersch&#x00F6;nen Monat Mai</q> <idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48</h><h><q>Im wundersch&#x00F6;nen Monat Mai</q></h></idx><url href="https://youtu.be/xIMgAZocYQc?t=11s">(YouTube)</url></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-NCT-im-wunderschonen"/>
                         </sidebyside>

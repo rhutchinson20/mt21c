@@ -88,7 +88,7 @@
         </figure>
         <figure>
             <caption>Tchaikovsky, <booktitle>The Nutcracker</booktitle>, <q>Miniature Overture</q> (1892)</caption>
-            <idx><h>Tchaikovsky</h><h><booktitle>The Nutcracker</booktitle>, <q>Miniature Overture</q></h></idx>
+            <idx><h>Tchaikovsky</h><h><booktitle>The Nutcracker</booktitle></h><h><q>Miniature Overture</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/sec-dom-nutcracker-overture">
@@ -112,7 +112,13 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Sing the bass line of the example above and notice that a secondary chord, through its chromaticism, intensifies the drive to the next chord. The Roman numeral after the slash is the chord being tonicized by the chord before the slash.</p>
+        <p>Sing the bass line of the example above and notice that a secondary chord, through its chromaticism, intensifies the drive to the next chord. 
+            <principle xml:id="SecondaryDominantsPrinciple1">
+                    <title>Secondary Dominants</title>
+                    <statement>
+                        <p>The Roman numeral after the slash is the chord being tonicized by the <chord root="V"/> chord before the slash.</p>
+                    </statement>
+                </principle></p>
         <p>You may find that you want to analyze the <chord root="D" bps="7" bass="F sharp"/> in the example above as a <chord root="II" bps="6 5"/> instead of a <chord root="V" bps="6 5" bass="V"/> (which we pronounce as <q><chord root="V" bps="6 5"/> <em>of</em> <chord root="V"/></q>), and the <chord root="E" bps="7" bass="G sharp"/> as a <chord root="III" bps="6 5"/> instead of <chord root="V" bps="6 5" bass="vi"/> (<q><chord root="V" bps="6 5"/> <em>of</em> <chord root="vi"/></q>). Notice, however, that a <chord root="ii"/> chord is typically minor in a major key and diminished in a minor key (<chord root="ii" mode="diminished"/>), making uppercase <chord root="II"/> a chromatic harmony for which the proper label is <chord root="V" bass="V"/>.</p>
         <figure>
             <caption/>
@@ -331,6 +337,7 @@
         <p>There are two ways to conceptualize this progression. The first is that the progression of <chord root="iii"/> to <chord root="IV"/> (Em to F in C major) is not unusual, so E to F, which appears to be <chord root="III"/> to <chord root="IV"/> but is in fact <chord root="V" bass="vi"/> to <chord root="IV"/>, is a chromatic modification of <chord root="iii"/> to <chord root="IV"/>. Another way to think of <chord root="V" bass="vi"/> to <chord root="IV"/> is as <chord root="V" bass="vi"/> to <chord root="VI" bass="vi"/>, a deceptive progression within the submediant area.</p>
         <p>The conclusion is that secondary chords do not always resolve strictly to the chords they appear to be tonicizing.</p>
     </section>
+    <!--hide this for now
     <section xml:id="HarmonicFunctionOfSecondaryDominants">
         <title>Harmonic Function of Secondary Dominants</title>
         <p>Secondary dominants generally retain the same function as their non<ndash/>chromatic versions.</p>
@@ -343,6 +350,7 @@
             </sidebyside>
         </figure>
     </section>
+    -->
     <exercises xml:id="SecondaryDominantPracticeExercises">
         <title>Practice Exercises</title>
         <exercisegroup>
@@ -434,7 +442,7 @@
             </exercise>
         </exercisegroup>
         <conclusion>
-            <p>Click <url href="../hw/MT21C_HW_17.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_17.pdf">here to download the first homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_18.pdf">here to download the second homework assignment for this chapter.</url></p>
             
         </conclusion>
