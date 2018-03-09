@@ -92,7 +92,7 @@
         <p>There can be two consecutive diatonic passing tones in a descending scale segment from the root and fifth of a chord.</p>
         <figure>
             <caption>Hupfeld, <q>As Time Goes By</q></caption>
-            <idx><h>songs (popular)</h><h><q>As Time Goes By</q> (from the motion picture <booktitle>Casablanca</booktitle>)</h></idx>
+            <idx><h>songs (popular)</h><h><q>As Time Goes By</q> (from the motion picture <pubtitle>Casablanca</pubtitle>)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-pt-as-time-goes">
@@ -115,7 +115,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="olJciUVQ_Cw" start="0" end="4" play-at="select" preview="generic"/>
+                    <video youtube="0ctLKWRTw0s" start="0" end="4" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -145,7 +145,7 @@
         <p>The appoggiatura is approached by leap and left by step. It is usually accented (on the beat), which makes it a particularly expressive non<ndash/>chord tone.</p>
         <figure>
             <caption>Horner and Jennings, <q>My Heart Will Go On</q></caption>
-            <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <booktitle>Titanic</booktitle>)</h></idx>
+            <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <pubtitle>Titanic</pubtitle>)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-app-celine-dion">
@@ -183,7 +183,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="pVHg7jlmtFQ" start="17" end="25" play-at="select" preview="generic"/>
+                    <video youtube="Fcomfvmq28Q" start="18" end="26" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -280,8 +280,8 @@
         <title>Anticipation</title>
         <p>An anticipation is a non<ndash/>chord tone that anticipates the arrival of the next chord and is often found at cadences, as in the next example.</p>
         <figure>
-            <caption>Handel, <booktitle>Rinaldo</booktitle>, <q>Lascia ch'io pianga</q></caption>
-            <idx><h>Handel</h><h><booktitle>Rinaldo</booktitle>, <q>Lascia ch'io pianga</q></h></idx>
+            <caption>Handel, <pubtitle>Rinaldo</pubtitle>, <q>Lascia ch'io pianga</q></caption>
+            <idx><h>Handel</h><h><pubtitle>Rinaldo</pubtitle>, <q>Lascia ch'io pianga</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-ant-handel">
@@ -314,8 +314,8 @@
         <title>Pedal Point</title>
         <p>A pedal point is a note that is held through changing harmonies, starting as a chord tone before becoming a non<ndash/>chord tone. Pedal points are often in the bass voice (the term <q>pedal</q> relates to the <url href="https://youtu.be/Mlckvcf69wo?t=9s">foot pedals on an organ</url>).</p>
         <figure>
-            <caption>Bach, J.S., <booktitle>Well<ndash/>Tempered Clavier, Book I</booktitle>, Prelude 1 in C major</caption>
-            <idx><h>Bach, J.S.</h><h><booktitle>Well<ndash/>Tempered Clavier, Book I</booktitle></h><h>Prelude 1 in C major</h></idx>
+            <caption>Bach, J.S., <pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle>, Prelude 1 in C major</caption>
+            <idx><h>Bach, J.S.</h><h><pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle></h><h>Prelude 1 in C major</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-ped-pt-WTC-prel-1">
@@ -363,8 +363,8 @@
         <p>In the example above, the notes in the 4<ndash/>3 suspension are an 11th and 10th higher than the bass. Reduce all intervals larger than an octave to the numbers 7<ndash/>6, 4<ndash/>3, and 6<ndash/>5.</p>
         <p>Here is an example with a 4<ndash/>3 suspension.</p>
         <figure>
-            <caption>Barber, <booktitle>Adagio for Strings</booktitle></caption>
-            <idx><h>Barber, Samuel</h><h><booktitle>Adagio for Strings</booktitle></h></idx>
+            <caption>Barber, <pubtitle>Adagio for Strings</pubtitle></caption>
+            <idx><h>Barber, Samuel</h><h><pubtitle>Adagio for Strings</pubtitle></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-sus-4-3-barber">
@@ -452,8 +452,8 @@
         <title>Incomplete Neighbor</title>
         <p>Because composers are notorious for <q>breaking the rules,</q> you will encounter examples in the real world that either defy explanation or have multiple valid explanations. One <q>utility</q> non<ndash/>chord tone is the incomplete neighbor.</p>
         <figure>
-            <caption>Puccini, <booktitle>Gianni Schicchi</booktitle>, <q>O mio babbino caro</q></caption>
-            <idx><h>Puccini</h><h><booktitle>Gianni Schicchi</booktitle>, <q>O mio babbino caro</q></h></idx>
+            <caption>Puccini, <pubtitle>Gianni Schicchi</pubtitle>, <q>O mio babbino caro</q></caption>
+            <idx><h>Puccini</h><h><pubtitle>Gianni Schicchi</pubtitle>, <q>O mio babbino caro</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-inc-nt-o-mio">
@@ -598,7 +598,7 @@
                         </sidebyside>
                     </li>
                     <li>
-                        <p>Robert Schumann, <booktitle>Dichterliebe</booktitle>, Op. 48, 1. <q>Im wundersch&#x00F6;nen Monat Mai</q> <idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48</h><h><q>Im wundersch&#x00F6;nen Monat Mai</q></h></idx><url href="https://youtu.be/xIMgAZocYQc?t=11s">(YouTube)</url></p>
+                        <p>Robert Schumann, <pubtitle>Dichterliebe</pubtitle>, Op. 48, 1. <q>Im wundersch&#x00F6;nen Monat Mai</q> <idx><h>Schumann, Robert</h><h><pubtitle>Dichterliebe</pubtitle>, Op. 48</h><h><q>Im wundersch&#x00F6;nen Monat Mai</q></h></idx><url href="https://youtu.be/xIMgAZocYQc?t=11s">(YouTube)</url></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-NCT-im-wunderschonen"/>
                         </sidebyside>

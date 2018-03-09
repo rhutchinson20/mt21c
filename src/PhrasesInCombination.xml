@@ -260,8 +260,28 @@
                 <caption>Beethoven, Piano Sonata Op. 10, No. 1, II</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata Op. 10, No. 1, II (double period)</h></idx>
                 <sbsgroup>
+                    <!--Original 4 system image <sidebyside>
+                        <image source="images/unit3/phrases-double-period-op-10-no-1-II">
+                            <description/>
+                        </image>
+                    </sidebyside>-->
                     <sidebyside>
-                        <image source="images/unit3/">
+                        <image source="images/unit3/phrases-double-period-op-10-no-1-II-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-double-period-op-10-no-1-II-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-double-period-op-10-no-1-II-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit3/phrases-double-period-op-10-no-1-II-D">
                             <description/>
                         </image>
                     </sidebyside>
@@ -328,7 +348,7 @@
     </section>
     <section xml:id="PhraseGroupsAndPhaseChains">
         <title>Phrase Groups and Phase Chains</title>
-        <p>Phrase groups and phrase chains are not periods. In phrase groups and phrase chains, <em>the final cadence is a half cadence</em>. A <term>phrase group</term><idx><h>phrase group</h><h>definition of</h></idx> consists of at least two phrases whose melodies begin similarly and has the final phrase ending in a half cadence. The terminology in this section draws from Douglass Green’s <booktitle>Form in Tonal Music</booktitle>.</p>
+        <p>Phrase groups and phrase chains are not periods. In phrase groups and phrase chains, <em>the final cadence is a half cadence</em>. A <term>phrase group</term><idx><h>phrase group</h><h>definition of</h></idx> consists of at least two phrases whose melodies begin similarly and has the final phrase ending in a half cadence. The terminology in this section draws from Douglass Green’s <pubtitle>Form in Tonal Music</pubtitle>.</p>
         <figure>
             <caption>Couperin, 5 Pi&#x00E8;ces de Clavecin, 4. Le Petit<ndash/>Rien (Ordre XIV, 8)</caption>
             <idx><h>Couperin</h><h>5 Pi&#x00E8;ces de Clavecin, 4. Le Petit<ndash/>Rien (Ordre XIV, 8) (phrase group)</h></idx>
@@ -363,8 +383,8 @@
         <title>The Elision</title>
         <p>An elision is a special device for joining phrases together in an overlapping manner. In an elision, the final bar of one phrase is simultaneously the first bar of the next phrase.</p>
         <figure>
-            <caption>Mozart, <booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, I.</caption>
-            <idx><h>Mozart, W.A.</h><h><booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, I. (elision)</h></idx>
+            <caption>Mozart, <pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I.</caption>
+            <idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I. (elision)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit3/phrases-elision-mozart">
@@ -391,10 +411,10 @@
                 </ul>
                 <ol>
                     <li>
-                        <p>Mozart, <booktitle>The Magic Flute</booktitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></p>
+                        <p>Mozart, <pubtitle>The Magic Flute</pubtitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></p>
                         <figure>
                             <caption/>
-                            <idx><h>Mozart, W.A.</h><h><booktitle>The Magic Flute</booktitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></h></idx>
+                            <idx><h>Mozart, W.A.</h><h><pubtitle>The Magic Flute</pubtitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></h></idx>
                             <sbsgroup>
                                 <sidebyside>
                                     <image source="images/unit3/PRAC-EXER-phrases-mozart-ein-madchen">
@@ -427,7 +447,7 @@
                 </ol>
             </statement>
             <answer>
-                <p>Mozart, <booktitle>The Magic Flute</booktitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q>:</p>
+                <p>Mozart, <pubtitle>The Magic Flute</pubtitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q>:</p>
                 <ul>
                     <li><p>Chords: <chord root="I"/><ndash/><chord root="V"/>, <chord root="V"/><ndash/><chord root="I"/></p></li>
                     <li><p>Cadences: HC, PAC</p></li>

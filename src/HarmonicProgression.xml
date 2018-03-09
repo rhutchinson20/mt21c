@@ -465,8 +465,8 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Verdi, <booktitle>Rigoletto</booktitle>, <q>La donna &#x00E8; mobile</q></caption>
-                <idx><h>Verdi</h><h><booktitle>Rigoletto</booktitle>, <q>La donna &#x00E8; mobile</q></h></idx>
+                <caption>Verdi, <pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q></caption>
+                <idx><h>Verdi</h><h><pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/harmony-T-D-T-la-donna">
@@ -544,7 +544,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="r_m1phdmwiw" start="0" end="12" play-at="select" preview="generic"/>
+                        <video youtube="gKidmokBxao" start="0" end="11" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -687,7 +687,7 @@
         <p>Some chords do not have harmonic function. They act as passing or neighboring harmonies to embellish tonic, dominant, and sometimes pre-dominant function.</p>
         <p>Here is an example with a passing harmony.</p>
         <figure>
-            <caption>Passing harmony embellishing tonic function</caption><image source="images/unit2/harmony-passing-harmony-example"/>
+            <caption>Passing harmony embellishing tonic function</caption><image source="images/unit2/harmony-passing-harmony-example"/><!--use Bach chorale Es ist das Heil uns kommen her--> 
         </figure>
         <p>In this case, the <chord root="vii" mode="diminished" bass="3rd"/> chord is a passing chord rather than a chord with dominant function. (Remember that the <chord root="I" bass="5th"/> chord <xref ref="DominantFunction" text="title">has dominant function</xref>.)</p>
     </section>
@@ -801,7 +801,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="RVJiwyg0iDM" start="58" end="73" play-at="select" preview="generic"/>
+                    <video youtube="pWidiUqs5zc" start="58" end="73" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>

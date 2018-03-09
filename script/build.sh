@@ -13,6 +13,7 @@ declare PTXXSL=${PTX}/xsl
 declare PTXSCRIPT=${PTX}/script/mbx
 declare SOURCE=${SRC}/src
 declare IMAGES=${SRC}/images
+declare CSS=${SRC}/css
 
 # Root XML File, also assume that this is filename of generated LaTeX
 declare ROOT=MusicTheory
@@ -71,12 +72,14 @@ function build_html {
     install -d\
         ${SCRATCH}/html\
         ${SCRATCH}/html/images\
+        ${SCRATCH}/html/css\
         ${SCRATCH}/html/knowl
     cd ${SCRATCH}/html
     rm *.html
     rm -rf knowl/* images/*
     cp -a ${IMAGES}/* ./images/
-    xsltproc --xinclude ${PTXXSL}/mathbook-html.xsl ${SOURCE}/${ROOT}.xml
+    cp -a ${CSS}/* ./css/
+    xsltproc --stringparam html.css.extra ./css/mt21c-custom.css --xinclude ${PTXXSL}/mathbook-html.xsl ${SOURCE}/${ROOT}.xml
 }
 
 function view_errors {

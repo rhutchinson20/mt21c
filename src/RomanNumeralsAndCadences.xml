@@ -225,8 +225,8 @@
             <title>Examples of Deceptive Cadences</title>
             <idx><h>deceptive cadence</h><h>musical examples</h></idx>
             <figure>
-                <caption>Mozart, <booktitle>The Marriage of Figaro</booktitle>, <q>Voi che sapete</q></caption>
-                <idx><h>Mozart, W.A.</h><h><booktitle>Marriage of Figaro</booktitle>, <q>Voi che sapete</q></h></idx>
+                <caption>Mozart, <pubtitle>The Marriage of Figaro</pubtitle>, <q>Voi che sapete</q></caption>
+                <idx><h>Mozart, W.A.</h><h><pubtitle>Marriage of Figaro</pubtitle>, <q>Voi che sapete</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/cadences-deceptive-cad-voi-che">
@@ -252,9 +252,9 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>            
-            <p>The following example, from the prelude to Act I of Richard Wagner's opera <booktitle>Tristan und Isolde</booktitle>, is arguably one of the most famous deceptive cadences in the history of music.</p>
+            <p>The following example, from the prelude to Act I of Richard Wagner's opera <pubtitle>Tristan und Isolde</pubtitle>, is arguably one of the most famous deceptive cadences in the history of music.</p>
             <figure>
-                <caption>Wagner, <booktitle>Tristan und Isolde</booktitle>, Prelude to Act I</caption>
+                <caption>Wagner, <pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</caption>
                 <idx><h>Wagner, Richard</h><h>Tristan und Isolde, Prelude to Act I</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -270,7 +270,7 @@
             <p>A deceptive cadence means <chord root="V"/> did not go to <chord root="I"/>. This means that <q><chord root="V"/> to not<ndash/><chord root="I"/></q> is technically a more correct description for a deceptive cadence than <chord root="V"/><ndash/><chord root="vi"/>, which is the most common realization of <q><chord root="V"/> to not<ndash/><chord root="I"/>.</q></p>
             <p>In the example below, <chord root="V"/> goes to <chord root="IV" bass="3rd"/>.</p>
             <figure>
-                <caption>Mozart, <booktitle>Ave Verum Corpus</booktitle>, K. 618</caption>
+                <caption>Mozart, <pubtitle>Ave Verum Corpus</pubtitle>, K. 618</caption>
                 <idx><h>Mozart, W.A.</h><h>Ave verum corpus, K. 618</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -287,8 +287,8 @@
         <subsection xml:id="HalfCadenceExamples">
             <title>Examples of Half Cadences</title><idx><h>deceptive cadence</h><h>musical examples</h></idx>
             <figure>
-                <caption>Mozart, <booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, I.</caption>
-                <idx><h>Mozart, W.A.</h><h><booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, I.</h></idx>
+                <caption>Mozart, <pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I.</caption>
+                <idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I.</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/cadences-half-cad-eine-kleine">

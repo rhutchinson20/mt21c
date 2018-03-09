@@ -73,8 +73,8 @@
             </sbsgroup>
         </figure>
         <figure>
-            <caption>Verdi, <booktitle>Rigoletto</booktitle>, <q>La donna &#x00E8; mobile</q> (1851)</caption>
-            <idx><h>Verdi</h><h><booktitle>Rigoletto</booktitle>, <q>La donna &#x00E8; mobile</q></h></idx>
+            <caption>Verdi, <pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q> (1851)</caption>
+            <idx><h>Verdi</h><h><pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/sec-dom-la-donna">
@@ -87,8 +87,8 @@
             </sbsgroup>
         </figure>
         <figure>
-            <caption>Tchaikovsky, <booktitle>The Nutcracker</booktitle>, <q>Miniature Overture</q> (1892)</caption>
-            <idx><h>Tchaikovsky</h><h><booktitle>The Nutcracker</booktitle></h><h><q>Miniature Overture</q></h></idx>
+            <caption>Tchaikovsky, <pubtitle>The Nutcracker</pubtitle>, <q>Miniature Overture</q> (1892)</caption>
+            <idx><h>Tchaikovsky</h><h><pubtitle>The Nutcracker</pubtitle></h><h><q>Miniature Overture</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/sec-dom-nutcracker-overture">
@@ -287,7 +287,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="b67rk3jRV7o" start="8" end="17" play-at="select" preview="generic"/>
+                    <video youtube="9hrqE_-DvV0" start="8" end="17" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>

@@ -47,11 +47,11 @@
         <p>In the next two sections we will look at how two different pieces exhibit contrast between various sections using the elements of music.</p>
 	</section>
 	<section xml:id="Eine-kleine-ii">
-		<title>Mozart, <booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, II.</title>
-		<p>The second movement<idx><h>Mozart, W.A.</h><h><booktitle>Eine kleine Nachtmusik</booktitle>, K. 525, II.</h></idx> of Mozart’s <booktitle>Eine kleine Nachtmusik</booktitle> is a five<ndash/>part rondo form (ABACA).</p>
+		<title>Mozart, <pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</title>
+		<p>The second movement<idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</h></idx> of Mozart’s <pubtitle>Eine kleine Nachtmusik</pubtitle> is a five<ndash/>part rondo form (ABACA).</p>
 		<p>Let us examine the elements of music in the first section (the A section).</p>
 		<figure>
-            <caption>A Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <caption>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit3/contrast-eine-3-a-idea">
@@ -65,7 +65,7 @@
         </figure>
         <p>Notice how Mozart expresses the various musical elements:</p>
         <table>
-            <caption>A Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <caption>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
             <tabular top="minor" bottom="minor" left="minor" right="minor">
                 <col/>
                 <col width="65%"/>
@@ -97,7 +97,7 @@
         </table>
         <p>Here is the beginning of the second section (the B section):</p>
         <figure>
-            <caption>B Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <caption>B Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit3/contrast-eine-3-b-idea">
@@ -111,7 +111,7 @@
         </figure>
         <p>Here are the most noticeable differences:</p>
         <table>
-            <caption>B Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <caption>B Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
             <tabular top="minor" bottom="minor" left="minor" right="minor">
                 <col/>
                 <col width="65%"/>
@@ -131,7 +131,7 @@
         </table>
         <p>Now, look at the beginning of the next contrasting section (the C section):</p>
         <figure>
-            <caption>C Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <caption>C Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit3/contrast-eine-3-c-idea">
@@ -145,7 +145,7 @@
         </figure>
         <p>The following elements are noticeably changed:</p>
         <table>
-            <caption>C Section, Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <caption>C Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
             <tabular top="minor" bottom="minor" left="minor" right="minor">
                 <col/>
                 <col width="65%"/>
@@ -169,7 +169,7 @@
         </table>
         <p>Listen to how Mozart puts the entire form together, including transitional material to smooth out the changes from one section to another.</p>
         <figure>
-            <caption>Formal Diagram of Second Movement, <booktitle>Eine kleine Nachtmusik</booktitle></caption>
+            <caption>Formal Diagram of Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit3/contrast-eine-ABACA-diagram">

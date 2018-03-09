@@ -17,7 +17,7 @@
     </section>
     <section xml:id="TypesOfAugmentedSixthChords">
         <title>Types of Augmented Sixth Chords</title>
-        <p>There are three general types of augmented sixth chords<mdash/>the <term>Italian augmented sixth chord</term><idx><h>augmented sixth chord types</h><h>Italian augmented sixth chord</h></idx> (<q><chord root="It" bps="+6"/></q>), the <term>French augmented sixth chord</term><idx><h>augmented sixth chord types</h><h>French augmented sixth chord</h></idx> (<q><chord root="Fr" bps="+6"/></q>), and the <term>German augmented sixth chord</term><idx><h>augmented sixth chord types</h><h>German augmented sixth chord</h></idx> (<q><chord root="Ger" bps="+6"/></q>). These geographic labels have persisted throughout the years despite the fact that no reasoning has been found for these designations. <fn>The 1964 <booktitle>Harvard Dictionary of Music</booktitle> states these chords are <q>rather pointlessly<ellipsis/>distinguished as <sq>Italian,</sq> <sq>German,</sq> and <sq>French</sq> sixth<ellipsis/></q></fn></p>
+        <p>There are three general types of augmented sixth chords<mdash/>the <term>Italian augmented sixth chord</term><idx><h>augmented sixth chord types</h><h>Italian augmented sixth chord</h></idx> (<q><chord root="It" bps="+6"/></q>), the <term>French augmented sixth chord</term><idx><h>augmented sixth chord types</h><h>French augmented sixth chord</h></idx> (<q><chord root="Fr" bps="+6"/></q>), and the <term>German augmented sixth chord</term><idx><h>augmented sixth chord types</h><h>German augmented sixth chord</h></idx> (<q><chord root="Ger" bps="+6"/></q>). These geographic labels have persisted throughout the years despite the fact that no reasoning has been found for these designations. <fn>The 1964 <pubtitle>Harvard Dictionary of Music</pubtitle> states these chords are <q>rather pointlessly<ellipsis/>distinguished as <sq>Italian,</sq> <sq>German,</sq> and <sq>French</sq> sixth<ellipsis/></q></fn></p>
         <p>All types of augmented sixth chords contain scale degrees <flat/><scaledeg>6</scaledeg> and <sharp/><scaledeg>4</scaledeg>. To these two scale degrees, the <chord root="It" bps="+6"/> adds <scaledeg>1</scaledeg>. The three notes of the <chord root="It" bps="+6"/> (<flat/><scaledeg>6</scaledeg>, <sharp/><scaledeg>4</scaledeg>, and <scaledeg>1</scaledeg>) form the foundation of the <chord root="Fr" bps="+6"/> and <chord root="Ger" bps="+6"/>. The <chord root="Fr" bps="+6"/> adds <scaledeg>2</scaledeg> to the Italian augmented sixth chord's <flat/><scaledeg>6</scaledeg>, <sharp/><scaledeg>4</scaledeg>, and <scaledeg>1</scaledeg>, and the <chord root="Ger" bps="+6"/> adds <flat/><scaledeg>3</scaledeg> to the Italian's <flat/><scaledeg>6</scaledeg>, <sharp/><scaledeg>4</scaledeg>, and <scaledeg>1</scaledeg>, as is shown in the example below.</p>
         <figure>
             <caption>The Three Types of Augmented Sixth Chords in Major and Minor</caption>
@@ -40,7 +40,13 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Notice that all augmented sixth chords contain a <chord mode="diminished"/>3 when stacked in 3rds. None of the chords we have studied so far contain diminished thirds. Therefore, when you encounter a chord with a diminished third, it is an augmented sixth chord.</p>
+        <p>Notice that all augmented sixth chords contain a <chord mode="diminished"/>3 when stacked in 3rds. None of the chords we have studied so far contain diminished thirds.</p>
+        <principle xml:id="AugmentedSixthsPrinciple1">
+            <title>Secondary Dominants</title>
+            <statement>
+                <p>When you encounter a chord with a diminished third, it is an augmented sixth chord.</p>
+            </statement>
+        </principle>
         <p>Once you determine the chord you are analyzing has a <chord mode="diminished"/>3, <em>analyze the scale degrees</em> to determine which type of augmented sixth chord it is.</p>
     </section>
     <section xml:id="LeadSheetAnalysisOfAugmentedSixthChords">
@@ -96,8 +102,8 @@
             <title>The French Augmented Sixth Chord</title>
             <p>The next example contains an example of a French augmented sixth chord (<chord root="Fr" bps="+6"/>). Notice how the French augmented sixth chord has pre<ndash/>dominant function and intensifies the drive toward the <chord root="V"/> chord.</p>
             <figure>
-                <caption>Schubert, <booktitle>Winterreise</booktitle>, D. 911, <q>Der Wegweiser</q> (1823)</caption>
-                <idx><h>Schubert</h><h><booktitle>Winterreise</booktitle>, D. 911</h><h><q>Der Wegweiser</q></h></idx>
+                <caption>Schubert, <pubtitle>Winterreise</pubtitle>, D. 911, <q>Der Wegweiser</q> (1823)</caption>
+                <idx><h>Schubert</h><h><pubtitle>Winterreise</pubtitle>, D. 911</h><h><q>Der Wegweiser</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit4/aug-6-wegweiser">
@@ -112,10 +118,10 @@
         </subsection>
         <subsection>
             <title>The German Augmented Sixth Chord</title>
-            <p>The following example, from Rossini's <booktitle>William Tell</booktitle> Overture, has a German augmented sixth chord leading to a chord of dominant function, the <chord root="I" bps="6 4"/> chord.</p>
+            <p>The following example, from Rossini's <pubtitle>William Tell</pubtitle> Overture, has a German augmented sixth chord leading to a chord of dominant function, the <chord root="I" bps="6 4"/> chord.</p>
             <figure>
-                <caption>Rossini, <booktitle>William Tell</booktitle> Overture (1829)</caption>
-                <idx><h>Rossini</h><h><booktitle>William Tell</booktitle> Overture</h></idx>
+                <caption>Rossini, <pubtitle>William Tell</pubtitle> Overture (1829)</caption>
+                <idx><h>Rossini</h><h><pubtitle>William Tell</pubtitle> Overture</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit4/aug-6-rossini-tell">
@@ -172,10 +178,10 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>A repeating progression of <chord root="Am"/><ndash/><chord root="F" bps="7"/><ndash/><chord root="E"/> (<chord root="i"/><ndash/><chord root="Ger" bps="+6"/><ndash/><chord root="V"/> in Roman numerals) occurs in <q>Friend Like Me</q> from the movie and musical <booktitle>Aladdin</booktitle>.</p>
+            <p>A repeating progression of <chord root="Am"/><ndash/><chord root="F" bps="7"/><ndash/><chord root="E"/> (<chord root="i"/><ndash/><chord root="Ger" bps="+6"/><ndash/><chord root="V"/> in Roman numerals) occurs in <q>Friend Like Me</q> from the movie and musical <pubtitle>Aladdin</pubtitle>.</p>
             <figure>
-                <caption>Alan Menken and Howard Ashman, <booktitle>Aladdin</booktitle>, <q>Friend Like Me</q> (1992)</caption>
-                <idx><h>songs (popular)</h><h><q>Friend Like Me</q> (from <booktitle>Aladdin</booktitle>)</h></idx>
+                <caption>Alan Menken and Howard Ashman, <pubtitle>Aladdin</pubtitle>, <q>Friend Like Me</q> (1992)</caption>
+                <idx><h>songs (popular)</h><h><q>Friend Like Me</q> (from <pubtitle>Aladdin</pubtitle>)</h></idx>
                     <sidebyside margins="37%">
                         <video youtube="0HdwdptrmQQ" start="437" end="445" play-at="select" preview="generic"/>
                     </sidebyside>
@@ -186,7 +192,7 @@
             <p>In the following example an <q>Enharmonic German augmented sixth</q> chord occurs. While a <chord root="G flat" bps="7"/> chord would normally have the notes <n pc="G" acc="flat"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/><ndash/><n pc="F" acc="flat"/>, the F<flat/> is respelled as an E<natural/>, creating the interval of an augmented sixth, while the fifth of the chord, D<flat/>, is respelled as a C<sharp/>, creating the interval of a doubly augmented fourth. In fact, some music theory textbooks refer to the Enharmonic German augmented sixth chord as <q>the chord of the doubly<ndash/>augmented fourth.</q> The spelling is this way because the C<sharp/> will resolve upward to a D<natural/>, the third of a major <chord root="I" bps="6 4"/> chord.</p>
             <figure>
                 <caption>Robert Schumann, Dichterliebe, Op. 48, <q>Am leuchtenden Sommermorgen</q> (1840)</caption>
-                <idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48</h><h><q>Am leuchtenden Sommermorgen</q></h></idx>
+                <idx><h>Schumann, Robert</h><h><pubtitle>Dichterliebe</pubtitle>, Op. 48</h><h><q>Am leuchtenden Sommermorgen</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit4/aug-6-am-leuchtenden-EnGer">
@@ -204,8 +210,8 @@
         <title>Descending Chromatic Bass Lines</title>
         <p>A common musical pattern is the descending chromatic bass line (<scaledeg>1</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>). Composers harmonize descending chromatic bass lines in different ways, sometimes with secondary chords, borrowed chords, and augmented sixth chords. Below are some examples from the past four centuries.</p>
         <figure>
-            <caption>Henry Purcell, <booktitle>Dido and Aeneas</booktitle>, Z. 636, <q>When I am laid in earth</q> (Dido's Lament) (1688)</caption>
-            <idx><h>Purcell, Henry</h><h><booktitle>Dido and Aeneas</booktitle>, Z. 636</h><h><q>When I am laid in earth</q> (Dido's Lament)</h></idx>
+            <caption>Henry Purcell, <pubtitle>Dido and Aeneas</pubtitle>, Z. 636, <q>When I am laid in earth</q> (Dido's Lament) (1688)</caption>
+            <idx><h>Purcell, Henry</h><h><pubtitle>Dido and Aeneas</pubtitle>, Z. 636</h><h><q>When I am laid in earth</q> (Dido's Lament)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/aug-6-dido">
@@ -218,8 +224,8 @@
             </sbsgroup>
         </figure>
         <figure>
-            <caption>J.S. Bach, <booktitle>Mass in B minor</booktitle>, BWV 232, Crucifixus (1733)</caption>
-            <idx><h>Bach, J.S.</h><h><booktitle>Mass in B minor</booktitle>, BWV 232, Crucifixus</h></idx>
+            <caption>J.S. Bach, <pubtitle>Mass in B minor</pubtitle>, BWV 232, Crucifixus (1733)</caption>
+            <idx><h>Bach, J.S.</h><h><pubtitle>Mass in B minor</pubtitle>, BWV 232, Crucifixus</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/aug-6-crucifixus">

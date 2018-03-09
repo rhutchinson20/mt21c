@@ -20,7 +20,7 @@
         </copyright>
     </colophon>
     <acknowledgement>
-        <p>I owe a huge thanks to Robert Beezer for recommending <pretext/> (formerly <q>MathBook XML</q>) as a means to author <booktitle>Music Theory for the 21st<ndash/>Century Classroom</booktitle>. His work creating the <q>world</q> of <pretext/> made it easier than I could have imagined to create this text in all its forms (online, PDF, and print).</p>
+        <p>I owe a huge thanks to Robert Beezer for recommending <pretext/> (formerly <q>MathBook XML</q>) as a means to author <pubtitle>Music Theory for the 21st<ndash/>Century Classroom</pubtitle>. His work creating the <q>world</q> of <pretext/> made it easier than I could have imagined to create this text in all its forms (online, PDF, and print).</p>
         <p>Also of incredible value, and without whom this text would not exist, is Jahrme Risner, who helped me wrap my head around the nitty gritty of <pretext/> and patiently coached me through entering commands in the terminal.</p>
         <p>I wish to thank my colleague, Gwynne Kuhner Brown, for co<ndash/>piloting the use of this text at the University of Puget Sound and for suggesting extremely helpful clarifications and corrections.</p>
         <p>Finally, I must thank my wife, Dawn Padula, Director of Vocal Studies at the University of Puget Sound and musician extraordinaire, for entertaining my endless questions about my choices for musical examples and the clarity of explanations and diagrams.</p>

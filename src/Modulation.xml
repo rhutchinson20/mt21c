@@ -14,7 +14,7 @@
         </figure>
         <figure>
             <caption>James Horner and Will Jennings, <q>My Heart Will Go On</q> (1997)</caption>
-            <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <booktitle>Titanic</booktitle>)</h></idx>
+            <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <pubtitle>Titanic</pubtitle>)</h></idx>
             <sidebyside margins="37%">
                 <video youtube="AjnJDBHmN18" start="193" end="213" play-at="select" preview="generic"/>
             </sidebyside>
@@ -31,8 +31,8 @@
         <title>Tonicization versus Modulation</title>
         <p>Studying modulation will require us to distinguish between <xref ref="Tonicization" text="title">tonicization</xref>, which we studied recently, and modulation. Tonicization, involving secondary chords, can be as short as two chords (<chord root="V" bass="V"/> to <chord root="V"/>, for example) but can sometimes encompass several measures as in the following example.</p>
         <figure>
-            <caption>Schubert, <booktitle>Schwanegesang</booktitle>, D. 957, <q>Abschied</q> (1828)</caption>
-            <idx><h>Schubert</h><h><booktitle>Schwanegesang</booktitle>, D. 957</h><h><q>Abschied</q></h></idx>
+            <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Abschied</q> (1828)</caption>
+            <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Abschied</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit5/mod-ton-vs-mod-abschied">
@@ -72,7 +72,7 @@
                 </row>
             </tabular>
         </table>
-        <p>In his book <booktitle>Form in Tonal Music</booktitle>, Douglass Green defines a <chord root="V"/><ndash/><chord root="I"/> authentic cadence with a pre<ndash/>dominant prefix as a <q>full cadence.</q></p>
+        <p>In his book <pubtitle>Form in Tonal Music</pubtitle>, Douglass Green defines a <chord root="V"/><ndash/><chord root="I"/> authentic cadence with a pre<ndash/>dominant prefix as a <q>full cadence.</q></p>
         <p>The cadential formula above is found in the following example.</p>
         <figure>
             <caption>J.S. Bach, English Suite No. 4 in F Major, BWV 809, Sarabande (ca. 1715)</caption>
@@ -90,7 +90,7 @@
         </figure>
         <p>Notice that this cadential formula establishes a key more strongly than the simple <chord root="V"/><ndash/><chord root="I"/> of an <xref ref="AuthenticCadence" text="title">authentic cadence</xref>. This means there will be ambiguity between a tonicization and a short modulation ending in an authentic cadence, especially in music with fast harmonic rhythm, like Bach chorales (usually in quarter<ndash/>note <xref ref="HarmonicRhythm" text="title">harmonic rhythm</xref>).</p>
         <figure>
-            <caption>J.S. Bach, <booktitle>Christmas Oratorio</booktitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
+            <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
             <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -122,7 +122,7 @@
     </section>
     <section xml:id="KeyRelationships">
         <title>Key Relationships</title>
-        <p>In the Baroque and Classical eras, composers typically modulated to the dominant (when starting in a major key) or to the relative minor (when starting in a minor key). In the Romantic era, composers experimented with modulating to more remote (or perhaps adventurous) key areas, described as <q>foreign</q> to the home key.</p>
+        <p>In the Baroque and Classical eras, composers typically modulated to the dominant (when starting in a major key) or to the relative major (when starting in a minor key). In the Romantic era, composers experimented with modulating to more remote (or perhaps adventurous) key areas, described as <q>foreign</q> to the home key.</p>
         <p><q><term>Closely related</term></q> keys<idx><h>closely related keys</h><h>definition of</h></idx> have key signatures one degree <q>sharper</q> or <q>flatter</q> than the starting key. For any major or minor key, there are five closely related keys, including the relative major or minor of the home key.</p>
         <figure>
             <caption>Closely Related Keys with A Major as Home Key</caption>
@@ -139,7 +139,7 @@
         <introduction><p>Modulations with pivot chords will be analyzed using a pivot bracket, as we've seen earlier in the chapter.</p>
         <p>In a <term>diatonic common chord modulation</term><idx><h>diatonic common chord modulation</h></idx><idx><h>modulation</h><h>diatonic common chord</h></idx>, the pivot chords will be diatonic in both keys.</p>
         <figure>
-            <caption>J.S. Bach, <booktitle>Christmas Oratorio</booktitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
+            <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
             <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -180,7 +180,7 @@
             <p>In terms of <xref ref="HarmonicFunction" text="title">harmonic function</xref>, composers typically do not use a pivot chord that has <xref ref="DominantFunction" text="title">dominant function</xref> in the new key because such a modulation might sound abrupt and unconvincing. Instead, the pivot chord in the first key often has tonic or <xref ref="TonicProlongationFunction" text="title">tonic prolongation function</xref>.</p>
             <p>In the following example, the pivot chord simultaneously has tonic function in the first key and pre<ndash/>dominant function in the second key. This creates a more seamless and less jarring progression to the second key.</p>
             <figure>
-                <caption>J.S. Bach, <booktitle>Christmas Oratorio</booktitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
+                <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
                 <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -264,8 +264,8 @@
             <title>Secondary Common Chord</title>
             <p>Below is an example where the pivot chord is a secondary chord in both keys.</p>
             <figure>
-                <caption>Schubert, <booktitle>Schwanegesang</booktitle>, D. 957, <q>Abschied</q> (1828)</caption>
-                <idx><h>Schubert</h><h><booktitle>Schwanegesang</booktitle>, D. 957</h><h><q>Abschied</q></h></idx>
+                <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Abschied</q> (1828)</caption>
+                <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Abschied</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit5/mod-sec-cc-abschied">
@@ -300,8 +300,8 @@
             <title>Neapolitan Common Chord</title>
             <p>A particularly adventurous and imaginative pivot is the Neapolitan, which can bridge the gap between two foreign (or distantly related) keys.</p>
             <figure>
-                <caption>Schubert, <booktitle>Schwanegesang</booktitle>, D. 957, <q>Fr&#x00FC;hlingssehnsucht</q> (1828)</caption>
-                <idx><h>Schubert</h><h><booktitle>Schwanegesang</booktitle>, D. 957</h><h><q>Fr&#x00FC;hlingssehnsucht</q></h></idx>
+                <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Fr&#x00FC;hlingssehnsucht</q> (1828)</caption>
+                <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Fr&#x00FC;hlingssehnsucht</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit5/mod-N6-cc-fruhlingssehnsucht">
@@ -327,48 +327,78 @@
 
 
     </section>
-    
     <exercises xml:id="ModulationPracticeExercises">
         <title>Practice Exercises</title>
-        <!--do Day One and Day Two
         <exercisegroup>
             <introduction>
                 <p>Day One</p>
             </introduction>
-        <exercise>
-            <statement>
-                <p>For each given key, list the five closely<ndash/>related keys.</p>
-                <sidebyside>
-                    <image source="images/unit5/PRAC-EXER-aug6-analyzing"/>
-                </sidebyside>
-            </statement>
-            <answer>
-                <sidebyside>
-                    <image source="images/unit5/PRAC-EXER-aug6-analyzing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
-            </answer>
-        </exercise>
-        <exercise>
-            <statement>
-                <p>For each progression, analyze the Roman numerals with lead<ndash/>sheet symbols and specify the second key.</p>
-                <sidebyside>
-                    <image source="images/unit5/PRAC-EXER-aug6-writing"/>
-                </sidebyside>
-            </statement>
-            <answer>
-                <sidebyside>
-                    <image source="images/unit5/PRAC-EXER-aug6-writing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
-            </answer>
-        </exercise>
-        </exercisegroup> -->
+            <exercise>
+                <statement>
+                    <p>For each given key, list the five closely<ndash/>related keys.</p>
+                    <ol>
+                        <li><p>d: <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/></p></li>
+                        <li><p>D<flat/>: <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/></p></li>
+                        <li><p>f: <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/></p></li>
+                    </ol>
+                </statement>
+                <answer>
+                    <ol>
+                        <li><p>d: F, g, A, B<flat/>, C</p></li>
+                        <li><p>D<flat/>: e<flat/>, f, G<flat/>, A<flat/>, b<flat/></p></li>
+                        <li><p>f: A<flat/>, b<flat/>, c, D<flat/>, E<flat/></p></li>
+                    </ol>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>For each progression, analyze the Roman numerals with lead<ndash/>sheet symbols and specify the second key.</p>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-find-pivot-key1"/>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-find-pivot-key2"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-find-pivot-key1-KEY">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-find-pivot-key2-KEY">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Two</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>Borrowed Chord Modulation. List the closely related keys to the starting major key, then specify the parallel minor key and its closely related keys.</p>
+                    <sidebyside margins="10%">
+                        <image source="images/unit5/PRAC-EXER-mod-par-minor-closely-related-keys">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-mod-par-minor-closely-related-keys-KEY">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
         <conclusion>
-            <p>Click <url href="../hw/MT21C_HW_25.pdf">here to download the first homework assignment for this chapter.</url></p><!--reveal the rest when they're ready
-            <p>Click <url href="../hw/MT21C_HW_26.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_25.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_26.pdf">here to download the second homework assignment for this chapter.</url></p><!--reveal the rest when they're ready
             <p>Click <url href="../hw/MT21C_HW_27.pdf">here to download the third homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_28.pdf">here to download the fourth homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_29.pdf">here to download the fifth homework assignment for this chapter.</url></p>

@@ -164,8 +164,8 @@
             <p>We will discuss extension and fragmentation of motives later in this chapter.</p> 
             <p><term>Diminution</term><idx><h>diminution</h></idx> is the opposite of augmentation and usually refers to the exact halving of the duration of every rhythmic value in a motive or phrase. However, diminution can also refer to the use of shorter rhythmic values, as in the following example.</p>
             <figure>
-                <caption>Diminution of the first four notes in <q>Uranus</q> from <booktitle>The Planets</booktitle> by Holst</caption>
-                <idx><h>Holst</h><h><booktitle>The Planets</booktitle>, <q>Uranus</q></h></idx>
+                <caption>Diminution of the first four notes in <q>Uranus</q> from <pubtitle>The Planets</pubtitle> by Holst</caption>
+                <idx><h>Holst</h><h><pubtitle>The Planets</pubtitle>, <q>Uranus</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/motive-diminution-uranus">
@@ -529,8 +529,8 @@
                         <li><p>Label non<ndash/>chord tones for notes in parentheses</p></li>
                     </ul>
                     <figure>
-                        <caption>Robert Schumann, <booktitle>Album for the Young</booktitle>, Op. 68, No. 16, <q>First Loss</q></caption>
-                        <idx><h>Schumann, Robert</h><h><booktitle>Album for the Young</booktitle>, Op. 68, No. 16, <q>First Loss</q></h></idx>
+                        <caption>Robert Schumann, <pubtitle>Album for the Young</pubtitle>, Op. 68, No. 16, <q>First Loss</q></caption>
+                        <idx><h>Schumann, Robert</h><h><pubtitle>Album for the Young</pubtitle>, Op. 68, No. 16, <q>First Loss</q></h></idx>
                         <sbsgroup>
                             <sidebyside>
                                 <image source="images/unit2/PRAC-EXER-phrase-subphrase-schumann">
@@ -549,8 +549,8 @@
                 <statement>
                     <p>Listen to the following example and determine the number of phrases. Analyze the chords with the lead<ndash/>sheet symbols above and Roman numerals below. Label the non<ndash/>chord tone type for notes in parentheses.</p>
                     <figure>
-                        <caption>Handel, <booktitle>Xerxes</booktitle>, <q>Ombra mai fu</q></caption>
-                        <idx><h>Handel</h><h><booktitle>Xerxes</booktitle>, <q>Ombra mai fu</q></h></idx>
+                        <caption>Handel, <pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></caption>
+                        <idx><h>Handel</h><h><pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></h></idx>
                         <sbsgroup>
                             <sidebyside>
                                 <image source="images/unit2/PRAC-EXER-phrase-handel-ombra-mai-fu">

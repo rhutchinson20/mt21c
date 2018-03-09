@@ -14,8 +14,8 @@
         </figure>
         <p>Below are some examples of pieces with secondary diminished chords. Notice that chromaticism is an <q>essential</q> part of secondary diminished chords (<q>non<ndash/>essential</q> chromaticism refers to chromatic non<ndash/>chord tones).</p>
         <figure>
-            <caption>J.S. Bach, <booktitle>Herz und Mund und Tat und Leben</booktitle> BWV 147, X. <q>Jesus bleibet Freude</q> (<q>Jesu, Joy of Man's Desiring</q>) (1723)</caption>
-            <idx><h>Bach, J.S.</h><h><booktitle>Herz und Mund und Tat und Leben</booktitle> BWV 147, X. <q>Jesus bleibet Freude</q> (<q>Jesu, Joy of Man's Desiring</q>)</h></idx>
+            <caption>J.S. Bach, <pubtitle>Herz und Mund und Tat und Leben</pubtitle> BWV 147, X. <q>Jesus bleibet Freude</q> (<q>Jesu, Joy of Man's Desiring</q>) (1723)</caption>
+            <idx><h>Bach, J.S.</h><h><pubtitle>Herz und Mund und Tat und Leben</pubtitle> BWV 147, X. <q>Jesus bleibet Freude</q> (<q>Jesu, Joy of Man's Desiring</q>)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/sec-dim-jesu">
@@ -28,7 +28,7 @@
             </sbsgroup>
         </figure>
         <figure>
-            <caption>Tchaikovsky, <booktitle>The Nutcracker</booktitle>, <q>Trepak</q> (1892)</caption>
+            <caption>Tchaikovsky, <pubtitle>The Nutcracker</pubtitle>, <q>Trepak</q> (1892)</caption>
             <idx><h>songs (popular)</h><h><q>I Want You to Want Me</q> (Cheap Trick)</h></idx>
             <sbsgroup>
                 <sidebyside>

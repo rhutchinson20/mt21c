@@ -24,8 +24,8 @@
     <section xml:id="ExamplesOfTheNeapolitanChord">
         <title>Examples of the Neapolitan Chord</title>
         <figure>
-            <caption>Beethoven, <booktitle>Moonlight Sonata</booktitle>, Op. 27, No. 2, I (1802)</caption>
-            <idx><h>Beethoven</h><h><booktitle>Moonlight Sonata</booktitle>, Op. 27, No. 2, I</h></idx>
+            <caption>Beethoven, <pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, I (1802)</caption>
+            <idx><h>Beethoven</h><h><pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, I</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/neapolitan-moonlight">
@@ -37,11 +37,11 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>For comparison, play the example above from the <booktitle>Moonlight Sonata</booktitle> and try other pre<ndash/>dominant chords in its place, like <chord root="iv"/> (<chord root="F sharp" mode="m"/>)  or <chord root="ii" mode="diminished" bps="6"/>  (<chord root="D sharp" mode="diminished" bass="F sharp"/>), while noting the difference in effect.</p>
+        <p>For comparison, play the example above from the <pubtitle>Moonlight Sonata</pubtitle> and try other pre<ndash/>dominant chords in its place, like <chord root="iv"/> (<chord root="F sharp" mode="m"/>)  or <chord root="ii" mode="diminished" bps="6"/>  (<chord root="D sharp" mode="diminished" bass="F sharp"/>), while noting the difference in effect.</p>
         <p>The next example is a well<ndash/>known movie theme.</p>
         <figure>
-            <caption>John Williams, <booktitle>Raiders of the Lost Ark</booktitle>, <q>Raiders March</q> (1981)</caption>
-            <idx><h>Williams, John</h><h><booktitle>Raiders of the Lost Ark</booktitle>, <q>Raiders March</q></h></idx>
+            <caption>John Williams, <pubtitle>Raiders of the Lost Ark</pubtitle>, <q>Raiders March</q> (1981)</caption>
+            <idx><h>Williams, John</h><h><pubtitle>Raiders of the Lost Ark</pubtitle>, <q>Raiders March</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/neapolitan-indiana-jones">
@@ -53,11 +53,11 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>As with the example from the <booktitle>Moonlight Sonata</booktitle>, try other pre<ndash/>dominant chords (like <chord root="IV"/>, <chord root="iv"/>, or <chord root="ii" mode="halfdiminished" bps="6 5"/>) in place of the Neapolitan chord in the example above, and notice the difference in effect.</p>
-        <p>The next example shows the harmonic progression from main theme of the recent <booktitle>Star Trek</booktitle> movies.</p>
+        <p>As with the example from the <pubtitle>Moonlight Sonata</pubtitle>, try other pre<ndash/>dominant chords (like <chord root="IV"/>, <chord root="iv"/>, or <chord root="ii" mode="halfdiminished" bps="6 5"/>) in place of the Neapolitan chord in the example above, and notice the difference in effect.</p>
+        <p>The next example shows the harmonic progression from main theme of the recent <pubtitle>Star Trek</pubtitle> movies.</p>
         <figure>
-            <caption>Michael Giacchino, <booktitle>Star Trek</booktitle>, <q>End Credits</q> (2009) (chords only)</caption>
-            <idx><h>Giacchino, Michael</h><h><booktitle>Star Trek</booktitle>, <q>End Credits</q></h></idx>
+            <caption>Michael Giacchino, <pubtitle>Star Trek</pubtitle>, <q>End Credits</q> (2009) (chords only)</caption>
+            <idx><h>Giacchino, Michael</h><h><pubtitle>Star Trek</pubtitle>, <q>End Credits</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/neapolitan-star-trek">
@@ -70,8 +70,8 @@
             </sbsgroup>
         </figure>
         <figure>
-            <caption>Hans Zimmer and Antonius Tom Holkenborg, <booktitle>Batman v Superman: Dawn of Justice</booktitle>, <q>The Red Capes are Coming</q> (2016) (chords only)</caption>
-            <idx><h>Zimmer, Hans and Antonius Tom Holkenborg</h><h><booktitle>Batman v Superman: Dawn of Justice</booktitle>, <q>The Red Capes are Coming</q></h></idx>
+            <caption>Hans Zimmer and Antonius Tom Holkenborg, <pubtitle>Batman v Superman: Dawn of Justice</pubtitle>, <q>The Red Capes are Coming</q> (2016) (chords only)</caption>
+            <idx><h>Zimmer, Hans and Antonius Tom Holkenborg</h><h><pubtitle>Batman v Superman: Dawn of Justice</pubtitle>, <q>The Red Capes are Coming</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/neapolitan-lex-luthor">

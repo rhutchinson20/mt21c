@@ -19,10 +19,10 @@
             </sbsgroup>
         </figure>
         <p>Notice the emotional effect of switching to the minor mode.</p>
-        <p>A famous example that progresses from the major <chord root="I"/> chord immediately to the minor <chord root="i"/> chord is Richard Strauss's <booktitle>Also Sprach Zarathustra</booktitle>.</p>
+        <p>A famous example that progresses from the major <chord root="I"/> chord immediately to the minor <chord root="i"/> chord is Richard Strauss's <pubtitle>Also Sprach Zarathustra</pubtitle>.</p>
         <figure>
-            <caption>Richard Strauss, <booktitle>Also Sprach Zarathustra</booktitle>, Op.30 (1896)</caption>
-            <idx><h>Strauss, Richard</h><h><booktitle>Also Sprach Zarathustra</booktitle>, Op.30</h></idx>
+            <caption>Richard Strauss, <pubtitle>Also Sprach Zarathustra</pubtitle>, Op.30 (1896)</caption>
+            <idx><h>Strauss, Richard</h><h><pubtitle>Also Sprach Zarathustra</pubtitle>, Op.30</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/mode-mix-also-sprach-1">
@@ -34,10 +34,10 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>Later during the opening of <booktitle>Also Sprach Zarathustra</booktitle>, another borrowed chord occurs.</p>
+        <p>Later during the opening of <pubtitle>Also Sprach Zarathustra</pubtitle>, another borrowed chord occurs.</p>
         <figure>
-            <caption>Richard Strauss, <booktitle>Also Sprach Zarathustra</booktitle>, Op.30 (1896)</caption>
-            <idx><h>Strauss, Richard</h><h><booktitle>Also Sprach Zarathustra</booktitle>, Op.30</h></idx>
+            <caption>Richard Strauss, <pubtitle>Also Sprach Zarathustra</pubtitle>, Op.30 (1896)</caption>
+            <idx><h>Strauss, Richard</h><h><pubtitle>Also Sprach Zarathustra</pubtitle>, Op.30</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/mode-mix-also-sprach-2">
@@ -74,14 +74,14 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="HSTmuN90sN8" start="13" end="20" play-at="select" preview="generic"/>
+                    <video youtube="Wu9hXpvExO0" start="13" end="20" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
         <p>This same bass line can be found (in the same harmonic rhythm) in <q>Part of Your World.</q></p>
         <figure>
-            <caption>Howard Ashman and Alan Menken, <booktitle>The Little Mermaid</booktitle>, <q>Part of Your World</q> (1989)</caption>
-            <idx><h>songs (popular)</h><h><q>Part of Your World</q> (from <booktitle>The Little Mermaid</booktitle>)</h></idx>
+            <caption>Howard Ashman and Alan Menken, <pubtitle>The Little Mermaid</pubtitle>, <q>Part of Your World</q> (1989)</caption>
+            <idx><h>songs (popular)</h><h><q>Part of Your World</q> (from <pubtitle>The Little Mermaid</pubtitle>)</h></idx>
             <sidebyside margins="37%">
                 <video youtube="SXKlJuO07eM" start="142" end="153" play-at="select" preview="generic"/>
             </sidebyside>   
@@ -119,8 +119,8 @@
         <p>In the example above for <q>Lithium,</q> the Roman numerals are analyzed as triads instead of <q>5</q> chords because the third of the chord is either implied or occurs in the voice part (not shown).</p>
         <p>In the next example from the third movement Brahms's Third Symphony, the <chord root="I"/> chord alternates twice with a borrowed chord. The movement began in C minor, so there are three flats in the key signature, but this section is in C major.</p>
         <figure>
-            <caption>Brahms, <booktitle>Symphony No. 3 in F major</booktitle>, Op. 90, III. Poco Allegretto (1883)</caption>
-            <idx><h>Brahms</h><h><booktitle>Symphony No. 3 in F major</booktitle>, Op. 90, III. Poco Allegretto</h></idx>
+            <caption>Brahms, <pubtitle>Symphony No. 3 in F major</pubtitle>, Op. 90, III. Poco Allegretto (1883)</caption>
+            <idx><h>Brahms</h><h><pubtitle>Symphony No. 3 in F major</pubtitle>, Op. 90, III. Poco Allegretto</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/mode-mix-brahms-3-iii">
@@ -132,10 +132,10 @@
                 </sidebyside>
             </sbsgroup>
         </figure><!--also princess leia theme-->
-        <p>A similar alternation between the <chord root="I"/> chord and a borrowed chord (<flat/><chord root="VII" bps="7"/>) happens in <q>Inchworm,</q> from the movie <booktitle>Hans Christian Andersen</booktitle>. Notice the special quality of the borrowed <flat/><scaledeg>6</scaledeg> in the upper melody.</p>
+        <p>A similar alternation between the <chord root="I"/> chord and a borrowed chord (<flat/><chord root="VII" bps="7"/>) happens in <q>Inchworm,</q> from the movie <pubtitle>Hans Christian Andersen</pubtitle>. Notice the special quality of the borrowed <flat/><scaledeg>6</scaledeg> in the upper melody.</p>
         <figure>
-            <caption>Frank Loesser, <booktitle>Hans Christian Andersen</booktitle>, <q>Inchworm</q> (1952)</caption>
-            <idx><h>Loesser, Frank</h><h><booktitle>Hans Christian Andersen</booktitle>, <q>Inchworm</q></h></idx>
+            <caption>Frank Loesser, <pubtitle>Hans Christian Andersen</pubtitle>, <q>Inchworm</q> (1952)</caption>
+            <idx><h>Loesser, Frank</h><h><pubtitle>Hans Christian Andersen</pubtitle>, <q>Inchworm</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/mode-mix-inchworm">
@@ -147,10 +147,10 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>A famous example of mode mixture occurs in the <q>Waltz of the Flowers</q> from Tchaikovsky's <booktitle>Nutcracker</booktitle>.</p>
+        <p>A famous example of mode mixture occurs in the <q>Waltz of the Flowers</q> from Tchaikovsky's <pubtitle>Nutcracker</pubtitle>.</p>
         <figure>
-            <caption>Tchaikovsky, <booktitle>Nutcracker</booktitle>, <q>Waltz of the Flowers</q> (1892)</caption>
-            <idx><h>Tchaikovsky</h><h><booktitle>The Nutcracker</booktitle></h><h><q>Waltz of the Flowers</q></h></idx>
+            <caption>Tchaikovsky, <pubtitle>Nutcracker</pubtitle>, <q>Waltz of the Flowers</q> (1892)</caption>
+            <idx><h>Tchaikovsky</h><h><pubtitle>The Nutcracker</pubtitle></h><h><q>Waltz of the Flowers</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/mode-mix-waltz-of-the-flowers">
@@ -266,7 +266,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>This same <chord root="V"/><ndash/><flat/><chord root="VI"/> deceptive cadence with <flat/><chord root="VI"/> progressing to <flat/><chord root="VII"/> followed by <chord root="I"/> occurs in epic fashion at the end of the animated film <booktitle>Beauty and the Beast</booktitle> from 1991.</p>
+        <p>This same <chord root="V"/><ndash/><flat/><chord root="VI"/> deceptive cadence with <flat/><chord root="VI"/> progressing to <flat/><chord root="VII"/> followed by <chord root="I"/> occurs in epic fashion at the end of the animated film <pubtitle>Beauty and the Beast</pubtitle> from 1991.</p>
     </section>
     <section xml:id="Picardy3rd">
         <title>The Picardy 3rd</title>

@@ -7,8 +7,8 @@
 		<p>We will consider <term>texture</term><idx><h>texture</h></idx> in terms of vertical and horizontal elements. The vertical nature of texture relates to the number of notes occurring simultaneously as harmonies. It could also relate to the number of voices or instruments performing melodies simultaneously in a contrapuntal texture. The horizontal element of texture relates to rhythmic activity: is the most common rhythmic value in a passage a slow or fast one?</p>
 		<p>To illustrate, here is a texture with chords (vertical elements) containing five voices with a melody (a sixth voice) above. Notice that the texture has slow rhythmic values on the horizontal plane.</p>
 		<figure>
-			<caption>Barber, <booktitle>Adagio for Strings</booktitle></caption>
-			<idx><h>Barber, Samuel</h><h><booktitle>Adagio for Strings</booktitle></h></idx>
+			<caption>Barber, <pubtitle>Adagio for Strings</pubtitle></caption>
+			<idx><h>Barber, Samuel</h><h><pubtitle>Adagio for Strings</pubtitle></h></idx>
 			<sbsgroup>
 				<sidebyside>
 					<image source="images/unit3/texture-barber-adagio">
@@ -56,8 +56,8 @@
 		</figure>
 		<p>In the following example by Schubert, the melody at times moves in a slightly different rhythm that the chords below.</p>
 		<figure>
-			<caption>Schubert, <booktitle>Winterreise</booktitle>, D.911, <q>Die Nebensonnen</q></caption>
-			<idx><h>Schubert</h><h><booktitle>Winterreise</booktitle>, D. 911</h><h><q>Die Nebensonnen</q></h></idx>
+			<caption>Schubert, <pubtitle>Winterreise</pubtitle>, D.911, <q>Die Nebensonnen</q></caption>
+			<idx><h>Schubert</h><h><pubtitle>Winterreise</pubtitle>, D. 911</h><h><q>Die Nebensonnen</q></h></idx>
 			<sbsgroup>
 				<sidebyside>
 					<image source="images/unit3/texture-chorale-nebensonnen">
@@ -90,10 +90,10 @@
 		<title>Arpeggiated Accompaniments</title>
 		<subsection xml:id="Arpeggios">
 			<title>Arpeggios</title>
-			<p>One way to express chords rhythmically is through arpeggios in one part and a bass line in octaves in a lower part, as in the following example from Beethoven’s <booktitle>Moonlight Sonata</booktitle>.</p>
+			<p>One way to express chords rhythmically is through arpeggios in one part and a bass line in octaves in a lower part, as in the following example from Beethoven’s <pubtitle>Moonlight Sonata</pubtitle>.</p>
 			<figure>
-				<caption>Beethoven, <booktitle>Moonlight Sonata</booktitle>, Op. 27, No. 2, I</caption>
-				<idx><h>Beethoven</h><h><booktitle>Moonlight Sonata</booktitle>, Op. 27, No. 2, I</h></idx>
+				<caption>Beethoven, <pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, I</caption>
+				<idx><h>Beethoven</h><h><pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, I</h></idx>
 				<sbsgroup>
 					<sidebyside>
 						<image source="images/unit3/texture-arpeggios-moonlight">
@@ -273,7 +273,7 @@
 					</sidebyside>
 				</sbsgroup>
 			</figure>
-			<p>The <q>1 (2) <ampersand/></q> rhythm is also found in <q>Don’t You (Forget About Me),</q> a song associated with the film <booktitle>The Breakfast Club</booktitle>.</p>
+			<p>The <q>1 (2) <ampersand/></q> rhythm is also found in <q>Don’t You (Forget About Me),</q> a song associated with the film <pubtitle>The Breakfast Club</pubtitle>.</p>
 			<figure>
 				<caption>Forsey and Schiff, <q>Don’t You (Forget About Me)</q></caption>
 				<idx><h>songs (popular)</h><h><q>Don’t You (Forget About Me)</q> (Simple Minds)</h></idx>
@@ -482,8 +482,8 @@
 				</sbsgroup>
 			</figure>
 			<figure>
-				<caption>Schubert, <booktitle>Winterreise</booktitle>, D. 911<q>Gute Nacht</q></caption>
-				<idx><h>Schubert</h><h><booktitle>Winterreise</booktitle>, D. 911</h><h><q>Gute Nacht</q></h></idx>
+				<caption>Schubert, <pubtitle>Winterreise</pubtitle>, D. 911<q>Gute Nacht</q></caption>
+				<idx><h>Schubert</h><h><pubtitle>Winterreise</pubtitle>, D. 911</h><h><q>Gute Nacht</q></h></idx>
 				<sbsgroup>
 					<sidebyside>
 						<image source="images/unit3/texture-8ths-gute-nacht">
@@ -496,8 +496,8 @@
 				</sbsgroup>
 			</figure>
 			<figure>
-				<caption>Robert Schumann, <booktitle>Dichterliebe</booktitle>, <q>Ich grolle nicht</q></caption>
-				<idx><h>Schumann, Robert</h><h><booktitle>Dichterliebe</booktitle>, Op. 48</h><h><q>Ich grolle nicht</q></h></idx>
+				<caption>Robert Schumann, <pubtitle>Dichterliebe</pubtitle>, <q>Ich grolle nicht</q></caption>
+				<idx><h>Schumann, Robert</h><h><pubtitle>Dichterliebe</pubtitle>, Op. 48</h><h><q>Ich grolle nicht</q></h></idx>
 				<sbsgroup>
 					<sidebyside>
 						<image source="images/unit3/texture-8ths-ich-grolle">
@@ -509,10 +509,10 @@
 					</sidebyside>
 				</sbsgroup>
 			</figure>
-			<p>The next example is from the musical <booktitle>Annie</booktitle>. Note the <q>1 (2) <ampersand/></q> rhythm in the bass line.</p>
+			<p>The next example is from the musical <pubtitle>Annie</pubtitle>. Note the <q>1 (2) <ampersand/></q> rhythm in the bass line.</p>
 			<figure>
-				<caption>Strouse and Charnin, <booktitle>Annie</booktitle>, <q>It's the Hard Knock Life</q></caption>
-				<idx><h>songs (popular)</h><h><q>It's the Hard Knock Life</q> (from <booktitle>Annie</booktitle>)</h></idx>
+				<caption>Strouse and Charnin, <pubtitle>Annie</pubtitle>, <q>It's the Hard Knock Life</q></caption>
+				<idx><h>songs (popular)</h><h><q>It's the Hard Knock Life</q> (from <pubtitle>Annie</pubtitle>)</h></idx>
 				<sbsgroup>
 					<sidebyside>
 						<image source="images/unit3/texture-8ths-hard-knock">
@@ -559,8 +559,8 @@
 			<title>Repeated Quarter<ndash/>note Chords</title>
 			<p>Repeated quarter<ndash/>note chords are a common accompanimental rhythm in <q>Classical</q> and popular music.</p>
 			<figure>
-				<caption>Handel, <booktitle>Xerxes</booktitle>, <q>Ombra mai fu</q></caption>
-				<idx><h>Handel</h><h><booktitle>Xerxes</booktitle>, <q>Ombra mai fu</q></h></idx>
+				<caption>Handel, <pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></caption>
+				<idx><h>Handel</h><h><pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></h></idx>
 				<sbsgroup>
 					<sidebyside>
 						<image source="images/unit3/texture-quarters-ombra">
@@ -665,7 +665,7 @@
 		<title>Afterbeats and Offbeats</title>
 		<subsection xml:id="Afterbeats">
 			<title>Afterbeats</title>
-			<p>The term <q>afterbeats</q> is from <booktitle>Fundamentals of Musical Composition</booktitle> by noted composer and pedagogue Arnold Schoenberg. <q><term>Afterbeats</term><idx><h>afterbeats</h></idx></q> are repeated chords (usually eighth notes, sometimes quarter notes) that occur after the downbeat.</p>
+			<p>The term <q>afterbeats</q> is from <pubtitle>Fundamentals of Musical Composition</pubtitle> by noted composer and pedagogue Arnold Schoenberg. <q><term>Afterbeats</term><idx><h>afterbeats</h></idx></q> are repeated chords (usually eighth notes, sometimes quarter notes) that occur after the downbeat.</p>
 			<figure>
 				<caption>Beethoven, Piano Sonata Op. 2. No. 1, IV</caption>
 				<idx><h>Beethoven</h><h>Piano Sonata Op. 2. No. 1, IV</h></idx>
@@ -703,7 +703,7 @@
 			</introduction>
 			<subsubsection xml:id="polka">
 				<title>Polka</title>
-				<p>The polka, which originated in Bohemia, has connotations with Germary and <booktitle>Oktoberfest</booktitle>. The polka in the United States is often associated with Frankie Yankovic, who was known as the <q>Polka King.</q></p>
+				<p>The polka, which originated in Bohemia, has connotations with Germary and <pubtitle>Oktoberfest</pubtitle>. The polka in the United States is often associated with Frankie Yankovic, who was known as the <q>Polka King.</q></p>
 				<figure>
 					<caption>Vejvoda, <q>Beer Barrel Polka</q></caption>
 					<idx><h>Vejvoda</h><h><q>Beer Barrel Polka</q></h></idx>
@@ -849,7 +849,7 @@
 				<caption>Ballard, <q>Back in the New York Groove</q></caption>
 				<idx><h>songs (popular)</h><h><q>Back in the New York Groove</q> (Ace Frehley)</h></idx>
 				<sidebyside margins="37%">
-					<video youtube="KH-xch-NoIo" start="0" end="20" play-at="select" preview="generic"/>
+					<video youtube="UfPYMFdpLUs" start="0" end="20" play-at="select" preview="generic"/>
 				</sidebyside>
 			</figure>
 			<figure>
@@ -931,7 +931,7 @@
 					<caption>Legend and Gad, <q>All of Me</q></caption>
 					<idx><h>songs (popular)</h><h><q>All of Me</q> (John Legend)</h></idx>
 					<sidebyside margins="37%">
-						<video youtube="pBNv7IUam-M" start="0" end="16" play-at="select" preview="generic"/>
+						<video youtube="450p7goxZqg" start="0" end="16" play-at="select" preview="generic"/>
 					</sidebyside>
 				</figure>
 				<figure>
@@ -986,10 +986,10 @@
 			</introduction>
 			<subsubsection xml:id="Habanera-and-Reggaeton">
 				<title>Habanera and Reggaeton</title>
-				<p>The reggaeton beat is built from a 3+3+2 rhythm. We will see a relationship between the reggaeton beat with the habanera. First, let us examine the famous <q>Habanera</q> bass line from the opera <booktitle>Carmen</booktitle>.</p>
+				<p>The reggaeton beat is built from a 3+3+2 rhythm. We will see a relationship between the reggaeton beat with the habanera. First, let us examine the famous <q>Habanera</q> bass line from the opera <pubtitle>Carmen</pubtitle>.</p>
 				<figure>
-					<caption>Bizet, <booktitle>Carmen</booktitle>, Habanera (<q>L'amour est un oiseau rebelle</q>)</caption>
-					<idx><h>Bizet</h><h><booktitle>Carmen</booktitle>, Habanera (<q>L'amour est un oiseau rebelle</q>)</h></idx>
+					<caption>Bizet, <pubtitle>Carmen</pubtitle>, Habanera (<q>L'amour est un oiseau rebelle</q>)</caption>
+					<idx><h>Bizet</h><h><pubtitle>Carmen</pubtitle>, Habanera (<q>L'amour est un oiseau rebelle</q>)</h></idx>
 					<sbsgroup>
 						<sidebyside>
 							<image source="images/unit3/texture-habanera">
