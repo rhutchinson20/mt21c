@@ -68,11 +68,10 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-
         <figure xml:id="wagner-meistersinger">
-            <caption>Wagner, Die Meistersinger, Act II, Scene 6 (1860s)</caption>
+            <caption>Wagner, <pubtitle>Die Meistersinger</pubtitle>, Act II, Scene 6 (1860s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Wagner)</h></idx>
-            <idx><h>Wagner, Richard</h><h>Die Meistersinger, Act II, Scene 6</h></idx>
+            <idx><h>Wagner, Richard</h><h><pubtitle>Die Meistersinger</pubtitle>, Act II, Scene 6</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/harmony-circle-wagner">
@@ -131,8 +130,8 @@
         </figure>
         <p>The circle of fifths progression has a feeling of inevitability about it because it consists of <term>harmonic sequences</term><idx><h>harmonic sequence</h></idx>. To understand harmonic sequence we will first look at melodic sequences, since the bass line is the <q>melody</q> in a harmonic sequence. Ask yourself what happens after this melodic idea:</p>
         <figure>
-            <caption>Beethoven, Symphony No. 5, I.</caption>
-            <idx><h>Beethoven</h><h>Symphony No. 5, I. (opening)</h></idx>
+            <caption>Beethoven, Symphony No. 5, Op. 67, I.</caption>
+            <idx><h>Beethoven</h><h>Symphony No. 5, Op. 67, I. (opening)</h></idx>
             <image source="images/unit2/harmony-melodic-sequence-beethoven">
                 <description>Opening of Beethoven's Fifth Symphony</description>
             </image>

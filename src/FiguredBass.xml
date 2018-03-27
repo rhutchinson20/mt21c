@@ -90,7 +90,7 @@
     </section>
     <section xml:id="TheCadentialSixFourChord">
         <title>The Cadential Six<ndash/>Four Chord</title>
-        <p>A common term in music theory<mdash/>the <q><term>cadential six<ndash/>four</term></q><idx><h>cadential six<ndash/>four</h></idx> (or cadential <chord bps="6 4"/>)<mdash/>is used to refer to the <chord root="I" bps="6 4"/> that regularly proceeds the <chord root="V"/> chord in cadences.</p>
+        <p>A common term in music theory<mdash/>the <q><term>cadential six<ndash/>four</term></q><idx><h>cadential six<ndash/>four (cadential <chord bps="6 4"/>)</h></idx> (or cadential <chord bps="6 4"/>)<mdash/>is used to refer to the <chord root="I" bps="6 4"/> that regularly proceeds the <chord root="V"/> chord in cadences.</p>
         <figure> 
             <caption>Mozart, Piano Sonata K. 331, I</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 331, I</h><h>period form</h></idx>
@@ -120,7 +120,7 @@
             </sbsgroup>
         </figure>
         <p>It is worth remembering that the cadential <chord bps="6 4"/> (or <chord root="I" bps="6 4"/>) has <xref ref="DominantFunction" text="title">dominant function</xref>, just like the <chord root="V"/> chord that usually follows it. Previously, we have called this chord <q><chord root="I" bass="5th"/>.</q></p>
-        <p>This chapter on figured bass is an appropriate time to introduce the term <q>cadential six<ndash/>four,</q> which will recur throughout this text.</p>
+        <p>This term <q>cadential six<ndash/>four,</q> which will recur throughout the rest of this text, now that figured bass has been introduced.</p>
     </section>
     <section xml:id="OtherOccurrencesofSixFourChords">
         <title>Other Occurrences of Six<ndash/>Four Chords</title>

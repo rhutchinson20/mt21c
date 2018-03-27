@@ -255,7 +255,7 @@
             <p>The following example, from the prelude to Act I of Richard Wagner's opera <pubtitle>Tristan und Isolde</pubtitle>, is arguably one of the most famous deceptive cadences in the history of music.</p>
             <figure>
                 <caption>Wagner, <pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</caption>
-                <idx><h>Wagner, Richard</h><h>Tristan und Isolde, Prelude to Act I</h></idx>
+                <idx><h>Wagner, Richard</h><h><pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/cadences-deceptive-cad-tristan">

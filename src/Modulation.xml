@@ -255,13 +255,11 @@
             </sbsgroup>
         </figure>
     </section>
-    
-
     <section xml:id="ModulationsWithChromaticPivotChords">
         <title>Modulations with Chromatic Pivot Chords</title>
         <introduction><p>You will sometimes encounter examples where the pivot chord is a chromatic chord in at least one (and sometimes both) of the keys involved in the modulation.</p></introduction>
         <subsection>
-            <title>Secondary Common Chord</title>
+            <title>Secondary Common Chord<idx><h>modulation</h><h>secondary common chord</h></idx></title>
             <p>Below is an example where the pivot chord is a secondary chord in both keys.</p>
             <figure>
                 <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Abschied</q> (1828)</caption>
@@ -280,6 +278,7 @@
         </subsection>
         <subsection>
             <title>Borrowed Common Chord</title>
+            <p>In modulation by <term>borrowed common chord</term><idx><h>modulation</h><h>borrowed common chord</h></idx> (or mode mixture), the pivot chord will be a borrowed chord in one of the keys involved in the modulation.</p>
             <p>In the following example, a borrowed chord, <chord root="i" bps="6"/> in D<flat/> minor, rewritten as a C<sharp/> minor chord, is reinterpreted as <chord root="vi" bps="6"/> in the second key, E major.</p><!--purple patch footnote?-->
             <figure>
                 <caption>Beethoven, Piano Sonata No. 31 in A<flat/> major, Op.110, I, (1821)</caption>
@@ -297,7 +296,7 @@
             </figure>
         </subsection>
         <subsection>
-            <title>Neapolitan Common Chord</title>
+            <title>Neapolitan Common Chord<idx><h>modulation</h><h>Neapolitan common chord</h></idx></title>
             <p>A particularly adventurous and imaginative pivot is the Neapolitan, which can bridge the gap between two foreign (or distantly related) keys.</p>
             <figure>
                 <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Fr&#x00FC;hlingssehnsucht</q> (1828)</caption>
@@ -322,10 +321,245 @@
     </section>
     <section xml:id="ModulationsWithoutPivotChords">
         <title>Modulations Without Pivot Chords</title>
-        <p></p>
-        
-
-
+        <introduction>
+            <p>This section contains the following subsections below:</p>
+            <ul>
+                <li><p><xref ref="DirectModulation" text="title">Direct Modulation</xref></p></li>
+                <li><p><xref ref="CommonToneModulation" text="title">Common<ndash/>Tone Modulation</xref></p></li>
+                <li><p><xref ref="SequentialModulation" text="title">Sequential Modulation</xref></p></li>
+            </ul>
+        </introduction>
+        <subsection xml:id="DirectModulation">
+            <title>Direct Modulation</title>
+            <introduction><p><term>Direct modulation</term><idx><h>direct modulation</h></idx><idx><h>modulation</h><h>direct</h></idx> (also known as phrase modulation) is a type of modulation where a composer decides to move suddenly to a new key without using pivot chords or preparing the new tonic with its dominant.</p></introduction>
+            <figure>
+                <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Liebesbotschaft</q> (1828)</caption>
+                <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Liebesbotschaft</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-direct-schwanegesang-no-2-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/mod-direct-schwanegesang-no-2-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="uTWQRjGkprQ" start="33" end="45" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the example below from the second song of the same song cycle as the example above, Schubert does not attempt to change gradually from C minor to A<flat/> major, but instead stops on a half cadence in C minor and begins on the tonic in A<flat/> major in the next bar.</p>
+            <figure>
+                <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Kriegers Ahnung</q> (1828)</caption>
+                <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Kriegers Ahnung</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-direct-schwanegesang-no-2b">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="mLTyrvgKDUo" start="108" end="130" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>Direct modulation is the most common type of <q>modulation</q> found in popular music. At the beginning of this chapter we defined this type of modulation in popular music as <q>key change.</q></p>
+            <figure>
+                <caption>James Horner and Will Jennings, <q>My Heart Will Go On</q> (1997)</caption>
+                <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <pubtitle>Titanic</pubtitle>)</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-direct-titanic">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="AjnJDBHmN18" start="193" end="208" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>With direct modulation, composers do not make any attempt to connect two different keys through any pivot chords or common tones. In the next section, we examine how composers connect two keys through a common tone.</p>
+        </subsection>
+        <subsection xml:id="CommonToneModulation">
+            <title>Common<ndash/>Tone Modulation</title>
+            <introduction><p>In <term>common<ndash/>tone modulation</term><idx><h>common<ndash/>tone modulation</h></idx><idx><h>modulation</h><h>common<ndash/>tone</h></idx>, two chords are connected through a single note to bridge to distance between two keys.</p>
+            <p>In the following example, the note C<sharp/> acts as a hinge between a C<sharp/> major chord (<chord root="V"/> in F<sharp/> minor) and an A dominant seventh chord (<chord root="V" bps="7"/> in D major).</p></introduction>
+            <figure>
+                <caption>Beethoven, Symphony No. 2 in D major, Op. 36, I. (1801<ndash/>1802)</caption>
+                <idx><h>Beethoven</h><h>Symphony No. 2, Op. 36, I.</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-CT-beeth-2-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/mod-CT-beeth-2-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/mod-CT-beeth-2-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="vF2Kl6tIvRw" start="566" end="582" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <conclusion><p>In the next example, the note A acts as a hinge between an A major chord (<chord root="V"/> in D minor) and an F major chord (<chord root="I"/> in F major).</p></conclusion>
+            <figure xml:id="D898">
+                <caption>Schubert, Piano Trio No. 1 in B<ndash/>flat major, D. 898, I. (1828)</caption>
+                <idx><h>Schubert</h><h>Piano Trio No. 1 in B<ndash/>flat major, D. 898, I.</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-CT-schubert-898-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/mod-CT-schubert-898-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="RJMgVYsFrOI" start="107" end="123" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <subsubsection xml:id="ChromaticMediants">
+                <title>Chromatic Mediants</title>
+                <introduction><p>In a common<ndash/>tone modulation, the two chords connecting the two keys are typically in a chromatic mediant relationship. <term>Chromatic mediants</term><idx><h>chromatic mediants</h></idx> are chords with roots a third apart that share only one common tone and have the same quality (both are major or both are minor).</p></introduction>
+                <figure>
+                    <caption>Chromatic mediant relationship in <xref ref="D898" text="type-global"/></caption>
+                    <sidebyside margins="15%">
+                        <image source="images/unit5/mod-CT-chrom-med-from-898">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </figure>
+                <p>Any major or minor triad will have four chromatic mediants, as shown in the example below.</p>
+                <figure xml:id="chromatic-mediants">
+                    <caption>Chromatic mediants of the C major and C minor triads</caption>
+                    <sidebyside>
+                        <image source="images/unit5/mod-CT-chrom-med-all-mediants-of-c">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </figure>
+                <p>Below are examples chromatic mediants that do not involve modulation. In fact, the progression in the following three examples are found in the last bar of <xref ref="chromatic-mediants" text="type-global"/>, the progression from Cm to A<flat/>m, or <chord root="i"/> to <flat/><chord root="vi"/>.</p>
+                <figure>
+                    <caption>Richard Wagner, <pubtitle>Das Rheingold</pubtitle>, Scene 3 (1854)</caption>
+                    <idx><h>Wagner, Richard</h><h><pubtitle>Das Rheingold</pubtitle>, Scene 3</h></idx>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit5/mod-CT-chrom-med-tarnhelm">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="GXmaz-mj6Q8" start="2766" end="2781" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
+                </figure>
+                <figure>
+                    <caption>John Williams, <pubtitle>Star Wars: Return of the Jedi</pubtitle>, <q>Main Title (The Story Continues)</q> (1983)</caption>
+                    <idx><h>Williams, John</h><h><pubtitle>Star Wars: Return of the Jedi</pubtitle>, <q>Main Title (The Story Continues)</q></h></idx>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit5/mod-CT-chrom-med-vader">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="BDsgxSzAIDQ" start="231" end="239" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
+                </figure>
+                <figure>
+                    <caption>John Williams, <pubtitle>Harry Potter and the Sorceror's Stone</pubtitle>, <q>The Face of Voldemort</q> (2001)</caption>
+                    <idx><h>Williams, John</h><h><pubtitle>Harry Potter and the Sorceror's Stone</pubtitle>, <q>The Face of Voldemort</q></h></idx>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit5/mod-CT-chrom-med-voldemort">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="ydlzNv40yZM" start="238" end="245" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
+                </figure>
+            </subsubsection>
+        </subsection>
+        <subsection xml:id="SequentialModulation">
+            <title>Sequential Modulation</title>
+            <introduction><p>Modulation can also be accomplished by sequence. In a <term>sequential modulation</term><idx><h>sequential modulation</h></idx><idx><h>modulation</h><h>sequential</h></idx>, a melody and its accompanying harmonies are repeated at a new pitch level to establish or lead to a new key. In the following example, the sequence of the original idea occurs in the new key.</p></introduction>
+            <figure>
+                <caption>Beethoven, Piano Sonata Op. 2, No. 1, III. (1795)</caption>
+                <idx><h>Beethoven</h><h>Piano Sonata Op. 2, No. 1, III.</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-sequential-beethoven-op2-no1">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="3QXoome15Eg" start="0" end="8" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the following example, an idea in C major is repeated up a step in D major, then up another step in E minor before reaching an F<sharp/><chord mode="diminished"/> chord, a chord with dominant function in G major.</p>
+            <figure>
+                <caption>Mozart, Oboe Concerto in C major, K. 314, III. (1777)</caption>
+                <idx><h>Mozart, W.A.</h><h>Oboe Concerto in C major, K. 314, III.</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-seq-K314-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/mod-seq-K314-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/mod-seq-K314-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="jD9_dShQbN8" start="81" end="92" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the next example, after a cadence in G minor, an idea in F minor is repeated down a whole step in E<flat/> minor to achieve the change of key to E<flat/> major, which is the starting key of this aria, as can be seen in the key signature.</p>
+            <figure>
+                <caption>Mozart, <pubtitle>Don Giovanni</pubtitle>, K. 527, <q>Mi tradi quell'alma ingrata</q> (1787)</caption>
+                <idx><h>Mozart, W.A.</h><h><pubtitle>Don Giovanni</pubtitle>, K. 527, <q>Mi tradi quell'alma ingrata</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit5/mod-seq-mi-tradi-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/mod-seq-mi-tradi-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="VEmnmVXEqqM" start="274" end="285" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>While this is by no means an exhaustive list of modulatory techniques, it should give you a sense of some of the different means composers use to change keys.</p>
+        </subsection>
     </section>
     <exercises xml:id="ModulationPracticeExercises">
         <title>Practice Exercises</title>
@@ -395,14 +629,111 @@
                     </sidebyside>
                 </answer>
             </exercise>
+            <exercise>
+                <statement>
+                    <p>For each progression, analyze the Roman numerals with lead<ndash/>sheet symbols and specify the second key.</p>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-mod-progs-w-chrom-pivots"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-mod-progs-w-chrom-pivots-KEY">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Three</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>Determining Diatonic Common Chords. For each of the two keys in each example, list the diatonic chords as lead<ndash/>sheet symbols and as Roman numerals then circle those diatonic to both keys</p>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-mod-finding-dia-common-chords"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-mod-finding-dia-common-chords-KEY">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>Referring to the <xref ref="HarmonicFlowchart" text="title">Harmonic Flowchart</xref>, fill in lead<ndash/>sheet symbols, Roman numerals, and <xref ref="HarmonicFunction" text="title">Harmonic Functions</xref> for the following example<mdash/>be sure to put some of the chords in first inversion for variety; create a melody by adding embellishments (<xref ref="NonChordTonesIntroduction" text="title">non<ndash/>chord tones</xref>) and try to create repeating <xref ref="MotiveSection" text="title">motives</xref> and/or <xref ref="subphrase" text="title">subphrases</xref>; LSS stands for lead<ndash/>sheet symbols, RN stands for Roman numerals, and HF stands for Harmonic Function</p>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-mod-compose-mod-e-to-b-v2"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit5/PRAC-EXER-mod-compose-mod-e-to-b-v2-KEY">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Four</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>List the four chromatic mediants for each chord.</p>
+                    <ol>
+                        <li><p>Fm: <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/></p></li>
+                        <li><p>D<flat/>: <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/></p></li>
+                        <li><p>G: <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/></p></li>
+                        <li><p>G<sharp/>m: <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/></p></li>
+                    </ol>
+                </statement>
+                <answer>
+                    <ol>
+                        <li><p>Fm: Am, A<flat/>m, Dm, D<flat/>m</p></li>
+                        <li><p>D<flat/>: F<flat/>, F, B<flat/>, B<doubleflat/> (or A, enharmonically)</p></li>
+                        <li><p>G: B<flat/>, B, E, E<flat/></p></li>
+                        <li><p>G<sharp/>m: Bm, B<sharp/>m, Em, E<sharp/>m</p></li>
+                    </ol>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Five</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>Analyze lead<ndash/>sheet symbols, motives (with numbers, noting melodic alteration when it occurs), non<ndash/>chord tones, Roman numerals, and harmonic function.</p>
+                    <sidebyside>
+                        <image source="images/unit5/HW-mod-compose-based-on-GKB"/>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/HW-mod-compose-based-on-GKB-2"/>
+                    </sidebyside>
+                    <p>Compose an eight<ndash/>measure example using the motivic structure and harmonic function in the example above. Create a new melody with new motives but the same sequence of motives. You may use a different time signature, mode, and accompanimental texture.</p>
+                    <sidebyside>
+                        <image source="images/unit5/HW-mod-compose-based-on-GKB-blank1"/>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit5/HW-mod-compose-based-on-GKB-blank2"/>
+                    </sidebyside>
+                </statement>
+            </exercise>
         </exercisegroup>
         <conclusion>
             <p>Click <url href="../hw/MT21C_HW_25.pdf">here to download the first homework assignment for this chapter.</url></p>
-            <p>Click <url href="../hw/MT21C_HW_26.pdf">here to download the second homework assignment for this chapter.</url></p><!--reveal the rest when they're ready
+            <p>Click <url href="../hw/MT21C_HW_26.pdf">here to download the second homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_27.pdf">here to download the third homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_28.pdf">here to download the fourth homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_29.pdf">here to download the fifth homework assignment for this chapter.</url></p>
-            <p>Click <url href="../hw/MT21C_Unit_5_Practice_Test.pdf">here to download the Unit 5 Practice Test.</url></p> -->          
+            <p>Click <url href="../hw/MT21C_Unit_5_Practice_Test.pdf">here to download the Unit 5 Practice Test.</url></p>         
         </conclusion>
     </exercises>
 </chapter>
