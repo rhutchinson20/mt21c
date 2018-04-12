@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="EnharmonicModulation">
+    <title>Enharmonic Modulation</title>
+    <section xml:id="EnharmonicModulationIntroduction">
+        <title>Enharmonic Modulation</title>
+        <p>In an <term>enharmonic modulation</term><idx><h>enharmonic modulation</h></idx><idx><h>modulation</h><h>enharmonic pivot chord</h></idx>, the pivot chord is almost always misspelled in one of the keys and therefore must be reconceptualized enharmonically by the analyst. In this regard, an enharmonic modulation is a harmonic pun.</p>
+        <p>Here is a pun from Shakespeare’s <pubtitle>Richard III</pubtitle>, Act 1, Scene 1:</p>
+        <poem>
+            <stanza>
+                <line>Now is the winter of our discontent</line>
+                <line>Made glorious summer by this sun of York</line>
+            </stanza>
+        </poem>
+        <p>The <q>sun</q> of York is the <em>son</em> of York, King Edward IV.</p>
+        <p>Here is a simple enharmonic modulation:</p>
+        <figure>
+            <caption>Enharmonic Modulation from C major to B minor</caption>
+            <sidebyside>
+                <image source="images/unit6/enh-mod-first-enh-mod-ex">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Like a verbal pun, this harmonic pun is effective because the third chord (<chord root="G" bps="7"/>) has two <q>meanings</q><mdash/>in the context of C major, <chord root="G" bps="7"/> is <chord root="V" bps="7"/> and the root wants to cadence down a fifth to C, but the <chord root="G" bps="7"/> is a <chord root="Ger" bps="+6"/> in the context of B minor, where the root of the <chord root="G" bps="7"/> wants to progress down a half step to a chord of dominant function, <chord root="i" bps="6 4"/> in the example above.</p>
+        <figure>
+            <caption/>
+            <sidebyside margins="15%">
+                <image source="images/unit6/enh-mod-G7-as-Ger-aug-six">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Notice that the <chord root="G" bps="7"/> can only be spelled correctly in one of the keys—either as a dominant seventh chord on G (G<ndash/>B<ndash/>D<ndash/>F) or as a <chord root="Ger" bps="+6"/> on G (G<ndash/>B<ndash/>D<ndash/>E<sharp/>), hence the term <q>enharmonic modulation.</q> The analyst must envision the other spelling (the one not shown) to understand the double context, in the same way <q>sun of York</q> must be envisioned as <q>son of York.</q></p>
+        <p>We will encounter two sonorities used in enharmonic modulations: the dominant seventh sonority and the diminished seventh sonority.</p>
+    </section>
+    <section xml:id="TheV7andGer6asPivotChords">
+        <title>The V7 and Ger+6 as Pivot Chords</title>
+        <p>In this first type of enharmonic modulation, the pivot to the new key will consist of the <chord root="V" bps="7"/> being enharmonically reinterpreted as a <chord root="Ger" bps="+6"/>, or the <chord root="Ger" bps="+6"/> being enharmonically reinterpreted as <chord root="V" bps="7"/>. Secondary dominants, like <chord root="V" bps="7" bass="IV"/>, <chord root="V" bps="7" bass="V"/>, etc., will also be reinterpreted harmonically as <chord root="Ger" bps="+6"/> chords (and vice versa) in enharmonic modulations.</p>
+        <p>As we saw in the previous section, the dominant seventh chord and the <chord root="Ger" bps="+6"/> chord have the same sound but are spelled differently. This involves a fairly straightforward enharmonic respelling. Most commonly, the top note of the chord is enharmonically respelled to envision the enharmonic alternative.</p>
+        <figure>
+            <caption/>
+            <sidebyside margins="15%">
+                <image source="images/unit6/enh-mod-V7-respell-top-note">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Each chord above implies a key based on its spelling: the dominant seventh chord occurs diatonically only on the <scaledeg>5</scaledeg> scale degree in major, while the <chord root="Ger" bps="+6"/> chord most commonly occurs with the lowest note on the lowered <scaledeg>6</scaledeg> scale degree.</p>
+        <p>Less commonly, the bottom three notes could be respelled and the uppermost note could be retained as a common tone.</p>
+        <figure>
+            <caption/>
+            <sidebyside margins="15%">
+                <image source="images/unit6/enh-mod-V7-respell-bottom-three-notes">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Remember, you will not see this respelling in the music you are analyzing. You must be able to visualize the enharmonic respelling in order to analyze the enharmonic modulation correctly.</p>
+        <p>The examples below illustrate some of the ways this enharmonic modulation occurs in pieces from the literature</p>
+        <p>In the first example from Tchaikovsky’s <pubtitle>Nutcracker</pubtitle> ballet, a <chord root="D" bps="7"/> is spelled on the staff as D<ndash/>F<sharp/><ndash/>A<ndash/>B<sharp/> so that it sounds like a <chord root="V" bps="7" bass="IV"/> in D major but is spelled and resolves as a <chord root="Ger" bps="+6"/> in the key of F<sharp/> minor.</p>
+        <figure>
+                <caption>Tchaikovsky, <pubtitle>The Nutcracker</pubtitle><q>Waltz of the Flowers</q> (1892)</caption>
+                <idx><h>Tchaikovsky</h><h><pubtitle>The Nutcracker</pubtitle></h><h><q>Waltz of the Flowers</q></h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-waltz-of-flowers-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-waltz-of-flowers-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-waltz-of-flowers-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="Kw0wLLVEMaA" start="83" end="95" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the following example from the second movement of Beethoven’s Fifth Symphony, the same pivot chords are used as in the example above<mdash/><chord root="V" bps="7" bass="IV"/> in A<flat/> major is enharmonically respelled and resolves as a <chord root="Ger" bps="+6"/> in C major.</p>
+            <figure>
+                <caption>Beethoven, Symphony No. 5, Op. 67, II (1808)</caption>
+                <idx><h>Beethoven</h><h>Symphony No. 5, Op. 67, II</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-beeth-5th-ii-Ab-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-beeth-5th-ii-Ab-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="NqA2iIjhFc0" start="53" end="69" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the following example from <pubtitle>Les Miserables</pubtitle>, a <chord root="Ger" bps="+6"/> in E minor is spelled as a <chord root="V" bps="7"/> chord in F major and resolves to the I chord F major.</p>
+            <figure>
+                <caption>Music by Claude<ndash/>Michel Sch&#x00F6;nberg, lyrics by Alain Boublil, Herbert Kretzmer, John Caird, Trevor Nunn, and Jean-Marc Natel, <pubtitle>Les Miserables</pubtitle>, <q>On My Own</q> (1980)</caption>
+                <idx><h>Beethoven</h><h>Symphony No. 5, Op. 67, II</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-les-mis-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-les-mis-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="I3YMjIgzWCA" start="151" end="169" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the next section we will examine how the fully diminished seventh chord can be enharmonically reinterpreted.</p>
+    </section>
+    <section xml:id="TheFullyDiminishedSeventhAsPivotChord">
+        <title>The Fully Diminished Seventh as Pivot Chord</title>
+        <p>Each diminished seventh sonority implies <em>four</em> different keys. Play and sing through the example below.</p>
+        <figure>
+            <caption>The Four Resolutions of a Diminished Seventh Sonority</caption>
+            <sidebyside>
+                <image source="images/unit6/enh-mod-viio7-respelled-three-ways">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>In the example above, each note of the <chord root="vii" mode="diminished" bps="7"/> chord was treated in turn as the <scaledeg>7</scaledeg> scale degree and resolved up by half step. In the example below, each note of the chord is resolved as if it were the 7th of the chord, moving down by half step to create a dominant seventh chord.</p>
+        <figure>
+            <caption>Resolutions of a Diminished Seventh Sonority to a Dominant Seventh Sonority</caption>
+            <sidebyside>
+                <image source="images/unit6/enh-mod-viio7-7th-resolves-down">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>This means that for any diminished seventh chord, you should be able to imagine the other three respellings in the same way you can imagine other spellings of words like  <em>two</em> (i.e., <em>to</em> and <em>too</em>) or <em>there</em> (<em>their</em> and <em>they’re</em>).</p>
+        <p>In the following examples, a <chord root="vii" mode="diminished" bps="7"/> chord is enharmonically reinterpreted in a new key.</p>
+        <p>In the first example, Beethoven enharmonically reinterprets <chord root="F sharp" mode="diminished" bps="7" bass="C"/> in G minor (<chord root="vii" mode="diminished" bps="4 3"/>) as <chord root="vii" mode="diminished" bps="4 2"/> in E minor (<chord root="D sharp" mode="diminished" bps="7" bass="C"/>), which resolves to a <chord root="V" bps="7"/> chord in E minor.</p>
+        <figure>
+                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, I (1798)</caption>
+                <idx><h>Beethoven</h><h>Path&#x00E9;tique Sonata, Op. 13, I</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-beeth-path-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-beeth-path-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="t55m6SEW8Yk" start="283" end="324" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the next example from the second movement of Beethoven’s Fifth Symphony, Beethoven modulates from C major to A<flat/> major by enharmonically reinterpreting an <chord root="E" mode="diminished" bps="7"/> chord in C (<chord root="vii" mode="diminished" bps="7" bass="IV"/>) as <chord root="vii" mode="diminished" bps="4 2"/> in A<flat/> (<chord root="G" mode="diminished" bps="7" bass="F flat"/>). Notice the unusual resolution of the <chord root="vii" mode="diminished" bps="4 2"/> chord to a <chord root="Ger" bps="+6"/> chord by leading all three of the upper voices of the <chord root="vii" mode="diminished" bps="4 2"/> up by half step to the <chord root="Ger" bps="+6"/>, which itself is unusually spelled in the key of A<flat/> major (E<ndash/>A<flat/><ndash/>C<flat/><ndash/>D instead of F<flat/><ndash/>A<flat/><ndash/>C<flat/><ndash/>D).</p>
+            <figure><!--add more explanation and additional single-staff examples for these examples-->
+                <caption>Beethoven, Symphony No. 5, Op. 67, II (1808)</caption>
+                <idx><h>Beethoven</h><h>Symphony No. 5, Op. 67, II</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-beeth-5th-ii-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit6/enh-mod-beeth-5th-ii-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="NqA2iIjhFc0" start="79" end="113" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>In the final example of this section, Schubert reinterprets a <chord root="G sharp" mode="diminished" bps="7"/> in G minor as an <chord root="E sharp" mode="diminished" bps="7"/> chord in B minor (<chord root="vii" mode="diminished" bps="6 5" bass="V"/>). The <chord root="G sharp" mode="diminished" bps="7"/> chord in G minor is analyzed as <chord root="vii" mode="diminished" bps="4 2" bass="iv"/>, meaning it could resolve to a C minor chord, but it could also have been interpreted as <chord root="vii" mode="diminished" bps="4 3" bass="VI"/>, or as tonicizing an E<flat/> major chord. Because the chord never resolves in G minor, one cannot be certain of the intended resolution. Remember that diminished triads are not tonicized, so the <chord root="G sharp" mode="diminished" bps="7"/> would not be considered as tonicizing the note A (the root of the <chord root="ii" mode="diminished"/> chord) or F<sharp/> (the root of the <chord root="vii" mode="diminished"/> chord).</p>
+            <figure>
+            <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Der Atlas</q> (1828)</caption>
+            <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Der Atlas</q></h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit6/enh-mod-Schubert-schwanegesang-8A">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside>
+                    <image source="images/unit6/enh-mod-Schubert-schwanegesang-8B">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="7g0aF7wyr4E" start="28" end="45" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+    </section>
+    <exercises xml:id="EnharmonicModulationPracticeExercises">
+        <title>Practice Exercises</title>
+        <exercisegroup>
+            <introduction>
+                <p>Day One</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>Notate the specified chord, resolve it, then notate and resolve the enharmonic respelling(s).</p>
+                    <sidebyside margins="15%">
+                        <image source="images/unit6/PRAC-EXER-enh-mod-respell-g-Ger"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside margins="15%">
+                        <image source="images/unit6/PRAC-EXER-enh-mod-respell-g-Ger-KEY"/>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>For the following Roman numeral progressions, label the chords with lead<ndash/>sheet symbols, specify the new key, and notate all of the chords in the appropriate inversion on the staff below. The enharmonic pivot chord can be spelled correctly in only one of the two keys.</p>
+                    <sidebyside>
+                        <image source="images/unit6/PRAC-EXER-enh-mod-analyze-RN-1"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit6/PRAC-EXER-enh-mod-analyze-RN-1-KEY"/>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>Analyze with lead<ndash/>sheet symbols and Roman numerals and label the enharmonic pivot chords in the examples below.</p>
+                    <sidebyside>
+                        <image source="images/unit6/PRAC-EXER-enh-mod-analyze-simple-enh-mod-1"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit6/PRAC-EXER-enh-mod-analyze-simple-enh-mod-1-KEY"/>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Two</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>Notate the specified chord, resolve it, then notate and resolve the enharmonic respelling(s).</p>
+                    <sidebyside margins="15%">
+                        <image source="images/unit6/PRAC-EXER-enh-mod-respell-Eb-vii"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside margins="15%">
+                        <image source="images/unit6/PRAC-EXER-enh-mod-respell-Eb-vii-KEY"/>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>Analyze with lead<ndash/>sheet symbols and Roman numerals and label the enharmonic pivot chords in the examples below.</p>
+                    <sidebyside>
+                        <image source="images/unit6/PRAC-EXER-enh-mod-analyze-simple-dim-enh-mod-1"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit6/PRAC-EXER-enh-mod-analyze-simple-dim-enh-mod-1-KEY"/>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_30.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_31.pdf">here to download the second homework assignment for this chapter.</url></p> <!--
+            <p>Click <url href="../hw/MT21C_Unit_5_Practice_Test.pdf">here to download the Unit 5 Practice Test.</url></p>  -->       
+        </conclusion>
+    </exercises>
+</chapter>
