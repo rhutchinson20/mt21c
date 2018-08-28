@@ -62,7 +62,7 @@
         <p>In treble clef, middle <n pc="C"/> is notated on the ledger line below the staff. In bass clef, middle <n pc="C"/> is notated on the ledger line above the staff.</p>
         <figure>
             <caption>Middle C (C4) in treble clef and bass clef</caption>
-            <sidebyside widths="29% 29%" margins="14%">
+            <sidebyside widths="27% 27%" margins="14%">
                 <image source="images/unit1/treble-clef-middle-c"/>
                 <image source="images/unit1/bass-clef-middle-c"/>
             </sidebyside>
@@ -93,20 +93,26 @@
                 <li><p>The <term>natural</term><idx><h>natural</h></idx> symbol<mdash/><natural/><mdash/>cancels out any other accidentals that may have occurred earlier in a measure or in <xref ref="MajorKeySignatures" text="title"/> or <xref ref="MinorKeySignatures" text="title"/>.</p></li>
             </ul>
         </p>
-        <sidebyside>
-            <image source="images/unit1/accidentals-demo-on-staff">
-                <description>Example showing G-flat, G-natural, and G-sharp on the staff and on the piano</description>
-            </image>
-        </sidebyside>
+        <figure>
+            <caption/>
+            <sidebyside margins="20%">
+                <image source="images/unit1/accidentals-demo-on-staff">
+                    <description>Example showing G-flat, G-natural, and G-sharp on the staff and on the piano</description>
+                </image>
+            </sidebyside>
+        </figure>
     </section>
     <section xml:id="EnharmonicNotes">
         <title>Enharmonic Notes</title>
         <p>Observe that <n pc="C" acc="sharp"/> and <n pc="D" acc="flat"/> are the same note on the piano but are written as different notes on the staff.</p>
-        <sidebyside>
-            <image source="images/unit1/enharmonic-C-sharp-and-D-flat">
-                <description>Example showing D-flat and C-sharp on the staff and on the piano</description>
-            </image>
-        </sidebyside>
+        <figure>
+            <caption/>
+            <sidebyside margins="20%">
+                <image source="images/unit1/enharmonic-C-sharp-and-D-flat">
+                    <description>Example showing D-flat and C-sharp on the staff and on the piano</description>
+                </image>
+            </sidebyside>
+        </figure>
         <p>This occurs with all the black keys on the piano (<n pc="C" acc="sharp"/>=<n pc="D" acc="flat"/>, <n pc="D" acc="sharp"/>=<n pc="E" acc="flat"/>, <n pc="F" acc="sharp"/>=<n pc="G" acc="flat"/>, <n pc="G" acc="sharp"/>=<n pc="A" acc="flat"/>, <n pc="A" acc="sharp"/>=<n pc="B" acc="flat"/>). When two notes <em>sound</em> the same but are written as two different notes on the staff, the written notes are said to be <term>enharmonic</term><idx><h>enharmonic</h></idx>. Notes on the white keys of the piano can be written enharmonically as well (<n pc="C"/>=<n pc="B" acc="sharp"/>, <n pc="E"/>=<n pc="F" acc="flat"/>, <n pc="D"/>=<n pc="C" acc="doublesharp"/>, etc.).</p>
     </section>
     <exercises xml:id="BasicConceptsPracticeExercises">

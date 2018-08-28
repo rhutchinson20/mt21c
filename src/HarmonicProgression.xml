@@ -421,7 +421,7 @@
                     <description>Harmonic Flowchart in Major</description>
                 </image>
             </figure>
-            <p>Remember that <chord root="IV"/> goes to <chord root="I"/> in the <xref ref="PlagalCadence" text="title">plagal cadence</xref> and <chord root="V"/> goes to <chord root="vi"/> in the <xref ref="DeceptiveCadence" text="title">deceptive cadence</xref>. <em>These are exceptions to the harmonic flowchart</em>.</p>
+            <p>Remember that <chord root="IV"/> goes to <chord root="I"/> in the <xref ref="PlagalCadence" text="title">plagal cadence</xref> and <chord root="V"/> goes to <chord root="vi"/> in the <xref ref="DeceptiveCadence" text="title">deceptive cadence</xref>. When <chord root="IV"/> goes to <chord root="I"/>, label <chord root="IV"/> as having <em>tonic prolongation</em> function. <em>These are exceptions to the harmonic flowchart</em>.</p>
             <p>Here is the Harmonic Flowchart in minor. Note the addition of the subtonic <chord root="VII"/> chord, which has one function<mdash/>to progress to <chord root="III"/>.</p>
             <figure>
                 <caption>Harmonic Flowchart in Minor</caption>
@@ -678,6 +678,7 @@
                     </sbsgroup>
                 </figure>
                 <p>You will see more examples of Tonic<ndash/>Tonic Prolongation<ndash/>PreDominant<ndash/>Dominant progressions, including the use of the <chord root="iii"/> chord, in the Practice Exercises and the Homework.</p>
+                <p>Remember, there are two exceptions in Harmonic Function: <chord root="IV"/> has tonic prolongation function when it progresses to <chord root="I"/>, and <chord root="I" bass="5th"/> has dominant function when it progresses to <chord root="V"/>.</p>
             </subsubsection>
         </subsection>
     </section>

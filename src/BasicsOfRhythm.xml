@@ -181,8 +181,8 @@
                     <image source="images/unit1/PRAC-EXER-Rhy-Moz-K-283"/>
                 </sidebyside>
                 <p>c. Time Signature: <fillin characters="5"/> Meter: <fillin characters="13"/> <fillin characters="18"/></p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-Gervaise-Pavane" width="90%"/>
+                <sidebyside margins="10%">
+                    <image source="images/unit1/PRAC-EXER-Gervaise-Pavane"/>
                 </sidebyside>
                 <p>d. Time Signature: <fillin characters="5"/> Meter: <fillin characters="13"/> <fillin characters="18"/></p>
             </statement>
@@ -196,8 +196,8 @@
         <exercise>
             <statement>
                 <p>Use one note value (with one or two dots if necessary) to show the sum of all the rhythmic values given.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-sum-of-rhy-values" width="70%"/>
+                <sidebyside margins="20%">
+                    <image source="images/unit1/PRAC-EXER-sum-of-rhy-values"/>
                 </sidebyside>
             </statement>
             <answer>

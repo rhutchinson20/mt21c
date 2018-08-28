@@ -135,7 +135,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>In the example above, each note of the <chord root="vii" mode="diminished" bps="7"/> chord was treated in turn as the <scaledeg>7</scaledeg> scale degree and resolved up by half step. In the example below, each note of the chord is resolved as if it were the 7th of the chord, moving down by half step to create a dominant seventh chord.</p>
+        <p>In the example above, each note of the <chord root="vii" mode="diminished" bps="7"/> chord was treated in turn as the <scaledeg>7</scaledeg> scale degree and resolved up by half step. In the example below, each note of the chord is resolved as if it were the 7th of the chord, moving down by half step to the root of a dominant seventh chord.</p>
         <figure>
             <caption>Resolutions of a Diminished Seventh Sonority to a Dominant Seventh Sonority</caption>
             <sidebyside>
@@ -286,8 +286,8 @@
         </exercisegroup>
         <conclusion>
             <p>Click <url href="../hw/MT21C_HW_30.pdf">here to download the first homework assignment for this chapter.</url></p>
-            <p>Click <url href="../hw/MT21C_HW_31.pdf">here to download the second homework assignment for this chapter.</url></p> <!--
-            <p>Click <url href="../hw/MT21C_Unit_5_Practice_Test.pdf">here to download the Unit 5 Practice Test.</url></p>  -->       
+            <p>Click <url href="../hw/MT21C_HW_31.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_Unit_6_Practice_Test.pdf">here to download the Unit 6 Practice Test.</url></p>
         </conclusion>
     </exercises>
 </chapter>

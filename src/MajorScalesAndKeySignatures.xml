@@ -29,42 +29,51 @@
     </section>
     <section xml:id="MajorKeySignatures">
         <title>Major Key Signatures</title>
-        <p>A key signature is placed at the beginning of a piece (or the beginning of a section) and is written with the clef on the beginning of each line of music. The <term>key signature</term><idx><h>key signature</h></idx> reminds the performer which sharps or flats are in the scale (or key) of the piece and prevents the composer or arranger from writing every sharp or flat from the scale every time it occurs.</p>
-        <figure>
-            <caption>"Twinkle, Twinkle, Little Star" in D major</caption>
-            <image source="images/unit1/twinkle-in-d-major">
-                <description>"Twinkle, Twinkle, Little Star" in D major</description>
-            </image>
-        </figure>
-        <p>There are 15 major key signatures. The key of C major has no sharps or flats in the key signature. The other key signatures can have between 1 to 7 sharps and 1 to 7 flats, giving us the other 14 key signatures.</p>
-        <figure>
-            <caption>Major Key Signatures using Sharps</caption>
-            <image source="images/unit1/major-with-sharps">
-                <description>Major Key Signatures using Sharps</description>
-            </image>
-        </figure>
-        <figure>
-            <caption>Major Key Signatures using Flats</caption>
-            <image source="images/unit1/major-with-flats">
-                <description>Major Key Signatures using Flats</description>
-            </image>
-        </figure>
-        <p>It is important to memorize the order of sharps and flats, since you will be writing key signatures regularly.</p>
-        <p>The <term>order of sharps</term><idx><h>order of sharps</h></idx> is
-        <n pc="F"/><ndash/><n pc="C"/><ndash/><n pc="G"/><ndash/><n pc="D"/><ndash/><n pc="A"/><ndash/><n pc="E"/><ndash/><n pc="B"/>, often remembered by a mnemonic. The one I learned when I was young was <q>Fast Cars Go Dangerously Around Every Bend.</q></p>
-        <p>The <term>order of flats</term><idx><h>order of flats</h></idx> is <n pc="B"/><ndash/><n pc="E"/><ndash/><n pc="A"/><ndash/><n pc="D"/><ndash/><n pc="G"/><ndash/><n pc="C"/><ndash/><n pc="F"/>. It is the reverse of the order of sharps. It is easy to remember since the first four letters make the word BEAD, and GCF is something most students learn as <q>Greatest Common Factor</q> when studying math in elementary school.</p>
-        <p>A mnemonic that works forward and backward is <q>Father Charles Goes Down And Ends Battle,</q> which reversed is <q>Battle Ends And Down Goes Charles’ Father.</q></p>
-        <p>A helpful learning device to remember the order of keys in relation to the order of sharps and flats is the <term>circle of fifths</term><idx><h>circle of fifths</h></idx>. As you ascend in fifths (clockwise), key signatures get one degree <q>sharper.</q> (<n pc="C"/> to <n pc="G"/> is a fifth because <n pc="C"/>=1, <n pc="D"/>=2, <n pc="E"/>=3, <n pc="F"/>=4, and <n pc="G"/>=5.) As you descend in fifths (counterclockwise), key signatures get one degree <q>flatter.</q></p>
-        <figure xml:id="circle-of-fifths-major">
-            <caption>Circle of Fifths for Major Keys</caption>
-            <idx><h>circle of fifths (major key signatures)</h><h>diagram</h></idx>
-            <image source="images/unit1/circle-of-fifths-major" width="90%">
-                <description>Circle of Fifths for Major Keys</description>
-            </image>
-        </figure>
-        <p>Note the overlapping keys at the bottom of the circle. <n pc="B"/> major is enharmonically the same as <n pc="C" acc="flat"/> major; <n pc="F" acc="sharp"/> major is enharmonically the same as <n pc="G" acc="flat"/> major; and <n pc="C" acc="sharp"/> major is enharmonically the same as <n pc="D" acc="flat"/> major.</p>
+        <introduction>
+            <p>A key signature is placed at the beginning of a piece (or the beginning of a section) and is written with the clef on the beginning of each line of music. The <term>key signature</term><idx><h>key signature</h></idx> reminds the performer which sharps or flats are in the scale (or key) of the piece and prevents the composer or arranger from writing every sharp or flat from the scale every time it occurs.</p>
+            <figure>
+                <caption>"Twinkle, Twinkle, Little Star" in D major</caption>
+                <image source="images/unit1/twinkle-in-d-major">
+                    <description>"Twinkle, Twinkle, Little Star" in D major</description>
+                </image>
+            </figure>
+            <p>There are 15 major key signatures. The key of C major has no sharps or flats in the key signature. The other key signatures can have between 1 to 7 sharps and 1 to 7 flats, giving us the other 14 key signatures.</p>
+            <figure>
+                <caption>Major Key Signatures using Sharps</caption>
+                <image source="images/unit1/major-with-sharps">
+                    <description>Major Key Signatures using Sharps</description>
+                </image>
+            </figure>
+            <figure>
+                <caption>Major Key Signatures using Flats</caption>
+                <image source="images/unit1/major-with-flats">
+                    <description>Major Key Signatures using Flats</description>
+                </image>
+            </figure>
+            <p>It is important to memorize the order of sharps and flats, since you will be writing key signatures regularly.</p>
+            <p>The <term>order of sharps</term><idx><h>order of sharps</h></idx> is
+            <n pc="F"/><ndash/><n pc="C"/><ndash/><n pc="G"/><ndash/><n pc="D"/><ndash/><n pc="A"/><ndash/><n pc="E"/><ndash/><n pc="B"/>, often remembered by a mnemonic. One common mnemonic for the order of sharps is <q>Fast Cars Go Dangerously Around Every Bend.</q></p>
+            <p>The <term>order of flats</term><idx><h>order of flats</h></idx> is <n pc="B"/><ndash/><n pc="E"/><ndash/><n pc="A"/><ndash/><n pc="D"/><ndash/><n pc="G"/><ndash/><n pc="C"/><ndash/><n pc="F"/>. It is the reverse of the order of sharps. It is easy to remember since the first four letters make the word BEAD, and GCF is something most students learn as <q>Greatest Common Factor</q> when studying math in elementary school.</p>
+            <p>A mnemonic that works forward and backward is <q>Father Charles Goes Down And Ends Battle,</q> which reversed is <q>Battle Ends And Down Goes Charles’ Father.</q></p>
+            <p>A helpful learning device to remember the order of keys in relation to the order of sharps and flats is the <term>circle of fifths</term><idx><h>circle of fifths</h></idx>. As you ascend in fifths (clockwise), key signatures get one degree <q>sharper.</q> (<n pc="C"/> to <n pc="G"/> is a fifth because <n pc="C"/>=1, <n pc="D"/>=2, <n pc="E"/>=3, <n pc="F"/>=4, and <n pc="G"/>=5.) As you descend in fifths (counterclockwise), key signatures get one degree <q>flatter.</q></p>
+            <figure xml:id="circle-of-fifths-major">
+                <caption>Circle of Fifths for Major Keys</caption>
+                <idx><h>circle of fifths (major key signatures)</h><h>diagram</h></idx>
+                <image source="images/unit1/circle-of-fifths-major">
+                    <description>Circle of Fifths for Major Keys</description>
+                </image>
+            </figure>
+            <p>Note the overlapping keys at the bottom of the circle. <n pc="B"/> major is enharmonically the same as <n pc="C" acc="flat"/> major; <n pc="F" acc="sharp"/> major is enharmonically the same as <n pc="G" acc="flat"/> major; and <n pc="C" acc="sharp"/> major is enharmonically the same as <n pc="D" acc="flat"/> major.</p>
+        </introduction>
+        <subsection>
+            <title>Identifying Key Signatures</title>
+            <p>While it is preferable to memorize key signatures, use the following method to identify major key signatures.</p>
+            <ol>
+                <li><p><em>For key signatures withs sharps</em>: Go up a half<ndash/>step from the last sharp to find the key.</p></li>
+                <li><p><em>For key signatures with flats</em>: The second<ndash/>to<ndash/>last flat is the key.</p></li>
+            </ol>
+        </subsection>
     </section>
-    <!--another section is needed on identifying key signatures by last sharp and second-to-last flat-->
     <exercises xml:id="MajorKeysPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>
