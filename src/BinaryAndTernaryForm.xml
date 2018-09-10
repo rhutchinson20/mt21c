@@ -460,6 +460,11 @@
     </section>
     <exercises xml:id="BinaryAndTernaryPracticeExercises">
         <title>Practice Exercises</title>
+<!--More examples needed with the melody varied upon return
+
+They need to do melodic analysis of subphrases and possibly motives on the homework examples
+
+There needs to be at least one example with written out repeats, like a Schumann album for the young example -->
         <exercisegroup>
             <introduction>
                 <p>Day One</p>
@@ -623,53 +628,6 @@
                     </sidebyside>
                 </answer>
             </exercise>
-            <!-- schumann is in Homework assignment
-            <exercise>
-                <statement>
-                    <p>Please fill in the blanks below the staves and diagram the form for Robert Schumann's <q>An important event</q> from his <pubtitle>Scenes of Childhood</pubtitle>, Op. 15. Also, name the form.</p>
-                    <figure>
-                        <caption>Schumann, <pubtitle>Kinderszenen</pubtitle> (<pubtitle>Scenes of Childhood</pubtitle>), Op. 15, No. 6 <q>Wichtige Begebenheit</q> (<q>An important event</q>)</caption>
-                        <sbsgroup>
-                            <sidebyside>
-                                <image source="images/unit7/HW-bin-tern-Schumann-op15-no6-A">
-                                    <description/>
-                                </image>
-                            </sidebyside>
-                            <sidebyside>
-                                <image source="images/unit7/HW-bin-tern-Schumann-op15-no6-B">
-                                    <description/>
-                                </image>
-                            </sidebyside>
-                            <sidebyside>
-                                <image source="images/unit7/HW-bin-tern-Schumann-op15-no6-C">
-                                    <description/>
-                                </image>
-                            </sidebyside>
-                            <sidebyside>
-                                <image source="images/unit7/HW-bin-tern-Schumann-op15-no6-D">
-                                    <description/>
-                                </image>
-                            </sidebyside>
-                            <sidebyside margins="37%">
-                                <video youtube="i5gMQH7pJbg" start="347" end="398" play-at="select" preview="generic"/>
-                            </sidebyside>
-                        </sbsgroup>
-                    </figure>
-                    <p>On scratch paper, create a diagram of the form. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
-                    <p>Circle all of the terms that apply to the name of the form:</p>
-                    <sidebyside>
-                        <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
-                    </sidebyside>
-                </statement>
-                <answer>
-                    <sidebyside>
-                        <image source="images/unit7/PRAC-EXER-Schumann-DIAGRAM-KEY"/>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/PRAC-EXER-bin-tern-Schumann-terms-to-circle-KEY"/>
-                    </sidebyside>
-                </answer>
-            </exercise> -->
             <exercise>
                 <statement>
                     <p>For this Allegro in B<ndash/>flat major (K. 3) by Mozart, please fill in the blanks below the staves and diagram the form. Also, name the form.</p>

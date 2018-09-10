@@ -65,18 +65,14 @@
         </subsection>
         <subsection xml:id="SonataPrinciple">
             <title>Sonata Principle</title>
-            <p>Important to sonata form is sonata principle, which Charles Rosen defines as <!--find the right quote-->
-
-
-
-                <q>material stated outside of tonic was restated in tonic to resolve a large scale dissonance.</q></p>
+            <p>Important to sonata form is sonata principle, which Charles Rosen discusses in his book <pubtitle>Sonata Forms</pubtitle>.</p> <!--find the right quote-->
+            <blockquote><p>The exposition of a sonata form presents the thematic material and articulates the movement from tonic to dominant in various ways so that it takes on the character of a polarization or opposition. The essential character of this opposition may be defined as a large<ndash/>scale dissonance: the material played outside the tonic (i.e., in the second group) is dissonant with respect to the center of stability, or tonic. Sonata style did not invent this concept of <em>dissonant section</em>, but it was the first style to make it the generating force of an entire movement.<fn><pubtitle>Sonata Forms</pubtitle>, Revised Edition, 1988, p. 229</fn></p></blockquote>
+            <p>Rosen continues:</p>
+            <blockquote><p>The dominant is conceived as a <em>dissonant tonality</em> in the exposition....The polarization, in fact, leads to the concept of a <em>dissonant section</em>, which raises the dissonant interval or chord to a higher power: that is, a simple reintroduction of the tonic key will no longer serve as a resolution, but the section outside the tonic needs to be resolved as a whole.<fn><pubtitle>Sonata Forms</pubtitle>, Revised Edition, 1988, p. 244</fn></p></blockquote>
             </subsection>
-
-
-
             <subsection xml:id="MonothematicSonata">
                 <title>The Monothematic Sonata</title>
-                <p>Haydn was especially fond of restating the Primary Theme in the dominant where the Secondary Theme would normally occur. To scholars like Charles Rosen, this reinforced the idea that the tonal design of a sonata took primacy over thematic design.</p>
+                <p>Haydn was especially fond of restating the Primary Theme in the dominant where the Secondary Theme would normally occur. This reinforces the idea that the tonal design of a sonata was as important as thematic design.</p>
             </subsection>
         </section>
         <section xml:id="FourStructuralFunctions">
@@ -126,7 +122,7 @@
             </subsection>
             <subsection xml:id="TransitionalFunction">
                 <title>Transitional Function</title>
-                <p>Music of <term>transitional function</term><idx><h>transitional function</h><h>definition of</h></idx> moves from one tonal center to another and often features a contrasting accompanimental texture more rhythmically active than preceding expository material. Tonicizations and may also occur within a transition. Transitions are sometimes called bridges. Mozart and Haydn often ended their sonata form transitions with a half cadence followed by a rest to signal that the secondary theme was about to commence. Again, notice the importance of cadences to demarcate the form.</p>
+                <p>Music of <term>transitional function</term><idx><h>transitional function</h><h>definition of</h></idx> moves from one tonal center to another and often features a contrasting accompanimental texture more rhythmically active than preceding expository material. Tonicizations may also occur within a transition. Transitions are sometimes called bridges. Mozart and Haydn often ended their sonata form transitions with a half cadence followed by a rest to signal that the secondary theme was about to commence. Again, notice the importance of cadences to demarcate the form.</p>
                 <figure>
                     <caption>Haydn, Piano Sonata in C major, Hob. XVI:35, I.</caption>
                     <idx><h>Haydn</h><h>Piano Sonata in C major, Hob. XVI:35, I.</h></idx>
@@ -509,7 +505,7 @@
                             <figure>
                                 <caption>Mozart, Piano Sonata No. 18 in D major, K.576, I.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="PEtb9jcLExc" start="314" end="333" play-at="select" preview="generic"/>
+                                    <video youtube="PEtb9jcLExc" start="30" end="47" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -680,7 +676,7 @@
                         </li>
                         <li>
                             <figure>
-                                <caption>Mozart, Piano Sonata No. 14 in C Minor, K. 457, I.</caption>
+                                <caption>Mozart, Piano Sonata No. 8 in A Minor, K. 310, I.</caption>
                                 <sidebyside margins="37%">
                                     <video youtube="U4K2mz_rPcs" start="159" end="177" play-at="select" preview="generic"/>
                                 </sidebyside>
@@ -688,7 +684,15 @@
                         </li>
                         <li>
                             <figure>
-                                <caption>Haydn, Symphony No. 104 in D major, Hob.I:104, IV. Finale (Spiritoso)</caption>
+                                <caption>Mozart, Piano Sonata No. 14 in C Minor, K. 457, I.</caption>
+                                <sidebyside margins="37%">
+                                    <video youtube="sBYfP1gbTkE" start="246" end="290" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </figure>
+                        </li>
+                        <li>
+                            <figure>
+                                <caption>Haydn, Symphony No. 104 in D major, Hob.I:104, IV.</caption>
                                 <sidebyside margins="37%">
                                     <video youtube="2ejtvhNyGtw" start="166" end="199" play-at="select" preview="generic"/>
                                 </sidebyside>
@@ -698,7 +702,7 @@
                             <figure>
                                 <caption>Mozart, String Quartet No. 17 In B<ndash/>flat, K.458, IV.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="U4K2mz_rPcs" start="12" end="36" play-at="select" preview="generic"/>
+                                    <video youtube="WEqIqXbFezA" start="12" end="36" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -720,7 +724,7 @@
                         </li>
                         <li>
                             <figure>
-                                <caption>Haydn, Piano Sonata No. 60 in C major, Op. 79, Hob. XVI:50, I.</caption>
+                                <caption>Haydn, Piano Sonata No. 60 in C major, Hob. XVI:50, I.</caption>
                                 <sidebyside margins="37%">
                                     <video youtube="EhJ-G0Lp8bI" start="99" end="113" play-at="select" preview="generic"/>
                                 </sidebyside>
@@ -730,7 +734,7 @@
                             <figure>
                                 <caption>Mozart, String Quartet No. 17 In B<ndash/>flat, K.458, IV.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="U4K2mz_rPcs" start="158" end="171" play-at="select" preview="generic"/>
+                                    <video youtube="WEqIqXbFezA" start="158" end="171" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -738,7 +742,7 @@
                             <figure>
                                 <caption>Mozart, Piano Sonata No. 14 in C Minor, K. 457, I.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="U4K2mz_rPcs" start="104" end="118" play-at="select" preview="generic"/>
+                                    <video youtube="sBYfP1gbTkE" start="104" end="118" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
