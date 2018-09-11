@@ -16,12 +16,12 @@
         </introduction>
         <subsection xml:id="NumericSizeOfInterval">
             <title>Numeric Size of Interval</title>
-            <p>There are two elements to naming intervals: the quality and the number (for example, <q>major sixth,</q> abbreviated as <q>M6</q>).</p>
-            <p>Odd-numbered intervals will always be a line to a line or a space to a space.</p>
+            <p>There are two elements to naming intervals: the quality and the number (for example, <q>major sixth,</q> abbreviated as <q>M6</q>). Let us first focus on the numeric size of intervals.</p>
+            <p>Odd<ndash/>numbered intervals will always be a line to a line or a space to a space.</p>
             <sidebyside>
                 <image source="images/unit1/intervals-numeric-odd-only"/>
             </sidebyside>
-            <p>Even-numbered intervals will always be a space to a line or a line to a space.</p>
+            <p>Even<ndash/>numbered intervals will always be a space to a line or a line to a space.</p>
             <sidebyside>
                 <image source="images/unit1/intervals-numeric-even-only"/>
             </sidebyside>
@@ -113,7 +113,7 @@
                 </row>
             </tabular>
         </sidebyside>
-        <p>* A <q>tritone</q> is a generic name for an augmented fourth (<chord mode="augmented"/>4) or diminished fifth (<chord mode="diminished"/>5). These two intervals are enharmonic. <xref ref="AugmentedAndDiminishedIntervals" text="title"/> are discussed below.</p>
+        <p>* A <q>tritone</q> is a generic name for an augmented fourth (<chord mode="augmented"/>4) or diminished fifth (<chord mode="diminished"/>5). These two intervals are enharmonic. <xref ref="AugmentedAndDiminishedIntervals" text="title"/> are discussed later in this chapter.</p>
         <sidebyside>
             <image source="images/unit1/interval-ID-by-counting-half-steps"/>
         </sidebyside>
