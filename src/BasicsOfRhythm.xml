@@ -214,6 +214,11 @@
                     <image source="images/unit1/PRAC-EXER-Rhy-Correction"/>
                 </sidebyside>
             </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit1/PRAC-EXER-Rhy-Correction-ANSWER"/>
+                </sidebyside>
+            </answer>
         </exercise>
         <conclusion>
             <p>Click <url href="../hw/MT21C_HW_3.pdf">here to download the homework.</url></p>
