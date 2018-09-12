@@ -204,7 +204,7 @@
                     <video youtube="PIh2xe4jnpk" start="14" end="22" play-at="select" preview="generic"/>
                 </sidebyside>
         </figure>
-        <p>In the pre-chorus, the guitars and bass have legato whole notes and half notes while the drummer plays cross<ndash/>stick quarter notes (if one is counting in a fast 4/4 rather than a slow 2/2). Without the snare drum backbeat, the texture lightens.</p>
+        <p>In the pre-chorus, the guitars and bass have legato whole notes and half notes while the drummer plays cross<ndash/>stick quarter notes (if one is counting in a fast <timesignature top="4" bottom="4"/> rather than a slow <timesignature top="2" bottom="2"/>). Without the snare drum backbeat, the texture lightens.</p>
         <figure>
             <caption>Pre<ndash/>Chorus of <q>Rude</q></caption>
                 <sidebyside margins="37%">

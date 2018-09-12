@@ -943,11 +943,12 @@
             <caption>The same progression viewed from minor and relative major</caption>
             <image source="images/unit2/harmony-i-VII-VI-min-and-rel-maj"/>
         </figure>
-        <p>There are several more common harmonic progressions to explore in future chapters dealing with topics like secondary chords, mode mixture, the Neapolitan chord, augmented sixth chords, and jazz harmony.<!--make links someday--></p>
+        <p>There are several more common harmonic progressions to explore in future chapters dealing with topics like secondary chords, mode mixture, the Neapolitan chord, augmented sixth chords, and jazz harmony.</p><!--make links someday--><!--<m>{6\atop 8}</m>-->
     </section>
     <exercises xml:id="HarmonicProgressionExercises">
         <title>Practice Exercises</title>
         <exercisegroup>
+            <title>Day One</title>
             <introduction>
                 <p>Day One:</p>
             </introduction>

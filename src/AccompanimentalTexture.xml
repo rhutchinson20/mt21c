@@ -180,7 +180,7 @@
 					</sidebyside>
 				</sbsgroup>
 			</figure>
-			<p>Below is an example in 4/4 with arpeggios in sixteenth notes.</p>
+			<p>Below is an example in <timesignature top="4" bottom="4"/> with arpeggios in sixteenth notes.</p>
 			<figure>
 				<caption>Briggs, Burress, Cottle, Lopes, <q>No Scrubs</q></caption>
 				<idx><h>songs (popular)</h><h><q>No Scrubs</q> (TLC)</h></idx>

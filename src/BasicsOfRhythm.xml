@@ -15,7 +15,7 @@
     </section>
     <section xml:id="DurationalSymbols">
         <title>Durational Symbols</title>
-        <p>In the present day, the most common time signature is 4/4<!--fix time signatures later--> (also known as <q>common time</q>). It makes sense to introduce durational symbols in the context of 4/4 because a whole note takes up a whole measure in 4/4, a half note takes up half a measure of 4/4, a quarter note takes up 1/4 of a measure, and so on.</p>
+        <p>In the present day, the most common time signature is <timesignature top="4" bottom="4"/> (also known as <q>common time</q>). It makes sense to introduce durational symbols in the context of <timesignature top="4" bottom="4"/> because a whole note takes up a whole measure in <timesignature top="4" bottom="4"/>, a half note takes up half a measure of <timesignature top="4" bottom="4"/>, a quarter note takes up <m>{1\over 4}</m> of a measure, and so on.</p>
         <figure>
             <caption/>
             <idx><h>durational symbols</h></idx>
@@ -46,7 +46,7 @@
         <title>Dots and Ties</title>
         <p>We have a whole note, which lasts for four beats, and a half note, which lasts for two beats, but we don’t have a durational value that lasts three beats. To do so requires using a dot or a tie.</p>
         <p>A <term>tie</term><idx><h>tie</h></idx> links two notes together to create a new duration. Ties occur between notes of the same pitch. A <term>slur</term><idx><h>slur</h></idx>, which looks like a tie, is placed over or under notes of different pitches and means to play them in a connected manner.</p>
-        <p>A <term>dot</term><idx><h>dot</h></idx> added to a note increases the duration of that note by half. A second dot represents half the value of the first dot, or a quarter of the original duration. (These are known as “double-dotted notes.”)</p>
+        <p>A <term>dot</term><idx><h>dot</h></idx> added to a note increases the duration of that note by half. A second dot represents half the value of the first dot, or a quarter of the original duration. (These are known as “double<ndash/>dotted notes.”)</p>
         <sidebyside>
             <image source="images/unit1/ties-and-dots">
                 <description>And example illustrating the difference between ties and slurs, and how dots add to the value of a note</description>
@@ -65,14 +65,14 @@
                 <description>Examples time signatures with simple duple, simple triple, and simple quadruple meter</description>
             </image>
         </sidebyside>
-        <p>The time signature <!--time signatures-->2/8 is <q>simple duple meter.</q> The time signature 3/2 is <q>simple triple meter.</q> Finally, 4/4 is <q>simple quadruple meter.</q></p>
+        <p>The time signature <timesignature top="2" bottom="8"/> is <q>simple duple meter.</q> The time signature <timesignature top="3" bottom="2"/> is <q>simple triple meter.</q> Finally, <timesignature top="4" bottom="4"/> is <q>simple quadruple meter.</q></p>
         <p>When describing meter, we say how the beat is divided before the number of beats in the measure.</p>
         <sidebyside>
             <image source="images/unit1/meter-explanation">
                 <description>Graphic showing "simple" and "compound" occur before "duple," "triple," or "quadruple"</description>
             </image>
         </sidebyside>
-        <p>With compound meters the bottom number specifies <em>the division of the beat</em>. The beat value is a dotted note. We say <!--time signatures-->6/16 is <q>compound duple meter</q> because it has two beats. The time signature 6/8 is also compound duple. Compound time signatures have a top number greater than four that is divisible by 3 (6, 9, 12).</p>
+        <p>With compound meters the bottom number specifies <em>the division of the beat</em>. The beat value is a dotted note. We say <timesignature top="6" bottom="16"/> is <q>compound duple meter</q> because it has two beats. The time signature <timesignature top="6" bottom="8"/> is also compound duple. Compound time signatures have a top number greater than four that is divisible by 3 (6, 9, 12).</p>
         <sidebyside>
             <image source="images/unit1/compound-meters">
                 <description>Example showing time signatures with compound meter, such as 6/16, 9/8, and 12/4</description>
@@ -88,7 +88,7 @@
                 <description>An example with triplets, quintuplets, and sextuplets</description>
             </image>
         </sidebyside>
-        <p>If you write a piece of music that naturally has a triplet division to the beat, you should use <!--time signature-->6/8, 9/8 or 12/8 depending on the number of beats in each measure.</p>
+        <p>If you write a piece of music that naturally has a triplet division to the beat, you should use <timesignature top="6" bottom="8"/>, <timesignature top="9" bottom="8"/> or <timesignature top="12" bottom="8"/> depending on the number of beats in each measure.</p>
         <figure>
             <caption>Two measures that sound the same</caption>
             <sidebyside widths="35% 35%" margins="10%">
@@ -117,13 +117,13 @@
         <sidebyside width="80%">
             <image source="images/unit1/rhythmic-notation-3"/>
         </sidebyside>
-        <p>In compound meters like 6/8, the beat is the dotted quarter.</p>
+        <p>In compound meters like <timesignature top="6" bottom="8"/>, the beat is the dotted quarter.</p>
         <sidebyside>
             <image source="images/unit1/rhythmic-notation-4"/>
         </sidebyside>
         <p>The exception to this practice of <q>showing the beats</q> involves syncopation.</p>
         <p xml:id="syncopation-definition"><term>Syncopation</term><idx><h>syncopation</h></idx> occurs when notes on weak beats and on weak parts of beats are emphasized and nearby strong beats are deemphasized. Syncopation is common in popular music.</p>
-        <p>Strong beats are the first beat of each measure (in 2/4 and 3/4) and beats 1 and 3 in <!--time signature-->4/4.  Syncopation <em>at the beat level</em> involves ties across those strong beats. Numbers in parentheses in the example below are beats that are obscured through syncopation.</p>
+        <p>Strong beats are the first beat of each measure (in <timesignature top="2" bottom="4"/> and <timesignature top="3" bottom="4"/>) and beats 1 and 3 in <!--time signature--><timesignature top="4" bottom="4"/>.  Syncopation <em>at the beat level</em> involves ties across those strong beats. Numbers in parentheses in the example below are beats that are obscured through syncopation.</p>
         <sidebyside>
             <image source="images/unit1/synco-at-beat-level">
                 <description>Syncopation at the beat level</description>
@@ -133,7 +133,7 @@
         <sidebyside>
             <image source="images/unit1/syncopations-at-8th-note-level"/>
         </sidebyside>
-        <p>An example of syncopation at the eighth-note level (the division of the beat) can be found in the following example from <q>Eleanor Rigby.</q></p>
+        <p>An example of syncopation at the eighth<ndash/>note level (the division of the beat) can be found in the following example from <q>Eleanor Rigby.</q></p>
         <sidebyside>
             <image source="images/unit1/synco-eleanor-rigby"/>
         </sidebyside>
@@ -187,10 +187,10 @@
                 <p>d. Time Signature: <fillin characters="5"/> Meter: <fillin characters="13"/> <fillin characters="18"/></p>
             </statement>
             <answer>
-                <p>a. Time Signature: 12/16; Meter: Compound Quadruple</p>
-                <p>b. Time Signature: 3/2; Meter: Simple Triple</p>
-                <p>c. Time Signature: 3/8; Meter: Simple Triple</p>
-                <p>d. Time Signature: 4/2; Meter: Simple Quadruple</p>
+                <p>a. Time Signature: <timesignature top="12" bottom="16"/>; Meter: Compound Quadruple</p>
+                <p>b. Time Signature: <timesignature top="3" bottom="2"/>; Meter: Simple Triple</p>
+                <p>c. Time Signature: <timesignature top="3" bottom="8"/>; Meter: Simple Triple</p>
+                <p>d. Time Signature: <timesignature top="4" bottom="2"/>; Meter: Simple Quadruple</p>
             </answer>
         </exercise>
         <exercise>

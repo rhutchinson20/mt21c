@@ -221,7 +221,7 @@
         <p>Be careful of flats before Roman numerals. Flats mean to lower a root a m2 <em>in the key signature</em>, <em>not</em> to literally put a flat in front of the root of a chord.</p>
     </section>
     <section xml:id="TheDeceptiveCadenceWithFlatSix">
-        <title>The Deceptive Cadence with <flat/>VI</title>
+        <title>The Deceptive Cadence with <flat/><chord root="VI"/></title>
         <p>The <chord root="V"/><ndash/><flat/><chord root="VI"/> deceptive cadence is a deceptive realization of a deception progression. This <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence ties into the <xref ref="i-VII-VI-VII" text="title"><flat/><chord root="VI"/><ndash/><flat/><chord root="VII"/><ndash/><chord root="I"/> progression</xref> to produce an <q>epic</q> (although somewhat clich&#x00E9;d) ending to the <q>Star Spangled Banner</q> as performed at the Super Bowl and Presidential Inaugurations by artists such as Whitney Houston, Beyonc&#x00E9;, and Lady Gaga, among others.</p>
         <figure>
             <caption>John Stafford Smith and Francis Scott Key, <q>The Star Spangled Banner</q> (1814) as performed by Whitney Houston at the 1991 Super Bowl</caption>

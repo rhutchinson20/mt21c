@@ -406,7 +406,7 @@
         </section>
         <section xml:id="RondoCharacter">
             <title>Rondo Character</title>
-            <p>Rondo character is characterized by quick tempo in duple meter with light character, typically achieved through the use of staccato articulation. This duple meter could be either simple (2/4) or compound (6/8). During the Classical era, the final movement of a multi-movement composition, e.g. a sonata, quartet, or symphony, was often in rondo character. Not all pieces in rondo form are in rondo character.</p>
+            <p>Rondo character is characterized by quick tempo in duple meter with light character, typically achieved through the use of staccato articulation. This duple meter could be either simple (<timesignature top="2" bottom="4"/>) or compound (<timesignature top="6" bottom="8"/>). During the Classical era, the final movement of a multi-movement composition, e.g. a sonata, quartet, or symphony, was often in rondo character. Not all pieces in rondo form are in rondo character.</p>
             <p>Listen to the following six examples to develop familiarity with rondo character.</p>
             <ol>
                 <li>
