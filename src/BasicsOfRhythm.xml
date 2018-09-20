@@ -105,7 +105,7 @@
     <section xml:id="CommonRhythmicNotationErrors">
         <title>Common Rhythmic Notation Errors</title>
         <p>The standard practice when notating rhythms is to use beaming to show where the beginning of each beat occurs.</p>
-        <p>Consider the following example:</p>
+        <p>Consider the following example:</p><!--show the beat, use beaming to show beat, subdivide values to split between beats-->
         <sidebyside>
             <image source="images/unit1/rhythmic-notation-1"/>
         </sidebyside>

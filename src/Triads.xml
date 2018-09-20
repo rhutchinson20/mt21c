@@ -16,7 +16,7 @@
     </section>
     <section xml:id="LeadSheetSymbols">
         <title>Lead<ndash/>Sheet Symbols</title>
-        <p><term>Lead<ndash/>sheet symbols</term><idx><h>lead<ndash/>sheet symbols</h></idx> (also known as <q>lead<ndash/>sheet notation</q> and <q>lead-sheet chord symbols</q>) are often used as shorthand for chords in popular music and jazz. These symbols allow a guitarist or pianist to choose how to <q>voice</q> the chords, i.e., how they want to arrange the notes.</p>
+        <p><term>Lead<ndash/>sheet symbols</term><idx><h>lead<ndash/>sheet symbols</h></idx> (also known as <q>lead<ndash/>sheet notation</q> and <q>lead<ndash/>sheet chord symbols</q>) are often used as shorthand for chords in popular music and jazz. These symbols allow a guitarist or pianist to choose how to <q>voice</q> the chords, i.e., how they want to arrange the notes.</p>
         <sidebyside>
             <image source="images/unit1/triads-voicings-of-C-major-triad-B"/>
         </sidebyside>
@@ -61,7 +61,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="3LiXsWZVdWc" start="33" end="44" play-at="select" preview="generic"/>
+                    <video youtube="XenLJLFP9IA" start="33" end="44" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -78,7 +78,7 @@
         </introduction>
         <subsection xml:id="SlashChords">
             <title>"Slash" Chords</title>
-            <p>In lead-sheet notation, an inverted chord has the triad before the slash (/) and the bass note after it. <q><chord root="C" bass="E"/></q> means a <n pc="C"/> triad with an <n pc="E"/> as the lowest note.  Therefore, a <term>slash chord</term><idx><h>slash chord</h></idx> has a bass note that is not the root of the chord. In fact, it is possible to have slash chords where the bass note is not one of the chord tones (e.g., <chord root="C" bass="F sharp"/>).</p>
+            <p>In lead<ndash/>sheet notation, an inverted chord has the triad before the slash (/) and the bass note after it. <q><chord root="C" bass="E"/></q> means a <n pc="C"/> triad with an <n pc="E"/> as the lowest note.  Therefore, a <term>slash chord</term><idx><h>slash chord</h></idx> has a bass note that is not the root of the chord. In fact, it is possible to have slash chords where the bass note is not one of the chord tones (e.g., <chord root="C" bass="F sharp"/>).</p>
             <sidebyside>
                 <image source="images/unit1/leadsheet-infograph-on-slash-chord"/>
             </sidebyside>
@@ -162,7 +162,7 @@
         <sidebyside widths="33%" margins="33%">
             <image source="images/unit1/triads-analyzing-2nd-chord-to-try"/>
         </sidebyside>
-        <p>Since the lowest note is <n pc="G"/>, the chord is inverted. Our lead-sheet symbol is <chord root="E" mode="diminished" bass="G"/>, which means we have an <chord root="E" mode="diminished"/> chord with a <n pc="G"/> in the bass.</p>
+        <p>Since the lowest note is <n pc="G"/>, the chord is inverted. Our lead<ndash/>sheet symbol is <chord root="E" mode="diminished" bass="G"/>, which means we have an <chord root="E" mode="diminished"/> chord with a <n pc="G"/> in the bass.</p>
     </section>
     <section xml:id="SimpleSusChords">
         <title>Simple <q>Sus</q> Chords</title>
@@ -252,7 +252,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Correct the misspelled triads. Label your corrected spelling with lead-sheet notation. All of the examples are in root position (the lowest note is the root).</p>
+                <p>Correct the misspelled triads. Label your corrected spelling with lead<ndash/>sheet notation. All of the examples are in root position (the lowest note is the root).</p>
                 <sidebyside>
                     <image source="images/unit1/PRAC-EXER-Triads-misspelled"/>
                 </sidebyside>

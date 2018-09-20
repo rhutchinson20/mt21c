@@ -21,6 +21,34 @@
     <section xml:id="SectionalVersusContinuous">
         <title>Sectional versus Continuous</title>
         <p>We apply the descriptor <q><term>sectional</term></q><idx><h>sectional</h><h>definition of</h></idx> to a binary or ternary form when the first section (the A section) ends on the tonic. (Note: We use lowercase letters to refer to phrases and uppercase letters to refer to sections.)</p>
+        <sidebyside>
+            <image source="images/unit7/bin-tern-section-brahms-wiegenlied-A">
+                <description/>
+            </image>
+        </sidebyside>
+        <sidebyside>
+            <image source="images/unit7/bin-tern-section-brahms-wiegenlied-B">
+                <description/>
+            </image>
+        </sidebyside>
+        <sidebyside>
+            <image source="images/unit7/bin-tern-section-brahms-wiegenlied-C">
+                <description/>
+            </image>
+        </sidebyside>
+        <sidebyside>
+            <image source="images/unit7/bin-tern-section-brahms-wiegenlied-D">
+                <description/>
+            </image>
+        </sidebyside>
+        <figure>
+            <caption>Brahms, <pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49, No. 4 <q>Wiegenlied</q> (1868)</caption>
+            <idx><h>Brahms</h><h><pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49</h><h><q>Wiegenlied</q></h></idx>
+            <sidebyside margins="37%">
+                <video youtube="vKGonr3RDx4" start="0" end="54" play-at="select" preview="generic"/>
+            </sidebyside>
+        </figure>
+        <!-- this was the original 
         <figure>
             <caption>Brahms, <pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49, No. 4 <q>Wiegenlied</q> (1868)</caption>
             <idx><h>Brahms</h><h><pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49</h><h><q>Wiegenlied</q></h></idx>
@@ -49,7 +77,8 @@
                     <video youtube="vKGonr3RDx4" start="0" end="54" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
-        </figure>
+        </figure> 
+        -->
         <p>The term <q><term>continuous</term></q><idx><h>continuous</h><h>definition of</h></idx> is used the first section of a binary or ternary form does <em>not</em> end on the tonic chord. While this often means the first section ends in a new key, it can also mean the first section ends on the dominant chord in a half cadence.</p>
         <figure>
             <caption>Haydn, Symphony No.94 in G major, Hob.I:94, II (1791)</caption>
@@ -92,54 +121,55 @@
     <section xml:id="BalancedBinary">
         <title>Balanced Binary</title>
         <p>A <term>balanced binary</term><idx><h>binary</h><h>balanced</h></idx> form, according to Douglass Green in his book, <pubtitle>Form in Tonal Music</pubtitle>, features a binary form with a first section (the A section) ending in a new key, and the second section ending <em>with essentially the same cadence</em>, now transposed to the original key, as in the following piece by Bach.</p>
+        <!--<sbsgroup>-->
+        <idx><h>Bach, J.S.</h><h>Invention No. 8 in F major, BWV 779</h></idx>
+            <sidebyside>
+                <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-A">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-B">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-C">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-D">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-E">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-F">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-G">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-H">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside><!--no margins on this one-->
+                <video youtube="HFeLqgVLxBM" start="831" end="890" play-at="select"/>
+            </sidebyside>
+        <!--</sbsgroup>-->
         <figure>
             <caption>J.S. Bach, Invention No. 8 in F major, BWV 779</caption>
-            <idx><h>Bach, J.S.</h><h>Invention No. 8 in F major, BWV 779</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-A">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-B">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-C">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-D">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-E">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-F">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-G">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-H">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside><!--no margins on this one-->
-                    <video youtube="HFeLqgVLxBM" start="831" end="890" play-at="select"/>
-                </sidebyside>
-            </sbsgroup>
+            
         </figure>
         <p>Because the first section of a balanced binary ends in a new key, it is inherently a <em>continuous</em> binary form.</p>
         <p>Balanced binary form can be found in movements from the Baroque era, including dance suites by Bach, Handel, and others. The movement below shows the endings of the first and section sections of the Courante from J.S. Bach’s French Suite No. 6 in E major, BWV 817.</p>
@@ -305,7 +335,7 @@
     <section xml:id="TernaryForm">
         <title>Ternary Form</title>
         <introduction>
-            <p><term>Ternary form</term><idx><h>ternary form</h></idx> is usually diagrammed as ABA and is described as <q>statement<ndash/>digression<ndash/>restatement.</q><!--footnote douglass green--> A piece in a rather simple and straightforward ternary is shown below.</p>
+            <p><term>Ternary form</term><idx><h>ternary form</h></idx> is usually diagrammed as ABA and is described as <q>statement, digression, restatement.</q><footnote>Green, Douglass M. <pubtitle>Form in Tonal Music: an Introduction to Analysis</pubtitle>. 2d ed., Holt, Rinehart and Winston, 1979, p. 84</footnote> A piece in a rather simple and straightforward ternary is shown below.</p>
             <figure>
                 <caption>Mozart, Andante in E<ndash/>flat major, K. 15mm</caption>
                 <idx><h>Mozart, W.A.</h><h>Andante in E<ndash/>flat major, K. 15mm</h></idx>
@@ -552,7 +582,7 @@ There needs to be at least one example with written out repeats, like a Schumann
                                 </image>
                             </sidebyside>
                             <sidebyside margins="37%">
-                                <video youtube="R_NnOW9f8hs" start="0" end="111" play-at="select" preview="generic"/>
+                                <video youtube="1KAtbB2xpoE" start="9" end="88" play-at="select" preview="generic"/>
                             </sidebyside>
                         </sbsgroup>
                     </figure>

@@ -421,7 +421,7 @@
                     <description>Harmonic Flowchart in Major</description>
                 </image>
             </figure>
-            <p>Remember that <chord root="IV"/> goes to <chord root="I"/> in the <xref ref="PlagalCadence" text="title">plagal cadence</xref> and <chord root="V"/> goes to <chord root="vi"/> in the <xref ref="DeceptiveCadence" text="title">deceptive cadence</xref>. When <chord root="IV"/> goes to <chord root="I"/>, label <chord root="IV"/> as having <em>tonic prolongation</em> function. <em>These are exceptions to the harmonic flowchart</em>.</p>
+            <p>Remember that <chord root="IV"/> goes to <chord root="I"/> in the <xref ref="PlagalCadence" text="title">plagal cadence</xref> and <chord root="V"/> goes to <chord root="vi"/> in the <xref ref="DeceptiveCadence" text="title">deceptive cadence</xref>. When <chord root="IV"/> goes to <chord root="I"/>, label <chord root="IV"/> as having <em>tonic prolongation</em> function. <em>The plagal cadence and deceptive cadence are exceptions to the harmonic flowchart</em>.</p>
             <p>Here is the Harmonic Flowchart in minor. Note the addition of the subtonic <chord root="VII"/> chord, which has one function<mdash/>to progress to <chord root="III"/>.</p>
             <figure>
                 <caption>Harmonic Flowchart in Minor</caption>
@@ -737,7 +737,7 @@
     </section>
     <section xml:id="SubtonicVIIinPopMusic">
         <title>The Subtonic VII Chord in Popular Music</title>
-        <p>Although we will discuss mode mixture and the Mixolydian mode later, the ubiquity of the subtonic <idx><h>subtonic triad</h><h>in popular music in the major mode</h></idx>chord (<flat/><chord root="VII"/>) in rock and pop makes it important to discuss here.</p>
+        <p>Although we will discuss mode mixture and the Mixolydian mode later, the ubiquity of the subtonic <idx><h>subtonic triad</h><h>in popular music in the major mode</h></idx>chord (<flat/><chord root="VII"/>) in rock and popular music makes it important to discuss here.</p>
         <p>The <flat/><chord root="VII"/> chord can precede tonic, dominant, and pre-dominant chords, which means it can substitute for any function except tonic.</p>
         <figure xml:id="SubtonicVIIFlowchart">
             <caption>Harmonic Flowchart for Popular Music with Subtonic <chord root="VII"/> chord in Major</caption>
@@ -760,7 +760,7 @@
             </sbsgroup>
         </figure>
         <p>Consider the following questions: When a phrase ends on the <chord root="IV"/> chord, does it have dominant function (i.e, is it a half cadence)? Does <chord root="IV"/> have dominant function in popular music when it progresses to <chord root="I"/>? If so, does <flat/><chord root="VII"/> have pre<ndash/>dominant function in the above progression?</p>
-        <p>Notice that <flat/><chord root="VII"/> begings the phrase in the following example, and proceeds to a <chord root="IV"/><ndash/><chord root="I"/> conclusion.</p>
+        <p>Notice that <flat/><chord root="VII"/> begins the phrase in the following example, and proceeds to a <chord root="IV"/><ndash/><chord root="I"/> conclusion.</p>
         <figure>
             <caption>U2, <q>Desire</q> (bass line and chords)</caption>
             <idx><h>songs (popular)</h><h><q>Desire</q> (U2)</h></idx>
@@ -813,7 +813,7 @@
             <image source="images/unit2/harmony-bestseller-basic-version"/>
         </figure>
         <p>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression occurs in many popular songs, has a <url href="https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression">
-        Wikipedia page</url>, and has been <url href="http://www.newyorker.com/books/page-turner/the-bestseller-code-tells-us-what-we-already-know">mentioned in a New Yorker article</url> about bestselling novels  (see the third paragraph from the end of the article). The music group Axis of Awesome made <url href="https://youtu.be/oOlDewpCfZQ">a compilation of several songs</url> with the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression that makes for an entertaining summary (warning: there is some language after the 5<ndash/>minute mark). The song titles and artists are in the information section of the video.</p>
+        Wikipedia page</url>, and has been <url href="http://www.newyorker.com/books/page-turner/the-bestseller-code-tells-us-what-we-already-know">mentioned in a New Yorker article</url> about bestselling novels  (see the third paragraph from the end of the article). The music group Axis of Awesome made <url href="https://youtu.be/oOlDewpCfZQ">a compilation of several songs</url> with the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression that makes for an entertaining summary (warning: there is some language after the 5<ndash/>minute mark).</p>
         <p>Here is a written<ndash/>out example that includes the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression.</p>
         <figure>
             <caption>Adkins and Wilson, <q>Someone Like You</q></caption>
