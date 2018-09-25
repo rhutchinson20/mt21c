@@ -28,6 +28,7 @@
         <xi:include href="./EnharmonicModulation.xml"/>
         <xi:include href="./BinaryAndTernaryForm.xml"/>
         <xi:include href="./SonataAndRondoForms.xml"/>
+        <xi:include href="./VoiceLeadingTriads.xml"/>
         <xi:include href="./backmatter.xml"/>
     </book>
 </mathbook>

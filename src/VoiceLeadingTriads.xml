@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="VoiceLeadingTriads">
+    <title>Voice Leading Triads</title>
+    <section xml:id="VoiceLeading">
+        <title>Voice Leading</title>
+        <p><term>Voice leading</term><idx><h>voice leading</h><h>definition of</h></idx>, also known as part writing, refers to rules about melodic motions of voices involved in harmonic progressions. The primary concerns behind voice leading rules are independence of parts, voicing of chords, and economy of melodic motion for the sake of singable parts.</p>
+        <p><q>SATB</q> voice leading refers to four<ndash/>part chords scored for soprano (S), alto (A), tenor (T), and bass (B) voices. Three<ndash/>part chords are often specified as SAB (soprano, alto, bass) but could be scored for any combination of three voice types. SATB voice leading will also be referred to as <q>chorale<ndash/>style</q> voice leading.</p>
+        <figure>
+            <caption>Soprano, Alto, Tenor, and Bass voices on the grand staff in <q>chorale<ndash/>style</q> voice leading</caption>
+            <sidebyside margins="25%">
+                <image source="images/unit8/voiceleading-satb-example">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p><q>Piano<ndash/>style</q> voice leading means the three upper parts are in the upper staff (the right hand part) and the bass is the only voice in bass clef (the left hand part).</p>
+        <figure>
+            <caption><q>Piano<ndash/>style</q> voice leading</caption>
+            <sidebyside margins="25%">
+                <image source="images/unit8/voiceleading-piano-style-example">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+    </section>
+    <section xml:id="TypesOfMotion">
+        <title>Types of Motion</title>
+        <p>Definitions must be set out regarding types of motion between two parts.</p>
+        <ul>
+            <li><p><em>Contrary motion</em> occurs when the two voices move in opposite direction to each other by step or leap.</p></li>
+            <li><p><em>Oblique motion</em> occurs when one voice stays the same and the other voice moves up or down by step or leap.</p></li>
+            <li><p><em>Similar motion</em> occurs when both voices move in the same (or <q>similar</q>) direction<mdash/>both up (by step or leap) or both down (by step or leap)</p></li>
+            <li><p><em>Parallel motion</em> is a specific type of similar motion and occurs when both voices move in the same direction by the same interval—both up by step, or both down by a third. Parallel motion is also known as <em>direct motion</em>.</p></li>
+        </ul>
+        <figure>
+            <caption>The four types of motion</caption>
+            <sidebyside>
+                <image source="images/unit8/voiceleading-types-of-motion">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+    </section>
+    <section xml:id="ObjectionableParallels">
+        <title>Objectionable Parallels</title>
+        <p>When writing in three or four parts, avoid having any two voices move in parallel fifths or parallel octaves (and their octave equivalents<mdash/>parallel twelfths and parallel unisons). In the Renaissance, Baroque, Classical, and Romantic eras, these objectional parallels were thought to destroy the independence of the voices. Parallel 3rds, 4ths, and 6ths were considered acceptable. Parallel 2nds and 7ths generally were not used.</p>
+        <figure>
+            <caption>Objectionable parallel fifths and parallel octaves</caption>
+            <sidebyside>
+                <image source="images/unit8/voiceleading-objectionable-parallels">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+    </section>
+    <section xml:id="VoiceRanges">
+        <title>Voice Ranges</title>
+        <p>For the purpose of music theory class, we will set out restrictions for voice ranges that are likely more limited than those found among vocalists in the class. These voice ranges are based on those most commonly found in J.S. Bach’s <pubtitle>371 Chorales</pubtitle>.</p>
+        <figure>
+            <caption>Voice ranges for  soprano, alto, tenor, and bass voices</caption>
+            <sidebyside>
+                <image source="images/unit8/voiceleading-voice-ranges">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+    </section>
+    <section xml:id="RulesOfMelody">
+        <title>Rules of Melody</title>
+        <p>Rules of melody have been included in books on composing, writing counterpoint, and music theory for centuries. The purpose of the rules of melody as described in this text are to aid in the construction of singable melodies and to reflect a summary of melodic practice in music. (Remember that each part in an SATB composition is considered a melody.) Because these rules of melody are based stylistically on the melodies found in J.S. Bach’s <pubtitle>371 Chorales</pubtitle>, you will no doubt be familiar with exceptions that have occurred in music composed since Bach’s death in 1750.</p>
+        <ol>
+            <li><p xml:id="TendencyTones"><term>Tendency tones</term><idx><h>tendency tones</h></idx> should resolve: <scaledeg>7</scaledeg> goes to <scaledeg>8</scaledeg> and, to a lesser extent, <scaledeg>4</scaledeg> goes to <scaledeg>3</scaledeg> (other tendency tones are <scaledeg>6</scaledeg> and <scaledeg>2</scaledeg>, both of which should resolve down by step)</p></li>
+            <li><p>Avoid augmented intervals</p></li>
+            <li><p>Leaps larger than a 4th and leaps of diminished intervals should change direction after the leap</p></li>
+            <li><p>Consecutive leaps should outline a triad</p></li>
+        </ol>
+        <p>The following example demonstrates how difficult a melody can be to sing when these rules are broken</p>
+        <figure>
+            <caption/>
+            <sidebyside>
+                <image source="images/unit8/voiceleading-rules-of-melody-broken">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+    </section>
+
+    <section xml:id="RulesOfSpacing">
+        <title>Rules of Spacing</title>
+        <p>Generally, the upper three voice parts (soprano, alto, and tenor) are kept close together. The general rule of spacing is to keep the distance between soprano and alto as well as the distance between alto to tenor within an octave of each other. Allowing a distance greater than an octave between soprano and alto (or between alto and tenor) is considered <term>spacing error</term><idx><h>spacing error</h></idx>. The distance from the bass to the tenor can be greater than an octave.</p>
+        <figure>
+            <caption/>
+            <sidebyside margins="25%">
+                <image source="images/unit8/voiceleading-spacing-guidelines">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>In terms of spacing chords, one should consider the spacing that occurs in the overtone series.</p>
+        <figure>
+            <caption>Overtone series starting on C2</caption>
+            <sidebyside margins="15%">
+                <image source="images/unit8/voiceleading-overtone-series">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Larger spaces between notes occur lower in the overtone series. Consider the voicings of the following chords. Some <q>ring</q> or resonate better than others. Notice that all of the notes fall within the voice ranges specified <xref ref="VoiceRanges" text="title">above</xref>.</p>
+        <figure>
+            <caption/>
+            <sidebyside>
+                <image source="images/unit8/voiceleading-many-chord-spacings">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+    </section>
+    <section xml:id="VoiceLeadingFourPartsRootPosition">
+        <title>Voice<ndash/>leading Root Position Triads in Four Parts</title>
+        <introduction>
+            <p>We are writing in four parts but triads have three notes. We will double the root of every root position chord. (The root is in the bass when a triad is in root position, so we are doubling the bass note in an upper part.)</p>
+            <principle xml:id="doubling-root-principle">
+                <title>Doubling rule for root position triads</title>
+                <statement>
+                    <p>Always double the root in root position triads.</p>
+                </statement>
+            </principle>
+            <p>To move from one chord to the next, consider the interval that occurs melodically in the bass line between the current chord and subsequent one.</p>
+        </introduction>
+        <subsection xml:id="root-position-triads-3rd-or-6th">
+            <title>Bass movement of the interval of a 3rd or 6th</title>
+            <p>In the upper three parts (soprano, alto, and tenor): retain the two common tones and move the other voice by step</p>
+            <figure>
+                <caption/>
+                <sidebyside>
+                    <image source="images/unit8/voice-leading-3rd-or-6th-in-bass">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+        </subsection>
+        <subsection xml:id="root-position-triads-4th-or-5th">
+            <title>Bass movement of the interval of a 4th or 5th</title>
+            <p>In the upper three parts, do one of the following:</p>
+            <ol>
+                <li><p>Retain the common tone and move the other two voices by step</p>
+                <sidebyside>
+                    <image source="images/unit8/voiceleading-4th-or-5th-in-bass">
+                        <description/>
+                    </image>
+                </sidebyside></li>
+                <li><p>Move all of the upper voices in the same direction</p>
+                <sidebyside>
+                    <image source="images/unit8/voiceleading-4th-or-5th-part-2">
+                        <description/>
+                    </image>
+                </sidebyside></li>
+            </ol>
+        </subsection>
+        <subsection xml:id="root-position-triads-2nd">
+            <title>Bass movement of the interval of a 2nd</title>
+            <p>Move the three upper parts in contrary motion to the bass line.</p>
+            <figure>
+                <caption/>
+                <sidebyside margins="25%">
+                    <image source="images/unit8/voiceleading-2nd-in-bass">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <p><em>Exception</em>: When the bass moves by the interval of a 2nd in the deceptive cadence in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass. In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice<ndash/>leading solution if <scaledeg>7</scaledeg>  is in the soprano voice (because it is a <xref ref="TendencyTones" text="title">tendency tone</xref>).</p>
+            <figure>
+                <caption>Voice leading the deceptive cadence in minor</caption>
+                <sidebyside>
+                    <image source="images/unit8/voice-leading-deceptive-cadence-minor">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <p>The following two examples demonstrate the two possible ways to deal with the deceptive cadence in the major mode.</p>
+            <figure>
+                <caption><scaledeg>7</scaledeg> in the soprano voice in the deceptive cadence in major</caption>
+                <sidebyside margins="25%">
+                    <image source="images/unit8/voice-leading-deceptive-cadence-A">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <figure>
+                <caption><scaledeg>7</scaledeg> in an inner voice in the deceptive cadence in major</caption>
+                <sidebyside margins="25%">
+                    <image source="images/unit8/voice-leading-deceptive-cadence-B">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+        </subsection>
+        <subsection xml:id="voiceleading-repetition-of-bass-note">
+            <title>Repetition of the bass note</title>
+            <p>Repeat the upper three notes or arpeggiate the upper notes to different chord members while maintaining the voicing of a doubled the root, one 3rd and one 5th.</p>
+            <figure>
+                <caption>Repeated notes in the bass line</caption>
+                <sidebyside>
+                    <image source="images/unit8/voice-leading-repeated-roots-in-bass">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+        </subsection>
+    </section>
+
+
+    <exercises xml:id="VoiceLeadingTriadsPracticeExercises">
+        <title>Practice Exercises</title>
+        <exercisegroup>
+            <introduction>
+                <p>Day One</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>For bass movement of a 3rd or 6th, in the upper voices hold one common tone and move the other two voices by step. For bass movement of a 2nd, move the upper voices in contrary motion to the bass with the exception of the deceptive cadence, which has special rules. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
+                    <sidebyside>
+                        <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>For bass movement of a 4th, either (1) hold one common tone and move the two voices by step, or (2) move the upper voices in the same direction. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
+                    <sidebyside>
+                        <image source="images/unit8/PRAC-EXER-voiceleading-4ths">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit8/PRAC-EXER-voiceleading-4ths-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Two</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>Given the bass line and figured bass symbols, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>chorale<ndash/>style,</q> following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the number of times the bass moves by the interval of a 2nd.</p>
+                    <sidebyside>
+                        <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>Given the bass line, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>keyboard<ndash/>style</q> (all three upper voices in the treble clef), following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the direction of the bass line.</p>
+                    <sidebyside>
+                        <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup> 
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_38.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_39.pdf">here to download the second homework assignment for this chapter.</url></p>
+        </conclusion>
+    </exercises>
+</chapter>

@@ -69,415 +69,410 @@
             <blockquote><p>The exposition of a sonata form presents the thematic material and articulates the movement from tonic to dominant in various ways so that it takes on the character of a polarization or opposition. The essential character of this opposition may be defined as a large<ndash/>scale dissonance: the material played outside the tonic (i.e., in the second group) is dissonant with respect to the center of stability, or tonic. Sonata style did not invent this concept of <em>dissonant section</em>, but it was the first style to make it the generating force of an entire movement.<fn><pubtitle>Sonata Forms</pubtitle>, Revised Edition, 1988, p. 229</fn></p></blockquote>
             <p>Rosen continues:</p>
             <blockquote><p>The dominant is conceived as a <em>dissonant tonality</em> in the exposition....The polarization, in fact, leads to the concept of a <em>dissonant section</em>, which raises the dissonant interval or chord to a higher power: that is, a simple reintroduction of the tonic key will no longer serve as a resolution, but the section outside the tonic needs to be resolved as a whole.<fn><pubtitle>Sonata Forms</pubtitle>, Revised Edition, 1988, p. 244</fn></p></blockquote>
-            </subsection>
-            <subsection xml:id="MonothematicSonata">
-                <title>The Monothematic Sonata</title>
-                <p>Haydn was especially fond of restating the Primary Theme in the dominant where the Secondary Theme would normally occur. This reinforces the idea that the tonal design of a sonata was as important as thematic design.</p>
-            </subsection>
-        </section>
-        <section xml:id="FourStructuralFunctions">
-            <title>The Four Structural Functions in Music</title>
-            <introduction>
-                <p>In the <q>Structural Functions</q> chapter of <pubtitle>A Practical Approach to the Study of Form in Music</pubtitle>, Peter Temko and Peter Spencer enumerate four structural functions.</p>
-                <ol>
-                    <li><p>Expository function</p></li>
-                    <li><p>Transitional function</p></li>
-                    <li><p>Developmental function</p></li>
-                    <li><p>Terminative function</p></li>
-                </ol>
-            </introduction>
-            <subsection xml:id="ExpositoryFunction">
-                <title>Expository Function</title>
-                <p>Music expressing <term>expository function</term><idx><h>expository function</h><h>definition of</h></idx> maintains a stable tonal center and clear melodies, usually with well<ndash/>defined phrases. The vast majority of the music we encountered in binary and ternary form in the last chapter was expository in nature. Additionally, the primary and secondary themes in a sonata form are usually have expository function. Below is the secondary theme from the first movement of Mozart’s Piano Sonata, K. 333.</p>
-                <figure>
-                    <caption>Mozart, Piano Sonata, K. 333, I, Secondary Theme</caption>
-                    <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 333, I</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-K333-I-ST-A">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-K333-I-ST-B">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-K333-I-ST-C">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-K333-I-ST-D">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="ag81EMx1j28" start="329" end="357" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
-                </figure>
-                <p>Notice the perfect authentic cadence that closes off this four<ndash/>phrase parallel double period within the larger sonata form. Cadences are important demarcations within a form.</p>
-            </subsection>
-            <subsection xml:id="TransitionalFunction">
-                <title>Transitional Function</title>
-                <p>Music of <term>transitional function</term><idx><h>transitional function</h><h>definition of</h></idx> moves from one tonal center to another and often features a contrasting accompanimental texture more rhythmically active than preceding expository material. Tonicizations may also occur within a transition. Transitions are sometimes called bridges. Mozart and Haydn often ended their sonata form transitions with a half cadence followed by a rest to signal that the secondary theme was about to commence. Again, notice the importance of cadences to demarcate the form.</p>
-                <figure>
-                    <caption>Haydn, Piano Sonata in C major, Hob. XVI:35, I.</caption>
-                    <idx><h>Haydn</h><h>Piano Sonata in C major, Hob. XVI:35, I.</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-haydn-XVI35-I-A">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-haydn-XVI35-I-B">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-haydn-XVI35-I-C">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-haydn-XVI35-I-D">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-haydn-XVI35-I-E">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-haydn-XVI35-I-F">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-haydn-XVI35-I-G">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-haydn-XVI35-I-H">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="Lfq9P-zT_0I" start="0" end="47" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
-                </figure>
-                <figure>
-                    <caption>Mozart, Piano Sonata, K. 284, I.</caption>
-                    <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 284, I</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-moz-284-I-A">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-moz-284-I-B">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-moz-284-I-C">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-moz-284-I-D">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-moz-284-I-E">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-trans-moz-284-I-F">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="099rHOsVNn0" start="2" end="40" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
-                </figure>
-            </subsection>
-            <subsection xml:id="DevelopmentalFunction">
-                <title>Developmental Function</title>
-                <p>Music with <term>developmental function</term><idx><h>developmental function</h><h>definition of</h></idx> often contains sequences and fragmentation of earlier melodies. In addition, developmental music modulates through multiple keys. Phrase lengths may be irregular and <xref ref="Elision" text="title">elisions</xref> may be used by the composer to keep the listener off balance.</p>
-                <p>It can sometimes be difficult to distinguish between transitional and developmental music. A development section is typically longer than a transition and therefore will contain more sections of a varying nature and as well as a greater number of modulations.</p>
-                <p>Examples from a development section can be found in <xref ref="MotiveSection" text="type-global"/> of this text. Note the fragmentation and sequencing of melodic ideas as well as the different keys expressed in the examples throughout that section.</p>
-            </subsection>
-            <subsection xml:id="TerminativeFunction">
-                <title>Terminative Function</title>
-                <p><term>Terminative function</term><idx><h>terminative function</h><h>definition of</h></idx> is typically expressed through a rather emphatic alternation of tonic and dominant harmonies, usually to affirm a tonal center. The closing theme of a sonata has terminative function.</p>
-                <figure>
-                    <caption>Mozart, Symphony No. 41, K. 551, I., Closing Theme</caption>
-                    <idx><h>Mozart, W.A.</h><h>Symphony No. 41, K. 551, I.</h><h>Terminative function in Closing Theme</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-term-moz-551-I">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="jVPDANe91d4" start="360" end="366" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
-                </figure>
-                <figure>
-                    <caption>Beethoven, <pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, III, Closing Theme (1802)</caption>
-                    <idx><h>Beethoven</h><h><pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, III</h><h>Terminative function in Closing Theme</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-term-beeth-moon-III-A">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-term-beeth-moon-III-B">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside>
-                            <image source="images/unit7/sonata-term-beeth-moon-III-C">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="aOzWTNaQRxQ" start="81" end="93" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
-                </figure>
-                <p>Go to the <xref ref="SonataAndRondoPracticeExercises" text="title">Practice Exercises</xref> at the end of this chapter to practice identifying these four structural functions aurally.</p>
-            </subsection>
-        </section>
-        <section xml:id="RondoForm">
-            <title>Rondo Form</title>
-            <introduction><p>A <term>rondo</term><idx><h>rondo form</h></idx> is a piece that begins with a refrain (an A section) that alternates with episodes (B and C). The 5-part rondo, an example of which we encountered in an earlier chapter, has ABACA form or ABABA form. The 7<ndash/>part rondo typically has ABACABA form, although other designs exist. A diagram for 7<ndash/>part Classical form is shown below.</p>
-            <sidebyside>
-                <image source="images/unit7/rondo-DIAGRAM">
-                    <description/>
-                </image>
+        </subsection>
+        <subsection xml:id="MonothematicSonata">
+            <title>The Monothematic Sonata</title>
+            <p>Haydn was especially fond of restating the Primary Theme in the dominant where the Secondary Theme would normally occur. This reinforces the idea that the tonal design of a sonata was as important as thematic design.</p>
+        </subsection>
+    </section>
+    <section xml:id="FourStructuralFunctions">
+        <title>The Four Structural Functions in Music</title>
+        <introduction>
+            <p>In the <q>Structural Functions</q> chapter of <pubtitle>A Practical Approach to the Study of Form in Music</pubtitle>, Peter Temko and Peter Spencer enumerate four structural functions.</p>
+            <ol>
+                <li><p>Expository function</p></li>
+                <li><p>Transitional function</p></li>
+                <li><p>Developmental function</p></li>
+                <li><p>Terminative function</p></li>
+            </ol>
+        </introduction>
+        <subsection xml:id="ExpositoryFunction">
+            <title>Expository Function</title>
+            <p>Music expressing <term>expository function</term><idx><h>expository function</h><h>definition of</h></idx> maintains a stable tonal center and clear melodies, usually with well<ndash/>defined phrases. The vast majority of the music we encountered in binary and ternary form in the last chapter was expository in nature. Additionally, the primary and secondary themes in a sonata form are usually have expository function. Below is the secondary theme from the first movement of Mozart’s Piano Sonata, K. 333.</p>
+            <figure>
+                <caption>Mozart, Piano Sonata, K. 333, I, Secondary Theme</caption>
+                <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 333, I</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-K333-I-ST-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-K333-I-ST-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-K333-I-ST-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-K333-I-ST-D">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="ag81EMx1j28" start="329" end="357" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>Notice the perfect authentic cadence that closes off this four<ndash/>phrase parallel double period within the larger sonata form. Cadences are important demarcations within a form.</p>
+        </subsection>
+        <subsection xml:id="TransitionalFunction">
+            <title>Transitional Function</title>
+            <p>Music of <term>transitional function</term><idx><h>transitional function</h><h>definition of</h></idx> moves from one tonal center to another and often features a contrasting accompanimental texture more rhythmically active than preceding expository material. Tonicizations may also occur within a transition. Transitions are sometimes called bridges. Mozart and Haydn often ended their sonata form transitions with a half cadence followed by a rest to signal that the secondary theme was about to commence. Again, notice the importance of cadences to demarcate the form.</p>
+            <figure>
+                <caption>Haydn, Piano Sonata in C major, Hob. XVI:35, I.</caption>
+                <idx><h>Haydn</h><h>Piano Sonata in C major, Hob. XVI:35, I.</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-D">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-E">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-F">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-G">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-H">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="Lfq9P-zT_0I" start="0" end="47" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <figure>
+                <caption>Mozart, Piano Sonata, K. 284, I.</caption>
+                <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 284, I</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-moz-284-I-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-moz-284-I-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-moz-284-I-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-moz-284-I-D">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-moz-284-I-E">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-trans-moz-284-I-F">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="099rHOsVNn0" start="2" end="40" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+        </subsection>
+        <subsection xml:id="DevelopmentalFunction">
+            <title>Developmental Function</title>
+            <p>Music with <term>developmental function</term><idx><h>developmental function</h><h>definition of</h></idx> often contains sequences and fragmentation of earlier melodies. In addition, developmental music modulates through multiple keys. Phrase lengths may be irregular and <xref ref="Elision" text="title">elisions</xref> may be used by the composer to keep the listener off balance.</p>
+            <p>It can sometimes be difficult to distinguish between transitional and developmental music. A development section is typically longer than a transition and therefore will contain more sections of a varying nature and as well as a greater number of modulations.</p>
+            <p>Examples from a development section can be found in <xref ref="MotiveSection" text="type-global"/> of this text. Note the fragmentation and sequencing of melodic ideas as well as the different keys expressed in the examples throughout that section.</p>
+        </subsection>
+        <subsection xml:id="TerminativeFunction">
+            <title>Terminative Function</title>
+            <p><term>Terminative function</term><idx><h>terminative function</h><h>definition of</h></idx> is typically expressed through a rather emphatic alternation of tonic and dominant harmonies, usually to affirm a tonal center. The closing theme of a sonata has terminative function.</p>
+            <figure>
+                <caption>Mozart, Symphony No. 41, K. 551, I., Closing Theme</caption>
+                <idx><h>Mozart, W.A.</h><h>Symphony No. 41, K. 551, I.</h><h>Terminative function in Closing Theme</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-term-moz-551-I">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="jVPDANe91d4" start="360" end="366" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <figure>
+                <caption>Beethoven, <pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, III, Closing Theme (1802)</caption>
+                <idx><h>Beethoven</h><h><pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, III</h><h>Terminative function in Closing Theme</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-term-beeth-moon-III-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-term-beeth-moon-III-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit7/sonata-term-beeth-moon-III-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="aOzWTNaQRxQ" start="81" end="93" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>Go to the <xref ref="SonataAndRondoPracticeExercises" text="title">Practice Exercises</xref> at the end of this chapter to practice identifying these four structural functions aurally.</p>
+        </subsection>
+    </section>
+    <section xml:id="RondoForm">
+        <title>Rondo Form</title>
+        <introduction><p>A <term>rondo</term><idx><h>rondo form</h></idx> is a piece that begins with a refrain (an A section) that alternates with episodes (B and C). The 5-part rondo, an example of which we encountered in an earlier chapter, has ABACA form or ABABA form. The 7<ndash/>part rondo typically has ABACABA form, although other designs exist. A diagram for 7<ndash/>part Classical form is shown below.</p>
+        <sidebyside>
+            <image source="images/unit7/rondo-DIAGRAM">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>The refrain (the A section) is always in tonic. The first episode (the B section) was typically in a closely related key—the dominant (V) if in major or the mediant (III) if in minor. There was greater variety of keys used for the second episode (the C section), including tonic minor in a major sonata or the submediant (vi or VI). A retransition in this case is defined as a transition returning to material previously heard.</p>
+        <p>Note that the B section being first stated in the dominant then later in tonic is an example of sonata principle, a principle which occurred in many Classical era pieces (see Charles Rosen’s <pubtitle>Sonata Forms</pubtitle> for more on sonata principle).</p>
+        <p>An example of Classical seven<ndash/>part rondo form is found below in the third and final movement of Beethoven’s Path&#x00E9;tique Sonata, Op. 13.</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III (1798), Refrain</caption>
+            <idx><h>Beethoven</h><h>Path&#x00E9;tique Sonata, Op. 13, III</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit7/rondo-path-iii-A">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="05Xyc2FHHRI" start="0" end="20" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>A brief sequential transition follows, leading to the mediant (E<flat/> major).</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Transition</caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit7/rondo-path-iii-B">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="05Xyc2FHHRI" start="20" end="29" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>The first episode (the B section) is in the mediant, Eb major, the relative major of C minor. The primary purpose of this first episode to establish a key different than the starting key. Notice that the themes during this episode are not particularly tuneful.</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, First Episode</caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit7/rondo-path-iii-C">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="05Xyc2FHHRI" start="28" end="50" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>The final melody of the first episode is clearly in the form of a parallel period.</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Conclusion of First Episode</caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit7/rondo-path-iii-D">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="05Xyc2FHHRI" start="50" end="60" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>A retransition follows and leads to a half cadence on a G major chord. The refrain follows in C minor.</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Retransition to Second Refrain</caption>
+            <sidebyside margins="37%">
+                <video youtube="05Xyc2FHHRI" start="59" end="93" play-at="select" preview="generic"/>
             </sidebyside>
-            <p>The refrain (the A section) is always in tonic. The first episode (the B section) was typically in a closely related key—the dominant (V) if in major or the mediant (III) if in minor. There was greater variety of keys used for the second episode (the C section), including tonic minor in a major sonata or the submediant (vi or VI). A retransition in this case is defined as a transition returning to material previously heard.</p>
-            <p>Note that the B section being first stated in the dominant then later in tonic is an example of sonata principle, a principle which occurred in many Classical era pieces (see Charles Rosen’s <pubtitle>Sonata Forms</pubtitle> for more on sonata principle).</p>
-            <p>An example of Classical seven<ndash/>part rondo form is found below in the third and final movement of Beethoven’s Path&#x00E9;tique Sonata, Op. 13.</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III (1798), Refrain</caption>
-                <idx><h>Beethoven</h><h>Path&#x00E9;tique Sonata, Op. 13, III</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/rondo-path-iii-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="05Xyc2FHHRI" start="0" end="20" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
-            </figure>
-            <p>A brief sequential transition follows, leading to the mediant (E<flat/> major).</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Transition</caption>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/rondo-path-iii-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="05Xyc2FHHRI" start="20" end="29" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
-            </figure>
-            <p>The first episode (the B section) is in the mediant, Eb major, the relative major of C minor. The primary purpose of this first episode to establish a key different than the starting key. Notice that the themes during this episode are not particularly tuneful.</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, First Episode</caption>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/rondo-path-iii-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="05Xyc2FHHRI" start="28" end="50" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
-            </figure>
-            <p>The final melody of the first episode is clearly in the form of a parallel period.</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Conclusion of First Episode</caption>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/rondo-path-iii-D">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="05Xyc2FHHRI" start="50" end="60" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
-            </figure>
-            <p>A retransition follows and leads to a half cadence on a G major chord. The refrain follows in C minor.</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Retransition to Second Refrain</caption>
-                <sidebyside margins="37%">
-                    <video youtube="05Xyc2FHHRI" start="59" end="93" play-at="select" preview="generic"/>
+        </figure>
+        <p>The second episode (the C section) follows immediately after the refrain. The second episode is in A<flat/> major, the submediant (VI) of C minor.</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Second Episode</caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit7/rondo-path-iii-E">
+                        <description/>
+                    </image>
                 </sidebyside>
-            </figure>
-            <p>The second episode (the C section) follows immediately after the refrain. The second episode is in A<flat/> major, the submediant (VI) of C minor.</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Second Episode</caption>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/rondo-path-iii-E">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="05Xyc2FHHRI" start="92" end="126" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
-            </figure>
-            <p>A retransition follows the second episode, ending on a half cadence on G major.</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Retransition to Third Refrain</caption>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/rondo-path-iii-F">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="05Xyc2FHHRI" start="125" end="159" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
-            </figure>
-            <p>An abbreviated version of the refrain follows, leading directly to a restatement of the second episode (the B section), this time in tonic major (C major).</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Third Refrain and Second Episode restated in tonic</caption>
                 <sidebyside margins="37%">
-                    <video youtube="05Xyc2FHHRI" start="158" end="187" play-at="select" preview="generic"/>
+                    <video youtube="05Xyc2FHHRI" start="92" end="126" play-at="select" preview="generic"/>
                 </sidebyside>
-            </figure>
-            <p>Following the Second Episode is brief retransition that develops final motives of that episode through sequences.</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Retransition to Final Refrain</caption>
+            </sbsgroup>
+        </figure>
+        <p>A retransition follows the second episode, ending on a half cadence on G major.</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Retransition to Third Refrain</caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit7/rondo-path-iii-F">
+                        <description/>
+                    </image>
+                </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="05Xyc2FHHRI" start="186" end="204" play-at="select" preview="generic"/>
+                    <video youtube="05Xyc2FHHRI" start="125" end="159" play-at="select" preview="generic"/>
                 </sidebyside>
-            </figure>
-            <p>After one last statement of the refrain in C minor, the Coda begins immediately after the cadence closing the refrain.</p>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Final Refrain</caption>
+            </sbsgroup>
+        </figure>
+        <p>An abbreviated version of the refrain follows, leading directly to a restatement of the second episode (the B section), this time in tonic major (C major).</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Third Refrain and Second Episode restated in tonic</caption>
+            <sidebyside margins="37%">
+                <video youtube="05Xyc2FHHRI" start="158" end="187" play-at="select" preview="generic"/>
+            </sidebyside>
+        </figure>
+        <p>Following the Second Episode is brief retransition that develops final motives of that episode through sequences.</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Retransition to Final Refrain</caption>
+            <sidebyside margins="37%">
+                <video youtube="05Xyc2FHHRI" start="186" end="204" play-at="select" preview="generic"/>
+            </sidebyside>
+        </figure>
+        <p>After one last statement of the refrain in C minor, the Coda begins immediately after the cadence closing the refrain.</p>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Final Refrain</caption>
+            <sidebyside margins="37%">
+                <video youtube="05Xyc2FHHRI" start="203" end="217" play-at="select" preview="generic"/>
+            </sidebyside>
+        </figure>
+        <figure>
+            <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Coda</caption>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit7/rondo-path-iii-G">
+                        <description/>
+                    </image>
+                </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="05Xyc2FHHRI" start="203" end="217" play-at="select" preview="generic"/>
+                    <video youtube="05Xyc2FHHRI" start="216" end="254" play-at="select" preview="generic"/>
                 </sidebyside>
-            </figure>
-            <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III, Coda</caption>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/rondo-path-iii-G">
-                            <description/>
-                        </image>
-                    </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>To review a simple, five<nadsh/>part rondo form, see the section on the second movement of <pubtitle><xref ref="Eine-kleine-ii" text="title">Eine kleine nachtmusik</xref></pubtitle> in the chapter on <xref ref="CreatingContrast" text="title">Creating Contrast Between Sections</xref>.</p></introduction>
+        <subsection xml:id="SonataRondoForm">
+            <title>Sonata Rondo Form</title>
+            <p>Sonata rondo form is a rondo in which the second episode (the C section) is replaced by a development section, resulting in a design of A<nadsh/>B<nadsh/>A<nadsh/>Dev.<nadsh/>A<nadsh/>B<nadsh/>A.</p>
+        </subsection>
+    </section>
+    <section xml:id="RondoCharacter">
+        <title>Rondo Character</title>
+        <p>Rondo character is characterized by quick tempo in duple meter with light character, typically achieved through the use of staccato articulation. This duple meter could be either simple (<timesignature top="2" bottom="4"/>) or compound (<timesignature top="6" bottom="8"/>). During the Classical era, the final movement of a multi-movement composition, e.g. a sonata, quartet, or symphony, was often in rondo character. Not all pieces in rondo form are in rondo character.</p>
+        <p>Listen to the following six examples to develop familiarity with rondo character.</p>
+        <ol>
+            <li>
+                <figure>
+                    <caption>Haydn, Piano Sonata in D major, H.XVI No.37, III.</caption>
                     <sidebyside margins="37%">
-                        <video youtube="05Xyc2FHHRI" start="216" end="254" play-at="select" preview="generic"/>
+
+                        <video youtube="LBYaOHbKIOw" play-at="select" preview="generic"/>
                     </sidebyside>
-                </sbsgroup>
-            </figure>
-            <p>To review a simple, five<nadsh/>part rondo form, see the section on the second movement of <pubtitle><xref ref="Eine-kleine-ii" text="title">Eine kleine nachtmusik</xref></pubtitle> in the chapter on <xref ref="CreatingContrast" text="title">Creating Contrast Between Sections</xref>.</p></introduction>
-            <subsection xml:id="SonataRondoForm">
-                <title>Sonata Rondo Form</title>
-                <p>Sonata rondo form is a rondo in which the second episode (the C section) is replaced by a development section, resulting in a design of A<nadsh/>B<nadsh/>A<nadsh/>Dev.<nadsh/>A<nadsh/>B<nadsh/>A.</p>
-            </subsection>
-        </section>
-        <section xml:id="RondoCharacter">
-            <title>Rondo Character</title>
-            <p>Rondo character is characterized by quick tempo in duple meter with light character, typically achieved through the use of staccato articulation. This duple meter could be either simple (<timesignature top="2" bottom="4"/>) or compound (<timesignature top="6" bottom="8"/>). During the Classical era, the final movement of a multi-movement composition, e.g. a sonata, quartet, or symphony, was often in rondo character. Not all pieces in rondo form are in rondo character.</p>
-            <p>Listen to the following six examples to develop familiarity with rondo character.</p>
-            <ol>
-                <li>
-                    <figure>
-                        <caption>Haydn, Piano Sonata in D major, H.XVI No.37, III.</caption>
-                        <sidebyside margins="37%">
-
-                            <video youtube="LBYaOHbKIOw" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </figure>
-                </li>
-                <li>
-                    <figure>
-                        <caption>Haydn, Symphony No. 104 in D major, Hob.I:104, IV.</caption>
-                        <sidebyside margins="37%">
-                            <video youtube="s2MjDg70EtM" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </figure>
-                </li>
-                <li>
-                    <figure>
-                        <caption>Haydn, String Quartet in E-flat major, Op. 33, No. 2, IV.</caption>
-                        <sidebyside margins="37%">
-                            <video youtube="YhGkLPqWjBc" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </figure>
-                </li>
-                <li>
-                    <figure>
-                        <caption>Mozart, Symphony No. 36 in C major, K.425, IV.</caption>
-                        <sidebyside margins="37%">
-                            <video youtube="nzi5h2VDmUg" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </figure>
-                </li>
-                <li>
-                    <figure>
-                        <caption>Mozart, Symphony No. 39 in E-flat major, K.543, IV.</caption>
-                        <sidebyside margins="37%">
-                            <video youtube="Dr_cQA4K62E" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </figure>
-                </li>
-                <li>
-                    <figure>
-                        <caption>Mozart, String Quartet No. 19 in C major, K.465, IV.</caption>
-                        <sidebyside margins="37%">
-                            <video youtube="paPl1dvyVWI" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </figure>
-                </li>
-            </ol>
-        </section>
-        <section>
-            <title>Standard Forms in a Multimovement Classical Piece</title>
-            <p>Below are the forms commonly encountered in the various movements of Classical symphonies, string quartets, and sonatas.</p>
-            <ol>
-                <li><p>First movement: Sonata form</p></li>
-                <li><p>Second movement: Sonatina form or five<ndash/>part Rondo</p></li>
-                <li><p>Third movement: Minuet and Trio (Compound Ternary)</p></li>
-                <li><p>Fourth movement: Rondo form or Sonata form</p></li>
-            </ol>
-        </section>
-
-
-
-
-
-        <exercises xml:id="SonataAndRondoPracticeExercises">
-            <title>Practice Exercises</title>
-            <exercisegroup>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <caption>Haydn, Symphony No. 104 in D major, Hob.I:104, IV.</caption>
+                    <sidebyside margins="37%">
+                        <video youtube="s2MjDg70EtM" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <caption>Haydn, String Quartet in E-flat major, Op. 33, No. 2, IV.</caption>
+                    <sidebyside margins="37%">
+                        <video youtube="YhGkLPqWjBc" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <caption>Mozart, Symphony No. 36 in C major, K.425, IV.</caption>
+                    <sidebyside margins="37%">
+                        <video youtube="nzi5h2VDmUg" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <caption>Mozart, Symphony No. 39 in E-flat major, K.543, IV.</caption>
+                    <sidebyside margins="37%">
+                        <video youtube="Dr_cQA4K62E" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <caption>Mozart, String Quartet No. 19 in C major, K.465, IV.</caption>
+                    <sidebyside margins="37%">
+                        <video youtube="paPl1dvyVWI" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </figure>
+            </li>
+        </ol>
+    </section>
+    <section>
+        <title>Standard Forms in a Multimovement Classical Piece</title>
+        <p>Below are the forms commonly encountered in the various movements of Classical symphonies, string quartets, and sonatas.</p>
+        <ol>
+            <li><p>First movement: Sonata form</p></li>
+            <li><p>Second movement: Ternary form (ABA), Sonatina form, or five<ndash/>part Rondo</p></li>
+            <li><p>Third movement: Minuet and Trio (Compound Ternary)</p></li>
+            <li><p>Fourth movement: Rondo form, Sonata form, or Sonata rondo form</p></li>
+        </ol>
+    </section>
+    <exercises xml:id="SonataAndRondoPracticeExercises">
+        <title>Practice Exercises</title>
+        <exercisegroup>
             <!--save for when there are Rondo exercises <introduction>
                 <p>Day One</p>
             </introduction> -->
