@@ -120,7 +120,7 @@
             </sbsgroup>
         </figure>
         <p>It is worth remembering that the cadential <chord bps="6 4"/> (or <chord root="I" bps="6 4"/>) has <xref ref="DominantFunction" text="title">dominant function</xref>, just like the <chord root="V"/> chord that usually follows it. Previously, we have called this chord <q><chord root="I" bass="5th"/>.</q></p>
-        <p>This term <q>cadential six<ndash/>four,</q> which will recur throughout the rest of this text, now that figured bass has been introduced.</p>
+        <p>We will use the term <q>cadential six<ndash/>four</q> throughout the rest of this text, now that figured bass has been introduced.</p>
     </section>
     <section xml:id="OtherOccurrencesofSixFourChords">
         <title>Other Occurrences of Six<ndash/>Four Chords</title>
@@ -154,7 +154,7 @@
             </sidebyside>
         </figure>
         <p>Additionally, you may notice that figured bass numbers in actual music (but not in Roman numeral labeling) <em>may be altered chromatically</em> with the following symbols.</p>
-        <figure>
+        <figure xml:id="FiguredBassWithChromaticAlterations">
             <caption>Figured Bass with Chromatic Alterations</caption>
             <idx><h>figured bass</h><h>chromatic alterations to</h></idx>
             <sidebyside>

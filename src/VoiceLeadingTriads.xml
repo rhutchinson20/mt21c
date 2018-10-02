@@ -208,91 +208,312 @@
             </figure>
         </subsection>
     </section>
+    <section xml:id="VoiceLeadingFirstInversionTriads">
+        <title>Voice Leading First<ndash/>Inversion Triads</title>
+        <introduction>
+            <p>Instead of focusing on the intervallic distance the bass part travels between roots of chords, voice leading first inversion triads requires focusing on the doubling or voicing of the chord itself. When approaching or leaving a first inversion chord, move as smoothly as possible while avoid objectionable parallels, spacing errors, and melodic errors.</p>
+        </introduction>
+        <subsection xml:id="VoicingFirstInversion">
+            <title>Voicing a First Inversion Chord</title>
+            <p>In contrast to the doubling rule for root position chords (i.e., <q>double the bass</q>), do <em>not</em> double the bass note for first inversion triads. Instead, double the root or fifth, depending on which can be approached and left most smoothly.</p>
+            <figure>
+                <caption/>
+                <sidebyside margins="15%">
+                    <image source="images/unit8/voiceleading-1st-inv-bach-gott-lebel">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <figure>
+                <caption/>
+                <sidebyside margins="18%">
+                    <image source="images/unit8/voiceleading-1st-inv-bach-alle-menschen">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </figure>
+            <p>If the 3rd of a first inversion <em>is</em> doubled, it will be in one of the following situations:</p>
+            <ol>
+                <li>
+                    <p>Diminished triads in first inversion<mdash/>always double the third (the bass), not the root or fifth</p>
+                    <figure>
+                        <caption>J.S. Bach, Chorale 103, <pubtitle>Nun ruhen alle W&#x00E5;lder</pubtitle></caption>
+                        <sidebyside margins="10%">
+                            <image source="images/unit8/voiceleading-1st-inv-dim-doubling">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </figure>
+                </li>
+                <li>
+                    <p>Consecutive first inversion chords<mdash/>alternate between doubling the third and not doubling the third</p>
+                    <figure>
+                        <caption>J.S. Bach, Chorale 106, <pubtitle>Jesu Leiden, Pein und Tod</pubtitle></caption>
+                        <sidebyside margins="10%">
+                            <image source="images/unit8/voiceleading-1st-inv-consec-rule">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </figure>
+                </li>
+                <li>
+                    <p>Approached in opposite direction in both parts</p>
+                    <figure>
+                        <caption>Palestrina, <pubtitle>Missa Aeterna Christi Munera</pubtitle>, Sanctus</caption>
+                        <sidebyside margins="10%">
+                            <image source="images/unit8/voiceleading-1st-inv-doubled-3rd-thru-contrary-mot">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </figure>
+                </li>
+            </ol>
+            <p>Note that you should never double the third of the V chord because it is the leading tone (<scaledeg>7</scaledeg>).</p>
+        </subsection>
+    </section>
+    <section xml:id="VoiceLeadingSecondInversionTriads">
+        <title>Voice Leading Second Inversion Triads</title>
+        <p>When a triad is in second inversion, double the fifth (the bass note).</p>
+        <figure>
+            <caption>J.S. Bach, Chorale 204, <pubtitle>Wer wei&#x00DF;, wie nahe mir</pubtitle></caption>
+            <sidebyside margins="10%">
+                <image source="images/unit8/voiceleading-2nd-inv-doubling">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+    </section>
+    <section xml:id="TypesOfSixFourChords">
+        <title>Types of Six<ndash/>Four Chords</title>
+        <p>When you are harmonizing melodies and writing music, there are three situations where it is appropriate to use a <chord bps="6 4"/> chord.</p>
+        <ol>
+            <li><p>Pedal <chord bps="6 4"/></p></li>
+            <li><p>Passing <chord bps="6 4"/></p></li>
+            <li><p>Cadential <chord bps="6 4"/></p></li>
+        </ol>
+        <p>The pedal <chord bps="6 4"/> typically occurs in the patterns I<ndash/>IV<chord bps="6 4"/><ndash/>I or V<ndash/>I<chord bps="6 4"/><ndash/>V.</p>
+        <figure>
+            <caption>Examples with the Pedal Six<ndash/>Four</caption>
+            <sidebyside margins="15%">
+                <image source="images/unit8/voiceleading-pedal-six-four-examples">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>The passing <chord bps="6 4"/> typically occurs in the patterns I<ndash/>V<chord bps="6 4"/><ndash/>I<chord bps="6"/> (or its retrograde) and IV<ndash/>I<chord bps="6 4"/><ndash/>IV<chord bps="6"/> (or its retrograde).</p>
+        <figure>
+            <caption>Examples with the Passing Six<ndash/>Four</caption>
+            <sidebyside margins="15%">
+                <image source="images/unit8/voiceleading-passing-six-four-examples">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>In an earlier section we discussed the <xref ref="TheCadentialSixFourChord" text="title">Cadential <chord bps="6 4"/> chord</xref>. Please refer to that section to review the cadential <chord bps="6 4"/> chord.</p>
+    </section>
+    <section xml:id="SummaryOfDoublingRules">
+        <title>Summary of Doubling Rules for Triads</title>
+        <p>To generalize, here are the doubling rules for voice leading triads in root position, first inversion, and second inversion:</p>
+        <ul>
+            <li><p>Root Position Chords: DOUBLE THE BASS</p></li>
+            <li><p>First<ndash/>Inversion Chords: DO NOT DOUBLE THE BASS
+            <ul>
+                <li><p>Exception: <chord root="vii" mode="diminished" bps="6"/>and <chord root="ii" mode="diminished" bps="6"/>: DOUBLE THE BASS</p></li>
+                <li><p>Exception: Consecutive first inversion chords<mdash/>alternate between DOUBLE THE BASS and DO NOT DOUBLE THE BASS</p></li>
+            </ul>
+        </p></li>
+        <li><p>Second<ndash/>Inversion Chords: DOUBLE THE BASS</p></li>
+    </ul>
+</section>
 
 
-    <exercises xml:id="VoiceLeadingTriadsPracticeExercises">
-        <title>Practice Exercises</title>
-        <exercisegroup>
-            <introduction>
-                <p>Day One</p>
-            </introduction>
-            <exercise>
-                <statement>
-                    <p>For bass movement of a 3rd or 6th, in the upper voices hold one common tone and move the other two voices by step. For bass movement of a 2nd, move the upper voices in contrary motion to the bass with the exception of the deceptive cadence, which has special rules. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
-                    <sidebyside>
-                        <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </statement>
-                <answer>
-                    <sidebyside>
-                        <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </answer>
-            </exercise>
-            <exercise>
-                <statement>
-                    <p>For bass movement of a 4th, either (1) hold one common tone and move the two voices by step, or (2) move the upper voices in the same direction. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
-                    <sidebyside>
-                        <image source="images/unit8/PRAC-EXER-voiceleading-4ths">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </statement>
-                <answer>
-                    <sidebyside>
-                        <image source="images/unit8/PRAC-EXER-voiceleading-4ths-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </answer>
-            </exercise>
-        </exercisegroup>
-        <exercisegroup>
-            <introduction>
-                <p>Day Two</p>
-            </introduction>
-            <exercise>
-                <statement>
-                    <p>Given the bass line and figured bass symbols, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>chorale<ndash/>style,</q> following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the number of times the bass moves by the interval of a 2nd.</p>
-                    <sidebyside>
-                        <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </statement>
-                <answer>
-                    <sidebyside>
-                        <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </answer>
-            </exercise>
-            <exercise>
-                <statement>
-                    <p>Given the bass line, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>keyboard<ndash/>style</q> (all three upper voices in the treble clef), following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the direction of the bass line.</p>
-                    <sidebyside>
-                        <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </statement>
-                <answer>
-                    <sidebyside>
-                        <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </answer>
-            </exercise>
-        </exercisegroup> 
-        <conclusion>
-            <p>Click <url href="../hw/MT21C_HW_38.pdf">here to download the first homework assignment for this chapter.</url></p>
-            <p>Click <url href="../hw/MT21C_HW_39.pdf">here to download the second homework assignment for this chapter.</url></p>
-        </conclusion>
-    </exercises>
+
+<exercises xml:id="VoiceLeadingTriadsPracticeExercises">
+    <title>Practice Exercises</title>
+    <exercisegroup>
+        <introduction>
+            <p>Day One</p>
+        </introduction>
+        <exercise>
+            <statement>
+                <p>For bass movement of a 3rd or 6th, in the upper voices hold one common tone and move the other two voices by step. For bass movement of a 2nd, move the upper voices in contrary motion to the bass with the exception of the deceptive cadence, which has special rules. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>For bass movement of a 4th, either (1) hold one common tone and move the two voices by step, or (2) move the upper voices in the same direction. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-voiceleading-4ths">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-voiceleading-4ths-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+    </exercisegroup>
+    <exercisegroup>
+        <introduction>
+            <p>Day Two</p>
+        </introduction>
+        <exercise>
+            <statement>
+                <p>Given the bass line and figured bass symbols, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>chorale<ndash/>style,</q> following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the number of times the bass moves by the interval of a 2nd.</p>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Given the bass line, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>keyboard<ndash/>style</q> (all three upper voices in the treble clef), following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the direction of the bass line.</p>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+    </exercisegroup>
+    <exercisegroup>
+        <introduction>
+            <p>Day Three</p>
+        </introduction>
+        <exercise>
+            <statement>
+                <p>Analyze the Roman numerals in the blanks below the staff and the doublings of the chords in the squares<mdash/>specifying Root, 3rd, or 5th<mdash/>for J.S. Bach's Chorale 367, <pubtitle>Befiehl du deine Wege</pubtitle>.</p>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-analyze-1st-inv-voicings">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-analyze-1st-inv-voicings-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Given the bass line and <xref ref="FiguredBassInversionSymbols" text="title"> figured bass symbols</xref>, analyze the Roman numerals and add soprano, alto, and tenor parts in chorale style. Review the special rule for doubling in diminished triads in first inversion. You may wish to review <xref ref="FiguredBassWithChromaticAlterations" text="title">figured bass with chromatic alterations</xref>.</p>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-1st-inv-w-fig-bass">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-1st-inv-w-fig-bass-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Harmonize the melody making sure your progression follows the harmonic flowchart (analyze the harmonic function of each chord, abbreviated as <q>HF</q>), then add alto, tenor, and bass parts in chorale style following rules of good voice leading. Use first<ndash/>inversion chords to make a smoother bass line.</p>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-1st-inv-harmonize-mel">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-1st-inv-harmonize-mel-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+    </exercisegroup>
+
+
+    <exercisegroup>
+        <introduction>
+            <p>Day Four</p>
+        </introduction>
+        <exercise>
+            <statement>
+                <p>Analyze the figured bass symbols to specify Roman numerals with inversion symbols below the staff. Add soprano, alto, and tenor parts in keyboard style. Specify root, third, and fifth for every chord. Additionally, specify the six<ndash/>four chord type (pedal, passing, or cadential).</p>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-2nd-inv-fig-bass">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-2nd-inv-fig-bass-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>For the given Roman numeral progression, provide soprano, alto, tenor, and bass voices in chorale style. Be careful not to exceed any voice’s range. Specify root, third, and fifth for every chord. Additionally, specify the six<ndash/>four chord type.</p>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-2nd-inv-Rom-num">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit8/PRAC-EXER-2nd-inv-Rom-num-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>
+    </exercisegroup>
+
+
+
+
+    <conclusion>
+        <p>Click <url href="../hw/MT21C_HW_38.pdf">here to download the first homework assignment for this chapter.</url></p>
+        <p>Click <url href="../hw/MT21C_HW_39.pdf">here to download the second homework assignment for this chapter.</url></p>
+        <p>Click <url href="../hw/MT21C_HW_40.pdf">here to download the third homework assignment for this chapter.</url></p>
+        <p>Click <url href="../hw/MT21C_HW_41.pdf">here to download the fourth homework assignment for this chapter.</url></p>
+    </conclusion>
+</exercises>
 </chapter>
