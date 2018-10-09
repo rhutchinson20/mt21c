@@ -217,54 +217,79 @@
             <title>Voicing a First Inversion Chord</title>
             <p>In contrast to the doubling rule for root position chords (i.e., <q>double the bass</q>), do <em>not</em> double the bass note for first inversion triads. Instead, double the root or fifth, depending on which can be approached and left most smoothly.</p>
             <figure>
-                <caption/>
-                <sidebyside margins="15%">
-                    <image source="images/unit8/voiceleading-1st-inv-bach-gott-lebel">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <caption>J.S. Bach, Chorale 237, <pubtitle>Gott lebel noch</pubtitle>, BWV 320</caption>
+                <sbsgroup>
+                    <sidebyside margins="15%">
+                        <image source="images/unit8/voiceleading-1st-inv-bach-gott-lebel">
+                            <description/> <!--109 thru 117 8ZKxI8d4VbM-->
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="8ZKxI8d4VbM" start="109" end="117" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
             <figure>
-                <caption/>
-                <sidebyside margins="18%">
-                    <image source="images/unit8/voiceleading-1st-inv-bach-alle-menschen">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <caption>J.S. Bach, Chorale 153, <pubtitle>Alle Menschen m&#x00FC;ssen sterben</pubtitle>, BWV 262</caption>
+                <sbsgroup>
+                    <sidebyside margins="18%">
+                        <image source="images/unit8/voiceleading-1st-inv-bach-alle-menschen">
+                            <description/><!--0 thru 7 3B9KD9CJ3tA -->
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="3B9KD9CJ3tA" start="0" end="7" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
             </figure>
             <p>If the 3rd of a first inversion <em>is</em> doubled, it will be in one of the following situations:</p>
             <ol>
                 <li>
                     <p>Diminished triads in first inversion<mdash/>always double the third (the bass), not the root or fifth</p>
                     <figure>
-                        <caption>J.S. Bach, Chorale 103, <pubtitle>Nun ruhen alle W&#x00E5;lder</pubtitle></caption>
-                        <sidebyside margins="10%">
-                            <image source="images/unit8/voiceleading-1st-inv-dim-doubling">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                    </figure>
+                        <caption>J.S. Bach, Chorale 103, <pubtitle>Nun ruhen alle W&#x00E4;lder</pubtitle>, BWV 392</caption>
+                        <sbsgroup>
+                            <sidebyside margins="10%">
+                                <image source="images/unit8/voiceleading-1st-inv-dim-doubling">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                            <sidebyside margins="37%">
+                                <video youtube="Lul-S82JIeM" start="6" end="13" play-at="select" preview="generic"/>
+                            </sidebyside>
+                        </sbsgroup>
+                    </figure><!--6 thru 13 Lul-S82JIeM-->
                 </li>
                 <li>
                     <p>Consecutive first inversion chords<mdash/>alternate between doubling the third and not doubling the third</p>
                     <figure>
-                        <caption>J.S. Bach, Chorale 106, <pubtitle>Jesu Leiden, Pein und Tod</pubtitle></caption>
-                        <sidebyside margins="10%">
-                            <image source="images/unit8/voiceleading-1st-inv-consec-rule">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <caption>J.S. Bach, Chorale 106, <pubtitle>Jesu Leiden, Pein und Tod</pubtitle>, BWV 245</caption>
+                        <sbsgroup>
+                            <sidebyside margins="10%">
+                                <image source="images/unit8/voiceleading-1st-inv-consec-rule">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                            <sidebyside margins="37%">
+                                <video youtube="JKuUfYyU1vw" start="23" end="30" play-at="select" preview="generic"/>
+                            </sidebyside>
+                        </sbsgroup>
                     </figure>
                 </li>
                 <li>
                     <p>Approached in opposite direction in both parts</p>
                     <figure>
                         <caption>Palestrina, <pubtitle>Missa Aeterna Christi Munera</pubtitle>, Sanctus</caption>
-                        <sidebyside margins="10%">
-                            <image source="images/unit8/voiceleading-1st-inv-doubled-3rd-thru-contrary-mot">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <sbsgroup>
+                            <sidebyside margins="10%">
+                                <image source="images/unit8/voiceleading-1st-inv-doubled-3rd-thru-contrary-mot">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                            <sidebyside margins="37%">
+                                <video youtube="7OQrWJvezT4" start="26" end="34" play-at="select" preview="generic"/>
+                            </sidebyside>
+                        </sbsgroup>
                     </figure>
                 </li>
             </ol>
@@ -275,13 +300,43 @@
         <title>Voice Leading Second Inversion Triads</title>
         <p>When a triad is in second inversion, double the fifth (the bass note).</p>
         <figure>
-            <caption>J.S. Bach, Chorale 204, <pubtitle>Wer wei&#x00DF;, wie nahe mir</pubtitle></caption>
-            <sidebyside margins="10%">
-                <image source="images/unit8/voiceleading-2nd-inv-doubling">
+            <caption>J.S. Bach, Chorale 204, <pubtitle>Wer wei&#x00DF;, wie nahe mir</pubtitle>, BWV 166</caption>
+            <sbsgroup>
+                <sidebyside margins="10%">
+                    <image source="images/unit8/voiceleading-2nd-inv-doubling">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="ivm4RACsrBU" start="37" end="44" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+    </section>
+    <section xml:id="SpecialSituations">
+        <title>Special Situations</title>
+        <p>Avoid parallel fifths when the <em>roots</em> of triads are a second apart, as in the following examples:</p>
+        <ol>
+            <li><p><chord root="ii" bps="6"/> to <chord root="I" bps="6 4"/> (see the first measure in the examples below)</p></li>
+            <li><p><chord root="I"/> to <chord root="vii" mode="diminished" bps="6 4"/> (see the second measure the in examples below)</p></li>
+        </ol>
+        <figure>
+            <caption>Parallel fifths when <em>roots</em> are a 2nd apart</caption>
+            <sidebyside>
+                <image source="images/unit8/voiceleading-2nd-betw-roots-bad">
                     <description/>
                 </image>
             </sidebyside>
         </figure>
+        <figure>
+            <caption>Parallel fourths as a corrective when roots are a 2nd apart</caption>
+            <sidebyside>
+                <image source="images/unit8/voiceleading-2nd-betw-roots-good">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>In any such situation where the roots are a second apart (even if the chords are in inversion), revoice each chord so the 5th of the chord is <em>below</em> the root of the chord in the upper voices</p>
     </section>
     <section xml:id="TypesOfSixFourChords">
         <title>Types of Six<ndash/>Four Chords</title>
@@ -325,9 +380,6 @@
         <li><p>Second<ndash/>Inversion Chords: DOUBLE THE BASS</p></li>
     </ul>
 </section>
-
-
-
 <exercises xml:id="VoiceLeadingTriadsPracticeExercises">
     <title>Practice Exercises</title>
     <exercisegroup>
@@ -448,7 +500,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Harmonize the melody making sure your progression follows the harmonic flowchart (analyze the harmonic function of each chord, abbreviated as <q>HF</q>), then add alto, tenor, and bass parts in chorale style following rules of good voice leading. Use first<ndash/>inversion chords to make a smoother bass line.</p>
+                <p>Harmonize the melody making sure your progression follows the <xref ref="HarmonicFlowchart" text="title">Harmonic Flowchart</xref> (analyze the <xref ref="HarmonicFunction" text="title">harmonic function</xref> of each chord, abbreviated as <q>HF</q>), then add alto, tenor, and bass parts in chorale style following rules of good voice leading. Use first<ndash/>inversion chords to make a smoother bass line.</p>
                 <sidebyside>
                     <image source="images/unit8/PRAC-EXER-1st-inv-harmonize-mel">
                         <description/>
