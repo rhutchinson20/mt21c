@@ -44,7 +44,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="2GGPY3mhqLc" start="0" end="9" play-at="select" preview="generic"/>
+                    <video youtube="2GGPY3mhqLc" start="9" end="18" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
