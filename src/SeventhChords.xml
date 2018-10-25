@@ -36,7 +36,7 @@
     </section>
     <section xml:id="IVover5SusChord">
         <title>The IV/5 <q>sus</q> chord</title>
-        <p>An additional four-note chord that sounds like and functions similar to a <chord root="V" bps="7"/> chord is the <chord root="IV"/>/<scaledeg>5</scaledeg> (or <chord root="F" bass="G"/> in <n pc="C"/> major) chord. In popular music this chord often is substituted for the <chord root="V" bps="7"/> chord</p>
+        <p>An additional four-note chord that sounds like and functions similar to a <chord root="V" bps="7"/> chord is the <chord root="IV"/>/<scaledeg>5</scaledeg> (or <chord root="F" bass="G"/> in <n pc="C"/> major) chord. In popular music this chord often is substituted for the <chord root="V" bps="7"/> chord</p><!--Long and WInding Road-->
         <sidebyside>
             <image source="images/unit2/7th-chords-F-over-G">
                 <description>F triad with G in bass, also known as F/G</description>

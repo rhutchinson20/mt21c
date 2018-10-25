@@ -77,7 +77,9 @@
             <p>Because period form involves <q>more conclusive</q> and <q>less conclusive</q> cadences, it is important to distinguish between inconclusive and conclusive cadences. Conclusive cadences end on the tonic chord, while inconclusive cadences do not.</p>
             <sidebyside>
                 <tabular halign="center">
-                    <row>
+                    <col right="minor"/>
+                    <col/>
+                    <row header="yes" bottom="major">
                         <cell><em>Inconclusive Cadences</em></cell>
                         <cell><em>Conclusive Cadences</em></cell>
                     </row>
@@ -326,7 +328,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>Examine the difference between the following diagrams:</p>
+            <p>Examine the difference between these two formal diagrams, noting the cadence after the second phrase in each:</p>
             <figure>
                 <caption>Formal diagram of a repeated period (Beethoven, Op. 53, I)</caption>
                 <sidebyside>
@@ -396,6 +398,116 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
+    </section>
+    <section xml:id="SummaryOfPhrasesInCombination">
+        <title>Summary of Phrases in Combination</title>
+        <table>
+            <caption/>
+            <tabular top="major">
+                <col right="minor"/>
+                <col right="minor"/>
+                <col right="minor"/>
+                <col/>
+                <row valign="top" header="yes" bottom="medium">
+                    <cell><em>Number of Phrases</em></cell>
+                    <cell><em>Form</em></cell>
+                    <cell><em>Melodic Scheme</em></cell>
+                    <cell><em>Cadence Info</em></cell>
+                </row>
+                <row valign="top">
+                    <cell>2 phrases</cell>
+                    <cell><xref ref="ParallelAndContrastingPeriods" text="title">Parallel Period</xref></cell>
+                    <cell><em>a a'</em></cell>
+                    <cell>
+                        <line>Less conclusive then</line> 
+                        <line>more conclusive</line>
+                    </cell>
+                </row>
+                <row valign="top">
+                    <cell/>
+                    <cell><xref ref="ParallelAndContrastingPeriods" text="title">Contrasting Period</xref></cell>
+                    <cell><em>a b</em></cell>
+                    <cell>
+                        <line>Less conclusive then</line> 
+                        <line>more conclusive</line>
+                    </cell>
+                </row>
+                <row valign="top">
+                    <cell/>
+                    <cell><xref ref="PhraseGroupsAndPhaseChains" text="title">Phrase Group</xref></cell>
+                    <cell><em>a a'</em></cell>
+                    <cell>Ends with HC</cell>
+                </row>
+                <row valign="top">
+                    <cell/>
+                    <cell><xref ref="PhraseGroupsAndPhaseChains" text="title">Phrase Chain</xref></cell>
+                    <cell><em>a b</em></cell>
+                    <cell>Ends with HC</cell>
+                </row>
+                <row valign="top" header="yes" bottom="medium">
+                    <cell/>
+                    <cell><xref ref="RepeatedPhrase" text="title">Repeated Phrase</xref></cell>
+                    <cell><em>a a</em></cell>
+                    <cell>Same cadence twice</cell>
+                </row>
+                <row valign="top">
+                    <cell>3 phrases</cell>
+                    <cell><xref ref="AsymmetricalPeriod" text="title">Asymmetrical period</xref></cell>
+                    <cell>
+                        <line><em>a a b</em> or</line> 
+                        <line><em>a b b</em></line>
+                    </cell>
+                    <cell>
+                        <line>Ends with most</line>
+                        <line>conclusive</line>
+                    </cell>
+                </row>
+                <row valign="top">
+                    <cell/>
+                    <cell><xref ref="PhraseGroupsAndPhaseChains" text="title">Phrase group</xref></cell>
+                    <cell>
+                        <line><em>a a b</em> or</line> 
+                        <line><em>a b b</em></line>
+                    </cell>
+                    <cell>Ends with HC</cell>
+                </row>
+                <row valign="top" header="yes" bottom="medium">
+                    <cell/>
+                    <cell><xref ref="PhraseGroupsAndPhaseChains" text="title">Phrase Chain</xref></cell>
+                    <cell><em>a b c</em></cell>
+                    <cell>Ends with HC</cell>
+                </row>
+                <row valign="top">
+                    <cell>4 phrases</cell>
+                    <cell><xref ref="DoublePeriodForm" text="title">Double Period</xref></cell>
+                    <cell>
+                        <line><em>a b a b'</em> or</line>
+                        <line><em>a a' a a"</em> or</line> 
+                        <line><em>a a' a b</em></line>
+                    </cell>
+                    <cell>
+                        <line>HC<ndash/>HC<ndash/>HC<ndash/>AC or</line>
+                        <line>IAC<ndash/>IAC<ndash/>IAC<ndash/>PAC or</line>
+                        <line>IAC<ndash/>HC<ndash/>IAC<ndash/>PAC</line>
+                    </cell>
+                </row>
+                <row valign="top" header="yes" bottom="major">
+                    <cell/>
+                    <cell><xref ref="RepeatedPeriod" text="title">Repeated period</xref></cell>
+                    <cell>
+                        <line><em>a b a b</em> or</line>
+                        <line><em>a b a c</em> or</line>
+                        <line><em>a a' a a'</em></line>
+                    </cell>
+                    <cell>
+                        <line>Less conclusive then</line>
+                        <line>more conclusive</line>
+                        <line>formula repeated</line>
+                    </cell>
+                </row>
+
+            </tabular>
+        </table>
     </section>
     <exercises xml:id="PhrasesInCombinationPracticeExercises">
         <title>Practice Exercises</title>

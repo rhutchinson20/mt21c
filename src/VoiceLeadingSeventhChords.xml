@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="VoiceLeadingSeventhChords">
     <title>Voice Leading Seventh Chords</title>
-    <section xml:id="VoiceLeading">
+    <section xml:id="VoiceLeadingSeventhChordsIntro">
         <title>Voice Leading Seventh Chords</title>
         <p>There is one general rule for voice leading any seventh chord: resolve the 7th of the chord down by step. All other voices should move smoothly to the nearest chord tone in a voicing containing the appropriate doubling.</p>
         <principle xml:id="voice-leading-seventh-chords-principle">
@@ -193,7 +193,7 @@
         <principle xml:id="resolving-vii-diminished-principle">
             <title>Resolving <chord root="vii" mode="diminished" bps="7"/></title>
             <statement>
-                <p>When the 7th of a <chord root="vii" mode="diminished" bps="7"/> or <chord root="vii" mode="halfdiminished" bps="7"/> chord is voiced above the 3rd of the chord, resolve the 3rd of the chord (scale degree <scaledeg>2</scaledeg>) up by step while resolving all other tendency tones normally (<scaledeg>2</scaledeg><ndash/><scaledeg>1</scaledeg>, <scaledeg>4</scaledeg><ndash/><scaledeg>3</scaledeg>, <scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>, <scaledeg>7</scaledeg><ndash/><scaledeg>8</scaledeg>).</p>
+                <p>When the 7th of a <chord root="vii" mode="diminished" bps="7"/> or <chord root="vii" mode="halfdiminished" bps="7"/> chord is voiced above the 3rd of the chord, resolve the 3rd of the chord (scale degree <scaledeg>2</scaledeg>) up by step while resolving all other tendency tones normally (<scaledeg>4</scaledeg><ndash/><scaledeg>3</scaledeg>, <scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>, <scaledeg>7</scaledeg><ndash/><scaledeg>8</scaledeg>).</p>
             </statement>
         </principle>
         <figure>
@@ -280,7 +280,7 @@
         </exercise>
         <conclusion>
             <p>Click <url href="../hw/MT21C_HW_42.pdf">here to download the homework assignment for this chapter.</url></p>
-            <!--make review! <p>Click <url href="../hw/MT21C_HW_42.pdf">here to download the practice test for this unit.</url></p> -->
+            <p>Click <url href="../hw/MT21C_Unit_8_Practice_Test.pdf">here to download the Unit 8 Practice Test.</url></p>
         </conclusion>
     </exercises>
 </chapter>
