@@ -189,7 +189,7 @@
     </section>
     <section xml:id="SpecialResolutionOfVII7">
         <title>The Special Resolution of vii<chord mode="diminished" bps="7"/> (and vii<chord mode="halfdiminished" bps="7"/>)</title>
-        <p>The viiº7 and viiø7 chords consist entirely of tendency tones (<scaledeg>7</scaledeg>, <scaledeg>2</scaledeg>, <scaledeg>4</scaledeg>, <scaledeg>6</scaledeg>). If one resolves all of those tendency tones correctly (<scaledeg>2</scaledeg><ndash/><scaledeg>1</scaledeg>, <scaledeg>4</scaledeg><ndash/><scaledeg>3</scaledeg>, <scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>, <scaledeg>7</scaledeg><ndash/><scaledeg>8</scaledeg>), one might write parallel 5ths depending on the voicing of the <chord root="vii" mode="diminished" bps="7"/> and <chord root="vii" mode="halfdiminished" bps="7"/> chord. Therefore, be sure to memorize the following principle:</p>
+        <p>The <chord root="vii" mode="diminished" bps="7"/> and <chord root="vii" mode="halfdiminished" bps="7"/> chords consist entirely of tendency tones (<scaledeg>7</scaledeg>, <scaledeg>2</scaledeg>, <scaledeg>4</scaledeg>, <scaledeg>6</scaledeg>). If one resolves all of those tendency tones correctly (<scaledeg>2</scaledeg><ndash/><scaledeg>1</scaledeg>, <scaledeg>4</scaledeg><ndash/><scaledeg>3</scaledeg>, <scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>, <scaledeg>7</scaledeg><ndash/><scaledeg>8</scaledeg>), one might write parallel 5ths depending on the voicing of the <chord root="vii" mode="diminished" bps="7"/> and <chord root="vii" mode="halfdiminished" bps="7"/> chord. Therefore, be sure to memorize the following principle:</p>
         <principle xml:id="resolving-vii-diminished-principle">
             <title>Resolving <chord root="vii" mode="diminished" bps="7"/></title>
             <statement>
@@ -211,8 +211,8 @@
         <title>When to Use Seventh Chords</title>
         <p>In your harmonizations of melodies, it is best to use seventh chords to add tension as you approach tonic function. Therefore, sevenths are added most frequently to chords of dominant function (<chord root="V"/> and <chord root="vii" mode="diminished"/>) and chords of pre<ndash/>dominant function (<chord root="ii"/> and, to a lesser extent, <chord root="IV"/>). (See the <!--ADD LINK!-->harmonic flowchart.) For this reason, seventh chords like <chord root="iii" bps="7"/>, <chord root="vi" bps="7"/>, <chord root="IV" mode="M" bps="7"/>, and <chord root="I" mode="M" bps="7"/> are less commonly used and encountered.</p>
         <figure>
-            <caption>J.S. Bach, Chorale 342, <pubtitle>Lobt Gott, ihr Christen, allzugleich </pubtitle>, BWV 376</caption>
-            <idx><h>Bach, J.S.</h><h>Chorale 342, <pubtitle>Lobt Gott, ihr Christen, allzugleich </pubtitle>, BWV 376</h></idx>
+            <caption>J.S. Bach, Chorale 342, <q>Lobt Gott, ihr Christen, allzugleich </q>, BWV 376</caption>
+            <idx><h>Bach, J.S.</h><h>Chorale 342, <q>Lobt Gott, ihr Christen, allzugleich </q>, BWV 376</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit8/voiceleading-7ths-use-at-cadence-bach-342">

@@ -30,6 +30,8 @@
         <xi:include href="./SonataAndRondoForms.xml"/>
         <xi:include href="./VoiceLeadingTriads.xml"/>
         <xi:include href="./VoiceLeadingSeventhChords.xml"/>
+        <xi:include href="./VoiceLeadingNCTs.xml"/>
+        <xi:include href="./VoiceLeadingChromaticHarmonies.xml"/>
         <xi:include href="./backmatter.xml"/>
     </book>
 </mathbook>

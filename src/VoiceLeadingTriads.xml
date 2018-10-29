@@ -217,11 +217,12 @@
             <title>Voicing a First Inversion Chord</title>
             <p>In contrast to the doubling rule for root position chords (i.e., <q>double the bass</q>), do <em>not</em> double the bass note for first inversion triads. Instead, double the root or fifth, depending on which can be approached and left most smoothly.</p>
             <figure>
-                <caption>J.S. Bach, Chorale 237, <pubtitle>Gott lebel noch</pubtitle>, BWV 320</caption>
+                <caption>J.S. Bach, Chorale 237, <q>Gott lebel noch</q>, BWV 320</caption>
+                <idx><h>Bach, J.S.</h><h>Chorale 237, <q>Gott lebel noch</q>, BWV 320</h></idx>
                 <sbsgroup>
                     <sidebyside margins="15%">
                         <image source="images/unit8/voiceleading-1st-inv-bach-gott-lebel">
-                            <description/> <!--109 thru 117 8ZKxI8d4VbM-->
+                            <description/>
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
@@ -230,11 +231,12 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>J.S. Bach, Chorale 153, <pubtitle>Alle Menschen m&#x00FC;ssen sterben</pubtitle>, BWV 262</caption>
+                <caption>J.S. Bach, Chorale 153, <q>Alle Menschen m&#x00FC;ssen sterben</q>, BWV 262</caption>
+                <idx><h>Bach, J.S.</h><h>Chorale 153, <q>Alle Menschen m&#x00FC;ssen sterben</q>, BWV 262</h></idx>
                 <sbsgroup>
                     <sidebyside margins="18%">
                         <image source="images/unit8/voiceleading-1st-inv-bach-alle-menschen">
-                            <description/><!--0 thru 7 3B9KD9CJ3tA -->
+                            <description/>
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
@@ -247,7 +249,8 @@
                 <li>
                     <p>Diminished triads in first inversion<mdash/>always double the third (the bass), not the root or fifth</p>
                     <figure>
-                        <caption>J.S. Bach, Chorale 103, <pubtitle>Nun ruhen alle W&#x00E4;lder</pubtitle>, BWV 392</caption>
+                        <caption>J.S. Bach, Chorale 103, <q>Nun ruhen alle W&#x00E4;lder</q>, BWV 392</caption>
+                        <idx><h>Bach, J.S.</h><h>Chorale 103, <q>Nun ruhen alle W&#x00E4;lder</q>, BWV 392</h></idx>
                         <sbsgroup>
                             <sidebyside margins="10%">
                                 <image source="images/unit8/voiceleading-1st-inv-dim-doubling">
@@ -258,12 +261,13 @@
                                 <video youtube="Lul-S82JIeM" start="6" end="13" play-at="select" preview="generic"/>
                             </sidebyside>
                         </sbsgroup>
-                    </figure><!--6 thru 13 Lul-S82JIeM-->
+                    </figure>
                 </li>
                 <li>
                     <p>Consecutive first inversion chords<mdash/>alternate between doubling the third and not doubling the third</p>
                     <figure>
-                        <caption>J.S. Bach, Chorale 106, <pubtitle>Jesu Leiden, Pein und Tod</pubtitle>, BWV 245</caption>
+                        <caption>J.S. Bach, Chorale 106, <q>Jesu Leiden, Pein und Tod</q>, BWV 245</caption>
+                        <idx><h>Bach, J.S.</h><h>Chorale 106, <q>Jesu Leiden, Pein und Tod</q>, BWV 245</h></idx>
                         <sbsgroup>
                             <sidebyside margins="10%">
                                 <image source="images/unit8/voiceleading-1st-inv-consec-rule">
@@ -300,7 +304,8 @@
         <title>Voice Leading Second Inversion Triads</title>
         <p>When a triad is in second inversion, double the fifth (the bass note).</p>
         <figure>
-            <caption>J.S. Bach, Chorale 204, <pubtitle>Wer wei&#x00DF;, wie nahe mir</pubtitle>, BWV 166</caption>
+            <caption>J.S. Bach, Chorale 204, <q>Wer wei&#x00DF;, wie nahe mir</q>, BWV 166</caption>
+            <idx><h>Bach, J.S.</h><h>Chorale 204, <q>Wer wei&#x00DF;, wie nahe mir</q>, BWV 166</h></idx>
             <sbsgroup>
                 <sidebyside margins="10%">
                     <image source="images/unit8/voiceleading-2nd-inv-doubling">

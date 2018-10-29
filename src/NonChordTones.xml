@@ -355,7 +355,7 @@
             <image source="images/unit2/NCT-sus-basic"/>
         </figure>
         <p>Suspensions are classified by numbers (9<ndash/>8, 7<ndash/>6, 4<ndash/>3, 2<ndash/>3, and sometimes 6<ndash/>5) that specify the interval distance of the suspended note and its resolution to the bass note</p>
-        <figure>
+        <figure xml:id="sus-all-numbers">
             <caption>Examples of the 9<ndash/>8, 7<ndash/>6, 4<ndash/>3, 2<ndash/>3, and 6<ndash/>5 suspensions</caption>
             <description/>
             <image source="images/unit2/NCT-sus-all-numbers"/>
@@ -393,8 +393,8 @@
         </figure>
         <p>The 2<ndash/>3 suspension is the <q>bass suspension</q> and is measured against an upper voice. Again, you may encounter the literal intervals 10<ndash/>9 but should label the suspension as 2<ndash/>3.</p>
         <figure>
-            <caption>Bach, J.S., <q>Liebster Jesu, wir sind hier,</q> BWV 373</caption>
-            <idx><h>Bach, J.S.</h><h><q>Liebster Jesu, wir sind hier,</q> BWV 373</h></idx>
+            <caption>Bach, J.S., Chorale 238, <q>Liebster Jesu, wir sind hier,</q> BWV 373</caption>
+            <idx><h>Bach, J.S.</h><h>Chorale 328, <q>Liebster Jesu, wir sind hier,</q> BWV 373</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-sus-2-3-bach">
