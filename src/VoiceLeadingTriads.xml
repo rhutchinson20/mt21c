@@ -168,7 +168,7 @@
                     </image>
                 </sidebyside>
             </figure>
-            <p><em>Exception</em>: When the bass moves by the interval of a 2nd in the deceptive cadence in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass. In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice<ndash/>leading solution if <scaledeg>7</scaledeg>  is in the soprano voice (because it is a <xref ref="TendencyTones" text="title">tendency tone</xref>).</p>
+            <p xml:id="voice-leading-deceptive-cadence"><em>Exception</em>: When the bass moves by the interval of a 2nd in the deceptive cadence in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass. In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice<ndash/>leading solution if <scaledeg>7</scaledeg>  is in the soprano voice (because it is a <xref ref="TendencyTones" text="title">tendency tone</xref>).</p>
             <figure>
                 <caption>Voice leading the deceptive cadence in minor</caption>
                 <sidebyside>
@@ -521,8 +521,6 @@
             </answer>
         </exercise>
     </exercisegroup>
-
-
     <exercisegroup>
         <introduction>
             <p>Day Four</p>
@@ -562,10 +560,6 @@
             </answer>
         </exercise>
     </exercisegroup>
-
-
-
-
     <conclusion>
         <p>Click <url href="../hw/MT21C_HW_38.pdf">here to download the first homework assignment for this chapter.</url></p>
         <p>Click <url href="../hw/MT21C_HW_39.pdf">here to download the second homework assignment for this chapter.</url></p>

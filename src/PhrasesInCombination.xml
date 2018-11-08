@@ -236,7 +236,7 @@
     </section>
     <section xml:id="AsymmetricalPeriod">
         <title>The Asymmetrical Period</title>
-        <p>Asymmetrical periods consist of three or five phases. In an asymmetrical period, there will be an unequal number of antecedents and consequents, hence the <q>asymmetry.</q> In the example below, there is one antecedent and two consequents.</p>
+        <p>Asymmetrical periods consist of three or five phrases. In an asymmetrical period, there will be an unequal number of antecedents and consequents, hence the <q>asymmetry.</q> In the example below, there is one antecedent and two consequents.</p>
         <figure>
             <caption>Chopin, Prelude Op. 28, No. 20, in C minor</caption>
             <idx><h>Chopin</h><h>Prelude Op. 28, No. 20, in C minor</h></idx>
@@ -348,8 +348,8 @@
             <p>In the next section we will examine phrase combinations that are not periods.</p>
         </subsection>
     </section>
-    <section xml:id="PhraseGroupsAndPhaseChains">
-        <title>Phrase Groups and Phase Chains</title>
+    <section xml:id="PhraseGroupsAndPhraseChains">
+        <title>Phrase Groups and Phrase Chains</title>
         <p>Phrase groups and phrase chains are not periods. In phrase groups and phrase chains, <em>the final cadence is a half cadence</em>. A <term>phrase group</term><idx><h>phrase group</h><h>definition of</h></idx> consists of at least two phrases whose melodies begin similarly and has the final phrase ending in a half cadence. The terminology in this section draws from Douglass Green’s <pubtitle>Form in Tonal Music</pubtitle>.</p>
         <figure>
             <caption>Couperin, 5 Pi&#x00E8;ces de Clavecin, 4. Le Petit<ndash/>Rien (Ordre XIV, 8)</caption>
@@ -434,13 +434,13 @@
                 </row>
                 <row valign="top">
                     <cell/>
-                    <cell><xref ref="PhraseGroupsAndPhaseChains" text="title">Phrase Group</xref></cell>
+                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="title">Phrase Group</xref></cell>
                     <cell><em>a a'</em></cell>
                     <cell>Ends with HC</cell>
                 </row>
                 <row valign="top">
                     <cell/>
-                    <cell><xref ref="PhraseGroupsAndPhaseChains" text="title">Phrase Chain</xref></cell>
+                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="title">Phrase Chain</xref></cell>
                     <cell><em>a b</em></cell>
                     <cell>Ends with HC</cell>
                 </row>
@@ -464,7 +464,7 @@
                 </row>
                 <row valign="top">
                     <cell/>
-                    <cell><xref ref="PhraseGroupsAndPhaseChains" text="title">Phrase group</xref></cell>
+                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="title">Phrase group</xref></cell>
                     <cell>
                         <line><em>a a b</em> or</line> 
                         <line><em>a b b</em></line>
@@ -473,7 +473,7 @@
                 </row>
                 <row valign="top" header="yes" bottom="medium">
                     <cell/>
-                    <cell><xref ref="PhraseGroupsAndPhaseChains" text="title">Phrase Chain</xref></cell>
+                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="title">Phrase Chain</xref></cell>
                     <cell><em>a b c</em></cell>
                     <cell>Ends with HC</cell>
                 </row>

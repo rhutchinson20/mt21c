@@ -41,7 +41,7 @@
     <section xml:id="FiguredBassInversionSymbols">
         <title>Figured Bass Inversion Symbols</title>
         <p>Following are the figured bass inversion symbols most commonly used for triads and seventh chords. (Remember that figured bass numbers represent intervals above the bass note within the key signature.)</p>
-        <figure>
+        <!--<figure>
             <caption>Figured Bass Inversion Symbols for Triads</caption>
             <idx><h>figured bass</h><h>for triads</h></idx>
             <sidebyside margins="10%">
@@ -49,7 +49,38 @@
                     <description/>
                 </image>
             </sidebyside>
-        </figure>
+        </figure>-->
+        <table>
+            <caption>Figured Bass Inversion Symbols for Triads</caption>
+            <tabular top="minor" left="minor">
+                <col halign="center"/>
+                <col halign="center"/>
+                <col halign="center"/>
+                <row bottom="minor">
+                    <cell right="minor"/>
+                    <cell right="minor">6</cell>
+                    <cell right ="minor">
+                        <line>6</line>
+                        <line>4</line>
+                    </cell>
+                </row>
+                <row left="none">
+                    <cell>
+                        <line>Root is the</line>
+                        <line>bass note</line>
+                    </cell>
+                    <cell>
+                        <line>3rd of the triad</line>
+                        <line>is the bass note</line>
+                    </cell>
+                    <cell>
+                        <line>5th of the triad</line>
+                        <line>is the bass note</line>
+                    </cell>
+                </row>
+            </tabular>
+        </table>
+        <!--
         <figure>
             <caption>Figured Bass Inversion Symbols for Seventh Chords</caption>
             <idx><h>figured bass</h><h>for seventh chords</h></idx>
@@ -58,7 +89,95 @@
                     <description/>
                 </image>
             </sidebyside>
-        </figure>
+        </figure>-->
+<!--<table>
+            <caption>Figured Bass Inversion Symbols for Triads</caption>
+            <tabular top="minor" left="minor">
+                <col width="50%" halign="center" right="minor"/>
+                <col width="50%" halign="center"/>
+                <row bottom="minor">
+                    <cell right="minor">7</cell>
+                    <cell top="none">
+                        <line>Root of the 7th chord</line>
+                        <line>is the bass note</line>
+                    </cell>
+                </row>
+                <row bottom="minor">
+                    <cell>
+                        <line>6</line>
+                        <line>5</line>
+                    </cell>
+                    <cell>
+                        <line>3rd of the 7th chord</line>
+                        <line>is the bass note</line>
+                    </cell>
+                </row>
+                <row bottom="minor">
+                    <cell>
+                        <line>4</line>
+                        <line>3</line>
+                    </cell>
+                    <cell>
+                        <line>5th of the 7th chord</line>
+                        <line>is the bass note</line>
+                    </cell>
+                </row>
+                <row bottom="minor">
+                    <cell>
+                        <line>4</line>
+                        <line>2</line>
+                    </cell>
+                    <cell>
+                        <line>7th of the 7th chord</line>
+                        <line>is the bass note</line>
+                    </cell>
+
+                </row>
+            </tabular>
+        </table>-->
+        <table>
+            <caption>Figured Bass Inversion Symbols for 7th Chords</caption>
+            <tabular top="minor" left="minor">
+                <col halign="center"/>
+                <col halign="center"/>
+                <col halign="center"/>
+                <col halign="center"/>
+                <row bottom="minor">
+                    <cell right="minor">7</cell>
+                    <cell right="minor">
+                        <line>6</line>
+                        <line>5</line>
+                    </cell>
+                    <cell right ="minor">
+                        <line>4</line>
+                        <line>3</line>
+                    </cell>
+                    <cell right ="minor">
+                        <line>4</line>
+                        <line>2</line>
+                    </cell>
+                </row>
+                <row left="none">
+                    <cell>
+                        <line>Root of the 7th chord</line>
+                        <line>is the bass note</line>
+                    </cell>
+                    <cell>
+                        <line>3rd of the 7th chord</line>
+                        <line>is the bass note</line>
+                    </cell>
+                    <cell>
+                        <line>5th of the 7th chord</line>
+                        <line>is the bass note</line>
+                    </cell>
+                    <cell>
+                        <line>7th of the 7th chord</line>
+                        <line>is the bass note</line>
+                    </cell>
+                </row>
+            </tabular>
+        </table>
+
         <p>Unlike original figured bass notation in the Baroque era, in music theory courses, figured bass inversion symbols are placed after Roman numerals.</p>
         <p>Compare figured bass symbols to the modified slash notation we have been using in previous chapters.</p>
         <figure>

@@ -165,7 +165,7 @@
                 	</sidebyside>
             	</sbsgroup>
         	</figure>
-            <p>In the example above, the notes surrounded by parentheses are non-chord tones, which will be studied later<!--link to non-chord tones someday-->. Also, there are seventh chords in this example, which we will study in the next chapter<!--link seventh chords someday-->.</p>
+            <p>In the example above, the notes surrounded by parentheses are <xref ref="NonChordTones" text="title">non<ndash/>chord tones</xref>, which will be studied later. Also, there are <xref ref="SeventhChords" text="title">seventh chords</xref> in this example, which we will study in the next chapter.</p>
             <p>Here is another example ending with an authentic cadence.</p>
             <figure>
             	<caption>Lennon<ndash/>McCartney, <q>I Want to Hold Your Hand</q></caption>
