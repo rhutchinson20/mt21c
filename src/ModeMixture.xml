@@ -212,7 +212,7 @@
         <p>Notice that the root is A when you stack the notes in 3rds, and A is <scaledeg>2</scaledeg> in G major. The quality is half<ndash/>diminished since the 3rds stack as m3<ndash/>m3<ndash/>M3, making this a <chord root="ii" mode="halfdiminished" bps="7"/> chord. Since C, the 3rd of the chord, is in the bass, the correct analysis is <chord root="ii" mode="halfdiminished" bps="6 5"/>.</p>
         <p>To write a borrowed chord from a Roman numeral, be sure to <em>pay close attention to the quality of the Roman numeral</em>.</p>
         <p>A: <flat/><chord root="VI"/></p>
-        <p><flat/><chord root="VI"/> is built on <flat/><scaledeg>6</scaledeg>. Determine <flat/><scaledeg>6</scaledeg> in A major, which is F<natural/>, then and stack 3rds in the configuration M3<ndash/>m3. The resulting triad contains F<natural/><ndash/>A<ndash/>C<natural/>.</p>
+        <p><flat/><chord root="VI"/> is built on <flat/><scaledeg>6</scaledeg>. Determine <flat/><scaledeg>6</scaledeg> in A major, which is F<natural/>, then stack 3rds in the configuration M3<ndash/>m3. The resulting triad contains F<natural/><ndash/>A<ndash/>C<natural/>.</p>
         <sidebyside margins="30%">
             <image source="images/unit4/mode-mix-writing-a-chord">
                 <description/>
@@ -222,7 +222,7 @@
     </section>
     <section xml:id="TheDeceptiveCadenceWithFlatSix">
         <title>The Deceptive Cadence with <flat/><chord root="VI"/></title>
-        <p>The <chord root="V"/><ndash/><flat/><chord root="VI"/> deceptive cadence is a deceptive realization of a deception progression. This <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence ties into the <xref ref="i-VII-VI-VII" text="title"><flat/><chord root="VI"/><ndash/><flat/><chord root="VII"/><ndash/><chord root="I"/> progression</xref> to produce an <q>epic</q> (although somewhat clich&#x00E9;d) ending to the <q>Star Spangled Banner</q> as performed at the Super Bowl and Presidential Inaugurations by artists such as Whitney Houston, Beyonc&#x00E9;, and Lady Gaga, among others.</p>
+        <p>The <chord root="V"/><ndash/><flat/><chord root="VI"/> deceptive cadence is a deceptive realization of a deceptive progression. This <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence ties into the <xref ref="i-VII-VI-VII" text="title"><flat/><chord root="VI"/><ndash/><flat/><chord root="VII"/><ndash/><chord root="I"/> progression</xref> to produce an <q>epic</q> (although somewhat clich&#x00E9;d) ending to the <q>Star Spangled Banner</q> as performed at the Super Bowl and Presidential Inaugurations by artists such as Whitney Houston, Beyonc&#x00E9;, and Lady Gaga, among others.</p>
         <figure>
             <caption>John Stafford Smith and Francis Scott Key, <q>The Star Spangled Banner</q> (1814) as performed by Whitney Houston at the 1991 Super Bowl</caption>
             <idx><h>Star<ndash/>Spangled Banner</h><h>musical example</h></idx>
@@ -299,7 +299,7 @@
             </statement>
             <answer>
                 <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-mode-mix-analyzing-ANSWER"><!--make this!-->
+                    <image source="images/unit4/PRAC-EXER-mode-mix-analyzing-ANSWER">
                         <description/>
                     </image>
                 </sidebyside>
@@ -314,7 +314,7 @@
             </statement>
             <answer>
                 <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-mode-mix-writing-ANSWER"><!--make this!-->
+                    <image source="images/unit4/PRAC-EXER-mode-mix-writing-ANSWER">
                         <description/>
                     </image>
                 </sidebyside>

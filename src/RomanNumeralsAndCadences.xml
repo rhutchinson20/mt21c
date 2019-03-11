@@ -3,6 +3,7 @@
     <title>Roman Numerals and Cadences</title>
     <section xml:id="RomanNumeralChordSymbols">
         <title>Roman Numeral Chord Symbols</title>
+        <!--needs phrygian half cadence somewhere-->
         <p>Music is full of patterns that are similar from one piece to the next. As we saw with minor scales, we were able to use scale degree numbers to show the different patterns for harmonic, melodic, and natural minor, despite the fact that there are 15 minor key signatures. Using numbers instead of note names helps us see these patterns. Thinking of music in terms of numbers is also helpful with <term>transposition</term><idx><h>transposition</h><h>definition of</h></idx>, which means moving melodies and/or chord progressions from one key to another. Thinking of music in terms of numbers also helps us to analyze it and to spot similar patterns between many different pieces in different keys.</p>
         <p>We will use Roman numerals to represent chords within a specified key. The Roman numeral <q><chord root="I"/></q> represents a triad built on <scaledeg>1</scaledeg>, or the 1st note of the scale. Uppercase Roman numerals represent major triads and lowercase Roman numerals (e.g., <q><chord root="i"/></q>) represent minor triads. Uppercase Roman numerals with a <q><chord mode="augmented"/></q> are augmented (e.g., <q><chord root="III" mode="augmented"/></q>), and lowercase Roman numerals with a <q><chord mode="diminished"/></q> are diminished (e.g., <q><chord root="vii" mode="diminished"/></q>). (There is also the <url href="https://en.wikipedia.org/wiki/Nashville_number_system">Nashville Number System</url>, which uses Arabic numbers for chords instead of Roman numerals.)</p>
         <sidebyside>
@@ -315,7 +316,7 @@
                 </sbsgroup>
             </figure>
             <p>You may encounter chords with no thirds in rock and pop music. If you encounter a chord that has only a root and fifth, label it with a <q>5</q> after the root in lead sheet labeling (e.g., <chord root="B" bps="5"/>, as in the next example).</p>
-            <p>Additionally, you may encounter <term>incomplete chords</term><idx><h>incomplete chords</h></idx>, which are chords containing only the root and third but no fifth.</p>
+            <p xml:id="IncompleteChords">Additionally, you may encounter <term>incomplete chords</term><idx><h>incomplete chords</h></idx>, which are chords containing only the root and third but no fifth.</p>
             <figure>
                 <caption>Bieber, Blanco, and Sheeran, <q>Love Yourself</q></caption>
                 <idx><h>songs (popular)</h><h><q>Love Yourself</q> (Justin Bieber)</h></idx>

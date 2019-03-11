@@ -520,8 +520,8 @@
             </p>
             <p>Here are examples with <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>.</p>
             <figure>
-                <caption>J.S. Bach, Well<ndash/>Tempered Clavier, Book I, Prelude 1 in C major</caption>
-                <idx><h>Bach, J.S.</h><h>Well<ndash/>Tempered Clavier, Book I, Prelude 1 in C major</h></idx>
+                <caption>Bach, J.S., <pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle>, Prelude 1 in C major BWV 846</caption>
+                <idx><h>Bach, J.S.</h><h><pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle></h><h>Prelude 1 in C major</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/harmony-T-P-D-T-WTC-prel-1">

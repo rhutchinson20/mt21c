@@ -32,6 +32,8 @@
         <xi:include href="./VoiceLeadingSeventhChords.xml"/>
         <xi:include href="./VoiceLeadingNCTs.xml"/>
         <xi:include href="./VoiceLeadingChromaticHarmonies.xml"/>
+        <xi:include href="./IntroductionToCounterpoint.xml"/>
+        <xi:include href="./IntroductionToJazzTheory.xml"/>
         <xi:include href="./backmatter.xml"/>
     </book>
 </mathbook>

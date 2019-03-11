@@ -40,7 +40,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="yFcuiS6d1Jk" start="30" end="45" play-at="select" preview="generic"/>
+                    <video youtube="Wod-JellQ88" start="26" end="41" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -155,7 +155,7 @@
     </introduction>
         <subsection xml:id="DeterminingDiatonicCommonChords">
             <title>Determining Common Chords Between Keys</title>
-            <p>In order to compose a diatonic common chord modulation, you need to determine which chords are diatonic<mdash/>have the same root <em>and quality</em><mdash/>in both keys.</p>
+            <p>In order to compose a diatonic common chord modulation, you need to determine which chords are diatonic<mdash/>having the same root <em>and quality</em><mdash/>in both keys.</p>
             <figure>
                 <caption>Diatonic Common Chords in G major and D major</caption>
                 <sidebyside margins="8%">
@@ -193,7 +193,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>The pivot chord in the first key, G, has of tonic harmonic function, while in the second key, D major, the G chord has pre<ndash/>dominant function.</p>
+            <p>The pivot chord in the first key, G, has tonic harmonic function, while in the second key, D major, the G chord has pre<ndash/>dominant function.</p>
             <p>Observe the harmonic function of the pivot chords in the following examples from Bach chorales.</p>
             <figure> 
                 <caption>J.S. Bach, Chorale 4, <q>Es ist das Heil uns kommen her</q>, BWV 9</caption>
@@ -271,7 +271,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="yFcuiS6d1Jk" start="46" end="59" play-at="select" preview="generic"/>
+                        <video youtube="Wod-JellQ88" start="40" end="53" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -451,7 +451,7 @@
                         </image>
                     </sidebyside>
                 </figure>
-                <p>Below are examples chromatic mediants that do not involve modulation. In fact, the progression in the following three examples are found in the last bar of <xref ref="chromatic-mediants" text="type-global"/>, the progression from Cm to A<flat/>m, or <chord root="i"/> to <flat/><chord root="vi"/>.</p>
+                <p>Below are examples chromatic mediants that do not involve modulation. In fact, the progression in the following three examples are found in the last bar of <xref ref="chromatic-mediants" text="type-global"/>, the progression from <chord root="i"/> to <flat/><chord root="vi"/> (shown as Cm to A<flat/>m in the example above).</p>
                 <figure>
                     <caption>Richard Wagner, <pubtitle>Das Rheingold</pubtitle>, Scene 3 (1854)</caption>
                     <idx><h>Wagner, Richard</h><h><pubtitle>Das Rheingold</pubtitle>, Scene 3</h></idx>

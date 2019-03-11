@@ -27,8 +27,8 @@
                     <cell><p>The different tone colors of different instruments, and the different tone colors an individual instrument can produce.</p></cell>
                 </row>
                 <row valign="top">
-                    <cell halign="center"><em>Texture</em></cell>
-                    <cell><p>Described in the previous chapter as existing in the vertical plane (the number of voices) and the horizontal plane (rhythmic activity of the various voices).</p></cell>
+                    <cell halign="center"><em><xref ref="Texture" text="title">Texture</xref></em></cell>
+                    <cell><p>Described <xref ref="Texture" text="title">in the previous chapter</xref> as existing in the vertical plane (the number of voices) and the horizontal plane (rhythmic activity of the various voices).</p></cell>
                 </row>
                 <row valign="top">
                     <cell halign="center"><em>Articulation</em></cell>
@@ -48,7 +48,7 @@
 	</section>
 	<section xml:id="Eine-kleine-ii">
 		<title>Mozart, <pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</title>
-		<p>The second movement<idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</h></idx> of Mozart’s <pubtitle>Eine kleine Nachtmusik</pubtitle> is a five<ndash/>part rondo form (ABACA)<!--add link to Rondo chapter-->.</p>
+		<p>The second movement<idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</h></idx> of Mozart’s <pubtitle>Eine kleine Nachtmusik</pubtitle> is a five<ndash/>part <xref ref="RondoForm" text="title">rondo form</xref> (ABACA).</p>
 		<p>Let us examine the elements of music in the first section (the A section).</p>
 		<figure>
             <caption>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
@@ -204,7 +204,7 @@
                     <video youtube="PIh2xe4jnpk" start="14" end="22" play-at="select" preview="generic"/>
                 </sidebyside>
         </figure>
-        <p>In the pre-chorus, the guitars and bass have legato whole notes and half notes while the drummer plays cross<ndash/>stick quarter notes (if one is counting in a fast <timesignature top="4" bottom="4"/> rather than a slow <timesignature top="2" bottom="2"/>). Without the snare drum backbeat, the texture lightens.</p>
+        <p>In the pre<ndash/>chorus, the guitars and bass have legato half notes and quarter notes while the drummer plays cross<ndash/>stick eighth notes (if one is counting in a slow <timesignature top="4" bottom="4"/>). Without the snare drum backbeat, the texture lightens.</p>
         <figure>
             <caption>Pre<ndash/>Chorus of <q>Rude</q></caption>
                 <sidebyside margins="37%">
@@ -218,7 +218,7 @@
                     <video youtube="PIh2xe4jnpk" start="41" end="52" play-at="select" preview="generic"/>
                 </sidebyside>
         </figure>
-        <p>The post<ndash/>chorus emphasizes a (3+3+2)+(3+3+2) rhythm on all instruments (guitars, bass, and the bass drum, snare drum, and hi-hat of the drum set).</p>
+        <p>The post<ndash/>chorus emphasizes a (3+3+2)+(3+3+2) rhythm on all instruments (guitars, bass, and the bass drum, snare drum, and hi<ndash/>hat of the drum set).</p>
         <figure>
             <caption>Post<ndash/>Chorus of <q>Rude</q></caption>
             <sbsgroup>

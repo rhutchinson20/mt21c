@@ -354,7 +354,7 @@
         <title>Harmonically Closed and Open Sections</title>
         <p>A harmonically closed section ends on the tonic chord (<chord root="I"/>). A harmonically open section typically ends on a non<ndash/>tonic chord like <chord root="V"/>, but could also end on <chord root="IV"/>.</p>
         <p>In an AABA form, the A sections are usually harmonically closed, ending on <chord root="I"/>, and the B section (or bridge) is usually harmonically open, ending on <chord root="V"/>.</p>
-        <p>In verse<ndash/>chorus form, a section that leads into the chorus (verse, pre<ndash/>chorus, and bridge) are usually harmonically open, while choruses can be harmonically closed or open.</p>
+        <p>In verse<ndash/>chorus form, sections that leads into the chorus (verse, pre<ndash/>chorus, and bridge) are usually harmonically open, while choruses can be harmonically closed or open.</p>
         <p>If you compose a piece in AABA or verse<ndash/>chorus form, placing harmonically open and closed sections appropriately is important to the flow of the music.</p>
         <p>For example, the verse and bridge on <q>We Are the World</q> are harmonically open (end on <chord root="V"/>) while the chorus is harmonically closed (ends on the tonic chord, <chord root="I"/>).</p>
     </section>
@@ -362,7 +362,7 @@
         <title>Practice Exercises</title>
         <exercise>
             <statement>
-                <p>For each song, fill in the beginning and ending time for each section, label each section type (verse, pre<ndash/>chorus, chorus, post<ndash/>chorus, interlude, introduction, A, B, or C section, etc.), and the number of bars in each section of the form.</p>
+                <p>For each song, fill in the beginning time for each section, label each section type (verse, pre<ndash/>chorus, chorus, post<ndash/>chorus, interlude, introduction, A, B, or C section, etc.), and the number of bars in each section of the form.</p>
                 <ol>
                     <li>
                         <idx><h>songs (popular)</h><h><q>She's Out of My Life</q> (Michael Jackson)</h></idx>
@@ -376,31 +376,31 @@
                                     <col/>
                                     <row>
                                         <cell>Time:</cell>
-                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> </cell>
                                         <cell>Section Type: <fillin characters="20"/>,</cell>
                                         <cell><fillin characters="5"/> bars</cell>
                                     </row>
                                     <row>
                                         <cell>Time:</cell>
-                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> </cell>
                                         <cell>Section Type: <fillin characters="20"/>,</cell>
                                         <cell><fillin characters="5"/> bars</cell>
                                     </row>
                                     <row>
                                         <cell>Time:</cell>
-                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> </cell>
                                         <cell>Section Type: <fillin characters="20"/>,</cell>
                                         <cell><fillin characters="5"/> bars</cell>
                                     </row>
                                     <row>
                                         <cell>Time:</cell>
-                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> </cell>
                                         <cell>Section Type: <fillin characters="20"/>,</cell>
                                         <cell><fillin characters="5"/> bars</cell>
                                     </row>
                                     <row>
                                         <cell>Time:</cell>
-                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                        <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> </cell>
                                         <cell>Section Type: <fillin characters="20"/>,</cell>
                                         <cell><fillin characters="5"/> bars</cell>
                                     </row>
@@ -424,61 +424,61 @@
                                         <col/>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>
                                         <row>
                                             <cell>Time:</cell>
-                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/> to <fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
+                                            <cell><fillin characters="2"/> : <fillin characters="2"/> <fillin characters="2"/></cell>
                                             <cell>Section Type: <fillin characters="20"/>,</cell>
                                             <cell><fillin characters="5"/> bars</cell>
                                         </row>

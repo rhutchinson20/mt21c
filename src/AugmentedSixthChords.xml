@@ -42,7 +42,7 @@
         </figure>
         <p>Notice that all augmented sixth chords contain a <chord mode="diminished"/>3 when stacked in 3rds. None of the chords we have studied so far contain diminished thirds.</p>
         <principle xml:id="AugmentedSixthsPrinciple1">
-            <title>Secondary Dominants</title>
+            <title>Augmented Sixth Chords</title>
             <statement>
                 <p>When you encounter a chord with a diminished third, it is an augmented sixth chord.</p>
             </statement>
@@ -208,7 +208,7 @@
     </section>
     <section xml:id="DescendingChromaticBassLines">
         <title>Descending Chromatic Bass Lines</title>
-        <p>A common musical pattern is the descending chromatic bass line (<scaledeg>1</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>). Composers harmonize descending chromatic bass lines in different ways, sometimes with secondary chords, borrowed chords, and augmented sixth chords. Below are some examples from the past four centuries.</p>
+        <p>A common musical pattern is the descending chromatic bass line (<scaledeg>1</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>). Composers harmonize descending chromatic bass lines with all manner of harmonies, including secondary chords, borrowed chords, augmented sixth chords, and rarely<ndash/>used diatonic chords. Below are some examples from the past four centuries.</p> 
         <figure>
             <caption>Henry Purcell, <pubtitle>Dido and Aeneas</pubtitle>, Z. 636, <q>When I am laid in earth</q> (Dido's Lament) (1688)</caption>
             <idx><h>Purcell, Henry</h><h><pubtitle>Dido and Aeneas</pubtitle>, Z. 636</h><h><q>When I am laid in earth</q> (Dido's Lament)</h></idx>
@@ -225,7 +225,7 @@
         </figure>
         <figure>
             <caption>J.S. Bach, <pubtitle>Mass in B minor</pubtitle>, BWV 232, Crucifixus (1733)</caption>
-            <idx><h>Bach, J.S.</h><h><pubtitle>Mass in B minor</pubtitle>, BWV 232, Crucifixus</h></idx>
+            <idx><h>Bach, J.S.</h><h><pubtitle>Mass in B minor</pubtitle>, BWV 232</h><h>Crucifixus</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/aug-6-crucifixus">

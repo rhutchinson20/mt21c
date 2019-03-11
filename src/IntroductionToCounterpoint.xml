@@ -1,0 +1,1651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="IntroductionToCounterpoint">
+    <title>Introduction to Counterpoint</title>
+    <section xml:id="SpeciesCounterpoint">
+        <title>Species Counterpoint</title>
+        <p>The seminal composition text, <pubtitle>Gradus ad Parnassum</pubtitle> (1725), by Johann Joseph Fux, teaches contrapuntal composition through <q>species counterpoint.</q> <term>Species counterpoint</term><idx><h>species counterpoint</h><h>definition of</h></idx> uses simple rhythmic values and teaches composers how to write one, two, three, or four notes against a larger value, usually a whole note. In this text, we will focus on writing for two voices. In a semester-long college course in counterpoint, one typically learns to write for up to four voices.</p>
+        <p><term>Counterpoint</term><idx><h>counterpoint</h><h>definition of</h></idx> can be thought of as the simultaneous sounding of two or more melodic lines. An example is shown below.</p>
+        <figure>
+            <caption>Bach, J.S., <pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle>, Fugue 3 in C<ndash/>sharp major, BWV 848</caption>
+            <idx><h>Bach, J.S.</h><h><pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle></h><h>Fugue 3 in C<ndash/>sharp major, BWV 848</h></idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit10/ctrpt-c-sharp-fugue-mels">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside margins="37%">
+                    <video youtube="YGHj2CmNz0E" start="0" end="15" play-at="select" preview="generic"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Textures made of counterpoint are called <q>contrapuntal</q> and can be contrasted with melody<ndash/>accompaniment textures, which are called <q>homophonic.</q></p>
+    </section>
+
+
+
+    <section xml:id="FirstSpecies">
+        <title>First Species Counterpoint</title>
+        <p>In first species, we will write note<ndash/>against<ndash/>note counterpoint in whole notes. You will be given a melody, called the <foreign>cantus firmus</foreign> (abbreviated <q><foreign>c.f.</foreign></q>), against which you will write a counterpoint.</p>
+        <figure>
+            <caption/>
+            <image source="images/unit10/ctrpt-1st-sp-cf-example"/>
+        </figure>
+        <p>Fux enumerates several rules to follow to write in proper sixteenth<ndash/>century style (the style of Palestrina). Since this is a brief introduction to writing in species counterpoint, the rules below are slightly modified and simplified. You would likely follow stricter rules in a semester<ndash/>long course in counterpoint.</p>
+        <ol>
+            <li>
+                <p>Begin with an octave or unison.</p>
+                <sidebyside>
+                    <image source="images/unit10/ctrpt-1st-sp-start-w-8">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </li>
+            <li><p>End on an octave or unison.</p></li>
+            <li>
+                <p>Approach the ending octave or unison by contrary motion; one of the parts will end with <scaledeg>7</scaledeg><ndash/><scaledeg>8</scaledeg> while the other ends with <scaledeg>2</scaledeg><ndash/><scaledeg>1</scaledeg>.
+                <sidebyside>
+                    <image source="images/unit10/ctrpt-1st-sp-end-6-8">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <ol>
+                    <li>
+                        <p>If the example is in G mixolydian, D dorian, or A aeolian, use a sharp to create the leading tone (F<sharp/>, C<sharp/>, and G<sharp/> respectively).</p>
+                        <sidebyside>
+                            <image source="images/unit10/ctrpt-1st-sp-use-sharps">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                </ol>
+            </p></li>
+            <li>
+                <p>Create consonant harmonic intervals in each measure (unisons, 3rds, 5ths, 6ths, and their compound versions<mdash/>10ths, 12ths, 13ths, etc.). Dissonances (2nds, 4ths, 7ths) are not allowed in first species counterpoint.
+                <sidebyside>
+                    <image source="images/unit10/ctrpt-1st-sp-all-poss-consonances">
+                        <description/>
+                    </image>
+                </sidebyside>
+
+                <ol>
+                    <li>
+                        <p><q>Imperfect</q> consonances (3rds and 6ths) can be approached in any manner
+                        <ol>
+                            <li><p>Do not use more than three consecutive 3rds or 6ths</p></li>
+                        </ol>
+                    </p></li>
+                    <li>
+                        <p><q>Perfect</q> consonances (unisons, 5ths, 8ves, 12ths) may only be approached in <em>contrary</em> motion in order to avoid direct 5ths and direct 8ves (you may wish to review the <xref ref="TypesOfMotion" text="title">Types of Motion</xref>).</p></li><!--needs examlpe-->
+                    </ol>
+                </p>
+            </li>
+            <li><p>Only the following leaps are allowed: 3rds, 4ths, 5ths, ascending minor sixths, and 8ves (review the <xref ref="RulesOfMelody" text="title">Rules of Melody</xref> with regard to direction changes after leaps).</p></li>
+            <li>
+                <p>Avoid melodically outlining a tritone by changing directions at two turning points in a melody.</p>
+                <sidebyside>
+                    <image source="images/unit10/ctrpt-1st-sp-outlining-tritone">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </li>
+            <li><p>Avoid repeating notes in order to create a flowing melody</p></li>
+        </ol>
+        <p>Following these rules may seem dry and uninspired, but these rules come from observations of note<ndash/>by<ndash/>note details in Renaissance masterpieces by composers like Palestrina and can make any composer better and more aware of what they are writing.</p>
+        <p><xref ref="first-species-exercises" text="title">Go to First Species Practice Exercises</xref>.</p>
+    </section>
+
+
+
+    <section xml:id="SecondSpecies">
+        <title>Second Species Counterpoint</title>
+        <p>In second species, one writes two half notes against a <foreign>cantus firmus</foreign> in whole notes. (Second species can also include writing three half notes against a <foreign>cantus firmus</foreign> of dotted whole notes in <timesignature top="3" bottom="2"/>.) The rules are generally the same as first species except that one simple dissonance is allowed in second species: the passing tone. Please see the details below.</p>
+        <ol>
+            <li>
+                <p>Begin your counterpoint with a half note at the octave or unison on either the first or third beat of the measure; if starting on the third beat, put a half rest at the beginning of the measure.</p>
+                <sidebyside>
+                    <image source="images/unit10/ctrpt-2nd-sp-beginning">
+                        <description/>
+                    </image>
+                </sidebyside></li>
+                <li>
+                    <p>End with a whole note on an octave or unison, using one of these concluding formulas:
+                        <ol>
+                            <li><p>If the <foreign>cantus firmus</foreign> is in the lower part, approach the final octave with intervals of a fifth and sixth (<scaledeg>6</scaledeg><ndash/><scaledeg>7</scaledeg> against <scaledeg>2</scaledeg> in the <foreign>cantus firmus</foreign>).</p></li>
+                            <li><p>If the <foreign>cantus firmus</foreign> is in the upper part, approach the final octave or unison with the intervals of a fifth and third (<scaledeg>5</scaledeg><ndash/><scaledeg>7</scaledeg> against <scaledeg>2</scaledeg> in the <foreign>cantus firmus</foreign>).</p></li>
+                            <li>
+                                <p>Phrygian mode has an exception: if the cantus firmus is in the upper part, approach the final octave or unison with the intervals of a sixth to a third (<scaledeg>4</scaledeg><ndash/><flat/><scaledeg>7</scaledeg> against <flat/><scaledeg>2</scaledeg> in the <foreign>cantus firmus</foreign>).</p>
+                                <sidebyside>
+                                    <image source="images/unit10/ctrpt-2nd-sp-concluding-formulas">
+                                        <description/>
+                                    </image>
+                                </sidebyside>
+                            </li>
+                        </ol>
+                    </p>
+                </li>
+                <li><p>Of the two half notes you write in each measure, the first must always be a consonance (unison, 3rd, 5th, 6th, 8ve, or compound interval equivalent). If the second is a dissonance, it can only be a passing tone (approached and left by step). Otherwise, the second note must be a consonance. The only allowable leaps are the same as in first species.</p></li>
+                <li>
+                    <p>When crossing barlines, apply the following:
+                        <ol>
+                            <li><p><q>Imperfect</q> consonances (3rds and 6ths) can be approached in any manner.</p></li>
+                            <li><p><q>Perfect</q> consonances (unisons, 5ths, 8ves, 12ths) may only be approached in contrary motion in order to avoid direct 5ths and direct 8ves.</p></li><!--"see example 30.2 below" make it a figure-->
+                            <li><p>Do not repeat notes across barlines</p></li>
+                        </ol>
+                    </p>
+                </li>
+                <li>
+                    <p>Avoid 8ves on consecutive downbeats and avoid 5ths on consecutive downbeats <em>unless</em> there is the leap of 4th occurring after the 8ve or 5th on the downbeat</p>
+                    <sidebyside margins="18%">
+                        <image source="images/unit10/ctrpt-2nd-sp-8ves-w-4ths-intervening">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </li>
+            </ol>
+            <p>Notice that dissonant interval numbers (2, 4, tt, 7) are circled to highlight that they must be handled in a special manner.</p>
+            <sidebyside>
+                <image source="images/unit10/ctrpt-2nd-sp-one-solution">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p><xref ref="second-species-exercises" text="title">Go to Second Species Practice Exercises</xref>.</p>
+
+
+
+        </section>
+        <section xml:id="ThirdSpecies">
+            <title>Third Species Counterpoint</title>
+            <p>In third species, one writes four quarter notes to each whole note in the cantus firmus. Use the following rules.</p>
+            <ol>
+                <li><p>Begin on an octave or unison. Write four quarter notes to each whole note in the cantus firmus except for the final measure.</p></li>
+                <li>
+                    <p>End on a whole note on an octave or unison with the penultimate measure using one of the following formulas:
+                        <ol>
+                            <li><p>If the cantus firmus is in the lower voice, the penultimate measure of the upper voice can be:
+                                <ol>
+                                    <li><p><scaledeg>4</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><scaledeg>7</scaledeg>, or</p></li>
+                                    <li><p><scaledeg>2</scaledeg><ndash/><scaledeg>1</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><scaledeg>7</scaledeg> (the <foreign>cambiata</foreign><mdash/>see 5.b. below)</p></li>
+                                </ol>
+                            </p></li>
+                            <li><p>If the <foreign>cantus firmus</foreign> is in the upper part, the penultimate measure of the lower voice is <scaledeg>7</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><scaledeg>7</scaledeg>.</p>
+                            <sidebyside>
+                                <image source="images/unit10/ctrpt-3rd-sp-concluding-formulas">
+                                    <description/>
+                                </image>
+                            </sidebyside></li>
+                        </ol>
+                    </p>
+                </li>
+                <li><p>Each downbeat should be a consonance.</p></li>
+                <li>
+                    <p>When crossing barlines, apply the following:
+                        <ol>
+                            <li><p><q>Imperfect</q> consonances (3rds and 6ths) can be approached in any manner.</p></li>
+                            <li><p><q>Perfect</q> consonances (unisons, 5ths, 8ves, 12ths) may only be approached in contrary motion in order to avoid direct 5ths and direct 8ves.</p></li>
+                            <li><p>Do not repeat notes across barlines</p></li>
+                        </ol>
+                    </p>
+                </li>
+                <li><p>Allowable dissonances:
+                    <ol>
+                        <li><p>Passing tones are allowable dissonances (but never on the first beat of the measure).</p></li>
+                        <li><p>The <foreign>cambiata</foreign> (see the melodic contour in third measure of the example below) is allowed but only with the second note of the measure as the only dissonant interval.</p></li>
+                    </ol>
+                </p></li>
+                <li><p>Direct 5ths and direct 8ves are not allowed and occur when an 8ve or 5th on a downbeat is approached through similar motion.</p></li>
+            </ol>
+            <sidebyside>
+                <image source="images/unit10/ctrpt-3rd-sp-completed">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p><xref ref="third-species-exercises" text="title">Go to Third Species Practice Exercises</xref>.</p>
+        </section>
+        <section xml:id="FourthSpecies">
+            <title>Fourth Species Counterpoint</title>
+            <p>Fourth species deals with writing suspensions (and syncopations). Because this is only a brief introduction to species counterpoint, you will only encounter the cantus firmus in the lower voice in fourth species in this text. See the fourth species rules below.</p>
+            <ol>
+                <li><p>Start with a half rest, then write a half note an 8ve above the <foreign>cantus firmus</foreign>. The half note on the 3rd beat of every measure but the penultimate one ties across the barline to a half note on the first beat of the succeeding measure.</p></li>
+                <li><p>End on a whole note at the interval of an 8ve above the <foreign>cantus firmus</foreign>.</p></li>
+                <li><p>The penultimate measure should contain a 7<ndash/>6 suspension.</p></li>
+                <li><p>The half note on the third beat of each measure is <em>always</em> a consonance.</p></li>
+                <li>
+                    <p>If the half note after a tie is a dissonance (4th or 7th), it is a suspension and <em>must resolve down by step</em>.
+                    <ol>
+                        <li>
+                            <p>Allowable suspensions in the upper part are 4<ndash/>3 and 7<ndash/>6; 9<ndash/>8 and 2<ndash/>1 are not allowed.</p>
+                        </li>
+                    </ol>
+                </p></li>
+                <li><p>If the half note after the tie is a consonance (1, 3, 5, 6, 8), it is a syncopation and can be left in any manner (by step or leap in any direction).</p></li>
+            </ol>
+            <sidebyside>
+                <image source="images/unit10/ctrpt-4th-sp-example">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>Notice that all suspensions and syncopations are labeled and all dissonant intervals are circled.</p>
+            <p><xref ref="fourth-species-exercises" text="title">Go to Fourth Species Practice Exercises</xref>.</p>
+        </section>
+
+
+
+        <section xml:id="FifthSpecies">
+            <title>Fifth Species Counterpoint</title>
+            <p>Fifth species (also know as <q>florid counterpoint</q>) is a free mixture of first through fourth species. One can observe all species in the opening of Orlande de Lassus' <foreign>Expectatio Justorum</foreign>.</p>
+            <figure>
+                <caption>Orlande de Lassus, <foreign>Expectatio Justorum</foreign></caption>
+                <idx><h>Lassus, Orlande de</h><h><foreign>Expectatio Justorum</foreign></h></idx>
+
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit10/ctrpt-5th-sp-lasso-expectation-justorum">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="wjqd3Mv_wgs" start="0" end="11" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+        </section>
+
+
+        <section xml:id="InventionExpositions">
+            <title>Invention Expositions</title>
+            <introduction>
+                <p>J.S. Bach’s Two<ndash/>Part Inventions were not only intended as instructional keyboard pieces but also as examples of how to compose. In this section we will wed our species counterpoint knowledge with our knowledge of harmony in order to write a four-measure invention exposition using Bach’s C major and E minor inventions as models. Note the I<ndash/>I<ndash/>V<ndash/>V<ndash/>I harmonic progression.</p>
+                <figure>
+                    <caption>Bach, Invention No. 1 in C Major, BWV 772</caption>
+                    <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit10/inv-c-major-inv-ex-1">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="E8EvUmq0Zao" start="0" end="9" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
+                </figure>
+                <figure>
+                    <caption>Bach, Invention No. 7 in E Minor, BWV 778</caption>
+                    <idx><h>Bach, J.S.</h><h>Invention No. 7 in E Minor, BWV 778</h></idx>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit10/inv-e-minor-inv-ex-1b">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="QHDx0uYaKkY" start="0" end="7" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
+                </figure>
+            </introduction>
+            <subsection xml:id="WritingInventionExposition">
+                <title>How to Write an Invention Exposition</title>
+                <p>In the majority of examples, you will be given an invention theme in the first measure, which you will write an octave lower in the bass part in the second measure, then a perfect fifth higher than the first measure in the third measure, the fourth measure will be the third measure transposed down one octave, and, finally, you will end on the interval of a 10th<mdash/>tonic in the bass part and <scaledeg>3</scaledeg> in the upper part. Please see the example below.</p>
+                <figure>
+                <caption/>
+                <image source="images/unit10/inv-sample-in-e-flat-bare-bones"/>
+            </figure>
+            </subsection>
+            <subsection xml:id="AlteringInventionThemes">
+                <title>Altering Themes to Fit the Harmonies</title>
+                <ol>
+                    <li>
+                        <p>You may find that a theme that leads naturally from I to V needs its contour altered <em>when progressing from V to I in measures 4 to 5</em> in order to emphasize the V chord and the dominant<ndash/>to<ndash/>tonic harmonic motion. Modify the contour to emphasize the V chord at the end of the measure, altering as few notes as possible.</p>
+                        <sidebyside>
+                            <image source="images/unit10/inv-w-stuttering-ending">
+                        <description/>
+                    </image>
+                        </sidebyside>
+                        <sidebyside>
+                            <image source="images/unit10/inv-w-stuttering-fixed">
+                        <description/>
+                    </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <p>Additionally, you may be given themes that land on <scaledeg>3</scaledeg> on the downbeat of the second measure, not the <scaledeg>5</scaledeg> that occurred in the Bach C major and E minor invention expositions. You will need to alter the theme at the end of measure 2 to emphasize the I chord as well as make the first bass note of the third measure the <scaledeg>5</scaledeg> scale degree.</p>
+                        <sidebyside>
+                            <image source="images/unit10/inv-ends-on-3-wrong">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside>
+                            <image source="images/unit10/inv-ends-on-3-right">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <p>Finally, when a theme in minor containing the <scaledeg>2</scaledeg> and <scaledeg>3</scaledeg> scale degrees in the first two measures is transposed up a fifth in the succeeding two measures, scale degrees <scaledeg>2</scaledeg> and <flat/><scaledeg>3</scaledeg> <em>will be transposed to &#x2191;<scaledeg>6</scaledeg> and &#x2191;<scaledeg>7</scaledeg></em>. The reasoning is that &#x2191;<scaledeg>7</scaledeg> is the 3rd of the V chord, and &#x2191;<scaledeg>6</scaledeg> is a step below, typically a passing tone. Another way to think of this is to <em>use the melodic minor scale in the 3rd and 4th measures</em>.</p>
+                        <sidebyside>
+                            <image source="images/unit10/inv-mapping-3-to-7">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                </ol>
+            </subsection>
+            <subsection xml:id="AddingCounterpoint">
+                <title>Adding Counterpoint to the Theme Statements</title>
+                <p>After copying and transposing the theme throughout this four<ndash/>measure invention exposition, you will need to add counterpoint to accompany the statements of the theme in the second, third, and fourth measures. Unlike species counterpoint, your counterpoint in these invention expositions <em>must emphasize the harmony</em> in each measure.</p>
+                <sidebyside>
+                    <image source="images/unit10/inv-writ-ctrpt-bad">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside>
+                    <image source="images/unit10/inv-writ-ctrpt-good">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <p>You may find the need to create <q>microharmonies</q> within a measure with some themes, such as a I<ndash/>IV<ndash/>I or I<ndash/><chord root="vii" mode="diminished" bps="6"/>  <ndash/>I progression even though the overriding harmony of the bar is the I chord. Examples are found in the first two measures of the C major invention.</p>
+                <figure>
+                    <caption>Microharmonies in the C Major Invention by J.S. Bach</caption>
+                    <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit10/inv-microharmonies">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="E8EvUmq0Zao" start="0" end="9" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
+                </figure>
+                <p>Given these pieces of information, you are prepared to begin writing tonal counterpoint in two parts.</p>
+            </subsection>
+            <conclusion>
+                <p><xref ref="invention-exposition-exercises" text="title">Go to the Invention Exposition Practice Exercises</xref>.</p>
+            </conclusion>
+        </section>
+
+
+
+
+        <section xml:id="FugueAnalysis">
+            <title>Fugue Analysis</title>
+            <p>We will now turn to analysis of fugue. Let us set out definitions first.</p>
+            <ul>
+                <li><p>A <term>fugue</term><idx><h>fugue</h><h>definition of</h></idx> is a contrapuntal composition whose form features sections called expositions and episodes</p></li>
+                <li><p>A fugue <term>exposition</term><idx><h>fugue</h><h>exposition</h><h>definition of</h></idx> is a section that contains at least one full statement of the subject of the fugue.</p></li>
+                <li><p>The fugue <term>subject</term><idx><h>fugue</h><h>subject</h><h>definition of</h></idx> is the primary melodic idea and is stated by each voice in turn in the first exposition.</p></li>
+                <li><p>The <term>response</term><idx><h>fugue</h><h>response</h><h>definition of</h></idx>, called <q>answer</q> in some texts, is the subject intervallically altered to start in the original key before modulating to the dominant. Notice that the third note of the subject in the example below descends a perfect fourth to the fourth note. In the response in measure 3, the third note descends a perfect fifth to the fourth note.</p></li>
+                <li><p>An <term>episode</term><idx><h>fugue</h><h>episode</h><h>definition of</h></idx> is a section that does not contain a full statement of the fugue subject, but instead <xref ref="DevelopmentalFunction" text="title">develops</xref> the subject or other prominent ideas through fragmentation and sequencing.</p></li>
+            </ul>
+            <p>Here is the first exposition of Fugue 2 in C minor in Book I of the J.S. Bach’s <pubtitle>Well<ndash/>Tempered Clavier</pubtitle>. In the first exposition of a fugue, all of the voices state the subject at least once. It is important to note that a response is considered equivalent to a subject because the intervallic alterations are so minute.<idx><h>Bach, J.S.</h><h><pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle></h><h>Fugue 2 in C minor, BWV 846</h></idx></p>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-A">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-B">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-C">
+                    <description/>
+                </image>
+            </sidebyside>
+            <figure>
+                <caption>First Exposition of Fugue 2 in C minor from <pubtitle>Well<dash/>Tempered Clavier</pubtitle>, Book I (BWV 847)</caption>
+                <sidebyside margins="37%">
+                    <video youtube="itvGdURMfbM" start="0" end="22" play-at="select" preview="generic"/>
+                </sidebyside>
+            </figure>
+            <ul>
+                <li><p>The <term>bridge</term><idx><h>fugue</h><h>bridge</h><h>definition of</h></idx>, if it occurs, is a brief modulatory passage that only happens <em>within</em> the first exposition, usually to connect the response to the subsequent subject statement.</p></li>
+                <li><p>A <term>countersubject</term><idx><h>fugue</h><h>countersubject</h><h>definition of</h></idx> is counterpoint that consistently accompanies each occurrence of the subject. <q>Countersubject 1</q> is in the alto voice in measure 3 and in the soprano voice in measure 7. The alternative to using a countersubject would be for a composer to write different accompanying counterpoint (labeled as <q>CTRPT</q> in the examples) each time a subject is stated.</p></li>
+            </ul>
+            <p>Within the bridge (bar 5 in the example above), we see motivic <xref ref="FragmentSection" text="title">fragmentation</xref> of the subject (<q>subject head</q>). Subjects, responses, and countersubjects can be fragmented into head motives and tail motives in episodes in fugues. In this fugue, we will see the subject, countersubject 1, and countersubject 2 fragmented.</p>
+            <p>Below is the first episode, which contains motivic fragmentation of the subject and countersubject 1.</p>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-D">
+                    <description/>
+                </image>
+            </sidebyside>
+            <figure>
+                <caption>First Episode of Fugue 2 in C minor from <pubtitle>Well<dash/>Tempered Clavier</pubtitle>, Book I (BWV 847)</caption>
+                <sidebyside margins="37%">
+                    <video youtube="itvGdURMfbM" start="21" end="28" play-at="select" preview="generic"/>
+                </sidebyside>
+            </figure>
+            <p>Below are the second exposition, the second episode, the third exposition, and the third episode.</p>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-E">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-F">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-G">
+                    <description/>
+                </image>
+            </sidebyside>
+            <figure>
+                <caption>J.S. Bach, Fugue 2 in C minor from <pubtitle>Well<dash/>Tempered Clavier</pubtitle>, Book I (BWV 847)</caption>
+                <sidebyside margins="37%">
+                    <video youtube="itvGdURMfbM" start="27" end="53" play-at="select" preview="generic"/>
+                </sidebyside>
+            </figure>
+            <p>In the four systems below, we see the fourth exposition, fourth episode, and final exposition, which includes two subject statements separated by cadential material.</p>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-H">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-I">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-J">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit10/fug-c-min-K">
+                    <description/>
+                </image>
+            </sidebyside>
+                <figure>
+                <caption>J.S. Bach, Fugue 2 in C minor from <pubtitle>Well<dash/>Tempered Clavier</pubtitle>, Book I (BWV 847)</caption>
+                <sidebyside margins="37%">
+                    <video youtube="itvGdURMfbM" start="53" end="94" play-at="select" preview="generic"/>
+                </sidebyside>
+            </figure>
+            <p>In homework and on the test, you will be asked to analyze a fugue with regard to expositions (including the bridge, if it occurs), episodes, subjects, responses, countersubjects, and motivic fragmentation.</p>
+        </section>
+
+
+
+
+
+    <exercises xml:id="IntroductionToCounterpointExercises">
+        <title>Practice Exercises</title>
+        <exercisegroup>
+            <introduction>
+                <p>Species Counterpoint: Day One</p>
+            </introduction>
+            <exercise xml:id="first-species-exercises">
+                <statement>
+                    <p>For each exercise below, write first species (note<ndash/>against<ndash/>note) counterpoint. Write the intervallic distance from the cantus firmus (<q><foreign>c.f.</foreign></q>) to the counterpoint in the blanks above the staff. Remember to begin and end with an octave or unison, to proceed to the last unison by step in both voices, and use only consonances (1, 3, 5, 6, 8, 10).</p>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-1st-sp-1-CM">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-1st-sp-1-GM">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-1st-sp-1-Dm">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-1st-sp-1-Ephryg">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-1st-sp-1-CM-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-1st-sp-1-GM-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-1st-sp-1-Dm-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-1st-sp-1-Ephryg-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise xml:id="second-species-exercises">
+                <statement>
+                    <p>For the exercises below, write second species counterpoint<mdash/>two half notes in each measure except the last. Each downbeat must be a consonance. The only dissonance allowed is the passing tone. Write the intervallic distance from the <foreign>cantus firmus</foreign> (<q><foreign>c.f.</foreign></q>) to the counterpoint in the blanks above the staff. Circle all dissonant numbers (2, 4, and 7) and label passing tones with <q>pt.</q></p>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-2nd-sp-1-CM">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-2nd-sp-2-Dm">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-2nd-sp-3-EPhryg">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-2nd-sp-1-CM-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-2nd-sp-2-Dm-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-2nd-sp-3-EPhryg-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Species Counterpoint: Day Two</p>
+            </introduction>
+            <exercise xml:id="third-species-exercises">
+                <statement>
+                    <p>For each exercise below, write third species counterpoint (quarter notes). Circle all dissonant interval numbers and label passing tones and cambiata figures.</p>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-3rd-sp-1-CM">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-3rd-sp-2-Dm">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-3rd-sp-2-GM">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-3rd-sp-3-EPhryg">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                  <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-3rd-sp-1-CM-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-3rd-sp-2-Dm-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-3rd-sp-2-GM-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-3rd-sp-3-EPhryg-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>  
+                </answer>
+            </exercise>
+            <exercise xml:id="fourth-species-exercises">
+                <statement>
+                    <p>For each exercise below, write fourth species counterpoint (suspensions and syncopations). Circle all dissonant interval numbers and label suspensions with <q>sus</q> and syncopations with <q>sync.</q></p>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-4th-sp-1-CM">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-4th-sp-2-Am">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-4th-sp-3-GM">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-4th-sp-4-Dm">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-4th-sp-1-CM-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-4th-sp-2-Am-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-4th-sp-3-GM-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-4th-sp-4-Dm-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Invention Expositions</p>
+            </introduction>
+            <exercise xml:id="invention-exposition-exercises">
+                <statement>
+                    <p>Complete these invention expositions by following the I<ndash/>I<ndash/>V<ndash/>V<ndash/>I harmonic pattern and transposing and modifying the theme accordingly.</p>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-inv-1-in-CM">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-inv-2-in-Em">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-inv-3-in-DM">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-inv-4-in-dm">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-inv-1-in-CM-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-inv-2-in-Em-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-inv-3-in-DM-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-inv-4-in-dm-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Fugue Analysis</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>For this fugue from the second <foreign>Kyrie eleison</foreign> of Bach's <pubtitle>Mass in B Minor</pubtitle> (BWV 232), specify formal sections (expositions and episodes), motives (subject, response, countersubjects, and fragments thereof), and key areas for expositions only in the table below. This fugue contains more <q>counterpoint</q> (material not derived for subjects or countersubjects) than the C minor fugue in the body of the text.</p>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-fugue-b-minor-mass-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-fugue-b-minor-mass-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-fugue-b-minor-mass-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-fugue-b-minor-mass-D">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit10/PRAC-EXER-fugue-b-minor-mass-E">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <figure>
+                        <caption>J.S. Bach, <pubtitle>Mass in B Minor</pubtitle>, BWV 232, Kyrie eleison II</caption>
+                        <idx><h>Bach, J.S.</h><h><pubtitle>Mass in B minor</pubtitle>, BWV 232</h><h>Kyrie II</h></idx>
+                        <sidebyside margins="37%">
+                            <video youtube="aVYPtNeH7IQ" start="0" end="52" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </figure>
+
+                    <table>
+                        <caption><foreign>Mass in B Minor</foreign>: Fugue Analysis Table</caption>
+
+                        <tabular bottom="minor" top="minor" left="minor" right="minor">
+
+                            <col right="major" width="11%"/>
+                            <col right="none" width="11%"/>
+                            <col width="11%"/>
+                            <col right="none" width="11%"/>
+                            <col width="11%"/>
+                            <col right="none" width="11%"/>
+                            <col width="11%"/>
+                            <col right="none" width="11%"/>
+                            <col width="11%"/>
+                            
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major" bottom="major">KEY</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">1</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">2</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">3</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">4</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row left="none" right="none"><!--empty row-->
+                                <cell halign="center" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none" halign="right">l</cell>
+                            </row>
+
+                            <!--second group-->
+
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major" bottom="major">KEY</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">5</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">6</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">7</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">8</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row left="none" right="none"><!--empty row-->
+                                <cell halign="center" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none" halign="right">l</cell>
+                            </row>
+
+                            <!--third group-->
+
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major" bottom="major">KEY</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">9</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">10</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">11</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">12</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row left="none" right="none"><!--empty row-->
+                                <cell halign="center" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none" halign="right">l</cell>
+                            </row>
+
+                            <!--FOURTH GROUP-->
+
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major" bottom="major">KEY</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">13</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">14</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">15</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">16</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row left="none" right="none"><!--empty row-->
+                                <cell halign="center" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none" halign="right">l</cell>
+                            </row>
+
+                            <!--FIFTH GROUP-->
+
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+
+                            <row>
+                                <cell halign="center" right="major">KEY</cell>
+                                <cell bottom="major"><fillin characters="7"/></cell>
+                                <cell bottom="major"><fillin characters="7"/></cell>
+                                <cell bottom="major"><fillin characters="7"/></cell>
+                                <cell bottom="major"><fillin characters="7"/></cell>
+                                <cell bottom="major"><fillin characters="7"/></cell>
+                                <cell bottom="major"><fillin characters="7"/></cell>
+                                <cell bottom="major"><fillin characters="7"/></cell>
+                                <cell bottom="major"><fillin characters="7"/></cell>
+                            </row>
+
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">17</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">18</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">19</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">20</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                        </tabular>
+                    </table>
+                </statement>
+
+
+                <answer>
+
+
+
+
+                    <table>
+                        <caption><foreign>Mass in B Minor</foreign>: Fugue Analysis Table</caption>
+
+                        <tabular bottom="minor" top="minor" left="minor" right="minor">
+
+                            <col right="major" width="11%"/>
+                            <col right="none" width="11%"/>
+                            <col width="11%"/>
+                            <col right="none" width="11%"/>
+                            <col width="11%"/>
+                            <col right="none" width="11%"/>
+                            <col width="11%"/>
+                            <col right="none" width="11%"/>
+                            <col width="11%"/>
+                            
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell colspan="8" bottom="major">Exposition 1</cell>
+                                
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell colspan="3" bottom="minor">Subject</cell>
+                                
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell colspan="2" bottom="minor">Subject</cell>
+                                <cell colspan="2" bottom="minor">Subject</cell>
+                                <cell bottom="minor">Sub.</cell>
+                                <cell colspan="3" bottom="minor">Countersubject</cell>
+                                
+                            </row>
+                            <row>
+                                <cell halign="center" right="major" bottom="major">KEY</cell>
+                                <cell bottom="major">F<sharp/>m</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major">C<sharp/>m</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">1</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">2</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">3</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">4</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row left="none" right="none"><!--empty row-->
+                                <cell halign="center" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none" halign="right">l</cell>
+                            </row>
+
+                            <!--second group-->
+
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell colspan="6" bottom="major">(Bridge)</cell>
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell bottom="minor">Subject</cell>
+                                <cell bottom="minor"></cell>
+                                <cell colspan="2" bottom="minor">Bridge Mot. A</cell>
+                                <cell colspan="2" bottom="minor">Bridge Mot. A</cell>
+                                <cell colspan="2" bottom="minor">Bridge Mot. A</cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell colspan="2" bottom="minor">Countersubject</cell>
+                                <cell colspan="2" bottom="minor">Bridge Mot. B</cell>
+                                <cell colspan="2" bottom="minor">Bridge Mot. B</cell>
+                                <cell colspan="2" bottom="minor">Bridge Mot. B</cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major" bottom="major">KEY</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">5</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">6</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">7</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">8</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row left="none" right="none"><!--empty row-->
+                                <cell halign="center" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none" halign="right">l</cell>
+                            </row>
+
+                            <!--third group-->
+
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell colspan="8" bottom="major">Exposition 1 (continues until 4th voice has subject)</cell>
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell colspan="3" bottom="minor">Subject</cell>
+                            </row>
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell colspan="2" bottom="minor">Subject</cell>
+                                <cell colspan="2" bottom="minor">Subject</cell>
+                                <cell bottom="minor">Sub.</cell>
+                                <cell colspan="3" bottom="minor">Countersubject</cell>
+                            </row>
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell colspan="2" bottom="minor">Countersubject</cell>
+                                <cell colspan="2" bottom="minor">Countersubject</cell>
+                                <cell bottom="minor">C.S.</cell>
+                                <cell colspan="3" bottom="minor">Ctrpt</cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell colspan="3" bottom="minor">Ctrpt</cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major" bottom="major">KEY</cell>
+                                <cell bottom="major">F<sharp/>m</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell colspan="3" bottom="major">C<sharp/>m</cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">9</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">10</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">11</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">12</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row left="none" right="none"><!--empty row-->
+                                <cell halign="center" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none" halign="right">l</cell>
+                            </row>
+
+                            <!--FOURTH GROUP-->
+
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell colspan="6" bottom="major">Episode 1</cell>
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell bottom="minor">Subject</cell>
+                                <cell bottom="minor"></cell>
+                                <cell colspan="2" bottom="minor">Bridge Mot. A</cell>
+                                <cell bottom="minor"></cell>
+                                <cell colspan="3" bottom="minor">Bridge Mot. A</cell>
+                            </row>
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell colspan="2" bottom="minor">Countersubject</cell>
+                                <cell colspan="2" bottom="minor">Bridge Mot. B</cell>
+                                <cell bottom="minor">Mot. B</cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major" bottom="major">KEY</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">13</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">14</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">15</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">16</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                            <row left="none" right="none"><!--empty row-->
+                                <cell halign="center" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none"></cell>
+                                <cell bottom="minor" right="none" halign="right">l</cell>
+                            </row>
+
+                            <!--FIFTH GROUP-->
+
+                            <row>
+                                <cell  right="major" halign="center" bottom="major">FORM</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell colspan="5" bottom="major">Exposition 2</cell>
+                            </row>
+                            <row>
+                                <cell  right="major" bottom="minor">SOPRANO</cell>
+                                <cell colspan="2" bottom="minor">Cadential</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+
+                            <row bottom="minor">
+                                <cell  right="major" halign="center">ALTO</cell>
+                                <cell colspan="2" bottom="minor">Cadential</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Subject</cell>
+                                <cell bottom="minor">Subject</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Subject</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+
+                            <row>
+                                <cell  halign="center" right="major" bottom="minor">TENOR</cell>
+                                <cell colspan="2" bottom="minor">Cadential</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor">Ctrpt</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+
+                            <row>
+                                <cell halign="center" right="major">BASS</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+
+                            <row>
+                                <cell halign="center" right="major">KEY</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"><fillin characters="4"/></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major">F<sharp/>m</cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                                <cell bottom="major"></cell>
+                            </row>
+
+                            <row>
+                                <cell halign="center" right="major">Meas.</cell>
+                                <cell bottom="minor" halign="right">17</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">18</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">19</cell>
+                                <cell bottom="minor"></cell>
+                                <cell bottom="minor" halign="right">20</cell>
+                                <cell bottom="minor"></cell>
+                            </row>
+                        </tabular>
+                    </table>
+                    
+
+
+
+                </answer>
+            </exercise>
+        </exercisegroup>
+
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_48.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_49.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_50.pdf">here to download the third homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_51.pdf">here to download the fourth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_52.pdf">here to download the fifth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_Unit_10_Practice_Test.pdf">here to download the Unit 10 Practice Test.</url></p>
+        </conclusion>
+    </exercises>
+</chapter>
