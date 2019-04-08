@@ -480,7 +480,7 @@
                         </sidebyside>
                     </sbsgroup>
                 </figure>
-                <!--Duel of the Fates also ZTg6hg1miFg-->
+                <!--
                 <figure>
                     <caption>John Williams, <pubtitle>Harry Potter and the Sorceror's Stone</pubtitle>, <q>The Face of Voldemort</q> (2001)</caption>
                     <idx><h>Williams, John</h><h><pubtitle>Harry Potter and the Sorceror's Stone</pubtitle>, <q>The Face of Voldemort</q></h></idx>
@@ -492,6 +492,21 @@
                         </sidebyside>
                         <sidebyside margins="37%">
                             <video youtube="ydlzNv40yZM" start="238" end="245" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </sbsgroup>
+                </figure>
+                -->
+                <figure>
+                    <caption>John Williams, <pubtitle>The Phantom Menace</pubtitle>, <q>Duel of the Fates</q> (1999)</caption>
+                    <idx><h>Williams, John</h><h><pubtitle>The Phantom Menace</pubtitle>, <q>Duel of the Fates</q></h></idx>
+                    <sbsgroup>
+                        <sidebyside>
+                            <image source="images/unit5/mod-CT-chrom-med-duel-of-fates">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="ZTg6hg1miFg" start="81" end="89" play-at="select" preview="generic"/>
                         </sidebyside>
                     </sbsgroup>
                 </figure>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="ImpressionismAndExtendedTonality">
+    <title>Impressionism and Extended Tonality</title>
+    <section xml:id="Impressionism">
+        <title>Impressionism</title>
+        <p><term>Impressionism</term><idx><h>Impressionism</h></idx> is associated with Claude Debussy and Maurice Ravel in France, Ottorino Respighi in Italy, Charles Tomlinson Griffes in America, and Frederick Delius in England. We will focus on just three techniques found in the music of Debussy and Ravel: (1) the use of modes, (2) the use of upper<ndash/>extensions above the 7th in chord construction in tertian harmonies (9ths, 11ths, and 13ths, which we saw in the chapter on jazz), and (3) parallelism, also known as <q>planing.</q></p>
+        <ol>
+            <li><!--1-->
+                <p><em>Use of modes.</em> Composers such as Debussy and Ravel sometimes wrote in the church modes (Phrygian, Lydian, etc.<mdash/>see <xref ref="TableOfScales" text="title">Scales</xref>) as an alternative to the heavily chromatic music of Richard Wagner (listen to the influential <url href="https://youtu.be/ghjz6D34HPQ">Prelude to Act I</url> of Wagner’s <pubtitle>Tristan und Isolde</pubtitle><idx><h>Wagner, Richard</h><h><pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</h></idx>).</p>
+                <ol>
+                    <li><!--a-->
+                        <p>The first movement of Debussy’s String Quartet in G minor, Op. 10, begins in Phrygian mode. Notice that the seventh chord that occurs on the <scaledeg>5</scaledeg> scale degree is half<ndash/>diminished in Phrygian. (The penultimate chord in this example is not in Phrygian mode.)</p>
+                        <figure>
+                            <caption>Debussy, String Quartet in G minor, Op. 10, I.</caption><idx><h>Debussy, Claude</h><h>String Quartet in G minor, Op. 10, I.</h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-deb-strqt-phryg"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="cEfhiCqlawI" start="0" end="6" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                    <li><!--b-->
+                        <p>The second movement (<q>Danse profane</q>) of Debussy’s <pubtitle>Danses</pubtitle> begins in Lydian mode.</p>
+                        <figure>
+                            <caption>Debussy, <pubtitle>Danses</pubtitle>, II. Danse profane</caption><idx><h>Debussy, Claude</h><h><pubtitle>Danses</pubtitle>, II. Danse profane</h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-deb-danses-lydian"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="5YFNOsSyv3I" start="0" end="11" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                    <li><!--c-->
+                        <p>The first movement of Ravel’s <pubtitle>Piano Trio</pubtitle> Ravel begins in the Dorian mode. Notice that the penultimate chord is outside of the mode.</p>
+                        <figure>
+                            <caption>Ravel, <pubtitle>Piano Trio</pubtitle>, I.</caption><idx><h>Ravel, Maurice</h><h> <pubtitle>Piano Trio</pubtitle>, I.</h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-ravel-trio-dorian"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="yiaGAWuY2PE" start="0" end="10" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                    <li><!--d-->
+                        <p>At the end of the first movement of Ravel’s <pubtitle>Piano Trio</pubtitle>, Ravel transforms the theme by placing it in the Lydian mode. In this example, the final two chords are outside of the Lydian mode.</p>
+                        <figure>
+                            <caption>Ravel, <pubtitle>Piano Trio</pubtitle>, I.</caption><idx><h>Ravel, Maurice</h><h> <pubtitle>Piano Trio</pubtitle>, I.</h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-ravel-trio-lydian"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="yiaGAWuY2PE" start="540" end="551" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                </ol>
+            </li>
+            <li><!--2-->
+                <p><em>Use of upper extensions in chords</em>. Debussy and Ravel used chords containing ninths, elevenths, and thirteenths, sometimes with chromatic alterations to those upper extensions.</p>
+                <ol>
+                    <li><!--a-->
+                        <p>In bar 15 of Debussy’s <q>Clair de lune</q> from his <pubtitle>Suite bergamasque</pubtitle>, Debussy uses an <chord root="E flat" mode="m" bps="9"/> chord with the 9th of the chord in the melody.</p>
+                        <figure>
+                            <caption>Debussy, <pubtitle>Suite bergamasque</pubtitle>, III. Clair de lune</caption><idx><h>Debussy, Claude</h><h> <pubtitle>Suite bergamasque</pubtitle>, III. Clair de lune</h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-deb-clair-de-lune"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="Yecu-mJ-EZo" start="65" end="77" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                    <li><!--b-->
+                        <p>Bar 8 of Debussy’s <q>La Puerta del Vino</q> from Book II of his <pubtitle>Preludes</pubtitle>, contains a <chord root="D flat" bps="7"/> in the left hand with the notes in the right hand alternating between the <sharp/>9 and the <flat/>9.</p>
+                        <figure>
+                            <caption>Debussy, <pubtitle>Pr&#x00E9;ludes</pubtitle>, Book II, No. 3, La Puerto del Vino</caption><idx><h>Debussy, Claude</h><h> <pubtitle>Pr&#x00E9;ludes</pubtitle>, Book II, No. 3, La Puerto del Vino</h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-deb-puerta-1"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="PuLpFaE9ZWo" start="17" end="25" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                    <li><!--c-->
+                        <p>In bar 70 of the same piece, Debussy also includes the <sharp/>11 in the right hand, in addition to the <sharp/>9 and <flat/>9.</p>
+                        <figure>
+                            <caption>Debussy, <pubtitle>Pr&#x00E9;ludes</pubtitle>, Book II, No. 3, La Puerto del Vino</caption><idx><h>Debussy, Claude</h><h> <pubtitle>Pr&#x00E9;ludes</pubtitle>, Book II, No. 3, La Puerto del Vino</h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-deb-puerta-2"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="PuLpFaE9ZWo" start="148" end="156" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                </ol>
+            </li>
+            <li><!--3-->
+                <p><em>Use of parallelism</em> (also known as <q>planing</q>). In contrast to the <xref ref="ObjectionableParallels" text="title">prohibition against parallel fifths and octaves in traditional voice leading</xref>, both Debussy and Ravel would take a chord voicing and move all voices in parallel motion.</p>
+                <ol>
+                    <li><!--a-->
+                        <p>In <pubtitle>Pavane pour une infante d&#x00E9;funte</pubtitle>, Ravel writes dominant 9th chords in parallel motion in bar 27.</p>
+                        <figure>
+                            <caption>Ravel, <pubtitle>Pavane pour une infante d&#x00E9;funte</pubtitle></caption><idx><h>Ravel, Maurice</h><h><pubtitle>Pavane pour une infante d&#x00E9;funte</pubtitle></h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-ravel-pavane"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="GEUpQ5pCSOQ" start="129" end="140" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                    <li><!--b-->
+                        <p>At 5 bars after rehearsal number 5 in <pubtitle>Prelude to the Afternoon of a Faun</pubtitle>, Debussy writes chromatically ascending dominant seventh chords.</p>
+                        <figure>
+                            <caption>Debussy, <pubtitle>Prelude to the Afternoon of a Faun</pubtitle></caption><idx><h>Debussy, Claude</h><h><pubtitle>Prelude to the Afternoon of a Faun</pubtitle></h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-deb-faun-parallel"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="XdvOJHZaSVw" start="219" end="228" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                    <li><!--c-->
+                        <p>At 4 bars after rehearsal number 2 in the same piece, Debussy moves seventh chords in parallel motion. Notice that the chords are not all of the same quality.</p>
+                        <figure>
+                            <caption>Debussy, <pubtitle>Prelude to the Afternoon of a Faun</pubtitle></caption><idx><h>Debussy, Claude</h><h><pubtitle>Prelude to the Afternoon of a Faun</pubtitle></h></idx>
+                            <sbsgroup>
+                                <sidebyside>
+                                    <image source="images/unit12/impress-deb-faun-parallel-2"/>
+                                </sidebyside>
+                                <sidebyside margins="37%">
+                                    <video youtube="XdvOJHZaSVw" start="107" end="113" play-at="select" preview="generic"/>
+                                </sidebyside>
+                            </sbsgroup>
+                        </figure>
+                    </li>
+                </ol>
+            </li>
+        </ol>
+    </section>
+    <section xml:id="Pandiatonicism">
+        <title>Pandiatonicism</title>
+        <p><term>Pandiatonicism</term><idx><h>pandiatonicism</h></idx> refers to the use of all diatonic notes without the need for scale degrees or harmonies to progress or function tonally (V doesn’t need to progress to I, <scaledeg>7</scaledeg> doesn’t need to resolve to <scaledeg>8</scaledeg>, etc.). One often hears it as a wash of notes from the major scale, or as chords made of non<ndash/>traditional combinations of notes from a major scale, often with at least one interval of a 2nd in a chord voicing.</p>
+        <p>In the first example, notice how Stravinsky creates a wash of sound from the notes of the major scale.</p>
+        <figure>
+            <sidebyside><!--no margins on this one-->
+                <video youtube="XkM4bKjggKo" start="211" end="220" play-at="select"/>
+            </sidebyside>
+            <idx>
+                <h>Stravinsky, Igor</h><h><pubtitle>Petrushka</pubtitle>, Fourth Tableau: <pubtitle>The Shrovetide Fair (Toward Evening</pubtitle>)</h>
+            </idx>
+            <caption>Stravinsky, <pubtitle>Petrushka</pubtitle>, Fourth Tableau: <pubtitle>The Shrovetide Fair (Toward Evening</pubtitle>)</caption>
+        </figure>
+        <p>In the second example, Copland uses non<ndash/>traditional pandiatonic chord shapes in non<ndash/>functional harmonic progression.</p>
+        <figure>
+            <caption>Copland, <pubtitle>Appalachian Spring</pubtitle></caption>
+            <idx>
+                <h>Copland, Aaron</h><h><pubtitle>Appalachian Spring</pubtitle></h>
+            </idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit12/pandia-app-spring">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside>
+                    <video youtube="WVahuS9hk_s" start="150" end="170" play-at="select"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>The third example is similar to the first, with Copland creating a wash of sound from the notes of the major scale, with no regard to the dissonant intervals occurring in counterpoint.</p>
+        <figure>
+            <sidebyside><!--no margins on this one-->
+                <video youtube="WVahuS9hk_s" start="868" end="880" play-at="select"/>
+            </sidebyside>
+            <idx>
+                <h>Copland, Aaron</h><h><pubtitle>Appalachian Spring</pubtitle></h>
+            </idx>
+            <caption>Copland, <pubtitle>Appalachian Spring</pubtitle></caption>
+        </figure>
+    </section>
+    <section xml:id="QuintalHarmony">
+        <title>Quartal, Quintal, and Secundal Harmony</title>
+        <p><term>Quartal harmony</term><idx><h>quartal harmony</h><h>definition of</h></idx> refers to chords stacked entirely (or mostly) in fourths. <term>Quintal harmony</term><idx><h>quintal harmony</h><h>definition of</h></idx> refers to chords stacked entirely (or mostly) in fifths. <term>Secundal harmony</term><idx><h>secundal harmony</h><h>definition of</h></idx> refers to chords stacked entirely (or mostly) in seconds. Contrast these concepts with the tertian (stacked in thirds) harmony we’ve encountered in the majority of this text. Alternative methods of stacking chords became more common after 1900 as composers sought ways to innovate and break with the past.</p>
+        <p>The next three examples demonstrate quartal harmony.</p>
+        <figure>
+            <sidebyside><!--no margins on this one-->
+                <video youtube="m_hMVzPT9f4" start="689" end="745" play-at="select"/>
+            </sidebyside>
+            <idx>
+                <h>Schoenberg, Arnold</h><h>Chamber Symphony No. 1, Op. 9</h>
+            </idx>
+            <caption>Schoenberg, Chamber Symphony No. 1, Op. 9</caption>
+        </figure>
+        <figure>
+            <sidebyside margins="37%">
+                <video youtube="D5-bD372v5s" start="71" end="79" play-at="select"/>
+            </sidebyside>
+            <idx>
+                <h>songs (popular)</h><h><pubtitle>CHiPs</pubtitle> Theme</h>
+            </idx>
+            <caption>John Parker, <pubtitle>CHiPs</pubtitle> Theme</caption>
+        </figure>
+        <figure>
+            <sidebyside margins="37%">
+                <video youtube="g0GxiL96i78" start="24" end="35" play-at="select"/>
+            </sidebyside>
+            <idx>
+                <h>songs (popular)</h><h><pubtitle>Jeopardy!</pubtitle> Theme</h>
+            </idx>
+            <caption>Merv Griffin and Julann Wright, <pubtitle>Jeopardy!</pubtitle> Theme</caption>
+        </figure>
+        <p>The following is an extended example of quintal harmony.</p>
+        <figure>
+            <sidebyside><!--no margins on this one-->
+                <video youtube="IfOJCKN148M" start="572" end="664" play-at="select"/>
+            </sidebyside>
+            <idx>
+                <h>Bart&#x00F3;k, B&#x00E9;la</h><h>Piano Concerto No. 2, II.</h>
+            </idx>
+            <caption>B&#x00F3;rtok, Piano Concerto No. 2, II.</caption>
+        </figure>
+    </section>
+    <section xml:id="polychords">
+        <title>Polychords</title>
+        <p>A <term>polychord</term><idx><h>polychord</h><h>definition of</h></idx> typically consists of two triads sounding simultaneously. A polychord could also consist of two seventh chords, or a seventh chord and triad. Additionally, a polychord could conceivably consist of more than two triads or seventh chords, since the prefix <q>poly</q> means <q>many.</q></p>
+        <p>Perhaps the most famous polychord is the <q>Rite of Spring chord,</q> an E<flat/><chord bps="7"/> chord sounding over an F<flat/> major chord, which occurs during the <q>Dance of the Adolescents.</q></p>
+        <figure>
+            <caption>Stravinsky, <pubtitle>Rite of Spring</pubtitle>, <q>Dance of the Adolescents</q></caption>
+            <idx>
+                <h>Stravinsky, Igor</h><h><pubtitle>Rite of Spring</pubtitle>, <q>Dance of the Adolescents</q></h>
+            </idx>
+            <sbsgroup>
+                <sidebyside margins="30%">
+                    <image source="images/unit12/polychord-rite-chord">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside><!--no margins on this one-->
+                    <video youtube="BKoO_3-I1dw" start="0" end="12" play-at="select"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>Polychords are notated using a horizontal line between the chords instead of a slash. (The slash was used for <xref ref="slash-chord-paragraph" text="title">slash chords</xref>.)</p>
+        <sidebyside><!--no margins on this one-->
+            <image source="images/unit12/polychord-how-to-notate"/>
+        </sidebyside>
+        <p>Also note that it is not necessary to specify the inversion of each of the chords in the polychord.</p>
+        <p>In th example below, Copland voices an A major chord below an E major chord.</p>
+        <figure>
+            <caption>Copland, <pubtitle>Appalachian Spring</pubtitle></caption>
+            <idx>
+                <h>Copland, Aaron</h><h><pubtitle>Appalachian Spring</pubtitle></h>
+            </idx>
+            <sbsgroup>
+                <sidebyside>
+                    <image source="images/unit12/polychord-app-spr-e-over-a">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside>
+                    <video youtube="WVahuS9hk_s" start="22" end="43" play-at="select"/>
+                </sidebyside>
+            </sbsgroup>
+        </figure>
+        <p>In the example below, features chromatically ascending dominant seventh chords in the left hand against a repeating three<ndash/>chord cycle of G<ndash/>F<ndash/>C in the right hand.</p>
+        <figure>
+            <sidebyside><!--no margins on this one-->
+                <video youtube="XkM4bKjggKo" start="487" end="495" play-at="select"/>
+            </sidebyside>
+            <idx>
+                <h>Stravinsky, Igor</h><h><pubtitle>Petrushka</pubtitle>, Fourth Tableau: <pubtitle>The Shrovetide Fair (Toward Evening</pubtitle>)</h>
+            </idx>
+            <caption>Stravinsky, <pubtitle>Petrushka</pubtitle>, Fourth Tableau: <pubtitle>The Shrovetide Fair (Toward Evening</pubtitle>)</caption>
+        </figure>
+    </section>
+
+
+    <exercises xml:id="Impressionism-Practice-Exercises">
+        <title>Practice Exercises</title>
+        <exercisegroup>
+            <introduction>
+                <p>Day One</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p><em>Use of modes</em>. Given the melody and chord symbols for <q>London Bridge</q> in Phrygian mode, analyze the chords as lead<ndash/>sheet symbols (<q>LSS</q>) and as Roman numerals (<q>RN</q>).</p>
+                    <sidebyside>
+                        <image source="images/unit12/PRAC-EXER-london-br-phryg">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit12/PRAC-EXER-london-br-phryg-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p><em>Use of parallelism</em>. Harmonize the opening of <q>London Bridge</q> so each note of the melody note is the 9th of a dominant ninth chord.</p>
+                    <sidebyside margins="20%">
+                    <image source="images/unit12/PRAC-EXER-london-br-planing">
+                        <description/>
+                    </image>
+                </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside margins="20%">
+                        <image source="images/unit12/PRAC-EXER-london-br-planing-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Two</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p><em>Quartal, Quintal, and Secundal Harmony</em>. After analyzing the given chord as a lead-sheet symbol, revoice it in four ways:</p>
+                    <ol>
+                        <li><p>as a six<ndash/>note tertian chord stacked only in thirds</p></li>
+                        <li><p>as a six<ndash/>note quartal chord stacked only in perfect 4ths</p></li>
+                        <li><p>as a six<ndash/>note quintal chord stacked only in perfect 5ths</p></li>
+                        <li><p>as a six<ndash/>note secundal chord stacked only in 2nds </p></li>
+                    </ol>
+                    <sidebyside>
+                        <image source="images/unit12/PRAC-EXER-ext-tonal-revoicing">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </statement>
+                <answer>
+                 <sidebyside>
+                    <image source="images/unit12/PRAC-EXER-ext-tonal-revoicing-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+            </exercise>  
+            <exercise>
+                <statement>
+                    <p><em>Polychords</em>. Harmonize <q>London Bridge</q> using the specified polychords. Remember that the chords can be in any inversion, but should should be playable (i.e., without too big of a stretch for the hands of the pianist). </p>
+                    <sidebyside>
+                    <image source="images/unit12/PRAC-EXER-polychord-writing">
+                        <description/>
+                    </image>
+                </sidebyside>
+                </statement>
+                <answer>
+                  <sidebyside>
+                    <image source="images/unit12/PRAC-EXER-polychord-writing-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_59.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_60.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <!--
+            <p>Click <url href="../hw/MT21C_HW_61.pdf">here to download the third homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_62.pdf">here to download the fourth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_63.pdf">here to download the fifth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_64.pdf">here to download the sixth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_65.pdf">here to download the seventh homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_66.pdf">here to download the eighth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_67.pdf">here to download the ninth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_68.pdf">here to download the tenth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_Unit_12_Practice_Test.pdf">here to download the Unit 12 Practice Test.</url></p>
+        -->
+        </conclusion>
+    </exercises>
+</chapter>

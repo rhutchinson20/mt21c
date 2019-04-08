@@ -128,13 +128,13 @@
                 <p>5th may be raised or lowered (<sharp/>5 or <flat/>5, which can also be written with pluses and minuses as <chord mode="augmented"/>5 or <ndash/>5) and can be respelled enharmonically (the <sharp/>5 of a C7<sharp/>5 could be written as an A<flat/> instead of G<sharp/>) for ease of reading because the chromatic spelling agrees with B<flat/> (the 7th of the chord)<mdash/>it is easier to read a chord where the accidentals agree (all sharps or all flats).</p>
             </li>
             <li>
-                <p>9th may be raised or lowered (<sharp/>9 or <flat/>9, which can also be written in the lead<ndash/>sheet symbol as &#x002B;9 or <ndash/>9).  The <sharp/>9 is often spelled enharmonically on the staff as <flat/>10 for ease of reading; therefore, a dominant seventh chord with a <sharp/>9 will appear to have both a major and minor 3rd (C<ndash/>E<ndash/>G<ndash/>B<flat/><ndash/>E<flat/>).</p>
+                <p>9th may be raised or lowered (<sharp/>9 or <flat/>9, which can also be written in the lead<ndash/>sheet symbol as &#x002B;9 or <ndash/>9).  The <sharp/>9 is often spelled enharmonically on the staff as <flat/>10 for ease of reading; therefore, a dominant seventh chord with a <sharp/>9 will appear to have both a major and minor 3rd (C<ndash/>E<ndash/>G<ndash/>B<flat/><ndash/>E<flat/>). You may be tempted to call such a chord a minor chord with a <flat/>11, but <flat/>11 is not used because it is the major third of a chord.</p>
             </li>
             <li>
                 <p>Both alterations of 5 and 9 may occur simultaneously (&#x00B1;9/&#x00B1;5).</p><!--plus sign &#x002B;-->
             </li>
             <li>
-                <p><flat/>13 is the enharmonic equivalent of the <sharp/>5. In this text, <sharp/>5 is preferred to <flat/>13, but you will see both on lead sheets.</p>
+                <p><flat/>13 is the enharmonic equivalent of the <sharp/>5. In this text, <sharp/>5 is preferred to <flat/>13, but you will see both on lead sheets. Also, <flat/>13 implies that the unaltered 5th occurs in the chord, while <sharp/>5 does not.</p>
                 <sidebyside>
                     <image source="images/unit11/jazz-chord-altered-chords">
                         <description/>
@@ -326,6 +326,7 @@
                     <description/>
                 </image>
             </sidebyside>
+            <p>Sometimes you will need to omit the fifth to maintain five parts.</p>
         </subsection>
     </section>
     <section xml:id="StandardChordProgressions">
@@ -693,7 +694,7 @@
                     </row>
                     <row>
                         <cell><chord root="C" bps="7"><alteration><flat/>5</alteration></chord></cell>
-                        <cell>Whole Tone scale</cell>
+                        <cell>C Whole Tone scale</cell>
                     </row>
                     <row>
                         <cell><chord root="C" bps="7"><alteration><flat/>9</alteration></chord></cell>
@@ -821,7 +822,7 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>Voice lead the following progressions. Remember to spell notes enharmonically when necessary. In the first example, use <q>close</q> voicing, keeping all the upper notes as close together as possible. In the second example, use Root<ndash/>3rd<ndash/>7th or Root<ndash/>7th<ndash/>3rd always for the lowest three voices, then realize the rest of the lead sheet symbol with the upper two parts (<q>spread</q> voicing). Use Root<ndash/>3rd<ndash/>6th for 6th chords and Root<ndash/>4th<ndash/>7th for sus chords.</p>
+                    <p>Voice lead the following progressions. Remember to spell notes enharmonically when necessary. In the first example, use <q>close</q> voicing, keeping all the upper notes as close together as possible. In the second example, use Root<ndash/>3rd<ndash/>7th or Root<ndash/>7th<ndash/>3rd always for the lowest three voices, then realize the rest of the lead sheet symbol with the upper two parts (<q>spread</q> voicing). Use Root<ndash/>3rd<ndash/>6th for 6th chords and Root<ndash/>4th<ndash/>7th for sus chords. You may need to omit the 5th to maintain five parts throughout.</p>
                     <sidebyside>
                         <image source="images/unit11/PRAC-EXER-jazz-voiceleading-close">
                             <description/>
@@ -965,6 +966,7 @@
             <p>Click <url href="../hw/MT21C_HW_55.pdf">here to download the third homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_56.pdf">here to download the fourth homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_57.pdf">here to download the fifth homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_58.pdf">here to download the sixth homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_Unit_11_Practice_Test.pdf">here to download the Unit 11 Practice Test.</url></p>
         </conclusion>
     </exercises>

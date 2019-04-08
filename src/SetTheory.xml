@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="SetTheory">
+    <title>Set Theory</title>
+    <section xml:id="SetTheorySection">
+        <title>Set Theory</title>
+        <introduction>
+            <p><term>Set theory</term><idx><h>set theory</h></idx> is the analytical technique we will use to analyze expressionist music. The primary composers associated with expressionism are Arnold Schoenberg (1874<ndash/>1951), Anton Webern (1883<ndash/>1945), and Alban Berg (1885<ndash/>1935). In this text, we will associate <term>atonal music</term><idx><h>atonal music</h><h>definition of</h></idx><mdash/>music that avoids traditional harmonies and scales<mdash/>with expressionism. Instead of scales and chords, intervals are the building blocks of Expressionist music. Although composers began writing atonal music in 1908, there was no widely<ndash/>accepted systematic analytical approach that could show relationships between different pieces until Allen Forte published his seminal <pubtitle>The Structure of Atonal Music</pubtitle><idx><h>Forte, Allen</h><h><pubtitle>The Structure of Atonal Music</pubtitle></h></idx> in 1973, in which Forte applied set theory mathematics to music. However, our approach to normal form and prime form will follow the slightly<ndash/>modified approach set out by John Rahn <idx><h>Rahn, John</h><h><pubtitle>Basic Atonal Theory</pubtitle></h></idx> in his <pubtitle>Basic Atonal Theory</pubtitle> (1980), which is the approach followed by Joseph Straus <idx><h>Straus, Joseph</h><h><pubtitle>Introduction to Post<ndash/>Tonal Theory</pubtitle></h></idx> in his well<ndash/>known and widely<ndash/>used <pubtitle>Introduction to Post<ndash/>Tonal Theory</pubtitle>.<fn>Of the 208 sets that exist,  only 6 are different between the Forte and Rahn methods for prime form. See <url href="https://www.mta.ca/pc-set/pc-set_new/pages/pc-table/packed.html">https://www.mta.ca/pc-set/pc-set_new/pages/pc-table/packed.html</url>.</fn></p>
+        </introduction>
+        <subsection xml:id="AtonalMusic">
+            <title>Atonal Music</title>
+            <p>Listen to the following example by Anton Webern.</p>
+            <figure>
+                <sidebyside><!--no margins on this one-->
+                    <video youtube="ELAKF8ZxDmg" start="334" end="342" play-at="select"/>
+                </sidebyside>
+                <idx>
+                    <h>Webern, Anton</h><h>5 movements for string quartet</h><h>No. 3. <foreign>Sehr bewegt</foreign></h>
+                </idx>
+                <caption>Webern, 5 movements for string quartet, No. 3. <foreign>Sehr bewegt</foreign></caption>
+            </figure>
+            <p>Gone are the triadic structures we have studied throughout this text. In this music, intervals are paramount. Let us examine the intervals we find.</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-ex-1">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>Look at the intervallic structure of the first two chords,<fn>Some authors call atonal chords <q>sonorities</q> to differentiate them from chords in the traditional triadic sense; we will continue to use <q>chord</q> in this text.</fn> not including the C<sharp/> in the cello part. We see the interval of an augmented 5th below the interval of a minor 3rd in the first chord, and the interval of a minor sixth below the interval of a minor 3rd in the second chord. Notice that the names we use for intervals carry tonal implications. An augmented 5th would function differently than a minor 6th, but in atonal music, these intervals have the same sound, are separated by the same number of half steps, and have no tonal implications (they don’t have to resolve any particular way). Therefore, analysts like Allen Forte used integers to represent pitches and intervals to remove the tonal implications of staff notation.</p>
+        </subsection>
+        <subsection xml:id="IntegerNotationForPitches">
+            <title>Integer Notation for Pitches</title>
+            <p>One notable trait of set theory is that we will represent pitches with integers, as seen in the table below.</p>
+            <sidebyside>
+                <tabular halign="center">
+                    <row>
+                        <cell>Note name:</cell>
+                        <cell>C</cell>
+                        <cell>C<sharp/>/D<flat/></cell>
+                        <cell>D</cell>
+                        <cell>D<sharp/>/E<flat/></cell>
+                        <cell>E</cell>
+                        <cell>F</cell>
+                        <cell>F<sharp/>/G<flat/></cell>
+                        <cell>G</cell>
+                        <cell>G<sharp/>/A<flat/></cell>
+                        <cell>A</cell>
+                        <cell>A<sharp/>/B<flat/></cell>
+                        <cell>B</cell>
+                    </row>
+                    <row>
+                        <cell>Integer:</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                        <cell>9</cell>
+                        <cell>10</cell>
+                        <cell>11</cell>
+                    </row>
+                </tabular>
+            </sidebyside>
+            <p>It may be helpful to remember that the C major triad (C, E, and G) consists of integers 0, 4, and 7.</p>
+            <p>Integer notation of pitches means we assume <term>enharmonic equivalence</term><idx><h>enharmonic equivalence</h></idx> of notes. For example, D, C<doublesharp/>, and E<doubleflat/> are all represented as pitch integer 2. We also assume <term>octave equivalence</term><idx><h>octave equivalence</h></idx>, which itself presumes the notion of <term>pitch class</term><idx><h>pitch class</h></idx>. When we say Beethoven’s first symphony is in C, we refer not to any specific C (<n pc="C" octave="1"/>, <n pc="C" octave="2"/>, <n pc="C" octave="3"/>, etc.), but to the concept of the pitch class C, which includes any and all Cs. Therefore, you would label the note C as pitch class 0, no matter the register in which it occurs.</p>
+        </subsection>
+        <subsection xml:id="IntegerNotationForIntervals">
+            <title>Integer Notation for Intervals</title>
+            <p>We will also measure intervals using integers, with each interval represented by the number of <term>semitones</term><idx><h>semitone</h></idx> (half steps) it contains. The following table contains the number of semitones in each interval.</p>
+            <table>
+                <caption>Interval Integers</caption>
+                <tabular halign="center">
+                    <col/>
+                    <col right="minor"/>
+                    <col/>
+                    <col/>
+                    <row bottom="medium">
+                        <cell>Interval</cell>
+                        <cell>Number of Semitones</cell>
+                        <cell>Interval</cell>
+                        <cell>Number of Semitones</cell>
+                    </row>
+                    <row>
+                        <cell>m2</cell>
+                        <cell>1</cell>
+                        <cell>P5</cell>
+                        <cell>7</cell>
+                    </row>
+                    <row>
+                        <cell>M2</cell>
+                        <cell>2</cell>
+                        <cell>m6<sharp/>/D<flat/></cell>
+                        <cell>8</cell>
+                    </row>
+                    <row>
+                        <cell>m3</cell>
+                        <cell>3</cell>
+                        <cell>M6</cell>
+                        <cell>9</cell>
+                    </row>
+                    <row>
+                        <cell>M3</cell>
+                        <cell>4</cell>
+                        <cell>m7</cell>
+                        <cell>10</cell>
+                    </row>
+                    <row>
+                        <cell>P4</cell>
+                        <cell>5</cell>
+                        <cell>M7</cell>
+                        <cell>11</cell>
+                    </row>
+                    <row>
+                        <cell>TT</cell>
+                        <cell>6</cell>
+                        <cell>P8</cell>
+                        <cell>12</cell>
+                    </row>
+                </tabular>
+            </table>
+        </subsection>
+        <subsection xml:id="PitchClassSets">
+            <title>Pitch<ndash/>Class Sets</title>
+            <p>In atonal music we will analyze sets of pitch classes, hence the term <q>pitch<ndash/>class set analysis.</q> Let us return to the example by Webern, this time with integers for pitches and for intervals.</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-ex-2">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>The first chord consists of E<flat/>, B, and D, or pitch integers 3, 11, and 2. If we examine the intervallic distance, we find 8 semitones between pitch integers 3 and 11, and 3 semitones between 11 and 2. Note that we are working in a modulo 12 system, meaning we restart our numbering after 11 (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0, 1, 2, 3, etc.). We are used to modulo 12 thinking since we all deal with clocks. If a meeting ran from 11am to 2pm, it lasted 3 hours. Therefore, an interval from pitch integer 11 to pitch integer 2 spans 3 semitones. The second chord has the same intervallic construction.</p>
+            <p>Now, let's look at the two chords in the second half of the third measure.</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-ex-3">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>We see right away that the second of these chords has the same construction as the two chords we examined the in earlier examples (a minor 6th below a minor 3rd). However, the first chord in this example (G<sharp/>, C, A, or 8, 0, 9) appears to be different, with a diminished 4th from G<sharp/> to C (an interval spanning 4 semitones, enharmonically equivalent to a major 3rd) below the interval of a major 6th from C to A (spanning 9 semitones). To see the relationship of this chord to the others, we need to learn about normal form and prime form.</p>
+        </subsection>
+    </section>
+    <section xml:id="NormalForm">
+        <title>Normal Form</title>
+        <p><term>Normal Form</term><idx><h>Normal Formm</h><h>definition of</h></idx> represents the notes of a pitch<ndash/>class set (as they occur in the music) in their most compact form.</p> 
+        <p>To determine normal form, follow these steps:</p>
+        <ol>
+            <li>
+                <p>Put the notes of a pitch-class set from a piece of music in ascending numeric order (like a scale). Eliminate any duplicate pitches.</p>
+                <sidebyside>
+                    <image source="images/unit12/set-theory-normal-form-unordered-set">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </li>
+            <li>
+                <p>Examine every possible ascending <q>scale</q> ordering of the notes until you find the most compact form<mdash/>that is, the one that spans the smallest interval from lowest to highest note.</p>
+                <sidebyside>
+                    <image source="images/unit12/set-theory-normal-form-reorderings">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </li>
+            <li>
+                <p>In the event that two orderings have the same interval span from lowest to highest note, choose the set that has the smaller interval between the first and penultimate notes.<fn>The Forte method would have measured from first to second note to break the tie instead of first to penultimate note, which is the Rahn method.</fn></p>
+                <sidebyside>
+                    <image source="images/unit12/set-theory-normal-form-tie-is-broken">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </li>
+            <li>
+                <p>In the event of an absolute tie, choose the set that begins on the smaller number. We will use a different set of pitches to demonstrate a complete tie. The normal form for the notes below is [2, 3, 8, 9].</p>
+                <sidebyside>
+                    <image source="images/unit12/set-theory-normal-form-absolute-tie">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </li>
+            <li><p>Normal form is written in square brackets with commas. The normal form found in step 3 above was [11, 2, 3, 7].</p></li>
+        </ol>
+    </section>
+
+
+    <section xml:id="PrimeForm">
+        <title>Prime Form</title>
+        <introduction>
+            <p>Whereas normal form deals with the exact pitches as they occur in the music, <term>prime form</term><idx><h>prime form</h><h>definition of</h></idx> is usually a transposition and possibly an inversion of the normal form to its most essential form, much in the way an E<flat/> major triad in second inversion belongs to the category <q>major triad,</q> or a G<chord bps="7"/>/F belongs to the more general idea <q>dominant seventh chord.</q> Perhaps because of the primacy of C in music theory<mdash/>many ideas are demonstrated in their relation to the C major scale<mdash/>all prime forms are transposed to and start on C (pitch integer 0).</p>
+            <p>Following is the process for determining prime form.</p>
+            <ol>
+                <li>
+                    <p>Transpose the normal form<mdash/>[11, 2, 3, 7] from the normal form example in the previous section<mdash/>so it starts on C (pitch integer 0): 0, 3, 4, 8</p>
+                    <sidebyside>
+                        <image source="images/unit12/set-theory-prime-form-trans-to-0">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </li>
+                <li>
+                    <p>Invert the normal form (what went up now goes down).</p>
+                    <sidebyside>
+                        <image source="images/unit12/set-theory-prime-form-inverting">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </li>
+                <li>
+                    <p>Write this inverted form in ascending form (4, 8, 9, 0), then do one of the following:</p>
+                    <ol>
+                        <li>
+                            <p>If there were no ties when determining normal form, proceed to the step 4. </p>
+                        </li>
+                        <li>
+                            <p>If there were ties, put this inverted version through every ascending <q>scale</q> ordering to determine which is the most compact form from first note to penultimate note. In the example below, we see that the second ordering (the <q>tie loser</q> from normal form) is the most compact of the reorderings of the inverted normal form.</p>
+                            <sidebyside>
+                                <image source="images/unit12/set-theory-prime-form-reordering">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <p>Compare the normal form (transposed to 0) to the most compact inverted form (transposed to 0). The most compact form is the prime form. Prime form is written in parentheses with no commas: (0148).</p>
+                    <sidebyside>
+                        <image source="images/unit12/set-theory-prime-form-comparing-inv-to-orig">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <ol>
+                        <li>
+                            <p>In the event the prime form reaches pitch integers 10 or 11, use T for 10 and E for 11; for example (013568T)</p>
+                        </li>
+                    </ol>
+                </li>
+            </ol>
+        </introduction>
+        <subsection xml:id="ApplicationOfNF">
+            <title>Application of Normal Form and Prime Form </title>
+            <p>Let’s determine normal form and prime form of the first set from the Webern excerpt.</p>
+            <p>The first chord contained E<flat/>, B, and D (3, 11, and 2).</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-NF-of-1st-set">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>The normal form is [11, 2, 3]. Below is the calculation to determine prime form.</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-inversion-of-1st-set">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-reordering-of-invNF-of-1st-set">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-comparing-NFs-of-1st-set">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>The prime form is (014).</p>
+            <p>Now let’s determine the normal form and prime form for the third set we encountered: G<sharp/>, C, and A, or 8, 0, and 9.</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-NF-of-2nd-set">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>The normal form is [8, 9, 0].</p>
+            <p>In the example below, we transpose the normal form to zero, then invert it.</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-INV-2nd-set">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>In the following example, we put the inverted normal form through the reorderings to find the most compact form, then compare it to the normal form.</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-webern-op5no3-PF-2nd-set">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>We see that the third set has the same prime form<mdash/>(014)<mdash/>as the other sets in the opening measures of Webern’s Op 5, No. 3. Prime form can allow us to see relationships that may not be apparent on the surface of the music.</p>
+        </subsection>
+        <subsection xml:id="Segmentation">
+            <title>Segmentation</title>
+            <p>What about the C<sharp/> in the cello part? Should it be included with the three notes from the chords? Will another similarity be revealed? <term>Segmentation</term><idx><h>segmentation</h><h>definition of</h></idx> is the term for <q>segmenting</q> or determining which notes to group together and analyze in a passage. Usually, segmentation is based on the music<mdash/>notes sounding together as a chord, or notes in a melodic line. However, analysts may look at every possible combination of notes to search for deeper layers of connection.</p>
+            <p>Below, we examine the first two chords with the C<sharp/> included in each.</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-segmentation-1st-set">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit12/set-theory-segmentation-1st-set-B">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>The prime form of the first set, when including the C<sharp/> from the cello, is (0124).</p>
+            <p>Here is the second chord with the C<sharp/> added to it.</p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-segmentation-2nd-set">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit12/set-theory-segmentation-2nd-set-B">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>The prime form of the second set, when including the C<sharp/> from the cello, is (0236).</p>
+            <p>We do not see any relationship between these first two sets after including the C<sharp/> with each three<ndash/>note set. One doesn’t know this until one examines this new segmentation.</p>
+        </subsection>
+    </section>
+
+
+    <exercises xml:id="Set-Theory-Practice-Exercises">
+        <title>Practice Exercises</title>
+        <exercisegroup>
+            <introduction>
+                <p>Day One</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>Put each set into normal form and prime form.</p>
+                    <ol>
+                        <li>
+                            <sidebyside margins="31%">
+                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-2">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                        </li>
+                        <li>
+                            <sidebyside margins="42%">
+                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-3">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                        </li>
+                        <li>
+                            <sidebyside margins="27%">
+                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-4">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                        </li>
+                        <li>
+                            <sidebyside margins="27%">
+                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-5">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                        </li>
+                        <li>
+                            <sidebyside margins="27%">
+                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-6">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                        </li>
+                        <li>
+                            <sidebyside margins="27%">
+                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-7">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                        </li>
+                        <li>
+                            <sidebyside margins="25%">
+                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-8">
+                                    <description/>
+                                </image>
+                            </sidebyside>
+                        </li>
+                    </ol>
+                </statement>
+                <answer>
+                    <ol>
+                        <li>
+                            <p>Normal form is [0, 2, 7]. Prime form is (027).</p>
+                        </li>
+
+                        <li>
+                            <p>Normal form is [1, 3, 6, 8]. Prime form is (0257).</p>
+                        </li>
+
+                        <li>
+                            <p>Normal form is [6, 10, 11, 1]. Prime form is (0137).</p>
+                        </li>
+
+                        <li>
+                            <p>Normal form is [7, 8, 0, 3]. Prime form is (0158).</p>
+                        </li>
+
+                        <li>
+                            <p>Normal form is [11, 0, 1, 4, 6]. Prime form is (01257).</p>
+                        </li>
+
+                        <li>
+                            <p>Normal form is [6, 7, 10, 11, 2]. Prime form is (01457).</p>
+                        </li>
+
+                        <li>
+                            <p>Normal form is [9, 10, 0, 1, 4, 6]. Prime form is (013479).</p>
+                        </li>
+                    </ol>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p></p>
+                    
+                </statement>
+                <answer>
+
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Two</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p></p>
+                    
+                </statement>
+                <answer>
+
+                </answer>
+            </exercise>  
+            <exercise>
+                <statement>
+                    <p></p>
+
+
+                </statement>
+                <answer>
+
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <conclusion>
+            <p>Click <url href="../hw/MT21C_HW_61.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_62.pdf">here to download the second homework assignment for this chapter.</url></p>
+        </conclusion>
+    </exercises>
+</chapter>
