@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter xml:id="Serialism">
+    <title>Serialism</title>
+    <introduction><p>Serialism is a term that encompasses the twelve<ndash/>tone technique of Schoenberg, Webern, and Berg, who were the major figures we associated with expressionism and atonality in the previous chapter on set theory. We will begin by discussing classic twelve<ndash/>tone serialism before discussing non<ndash/>twelve<ndash/>tone serialism.</p></introduction>
+    <section xml:id="TwelveToneTechnique">
+        <title>Twelve<ndash/>Tone Technique</title>
+        <introduction>
+            <figure>
+                <sidebyside><!--no margins on this one-->
+                    <video youtube="bQHR_Z8XVvI" start="0" end="852" play-at="select"/>
+                </sidebyside>
+                <idx>
+                    <h>Schoenberg, Arnold</h><h>Suite for Piano, Op. 25</h>
+                </idx>
+                <caption>Arnold Schoenberg, Suite for Piano, Op. 25</caption>
+            </figure>
+            <p>In a twelve<ndash/>tone composition, every note can be accounted for as being a member of the original series or one of its permutations, providing unity to the piece as a whole. Additionally, a twelve<ndash/>tone series is a repository of intervals and can be seen as an outgrowth of atonal music with its emphasis on interval over chord or scale. The basic premises of twelve<ndash/>tone music are as follows:</p>
+            <ol>
+                <li><p>All twelve notes of the chromatic scale must occur</p></li>
+                <li><p>No note can be repeated in the series until the other 11 notes of the chromatic scale have occurred (exceptions include direct repetition of a note, trills, and tremolos)</p></li>
+                <li><p>The series can be inverted, retrograded, and the inversion can be retrograded</p></li>
+                <li><p>The order of notes in a series remains fixed, without reordering.</p></li>
+            </ol>
+        </introduction>
+        <subsection xml:id="RowForms">
+            <title>Row Forms</title>
+            <p>A twelve<ndash/>tone series is also commonly called a twelve<ndash/>tone <q>row,</q> and we will use the term <q>row</q> throughout this chapter.</p>
+            <p>The four types of row forms used in twelve<ndash/>tone technique are prime (P), retrograde (R), inversion (I), and retrograde inversion (RI). The <term>prime</term><idx><h>twelve<ndash/>tone technique</h><h>prime form</h></idx> is the original row. The <term>retrograde</term><idx><h>twelve<ndash/>tone technique</h><h>retrograde</h></idx> is the prime form backward. The <term>inversion</term><idx><h>twelve<ndash/>tone technique</h><h>inversion</h></idx> is the original row with all intervals in the row inverted (going in the opposite direction of the original). Finally, the <term>retrograde inversion</term><idx><h>twelve<ndash/>tone technique</h><h>retrograde inversion</h></idx> is the inversion retrograded (and therefore might have more appropriately been labeled <q>inversion retrograded</q> since <q>retrograde inversion</q> sounds like it refers to the backward form inverted instead of the inverted form backward).</p>
+            <sidebyside>
+                <image source="images/unit12/12-tone-example-basic-presentation-B">
+                    <description/>
+                </image>
+            </sidebyside>
+        </subsection>
+        <subsection xml:id="TranspositionNumbers">
+            <title>Transposition Numbers</title>
+            <p>Each row form can be transposed to start on any note from the chromatic scale. We will use the same <xref ref="IntegerNotationForPitches" text="title">pitch integers</xref> as in set theory. For primes and inversions, we will use P and I accompanied by a pitch integer to specify the starting note. For example, P<n octave="0"/> is a twelve<ndash/>tone row starting on C (pitch integer 0), P<n octave="3"/> is a twelve<ndash/>tone row starting on E<flat/>, and so forth. The same is the case for row forms like I<n octave="2"/> (starting on D), I<n octave="5"/> (starting on F), on so forth.</p>
+            <sidebyside>
+                <image source="images/unit12/12-tone-example-P-I-transposition-numbers-B">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>However, the retrograde (R) and retrograde inversion (RI) row forms use the pitch integer of the <em>last</em> note in the row to designate their transposition level. Therefore, R<n octave="1"/> <em>ends</em> on C<sharp/>, and RI<n octave="7"/> <em>ends</em> on G.</p>
+            <sidebyside>
+                <image source="images/unit12/12-tone-example-R-RI-transposition-numbers-B">
+                    <description/>
+                </image>
+            </sidebyside>
+        </subsection>
+    </section>
+    <section xml:id="DeterminingRowForms">
+        <title>Determining Row Forms</title>
+        <p>To determine a row form’s permutation and transposition, examine the intervallic composition of each row form. In the example below, each row statement is based on the prime form of the row in the previous sections.</p>
+        <sidebyside>
+            <image source="images/unit12/12-tone-little-composition">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>Let’s examine the starting intervals of each row form.</p>
+        <sidebyside>
+            <image source="images/unit12/12-tone-basic-rows-w-intervals">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>In examining the first few notes in the upper staff in the short musical excerpt below, we see an ascending minor 3rd followed by a descending major 2nd. The only row form to start with these intervals is the retrograde. To determine the transposition number, we look at the last note (the 12th note) in the first measure in the upper staff (A<flat/>), which gives us the transposition level (pitch integer 8), meaning this is R<n octave="8"/>. The second measure in the upper staff begins with a minor 3rd followed by an ascending major 2nd, making this a retrograde inversion. The 12th note in this measure is an E (pitch integer 4), making this RI<n octave="4"/>. In the first measure of the lower staff, we find a descending minor 2nd followed by a descending perfect 4th, making this I<n octave="11"/>. Finally, the second measure in the lower staff begins on C<sharp/> with an ascending minor 2nd followed by an ascending perfect 4th, making this P<n octave="1"/>.</p>
+        <sidebyside>
+            <image source="images/unit12/12-tone-little-composition-w-intervals">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>The row forms are labeled in the example below.</p>
+        <sidebyside>
+            <image source="images/unit12/12-tone-little-composition-w-row-forms">
+                <description/>
+            </image>
+        </sidebyside>
+    </section>
+    <section xml:id="WritingRowForms">
+        <title>Writing Row Forms</title>
+        <p>To write specified row forms from a given prime form, write all four versions of the row: P, R, I, and RI. Then, simply transpose the specified row form to the correct pitch, remembering that P and I forms start on the pitch integer (P<n octave="3"/> and I<n octave="3"/> would begin on E<flat/>, for example) while R and RI forms <em>end</em> on the pitch integer (R<n octave="3"/> and RI<n octave="3"/> would end on E<flat/>).</p>
+        <p>To write I<n octave="9"/> and RI<n octave="5"/> if given P<n octave="0"/>:</p>
+        <ol>
+            <li>
+                <p>Write all four row forms (P, R, I, RI).</p>
+                <sidebyside>
+                    <image source="images/unit12/12-tone-basic-rows-w-row-forms">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </li>
+            <li>
+                <p>Transpose the specified row form to the correct transposition level.</p>
+                <ol>
+                    <li>
+                        <p>In this example, transpose I<n octave="0"/> up 9 semitones (a major 6th) to begin on A (pitch class 9).</p>
+                        <sidebyside margins="18%">
+                            <image source="images/unit12/12-tone-I9">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <p>To write RI<n octave="5"/>, transpose RI<n octave="0"/> up 5 semitones (a perfect 4th) so the last note if F (pitch class 5).</p>
+                        <sidebyside margins="18%">
+                            <image source="images/unit12/12-tone-RI5">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                </ol>
+            </li>
+        </ol>
+    </section>
+    
+
+    <section>
+        <title>Twelve<ndash/>Tone Matrix</title>
+        <p>One tool analysts create to analyze a twelve<ndash/>tone composition is a twelve<ndash/>tone matrix, which shows all 48 row forms in a 12 by 12 grid. Below is a matrix for the row we’ve been dealing with in this chapter.</p>
+        <table>
+            <caption>Twelve<ndash/>Tone Matrix</caption>
+            <tabular halign="center">
+                <col right="minor"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col right="minor"/>
+                <col/>
+                <row bottom="minor">
+                    <cell right="minor" bottom="minor"/>
+                    <cell right="minor">I<n octave="0"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="1"/>&#x2193;</cell>
+                    <cell right="minor">O<n octave="6"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="7"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="5"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="2"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="4"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="3"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="10"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="9"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="11"/>&#x2193;</cell>
+                    <cell right="minor">I<n octave="8"/>&#x2193;</cell>
+                    <cell bottom="minor"/>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="0"/>&#x2192;</cell>
+                    <cell>C</cell>
+                    <cell>D<flat/></cell>
+                    <cell>G<flat/></cell>
+                    <cell>G</cell>
+                    <cell>F</cell>
+                    <cell>D</cell>
+                    <cell>E</cell>
+                    <cell>E<flat/></cell>
+                    <cell>B<flat/></cell>
+                    <cell>A</cell>
+                    <cell>B</cell>
+                    <cell>G<sharp/></cell>
+                    <cell bottom="minor">&#x2190;R<n octave="0"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="11"/>&#x2192;</cell>
+                    <cell>B</cell>
+                    <cell>C</cell>
+                    <cell>F</cell>
+                    <cell>G<flat/></cell>
+                    <cell>E</cell>
+                    <cell>D<flat/></cell>
+                    <cell>E<flat/></cell>
+                    <cell>D</cell>
+                    <cell>A</cell>
+                    <cell>A<flat/></cell>
+                    <cell>B<flat/></cell>
+                    <cell>G</cell>
+                    <cell bottom="minor">&#x2190;R<n octave="11"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="6"/>&#x2192;</cell>
+                    <cell>G<flat/></cell>
+                    <cell>G</cell>
+                    <cell>C</cell>
+                    <cell>D<flat/></cell>
+                    <cell>B</cell>
+                    <cell>A<flat/></cell>
+                    <cell>B<flat/></cell>
+                    <cell>A</cell>
+                    <cell>E</cell>
+                    <cell>E<flat/></cell>
+                    <cell>F</cell>
+                    <cell>D</cell>
+                    <cell bottom="minor">&#x2190;R<n octave="6"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="5"/>&#x2192;</cell>
+                    <cell>F</cell>
+                    <cell>G<flat/></cell>
+                    <cell>B</cell>
+                    <cell>C</cell>
+                    <cell>B<flat/></cell>
+                    <cell>G</cell>
+                    <cell>A</cell>
+                    <cell>A<flat/></cell>
+                    <cell>E<flat/></cell>
+                    <cell>D</cell>
+                    <cell>E</cell>
+                    <cell>C<sharp/></cell>
+                    <cell bottom="minor">&#x2190;R<n octave="5"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="7"/>&#x2192;</cell>
+                    <cell>G</cell>
+                    <cell>A<flat/></cell>
+                    <cell>D<flat/></cell>
+                    <cell>D</cell>
+                    <cell>C</cell>
+                    <cell>A</cell>
+                    <cell>B</cell>
+                    <cell>B<flat/></cell>
+                    <cell>F</cell>
+                    <cell>E</cell>
+                    <cell>G<flat/></cell>
+                    <cell>E<flat/></cell>
+                    <cell bottom="minor">&#x2190;R<n octave="7"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="10"/>&#x2192;</cell>
+                    <cell>B<flat/></cell>
+                    <cell>B</cell>
+                    <cell>E<flat/></cell>
+                    <cell>F</cell>
+                    <cell>E<flat/></cell>
+                    <cell>C</cell>
+                    <cell>D</cell>
+                    <cell>D<flat/></cell>
+                    <cell>A<flat/></cell>
+                    <cell>G</cell>
+                    <cell>A</cell>
+                    <cell>F<sharp/></cell>
+                    <cell bottom="minor">&#x2190;R<n octave="10"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="8"/>&#x2192;</cell>
+                    <cell>A<flat/></cell>
+                    <cell>A</cell>
+                    <cell>D</cell>
+                    <cell>E<flat/></cell>
+                    <cell>D<flat/></cell>
+                    <cell>B<flat/></cell>
+                    <cell>C</cell>
+                    <cell>B</cell>
+                    <cell>F<sharp/></cell>
+                    <cell>F</cell>
+                    <cell>G</cell>
+                    <cell>E</cell>
+                    <cell bottom="minor">&#x2190;R<n octave="8"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="9"/>&#x2192;</cell>
+                    <cell>A</cell>
+                    <cell>B<flat/></cell>
+                    <cell>E<flat/></cell>
+                    <cell>E</cell>
+                    <cell>D</cell>
+                    <cell>B</cell>
+                    <cell>C<sharp/></cell>
+                    <cell>C</cell>
+                    <cell>G</cell>
+                    <cell>G<flat/></cell>
+                    <cell>A<flat/></cell>
+                    <cell>F</cell>
+                    <cell bottom="minor">&#x2190;R<n octave="9"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="2"/>&#x2192;</cell>
+                    <cell>D</cell>
+                    <cell>E<flat/></cell>
+                    <cell>A<flat/></cell>
+                    <cell>A</cell>
+                    <cell>G</cell>
+                    <cell>E</cell>
+                    <cell>F<sharp/></cell>
+                    <cell>F</cell>
+                    <cell>C</cell>
+                    <cell>B</cell>
+                    <cell>D<flat/></cell>
+                    <cell>B<flat/></cell>
+                    <cell bottom="minor">&#x2190;R<n octave="2"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="3"/>&#x2192;</cell>
+                    <cell>E<flat/></cell>
+                    <cell>E</cell>
+                    <cell>A</cell>
+                    <cell>B<flat/></cell>
+                    <cell>A<flat/></cell>
+                    <cell>F</cell>
+                    <cell>G</cell>
+                    <cell>G<flat/></cell>
+                    <cell>D<flat/></cell>
+                    <cell>C</cell>
+                    <cell>D</cell>
+                    <cell>B</cell>
+                    <cell bottom="minor">&#x2190;R<n octave="3"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="1"/>&#x2192;</cell>
+                    <cell>D<flat/></cell>
+                    <cell>D</cell>
+                    <cell>G</cell>
+                    <cell>A<flat/></cell>
+                    <cell>G<flat/></cell>
+                    <cell>E<flat/></cell>
+                    <cell>F</cell>
+                    <cell>E</cell>
+                    <cell>B</cell>
+                    <cell>B<flat/></cell>
+                    <cell>C</cell>
+                    <cell>A</cell>
+                    <cell bottom="minor">&#x2190;R<n octave="1"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="4"/>&#x2192;</cell>
+                    <cell bottom="minor">E</cell>
+                    <cell bottom="minor">F</cell>
+                    <cell bottom="minor">B<flat/></cell>
+                    <cell bottom="minor">B</cell>
+                    <cell bottom="minor">A</cell>
+                    <cell bottom="minor">G<flat/></cell>
+                    <cell bottom="minor">A<flat/></cell>
+                    <cell bottom="minor">G</cell>
+                    <cell bottom="minor">D</cell>
+                    <cell bottom="minor">D<flat/></cell>
+                    <cell bottom="minor">E<flat/></cell>
+                    <cell bottom="minor">C</cell>
+                    <cell bottom="minor">&#x2190;R<n octave="4"/></cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell right="minor">&#x2191;RI<n octave="0"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="1"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="2"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="7"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="5"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="2"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="4"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="3"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="10"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="9"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="11"/></cell>
+                    <cell right="minor">&#x2191;RI<n octave="8"/></cell>
+                    <cell/>
+                </row>
+            </tabular>
+        </table>
+        <p>To construct a matrix, write the prime form from left to right in the top row, then write the inverted form from top to bottom in the left column.</p>
+        <table>
+            <caption/>
+            <tabular halign="center">
+                <col right="minor"/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col/>
+                <col right="minor"/>
+                <col/>
+                <row bottom="minor">
+                    <cell right="minor" bottom="minor"/>
+                    <cell right="minor">I<n octave="0"/>&#x2193;</cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell bottom="minor"/>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="0"/>&#x2192;</cell>
+                    <cell>C</cell>
+                    <cell>D<flat/></cell>
+                    <cell>G<flat/></cell>
+                    <cell>G</cell>
+                    <cell>F</cell>
+                    <cell>D</cell>
+                    <cell>E</cell>
+                    <cell>E<flat/></cell>
+                    <cell>B<flat/></cell>
+                    <cell>A</cell>
+                    <cell>B</cell>
+                    <cell>G<sharp/></cell>
+                    <cell bottom="minor">&#x2190;R<n octave="0"/></cell>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell>B</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell>G<flat/></cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell>F</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell>G</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell>B<flat/></cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell>A<flat/></cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell>A</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell>D</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell>E<flat/></cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell bottom="minor">P<n octave="1"/>&#x2192;</cell>
+                    <cell>D<flat/></cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell bottom="minor"></cell>
+                    <cell bottom="minor">E</cell>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"/>
+                    <cell bottom="minor"></cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell right="minor">&#x2191;RI<n octave="0"/></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell right="minor"></cell>
+                    <cell/>
+                </row>
+            </tabular>
+        </table>
+        <p>From there, you can write the transpositions of the prime form, given the starting notes in the left column. One would continue with each transposition of the prime form until the matrix is complete.</p>
+    </section>
+    <section xml:id="RowFormsInMusic">
+        <title>Row Form Presentation in Music</title>
+        <p>In a piece of music, twelve<ndash/>tone rows may not be clearly presented. One manner of presentation is overlap, where the final note of one row is the starting note of the next row.</p>
+        <figure>
+            <caption>Twelfth note overlapping with first note in successive row statements</caption>
+            <sidebyside>
+                <image source="images/unit12/12-tone-basic-row-overlap-in-music">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>Rows may also be presented contrapuntally or harmonically. In the example below, the row is separated into three tetrachords and presented contrapuntally.</p>
+        <figure>
+            <caption>Two examples of tetrachords from a row presented contrapuntally</caption>
+            <sidebyside>
+
+                <image source="images/unit12/12-tone-basic-row-ctrptl-in-music">
+                    <description/>
+                </image>
+            </sidebyside>
+        </figure>
+        <p>In the final example in this section, the two rows are presenting in melody<ndash/>accompaniment texture, with P<n octave="0"/> containing the melody and R<n octave="0"/> occurring as chords.</p>
+        <sidebyside>
+            <image source="images/unit12/12-tone-basic-row-chords-in-music">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>An analyst would first attempt to find a clear presentation of a twelve<ndash/>tone row somewhere in the composition in order to analyze harmonies.</p>
+    </section>
+    <section xml:id="NonTwelveToneSerialism">
+        <title>Non<ndash/>Twelve<ndash/>Tone Serialism</title>
+        <p>Serialism also includes music that is not twelve<ndash/>tone but does use a series of notes that maintains its order and employs inversion, retrograde, and retrograde inversion of the series. An example is found in Stravinsky’s Septet from 1953.<fn>See Erwin Stein, <q>Strawinsky’s Septet (1953).</q> <pubtitle>Tempo</pubtitle>. Spring, 1954.</fn></p>
+        <figure>
+            <sidebyside><!--no margins on this one-->
+                <video youtube="ijSmRoPzMaY" start="173" end="200" play-at="select"/>
+            </sidebyside>
+            <idx>
+                <h>Stravinsky, Igor</h><h>Septet</h>
+            </idx>
+            <caption>Stravinsky, Septet</caption>
+        </figure><figure>
+        <caption>Series from Stravinsky's Septet</caption>
+        <image source="images/unit12/12-tone-stravinsky-w-reg-disp">
+            <description/>
+        </image>
+    </figure>
+    <p>Here is the series with pitch-class integers (abbreviated <q>pc</q> for pitch class), and without registral displacement. Arrows connect repeated notes.</p>
+    <figure>
+        <caption>Series from Stravinsky's Septet showing repeated pitches</caption>
+        <image source="images/unit12/12-tone-stravinsky-wo-reg-disp">
+            <description/>
+        </image>
+    </figure>
+    <p>We notice that B (pitch integer 11), A (9), G (7), F<sharp/> (6), and G<sharp/> (8) are repeated in the series, with A, G, and G<sharp/> occurring three times each. Below is the normal form of the 8 pitch classes in the 16<ndash/>note series.</p>
+    <figure>
+        <caption>Normal form of the 8 pitches in the series from Stravinsky's Septet</caption>
+        <image source="images/unit12/12-tone-stravinsky-normal-form">
+            <description/>
+        </image>
+    </figure>
+    <p>Such a series could imply E or A as a tonal center. Note that Stravinsky’s Septet is not strictly serial but contains serial elements. Such an example shows us that serialism can be employed in ways other than the strict, original twelve<ndash/>tone version.</p>
+</section>
+<exercises xml:id="SerialismExercises">
+    <title>Practice Exercises</title>
+    <exercisegroup>
+        <introduction>
+            <p>Serialism: Day One</p>
+        </introduction>
+        <exercise>
+            <statement>
+                <p>Given the prime form of the twelve<ndash/>tone row in pitch integers, write the specified row forms in the staves below.</p>
+                <sidebyside>
+                    <image source="images/unit12/PRAC-EXER-12-tone-P7-fill-in">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <ol>
+                    <li>
+                        <p>P<n octave="1"/></p>
+                        <sidebyside>
+                            <image source="images/unit12/blank-treb-clef-staff">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <p>R<n octave="4"/></p>
+                        <sidebyside>
+                            <image source="images/unit12/blank-bass-clef-staff">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <p>I<n octave="8"/></p>
+                        <sidebyside>
+                            <image source="images/unit12/blank-treb-clef-staff">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <p>RI<n octave="10"/></p>
+                        <sidebyside>
+                            <image source="images/unit12/blank-bass-clef-staff">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                </ol>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit12/PRAC-EXER-12-tone-P7-fill-in-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <ol>
+                    <li>
+                        <sidebyside>
+                            <image source="images/unit12/PRAC-EXER-12-tone-P1-ANSWER">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <sidebyside>
+                            <image source="images/unit12/PRAC-EXER-12-tone-R4-ANSWER">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <sidebyside>
+                            <image source="images/unit12/PRAC-EXER-12-tone-I8-ANSWER">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <sidebyside>
+                            <image source="images/unit12/PRAC-EXER-12-tone-RI10-ANSWER">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                </ol>
+            </answer>
+        </exercise>
+        <exercise>
+            <statement>
+                <p>Given the prime form of a twelve<ndash/>tone row, label the row forms and transpositions of the permutations given on the staves below.</p>
+                <sidebyside>
+                    <image source="images/unit12/PRAC-EXER-12-tone-Section-2-P10">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <ol>
+                    <li>
+                        <p>Row form: <fillin characters="6"/></p>
+                        <sidebyside>
+                            <image source="images/unit12/PRAC-EXER-12-tone-Section-2-2-RI10">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <p>Row form: <fillin characters="6"/></p>
+                        <sidebyside>
+                            <image source="images/unit12/PRAC-EXER-12-tone-Section-2-3-I1">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                    <li>
+                        <p>Row form: <fillin characters="6"/></p>
+                        <sidebyside>
+                            <image source="images/unit12/PRAC-EXER-12-tone-Section-2-4-R5">
+                                <description/>
+                            </image>
+                        </sidebyside>
+                    </li>
+                </ol>
+            </statement>
+            <answer>
+                <ol>
+                    <li><p>RI<n octave="10"/></p></li>
+                    <li><p>I<n octave="1"/></p></li>
+                    <li><p>R<n octave="5"/></p></li>
+                </ol>
+            </answer>
+        </exercise>
+    </exercisegroup>
+    <exercisegroup>
+        <introduction>
+            <p>Serialism: Day Two</p>
+        </introduction>
+        <exercise>
+            <statement>
+                <p>Construct a 12 by 12 matrix for the prime form of this twelve<ndash/>tone row given in pitch integers: 3, 7, 11, 1, 5, 0, 2, 10, 6, 4, 8, 9. Include labels for all row forms including all transposition levels (P<n octave="0"/>, R<n octave="3"/>, I<n octave="8"/>, RI<n octave="6"/>, etc.). Use note names in the matrix, not integers.</p>
+                <table>
+                    <caption/>
+                    <tabular halign="center">
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col right="minor"/>
+                        <col/>
+                        <row bottom="minor">
+                            <cell right="minor" bottom="minor"/>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell bottom="minor"/>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell></cell>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row bottom="minor">
+                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell></cell>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell/>
+                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell/>
+                        </row>
+                    </tabular>
+                </table>
+            </statement>
+            <answer>
+                <table>
+                    <caption>Twelve<ndash/>Tone Matrix</caption>
+                    <tabular halign="center">
+                        <col right="minor"/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col/>
+                        <col right="minor"/>
+                        <col/>
+                        <row bottom="minor">
+                            <cell right="minor" bottom="minor"/>
+                            <cell right="minor">I<n octave="3"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="7"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="11"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="1"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="5"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="0"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="2"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="10"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="6"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="4"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="8"/>&#x2193;</cell>
+                            <cell right="minor">I<n octave="9"/>&#x2193;</cell>
+                            <cell bottom="minor"/>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="3"/>&#x2192;</cell>
+                            <cell>E<flat/></cell>
+                            <cell>G</cell>
+                            <cell>B</cell>
+                            <cell>C<sharp/></cell>
+                            <cell>F</cell>
+                            <cell>C</cell>
+                            <cell>D</cell>
+                            <cell>B<flat/></cell>
+                            <cell>G<flat/></cell>
+                            <cell>E</cell>
+                            <cell>G<sharp/></cell>
+                            <cell>A</cell>
+                            <cell bottom="minor">&#x2190;R<n octave="3"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="11"/>&#x2192;</cell>
+                            <cell>B</cell>
+                            <cell>D<sharp/></cell>
+                            <cell>G</cell>
+                            <cell>A</cell>
+                            <cell>C<sharp/></cell>
+                            <cell>G<sharp/></cell>
+                            <cell>A<sharp/></cell>
+                            <cell>F<sharp/></cell>
+                            <cell>D</cell>
+                            <cell>C</cell>
+                            <cell>E</cell>
+                            <cell>F</cell>
+                            <cell bottom="minor">&#x2190;R<n octave="11"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="7"/>&#x2192;</cell>
+                            <cell>G</cell>
+                            <cell>B</cell>
+                            <cell>D<sharp/></cell>
+                            <cell>F</cell>
+                            <cell>A</cell>
+                            <cell>E</cell>
+                            <cell>F<sharp/></cell>
+                            <cell>D</cell>
+                            <cell>B<flat/></cell>
+                            <cell>A<flat/></cell>
+                            <cell>C</cell>
+                            <cell>D<flat/></cell>
+                            <cell bottom="minor">&#x2190;R<n octave="7"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="5"/>&#x2192;</cell>
+                            <cell>F</cell>
+                            <cell>A</cell>
+                            <cell>C<sharp/></cell>
+                            <cell>E<flat/></cell>
+                            <cell>G</cell>
+                            <cell>D</cell>
+                            <cell>E</cell>
+                            <cell>C</cell>
+                            <cell>A<flat/></cell>
+                            <cell>G<flat/></cell>
+                            <cell>B<flat/></cell>
+                            <cell>B</cell>
+                            <cell bottom="minor">&#x2190;R<n octave="5"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="1"/>&#x2192;</cell>
+                            <cell>D<flat/></cell>
+                            <cell>F</cell>
+                            <cell>A</cell>
+                            <cell>B</cell>
+                            <cell>E<flat/></cell>
+                            <cell>B<flat/></cell>
+                            <cell>C</cell>
+                            <cell>A<flat/></cell>
+                            <cell>E</cell>
+                            <cell>D</cell>
+                            <cell>G<flat/></cell>
+                            <cell>G</cell>
+                            <cell bottom="minor">&#x2190;R<n octave="1"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="6"/>&#x2192;</cell>
+                            <cell>G<flat/></cell>
+                            <cell>B<flat/></cell>
+                            <cell>D</cell>
+                            <cell>E</cell>
+                            <cell>A<flat/></cell>
+                            <cell>E<flat/></cell>
+                            <cell>F</cell>
+                            <cell>D<flat/></cell>
+                            <cell>A</cell>
+                            <cell>G</cell>
+                            <cell>B</cell>
+                            <cell>C</cell>
+                            <cell bottom="minor">&#x2190;R<n octave="6"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="4"/>&#x2192;</cell>
+                            <cell>E</cell>
+                            <cell>G<sharp/></cell>
+                            <cell>C</cell>
+                            <cell>D</cell>
+                            <cell>G<flat/></cell>
+                            <cell>D<flat/></cell>
+                            <cell>E<flat/></cell>
+                            <cell>B</cell>
+                            <cell>G</cell>
+                            <cell>F</cell>
+                            <cell>A</cell>
+                            <cell>B<flat/></cell>
+                            <cell bottom="minor">&#x2190;R<n octave="4"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="8"/>&#x2192;</cell>
+                            <cell>A<flat/></cell>
+                            <cell>C</cell>
+                            <cell>E</cell>
+                            <cell>G<flat/></cell>
+                            <cell>B<flat/></cell>
+                            <cell>F</cell>
+                            <cell>G</cell>
+                            <cell>E<flat/></cell>
+                            <cell>B</cell>
+                            <cell>A</cell>
+                            <cell>D<flat/></cell>
+                            <cell>D</cell>
+                            <cell bottom="minor">&#x2190;R<n octave="8"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="0"/>&#x2192;</cell>
+                            <cell>C</cell>
+                            <cell>E</cell>
+                            <cell>A<flat/></cell>
+                            <cell>B<flat/></cell>
+                            <cell>D</cell>
+                            <cell>A</cell>
+                            <cell>B</cell>
+                            <cell>G</cell>
+                            <cell>E<flat/></cell>
+                            <cell>D<flat/></cell>
+                            <cell>F</cell>
+                            <cell>G<flat/></cell>
+                            <cell bottom="minor">&#x2190;R<n octave="0"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="2"/>&#x2192;</cell>
+                            <cell>D</cell>
+                            <cell>F<sharp/></cell>
+                            <cell>A<sharp/></cell>
+                            <cell>C</cell>
+                            <cell>E</cell>
+                            <cell>B</cell>
+                            <cell>D<flat/></cell>
+                            <cell>A</cell>
+                            <cell>F</cell>
+                            <cell>E<flat/></cell>
+                            <cell>G</cell>
+                            <cell>A<flat/></cell>
+                            <cell bottom="minor">&#x2190;R<n octave="2"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="10"/>&#x2192;</cell>
+                            <cell>B<flat/></cell>
+                            <cell>D</cell>
+                            <cell>G<flat/></cell>
+                            <cell>A<flat/></cell>
+                            <cell>C</cell>
+                            <cell>G</cell>
+                            <cell>A</cell>
+                            <cell>F</cell>
+                            <cell>D<flat/></cell>
+                            <cell>B</cell>
+                            <cell>D<sharp/></cell>
+                            <cell>E</cell>
+                            <cell bottom="minor">&#x2190;R<n octave="10"/></cell>
+                        </row>
+                        <row>
+                            <cell bottom="minor">P<n octave="9"/>&#x2192;</cell>
+                            <cell bottom="minor">A</cell>
+                            <cell bottom="minor">C<sharp/></cell>
+                            <cell bottom="minor">F</cell>
+                            <cell bottom="minor">G</cell>
+                            <cell bottom="minor">B</cell>
+                            <cell bottom="minor">F<sharp/></cell>
+                            <cell bottom="minor">A<flat/></cell>
+                            <cell bottom="minor">E</cell>
+                            <cell bottom="minor">C</cell>
+                            <cell bottom="minor">B<flat/></cell>
+                            <cell bottom="minor">D</cell>
+                            <cell bottom="minor">E<flat/></cell>
+                            <cell bottom="minor">&#x2190;R<n octave="9"/></cell>
+                        </row>
+                        <row>
+                            <cell/>
+                            <cell right="minor">&#x2191;RI<n octave="3"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="7"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="11"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="1"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="5"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="0"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="2"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="10"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="6"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="4"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="8"/></cell>
+                            <cell right="minor">&#x2191;RI<n octave="9"/></cell>
+                            <cell/>
+                        </row>
+                    </tabular>
+                </table>
+            </answer>
+        </exercise> 
+        <exercise>
+            <statement>
+                <p>For the following excerpt, determine P<n octave="4"/> and identify each row form and statement. This example contains overlap.</p>
+                <sidebyside>
+                    <image source="images/unit12/PRAC-EXER-12-tone-excerpt-for-analysis">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </statement>
+            <answer>
+                <sidebyside>
+                    <image source="images/unit12/PRAC-EXER-12-tone-excerpt-for-analysis-ANSWER">
+                        <description/>
+                    </image>
+                </sidebyside>
+            </answer>
+        </exercise>  
+        <exercise>
+            <statement>
+                <p>Referring to the twelve<ndash/>tone row used to construct the matrix in the practice exercise above (3, 7, 11, 1, 5, 0, 2, 10, 6, 4, 8, 9), find the normal form and prime form for each discrete three<ndash/>note set from the row, and provide an interval vector for each.</p>
+                <ol>
+                    <li><p>Set 1: 3, 7, 11. Normal form: <fillin characters="9"/> Prime form: <fillin characters="9"/> Interval vector: <fillin characters="9"/></p></li>
+                    <li><p>Set 2: 1, 5, 0. Normal form: <fillin characters="9"/> Prime form: <fillin characters="9"/> Interval vector: <fillin characters="9"/></p></li>
+                    <li><p>Set 3: 2, 10, 6. Normal form: <fillin characters="9"/> Prime form: <fillin characters="9"/> Interval vector: <fillin characters="9"/></p></li>
+                    <li><p>Set 4: 4, 8, 9. Normal form: <fillin characters="9"/> Prime form: <fillin characters="9"/> Interval vector: <fillin characters="9"/></p></li>
+                </ol>
+            </statement>
+            <answer>
+                <ol>
+                    <li><p>Set 1: 3, 7, 11. Normal form: [3, 7, 11] Prime form: (048) Interval vector: 000300</p></li>
+                    <li><p>Set 2: 1, 5, 0. Normal form: [0, 1, 5] Prime form: (015) Interval vector: 100110</p></li>
+                    <li><p>Set 3: 2, 10, 6. Normal form: [2, 6, 10] Prime form: (048) Interval vector: 000300</p></li>
+                    <li><p>Set 4: 4, 8, 9. Normal form: [4, 8, 9] Prime form: (015) Interval vector: 100110</p></li>
+                </ol>
+            </answer>
+        </exercise> 
+    </exercisegroup>
+
+    <conclusion>
+        <p>Click <url href="../hw/MT21C_HW_64.pdf">here to download the first homework assignment for this chapter.</url></p>
+        <p>Click <url href="../hw/MT21C_HW_65.pdf">here to download the second homework assignment for this chapter.</url></p>
+
+    </conclusion>
+</exercises>
+</chapter>

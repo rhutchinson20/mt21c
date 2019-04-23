@@ -21,7 +21,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Like a verbal pun, this harmonic pun is effective because the third chord (<chord root="G" bps="7"/>) has two <q>meanings</q><mdash/>in the context of C major, <chord root="G" bps="7"/> is <chord root="V" bps="7"/> and the root wants to cadence down a fifth to C, but the <chord root="G" bps="7"/> is a <chord root="Ger" bps="+6"/> in the context of B minor, where the root of the <chord root="G" bps="7"/> wants to progress down a half step to a chord of dominant function, <chord root="i" bps="6 4"/> in the example above.</p>
+        <p>Like a verbal pun, this harmonic pun is effective because the third chord (<chord root="G" bps="7"/>) has two <q>meanings</q><mdash/>in the context of C major, <chord root="G" bps="7"/> is <chord root="V" bps="7"/> and the root wants to cadence down a fifth to C, but the <chord root="G" bps="7"/> is a <xref ref="TypesOfAugmentedSixthChords" text="title"><chord root="Ger" bps="+6"/></xref> in the context of B minor, where the root of the <chord root="G" bps="7"/> wants to progress down a half step to a chord of dominant function, <chord root="i" bps="6 4"/> in the example above.</p>
         <figure>
             <caption/>
             <sidebyside margins="15%">
@@ -98,14 +98,14 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="NqA2iIjhFc0" start="53" end="69" play-at="select" preview="generic"/>
+                        <video youtube="DdL2e4pE-uA" start="51" end="66" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
             <p>In the following example from <pubtitle>Les Miserables</pubtitle>, a <chord root="Ger" bps="+6"/> in E minor is spelled as a <chord root="V" bps="7"/> chord in F major and resolves to the I chord F major.</p>
             <figure>
                 <caption>Music by Claude<ndash/>Michel Sch&#x00F6;nberg, lyrics by Alain Boublil, Herbert Kretzmer, John Caird, Trevor Nunn, and Jean-Marc Natel, <pubtitle>Les Miserables</pubtitle>, <q>On My Own</q> (1980)</caption>
-                <idx><h>Beethoven</h><h>Symphony No. 5, Op. 67, II</h></idx>
+                <idx><h>Sch&#x00F6;nberg, Claude<ndash/>Michel</h><h><pubtitle>Les Miserables</pubtitle></h><h><q>One My Own</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit6/enh-mod-les-mis-A">
@@ -162,7 +162,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="t55m6SEW8Yk" start="283" end="324" play-at="select" preview="generic"/>
+                        <video youtube="mlxF5I1MfbM" start="330" end="386" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -182,7 +182,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="NqA2iIjhFc0" start="79" end="113" play-at="select" preview="generic"/>
+                        <video youtube="DdL2e4pE-uA" start="75" end="105" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>

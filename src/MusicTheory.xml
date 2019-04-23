@@ -36,6 +36,7 @@
         <xi:include href="./IntroductionToJazzTheory.xml"/>
         <xi:include href="./ImpressionismAndExtendedTonality.xml"/>
         <xi:include href="./SetTheory.xml"/>
+        <xi:include href="./Serialism.xml"/>
         <xi:include href="./backmatter.xml"/>
     </book>
 </mathbook>

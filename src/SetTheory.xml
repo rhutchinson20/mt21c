@@ -91,7 +91,7 @@
                     <row>
                         <cell>M2</cell>
                         <cell>2</cell>
-                        <cell>m6<sharp/>/D<flat/></cell>
+                        <cell>m6</cell>
                         <cell>8</cell>
                     </row>
                     <row>
@@ -141,11 +141,11 @@
     </section>
     <section xml:id="NormalForm">
         <title>Normal Form</title>
-        <p><term>Normal Form</term><idx><h>Normal Formm</h><h>definition of</h></idx> represents the notes of a pitch<ndash/>class set (as they occur in the music) in their most compact form.</p> 
+        <p><term>Normal form</term><idx><h>normal form</h><h>definition of</h></idx> represents the notes of a pitch<ndash/>class set (as they occur in the music) in their most compact form.</p> 
         <p>To determine normal form, follow these steps:</p>
         <ol>
             <li>
-                <p>Put the notes of a pitch-class set from a piece of music in ascending numeric order (like a scale). Eliminate any duplicate pitches.</p>
+                <p>Put the notes of a pitch<ndash/>class set from a piece of music in ascending numeric order (like a scale). Eliminate any duplicate pitches.</p>
                 <sidebyside>
                     <image source="images/unit12/set-theory-normal-form-unordered-set">
                         <description/>
@@ -161,7 +161,7 @@
                 </sidebyside>
             </li>
             <li>
-                <p>In the event that two orderings have the same interval span from lowest to highest note, choose the set that has the smaller interval between the first and penultimate notes.<fn>The Forte method would have measured from first to second note to break the tie instead of first to penultimate note, which is the Rahn method.</fn></p>
+                <p>In the event that two orderings have the same interval span from lowest to highest note, choose the set that has the smaller interval between the first and penultimate notes.<fn>The Forte method for determining prime form would have measured from first to second note to break the tie instead of first to penultimate note, which is method used Rahn's <pubtitle>Basic Atonal Theory</pubtitle>.</fn></p>
                 <sidebyside>
                     <image source="images/unit12/set-theory-normal-form-tie-is-broken">
                         <description/>
@@ -196,7 +196,7 @@
                     </sidebyside>
                 </li>
                 <li>
-                    <p>Invert the normal form (what went up now goes down).</p>
+                    <p>Invert the transposed normal form (what went up now goes down).</p>
                     <sidebyside>
                         <image source="images/unit12/set-theory-prime-form-inverting">
                             <description/>
@@ -311,8 +311,1329 @@
             <p>We do not see any relationship between these first two sets after including the C<sharp/> with each three<ndash/>note set. One doesn’t know this until one examines this new segmentation.</p>
         </subsection>
     </section>
+    <section xml:id="IntervalVector">
+        <title>Interval Vector</title>
+        <p>An <term>interval vector</term><idx><h>interval vector</h><h>definition of</h></idx> (also known as <q>Interval Class Content</q>) is a list of every possible interval occurring in a pitch<ndash/>class set. Calculating an interval vector is rather straightforward. First, after determing normal form, measure from the first note to all the other notes. Second, measure from the second note to all higher notes (not back or down to the first note). Continue measuring from each successive note to the notes following and you will have completed the interval vector.</p>
+        <p>Before demonstrating this, it is important to discuss the term <q>interval class.</q> An <term>interval class</term><idx><h>interval class</h><h>definition of</h></idx> (abbreviated <q>ic</q>) is the shortest distance between two notes measured in semitones. In the example below, C up to A is a major 6th. However, the shortest distance between C and A (measure downward) is a minor 3rd. Therefore, the largest interval class is 6 (the tritone), because any perfect 5th (for example, from C to G) has an interval class of 5 (a perfect 4th) because C <em>down</em> to G is a perfect 4th.</p>
+        <sidebyside>
+            <image source="images/unit12/set-theory-interval-class-demo">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>With this in mind, let’s complete an interval vector of the a half<ndash/>diminished 7th chord on G. First, arrange the notes in ascending order, then measure from the first note to the second, third, and fourth notes.</p>
+        <sidebyside margins="25%">
+            <image source="images/unit12/set-theory-vector-step1">
+                <description/>
+            </image>
+        </sidebyside>
+        <sidebyside>
+            <tabular>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <row bottom="medium" right="minor" top="minor" left="minor" halign="center">
+                    <cell>Interval Class:</cell>
+                    <cell>1</cell>
+                    <cell>2</cell>
+                    <cell>3</cell>
+                    <cell>4</cell>
+                    <cell>5</cell>
+                    <cell>6</cell>
+                </row>
+                <row bottom="minor" left="minor" right="minor" halign="center">
+                    <cell>Occurrences</cell>
+                    <cell>0</cell>
+                    <cell>1</cell>
+                    <cell>1</cell>
+                    <cell>0</cell>
+                    <cell>0</cell>
+                    <cell>1</cell>
+                </row>
+            </tabular>
+        </sidebyside>
+        <p>Second, measure from the second note to the third and fourth notes. We add one tally each for interval class (ic) 3 and 5.</p>
+        <sidebyside margins="25%">
+            <image source="images/unit12/set-theory-vector-step2">
+                <description/>
+            </image>
+        </sidebyside>
+        <sidebyside>
+            <tabular>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <row bottom="medium" right="minor" top="minor" left="minor" halign="center">
+                    <cell>Interval Class:</cell>
+                    <cell>1</cell>
+                    <cell>2</cell>
+                    <cell>3</cell>
+                    <cell>4</cell>
+                    <cell>5</cell>
+                    <cell>6</cell>
+                </row>
+                <row bottom="minor" left="minor" right="minor" halign="center">
+                    <cell>Occurrences</cell>
+                    <cell>0</cell>
+                    <cell>1</cell>
+                    <cell>2</cell>
+                    <cell>0</cell>
+                    <cell>1</cell>
+                    <cell>1</cell>
+                </row>
+            </tabular>
+        </sidebyside>
+        <p>Finally, measure from the third note to the fourth note, and the interval vector will be complete. We add one tally for ic4; the complete interval vector is 012011, which tells us a half<ndash/>diminished chord has zero half steps, one major 2nd (shown in this voicing as a minor 7th), two minor 3rds, no major 3rds, one perfect 4th (shown in this voicing as perfect 5th), and one tritone.</p>
+        <sidebyside margins="25%">
+            <image source="images/unit12/set-theory-vector-step3">
+                <description/>
+            </image>
+        </sidebyside>
+        <sidebyside>
+            <tabular>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <col top="minor" left="minor" right="minor"/>
+                <row bottom="medium" right="minor" top="minor" left="minor" halign="center">
+                    <cell>Interval Class:</cell>
+                    <cell>1</cell>
+                    <cell>2</cell>
+                    <cell>3</cell>
+                    <cell>4</cell>
+                    <cell>5</cell>
+                    <cell>6</cell>
+                </row>
+                <row bottom="minor" left="minor" right="minor" halign="center">
+                    <cell>Occurrences</cell>
+                    <cell>0</cell>
+                    <cell>1</cell>
+                    <cell>2</cell>
+                    <cell>1</cell>
+                    <cell>1</cell>
+                    <cell>1</cell>
+                </row>
+            </tabular>
+        </sidebyside>
+        <p>An interval vector always contains 6 digits. When an interval class does not occur (the way the minor second did not occur in the G half<ndash/>diminished seventh chord), place a zero in the column for that interval class.</p>
+    </section>
+    <section xml:id="ForteNumbers">
+        <title>Forte Numbers</title>
+        <introduction><p>When Allen Forte created a catalog of every possible 3<ndash/>, 4<ndash/>, 5<ndash/>, 6<ndash/>, 7<ndash/>, 8<ndash/>, and 9<ndash/>note set in Appendix 1 of <pubtitle>The Structure of Atonal Music</pubtitle>, he labeled each prime form with two numbers separated by a hyphen. His labels (3<ndash/>1, 3<ndash/>2, etc.) are now known as <q>Forte numbers,</q>  and are seen in the tables in the <xref ref="ListsOfSetClasses" text="title">Lists of Set Classes</xref>, which include prime forms and interval vectors as well.</p></introduction>
+        <subsection xml:id="ZRelations">
+            <title>Z<ndash/>Relations</title>
+            <p><q>Z</q> in a set label (for example, 4<ndash/>Z29) stands  for <q>zygotic</q> (<q>twinned</q>), and is used when different prime forms (for example, 4<ndash/>Z29 and 4<ndash/>Z15 have the same interval vector<mdash/>111111).</p>
+        </subsection>
+    </section>
+    <section xml:id="ListsOfSetClasses">
+        <title>Lists of Set Classes</title>
+        <p>Below are lists of all set classes with prime form, Forte number, and interval vectors shown. Allen Forte published the original list of set classes in <pubtitle>The Structure of Atonal Music</pubtitle> in 1973. These lists use prime forms as calculated using the Rahn method. Prime forms of sets are ordered from most packed to the left to least packed to the left, as is found in the list of set classes both John Rahn's <pubtitle>Basic Atonal Theory</pubtitle> and Joseph Straus' <pubtitle>Introduction to Post<ndash/>Tonal Theory</pubtitle>. Sets are listed across from their <term>complements</term><idx><h>complement</h><h>definition of</h></idx>. When taken together, complements can complete the 12<ndash/>note chromatic scale when correctly transposed (and sometimes inverted).</p> 
+        <table>
+            <caption>List of Set Classes for 3<ndash/> and 9<ndash/>note sets (Trichords and Nonachords)</caption>
+            <tabular halign="center">
+                <col/>
+                <col/>
+                <col right="minor"/>
+                <col/>
+                <col/>
+                <col/>
+                <row bottom="medium">
+                    <cell>
+                        <line>Prime</line>
+                        <line>Form</line>
+                    </cell>
+                    <cell>
+                        <line>Forte</line>
+                        <line>Number</line>
+                    </cell>
+                    <cell>
+                        <line>Interval</line>
+                        <line>Vector</line>
+                    </cell>
+                    <cell>
+                        <line>Prime</line>
+                        <line>Form</line>
+                    </cell>
+                    <cell>
+                        <line>Forte</line>
+                        <line>Number</line>
+                    </cell>
+                    <cell>
+                        <line>Interval</line>
+                        <line>Vector</line>
+                    </cell>
+                </row>
+                <row>
+                    <cell>(012)</cell>
+                    <cell>3<ndash/>1</cell>
+                    <cell>210000</cell>
+                    <cell>(012345678)</cell>
+                    <cell>9<ndash/>1</cell>
+                    <cell>876663</cell>
+                </row>
+                <row>
+                    <cell>(013)</cell>
+                    <cell>3<ndash/>2</cell>
+                    <cell>111000</cell>
+                    <cell>(012345679)</cell>
+                    <cell>9<ndash/>2</cell>
+                    <cell>777663</cell>
+                </row>
+                <row>
+                    <cell>(014)</cell>
+                    <cell>3<ndash/>3</cell>
+                    <cell>101100</cell>
+                    <cell>(012345689)</cell>
+                    <cell>9<ndash/>3</cell>
+                    <cell>767763</cell>
+                </row>
+                <row>
+                    <cell>(015)</cell>
+                    <cell>3<ndash/>4</cell>
+                    <cell>100110</cell>
+                    <cell>(012345789)</cell>
+                    <cell>9<ndash/>4</cell>
+                    <cell>766773</cell>
+                </row>
+                <row>
+                    <cell>(016)</cell>
+                    <cell>3<ndash/>5</cell>
+                    <cell>100011</cell>
+                    <cell>(012346789)</cell>
+                    <cell>9<ndash/>5</cell>
+                    <cell>766674</cell>
+                </row>
+                <row>
+                    <cell>(024)</cell>
+                    <cell>3<ndash/>6</cell>
+                    <cell>020100</cell>
+                    <cell>(01234568T)</cell>
+                    <cell>9<ndash/>6</cell>
+                    <cell>686763</cell>
+                </row>
+                <row>
+                    <cell>(025)</cell>
+                    <cell>3<ndash/>7</cell>
+                    <cell>011010</cell>
+                    <cell>(01234578T)</cell>
+                    <cell>9<ndash/>7</cell>
+                    <cell>677673</cell>
+                </row>
+                <row>
+                    <cell>(026)</cell>
+                    <cell>3<ndash/>8</cell>
+                    <cell>010101</cell>
+                    <cell>(01234678T)</cell>
+                    <cell>9<ndash/>8</cell>
+                    <cell>676764</cell>
+                </row>
+                <row>
+                    <cell>(027)</cell>
+                    <cell>3<ndash/>9</cell>
+                    <cell>010020</cell>
+                    <cell>(01235678T)</cell>
+                    <cell>9<ndash/>9</cell>
+                    <cell>676683</cell>
+                </row>
+                <row>
+                    <cell>(036)</cell>
+                    <cell>3<ndash/>10</cell>
+                    <cell>002001</cell>
+                    <cell>(01234679T)</cell>
+                    <cell>9<ndash/>10</cell>
+                    <cell>668664</cell>
+                </row>
+                <row>
+                    <cell>(037)</cell>
+                    <cell>3<ndash/>11</cell>
+                    <cell>001110</cell>
+                    <cell>(01235679T)</cell>
+                    <cell>9<ndash/>11</cell>
+                    <cell>667773</cell>
+                </row>
+                <row>
+                    <cell>(048)</cell>
+                    <cell>3<ndash/>12</cell>
+                    <cell>000300</cell>
+                    <cell>(01245689T)</cell>
+                    <cell>9<ndash/>12</cell>
+                    <cell>666963</cell>
+                </row>
+            </tabular>
+        </table>
 
 
+
+        <table>
+            <caption>List of Set Classes for 4<ndash/> and 8<ndash/>note sets (Tetrachords and Octachords)</caption>
+            <tabular halign="center">
+                <col/>
+                <col/>
+                <col right="minor"/>
+                <col/>
+                <col/>
+                <col/>
+                <row bottom="medium">
+                    <cell>
+                        <line>Prime</line>
+                        <line>Form</line>
+                    </cell>
+                    <cell>
+                        <line>Forte</line>
+                        <line>Number</line>
+                    </cell>
+                    <cell>
+                        <line>Interval</line>
+                        <line>Vector</line>
+                    </cell>
+                    <cell>
+                        <line>Prime</line>
+                        <line>Form</line>
+                    </cell>
+                    <cell>
+                        <line>Forte</line>
+                        <line>Number</line>
+                    </cell>
+                    <cell>
+                        <line>Interval</line>
+                        <line>Vector</line>
+                    </cell>
+                </row>
+                <row>
+                    <cell>(0123)</cell>
+                    <cell>4<ndash/>1</cell>
+                    <cell>321000</cell>
+                    <cell>(01234567)</cell>
+                    <cell>8<ndash/>1</cell>
+                    <cell>765442</cell>
+                </row>
+                <row>
+                    <cell>(0124)</cell>
+                    <cell>4<ndash/>2</cell>
+                    <cell>221100</cell>
+                    <cell>(01234568)</cell>
+                    <cell>8<ndash/>2</cell>
+                    <cell>665542</cell>
+                </row>
+                <row>
+                    <cell>(0125)</cell>
+                    <cell>4<ndash/>4</cell>
+                    <cell>211110</cell>
+                    <cell>(01234578)</cell>
+                    <cell>8<ndash/>4</cell>
+                    <cell>655552</cell>
+                </row>
+                <row>
+                    <cell>(0126)</cell>
+                    <cell>4<ndash/>5</cell>
+                    <cell>210111</cell>
+                    <cell>(01234678)</cell>
+                    <cell>8<ndash/>5</cell>
+                    <cell>654553</cell>
+                </row>
+                <row>
+                    <cell>(0127)</cell>
+                    <cell>4<ndash/>6</cell>
+                    <cell>210021</cell>
+                    <cell>(01235678)</cell>
+                    <cell>8<ndash/>6</cell>
+                    <cell>654463</cell>
+                </row>
+                <row>
+                    <cell>(0134)</cell>
+                    <cell>4<ndash/>3</cell>
+                    <cell>212100</cell>
+                    <cell>(01234569)</cell>
+                    <cell>8<ndash/>3</cell>
+                    <cell>656542</cell>
+                </row>
+                <row>
+                    <cell>(0135)</cell>
+                    <cell>4<ndash/>11</cell>
+                    <cell>121110</cell>
+                    <cell>(01234579)</cell>
+                    <cell>8<ndash/>11</cell>
+                    <cell>565552</cell>
+                </row>
+                <row>
+                    <cell>(0136)</cell>
+                    <cell>4<ndash/>13</cell>
+                    <cell>112011</cell>
+                    <cell>(01234679)</cell>
+                    <cell>8<ndash/>13</cell>
+                    <cell>556453</cell>
+                </row>
+                <row>
+                    <cell>(0137)</cell>
+                    <cell>4<ndash/>Z29</cell>
+                    <cell>111111</cell>
+                    <cell>(01235679)</cell>
+                    <cell>8<ndash/>Z29</cell>
+                    <cell>555553</cell>
+                </row>
+                <row>
+                    <cell>(0145)</cell>
+                    <cell>4<ndash/>7</cell>
+                    <cell>201210</cell>
+                    <cell>(01234589)</cell>
+                    <cell>8<ndash/>7</cell>
+                    <cell>645652</cell>
+                </row>
+                <row>
+                    <cell>(0146)</cell>
+                    <cell>4<ndash/>Z15</cell>
+                    <cell>111111</cell>
+                    <cell>(01234689)</cell>
+                    <cell>8<ndash/>Z15</cell>
+                    <cell>555553</cell>
+                </row>
+                <row>
+                    <cell>(0147)</cell>
+                    <cell>4<ndash/>18</cell>
+                    <cell>102111</cell>
+                    <cell>(01235689)</cell>
+                    <cell>8<ndash/>18</cell>
+                    <cell>546553</cell>
+                </row>
+                <row>
+                    <cell>(0148)</cell>
+                    <cell>4<ndash/>19</cell>
+                    <cell>101310</cell>
+                    <cell>(01245689)</cell>
+                    <cell>8<ndash/>19</cell>
+                    <cell>545752</cell>
+                </row>
+                <row>
+                    <cell>(0156)</cell>
+                    <cell>4<ndash/>8</cell>
+                    <cell>200121</cell>
+                    <cell>(01234789)</cell>
+                    <cell>8<ndash/>8</cell>
+                    <cell>644563</cell>
+                </row>
+                <row>
+                    <cell>(0157)</cell>
+                    <cell>4<ndash/>16</cell>
+                    <cell>110121</cell>
+                    <cell>(01235789)</cell>
+                    <cell>8<ndash/>16</cell>
+                    <cell>554563</cell>
+                </row>
+                <row>
+                    <cell>(0158)</cell>
+                    <cell>4<ndash/>20</cell>
+                    <cell>101220</cell>
+                    <cell>(01245789)</cell>
+                    <cell>8<ndash/>20</cell>
+                    <cell>545662</cell>
+                </row>
+                <row>
+                    <cell>(0167)</cell>
+                    <cell>4<ndash/>9</cell>
+                    <cell>200022</cell>
+                    <cell>(01236789)</cell>
+                    <cell>8<ndash/>9</cell>
+                    <cell>644464</cell>
+                </row>
+                <row>
+                    <cell>(0235)</cell>
+                    <cell>4<ndash/>10</cell>
+                    <cell>122010</cell>
+                    <cell>(02345679)</cell>
+                    <cell>8<ndash/>10</cell>
+                    <cell>566452</cell>
+                </row>
+                <row>
+                    <cell>(0236)</cell>
+                    <cell>4<ndash/>12</cell>
+                    <cell>112101</cell>
+                    <cell>(01345679)</cell>
+                    <cell>8<ndash/>12</cell>
+                    <cell>556543</cell>
+                </row>
+                <row>
+                    <cell>(0237)</cell>
+                    <cell>4<ndash/>14</cell>
+                    <cell>111120</cell>
+                    <cell>(01245679)</cell>
+                    <cell>8<ndash/>14</cell>
+                    <cell>555562</cell>
+                </row>
+                <row>
+                    <cell>(0246)</cell>
+                    <cell>4<ndash/>21</cell>
+                    <cell>030201</cell>
+                    <cell>(0123468T)</cell>
+                    <cell>8<ndash/>21</cell>
+                    <cell>474643</cell>
+                </row>
+                <row>
+                    <cell>(0247)</cell>
+                    <cell>4<ndash/>22</cell>
+                    <cell>021120</cell>
+                    <cell>(0123568T)</cell>
+                    <cell>8<ndash/>22</cell>
+                    <cell>465562</cell>
+                </row>
+                <row>
+                    <cell>(0248)</cell>
+                    <cell>4<ndash/>24</cell>
+                    <cell>020301</cell>
+                    <cell>(0124568T)</cell>
+                    <cell>8<ndash/>24</cell>
+                    <cell>464743</cell>
+                </row>
+                <row>
+                    <cell>(0257)</cell>
+                    <cell>4<ndash/>23</cell>
+                    <cell>021030</cell>
+                    <cell>(0123578T)</cell>
+                    <cell>8<ndash/>23</cell>
+                    <cell>465472</cell>
+                </row>
+                <row>
+                    <cell>(0258)</cell>
+                    <cell>4<ndash/>27</cell>
+                    <cell>012111</cell>
+                    <cell>(0124578T)</cell>
+                    <cell>8<ndash/>27</cell>
+                    <cell>456553</cell>
+                </row>
+                <row>
+                    <cell>(0268)</cell>
+                    <cell>4<ndash/>25</cell>
+                    <cell>020202</cell>
+                    <cell>(0124678T)</cell>
+                    <cell>8<ndash/>25</cell>
+                    <cell>464644</cell>
+                </row>
+                <row>
+                    <cell>(0347)</cell>
+                    <cell>4<ndash/>17</cell>
+                    <cell>102210</cell>
+                    <cell>(01345689)</cell>
+                    <cell>8<ndash/>17</cell>
+                    <cell>546652</cell>
+                </row>
+                <row>
+                    <cell>(0358)</cell>
+                    <cell>4<ndash/>26</cell>
+                    <cell>012120</cell>
+                    <cell>(0134578T)
+                        <fn>Forte prime form for 8<ndash/>26: (0124579T)</fn>
+                    </cell>
+                    <cell>8<ndash/>26</cell>
+                    <cell>456562</cell>
+                </row>
+                <row>
+                    <cell>(0369)</cell>
+                    <cell>4<ndash/>28</cell>
+                    <cell>004002</cell>
+                    <cell>(0134679T)</cell>
+                    <cell>8<ndash/>28</cell>
+                    <cell>448444</cell>
+                </row>
+            </tabular>
+        </table>
+
+
+        <table>
+            <caption>List of Set Classes for 5<ndash/> and 7<ndash/>note sets (Pentachords and Septachords)</caption>
+            <tabular halign="center">
+                <col/>
+                <col/>
+                <col right="minor"/>
+                <col/>
+                <col/>
+                <col/>
+                <row bottom="medium">
+                    <cell>
+                        <line>Prime</line>
+                        <line>Form</line>
+                    </cell>
+                    <cell>
+                        <line>Forte</line>
+                        <line>Number</line>
+                    </cell>
+                    <cell>
+                        <line>Interval</line>
+                        <line>Vector</line>
+                    </cell>
+                    <cell>
+                        <line>Prime</line>
+                        <line>Form</line>
+                    </cell>
+                    <cell>
+                        <line>Forte</line>
+                        <line>Number</line>
+                    </cell>
+                    <cell>
+                        <line>Interval</line>
+                        <line>Vector</line>
+                    </cell>
+                </row>
+                <row>
+                    <cell>(01234)</cell>
+                    <cell>5<ndash/>1</cell>
+                    <cell>432100</cell>
+                    <cell>(0123456)</cell>
+                    <cell>7<ndash/>1</cell>
+                    <cell>654321</cell>
+                </row>
+                <row>
+                    <cell>(01235)</cell>
+                    <cell>5<ndash/>2</cell>
+                    <cell>332110</cell>
+                    <cell>(0123457)</cell>
+                    <cell>7<ndash/>2</cell>
+                    <cell>554331</cell>
+                </row>
+                <row>
+                    <cell>(01236)</cell>
+                    <cell>5<ndash/>4</cell>
+                    <cell>322111</cell>
+                    <cell>(0123467)</cell>
+                    <cell>7<ndash/>4</cell>
+                    <cell>544332</cell>
+                </row>
+                <row>
+                    <cell>(01237)</cell>
+                    <cell>5<ndash/>5</cell>
+                    <cell>321121</cell>
+                    <cell>(0123567)</cell>
+                    <cell>7<ndash/>5</cell>
+                    <cell>543342</cell>
+                </row>
+                <row>
+                    <cell>(01245)</cell>
+                    <cell>5<ndash/>3</cell>
+                    <cell>322210</cell>
+                    <cell>(0123458)</cell>
+                    <cell>7<ndash/>3</cell>
+                    <cell>544431</cell>
+                </row>
+                <row>
+                    <cell>(01246)</cell>
+                    <cell>5<ndash/>9</cell>
+                    <cell>231211</cell>
+                    <cell>(0123468)</cell>
+                    <cell>7<ndash/>9</cell>
+                    <cell>453432</cell>
+                </row>
+                <row>
+                    <cell>(01247)</cell>
+                    <cell>5<ndash/>Z36</cell>
+                    <cell>222121</cell>
+                    <cell>(0123568)</cell>
+                    <cell>7<ndash/>Z36</cell>
+                    <cell>444342</cell>
+                </row>
+                <row>
+                    <cell>(01248)</cell>
+                    <cell>5<ndash/>13</cell>
+                    <cell>2221311</cell>
+                    <cell>(0124568)</cell>
+                    <cell>7<ndash/>13</cell>
+                    <cell>443532</cell>
+                </row>
+                <row>
+                    <cell>(01256)</cell>
+                    <cell>5<ndash/>6</cell>
+                    <cell>311221</cell>
+                    <cell>(0123478)</cell>
+                    <cell>7<ndash/>6</cell>
+                    <cell>533442</cell>
+                </row>
+                <row>
+                    <cell>(01257)</cell>
+                    <cell>5<ndash/>14</cell>
+                    <cell>221131</cell>
+                    <cell>(0123578)</cell>
+                    <cell>7<ndash/>14</cell>
+                    <cell>443352</cell>
+                </row>
+                <row>
+                    <cell>(01258)</cell>
+                    <cell>5<ndash/>Z38</cell>
+                    <cell>212221</cell>
+                    <cell>(0124578)</cell>
+                    <cell>7<ndash/>Z38</cell>
+                    <cell>434442</cell>
+                </row>
+                <row>
+                    <cell>(01267)</cell>
+                    <cell>5<ndash/>7</cell>
+                    <cell>310132</cell>
+                    <cell>(0123678)</cell>
+                    <cell>7<ndash/>7</cell>
+                    <cell>532353</cell>
+                </row>
+                <row>
+                    <cell>(01268)</cell>
+                    <cell>5<ndash/>15</cell>
+                    <cell>220222</cell>
+                    <cell>(0124678)</cell>
+                    <cell>7<ndash/>15</cell>
+                    <cell>442443</cell>
+                </row>
+                <row>
+                    <cell>(01346)</cell>
+                    <cell>5<ndash/>10</cell>
+                    <cell>223111</cell>
+                    <cell>(0123469)</cell>
+                    <cell>7<ndash/>10</cell>
+                    <cell>445332</cell>
+                </row>
+                <row>
+                    <cell>(01347)</cell>
+                    <cell>5<ndash/>16</cell>
+                    <cell>213211</cell>
+                    <cell>(0123569)</cell>
+                    <cell>7<ndash/>16</cell>
+                    <cell>435432</cell>
+                </row>
+                <row>
+                    <cell>(01348)</cell>
+                    <cell>5<ndash/>Z17</cell>
+                    <cell>212320</cell>
+                    <cell>(0124569)</cell>
+                    <cell>7<ndash/>Z17</cell>
+                    <cell>434541</cell>
+                </row>
+                <row>
+                    <cell>(01356)</cell>
+                    <cell>5<ndash/>Z12</cell>
+                    <cell>222121</cell>
+                    <cell>(0123479)</cell>
+                    <cell>7<ndash/>Z12</cell>
+                    <cell>444342</cell>
+                </row>
+                <row>
+                    <cell>(01357)</cell>
+                    <cell>5<ndash/>24</cell>
+                    <cell>131221</cell>
+                    <cell>(0123579)</cell>
+                    <cell>7<ndash/>24</cell>
+                    <cell>353442</cell>
+                </row>
+                <row>
+                    <cell>(01358)</cell>
+                    <cell>5<ndash/>27</cell>
+                    <cell>122230</cell>
+                    <cell>(0124579)</cell>
+                    <cell>7<ndash/>27</cell>
+                    <cell>344451</cell>
+                </row>
+                <row>
+                    <cell>(01367)</cell>
+                    <cell>5<ndash/>19</cell>
+                    <cell>212122</cell>
+                    <cell>(0123679)</cell>
+                    <cell>7<ndash/>19</cell>
+                    <cell>434343</cell>
+                </row>
+                <row>
+                    <cell>(01369)</cell>
+                    <cell>5<ndash/>31</cell>
+                    <cell>114112</cell>
+                    <cell>(0134679)</cell>
+                    <cell>7<ndash/>31</cell>
+                    <cell>336333</cell>
+                </row>
+                <row>
+                    <cell>(01457)</cell>
+                    <cell>5<ndash/>Z18</cell>
+                    <cell>212221</cell>
+                    <cell>(0145679)
+                        <fn>
+                            Forte prime form for 7<ndash/>Z18: (0123589)
+                        </fn>
+                    </cell>
+                    <cell>7<ndash/>Z18</cell>
+                    <cell>434442</cell>
+                </row>
+                <row>
+                    <cell>(01458)</cell>
+                    <cell>5<ndash/>21</cell>
+                    <cell>202420</cell>
+                    <cell>(0124589)</cell>
+                    <cell>7<ndash/>21</cell>
+                    <cell>424641</cell>
+                </row>
+                <row>
+                    <cell>(01468)</cell>
+                    <cell>5<ndash/>30</cell>
+                    <cell>121321</cell>
+                    <cell>(0124689)</cell>
+                    <cell>7<ndash/>30</cell>
+                    <cell>343542</cell>
+                </row>
+                <row>
+                    <cell>(01469)</cell>
+                    <cell>5<ndash/>32</cell>
+                    <cell>113221</cell>
+                    <cell>(0134689)</cell>
+                    <cell>7<ndash/>32</cell>
+                    <cell>335442</cell>
+                </row>
+                <row>
+                    <cell>(01478)</cell>
+                    <cell>5<ndash/>22</cell>
+                    <cell>202321</cell>
+                    <cell>(0125689)</cell>
+                    <cell>7<ndash/>22</cell>
+                    <cell>424542</cell>
+                </row>
+                <row>
+                    <cell>(01568)
+                        <fn>
+                            Forte prime form for 5<ndash/>20: (01378)
+                        </fn>
+                    </cell>
+                    <cell>5<ndash/>20</cell>
+                    <cell>211231</cell>
+                    <cell>(0125679)
+                        <fn>
+                            Forte prime form for 7<ndash/>20: (0124789)
+                        </fn>
+                    </cell>
+                    <cell>7<ndash/>20</cell>
+                    <cell>433452</cell>
+                </row>
+                <row>
+                    <cell>(02346)</cell>
+                    <cell>5<ndash/>8</cell>
+                    <cell>232201</cell>
+                    <cell>(0234568)</cell>
+                    <cell>7<ndash/>8</cell>
+                    <cell>454422</cell>
+                </row>
+                <row>
+                    <cell>(02347)</cell>
+                    <cell>5<ndash/>11</cell>
+                    <cell>222220</cell>
+                    <cell>(0134568)</cell>
+                    <cell>7<ndash/>11</cell>
+                    <cell>444441</cell>
+                </row>
+                <row>
+                    <cell>(02357)</cell>
+                    <cell>5<ndash/>23</cell>
+                    <cell>132130</cell>
+                    <cell>(0234579)</cell>
+                    <cell>7<ndash/>23</cell>
+                    <cell>354351</cell>
+                </row>
+                <row>
+                    <cell>(02358)</cell>
+                    <cell>5<ndash/>25</cell>
+                    <cell>123121</cell>
+                    <cell>(0234679)</cell>
+                    <cell>7<ndash/>25</cell>
+                    <cell>345342</cell>
+                </row>
+                <row>
+                    <cell>(02368)</cell>
+                    <cell>5<ndash/>28</cell>
+                    <cell>122212</cell>
+                    <cell>(0135679)</cell>
+                    <cell>7<ndash/>28</cell>
+                    <cell>344433</cell>
+                </row>
+                <row>
+                    <cell>(02458)</cell>
+                    <cell>5<ndash/>26</cell>
+                    <cell>122311</cell>
+                    <cell>(0134579)</cell>
+                    <cell>7<ndash/>26</cell>
+                    <cell>344532</cell>
+                </row>
+                <row>
+                    <cell>(02468)</cell>
+                    <cell>5<ndash/>33</cell>
+                    <cell>040402</cell>
+                    <cell>(012468T)</cell>
+                    <cell>7<ndash/>33</cell>
+                    <cell>262623</cell>
+                </row>
+                <row>
+                    <cell>(02469)</cell>
+                    <cell>5<ndash/>34</cell>
+                    <cell>032221</cell>
+                    <cell>(013468T)</cell>
+                    <cell>7<ndash/>34</cell>
+                    <cell>254442</cell>
+                </row>
+                <row>
+                    <cell>(02479)</cell>
+                    <cell>5<ndash/>35</cell>
+                    <cell>032140</cell>
+                    <cell>(013568T)</cell>
+                    <cell>7<ndash/>35</cell>
+                    <cell>254361</cell>
+                </row>
+                <row>
+                    <cell>(03458)</cell>
+                    <cell>5<ndash/>Z37</cell>
+                    <cell>212320</cell>
+                    <cell>(0134578)</cell>
+                    <cell>7<ndash/>Z37</cell>
+                    <cell>434541</cell>
+                </row>
+            </tabular>
+        </table>
+        <p>In the table below, when no set is listed across from a six<ndash/>note set, it is self<ndash/>complementary (that is, it can combine with a transposed and possibly inverted set of itself to complete a 12<ndash/>note chromatic scale.</p>
+        <table>
+            <caption>List of Set Classes for 6<ndash/>note sets (Hexachords)</caption>
+            <tabular halign="center">
+                <col/>
+                <col/>
+                <col right="minor"/>
+                <col/>
+                <col/>
+                <col/>
+                <row bottom="medium">
+                    <cell>
+                        <line>Prime</line>
+                        <line>Form</line>
+                    </cell>
+                    <cell>
+                        <line>Forte</line>
+                        <line>Number</line>
+                    </cell>
+                    <cell>
+                        <line>Interval</line>
+                        <line>Vector</line>
+                    </cell>
+                    <cell>
+                        <line>Prime</line>
+                        <line>Form</line>
+                    </cell>
+                    <cell>
+                        <line>Forte</line>
+                        <line>Number</line>
+                    </cell>
+                    <cell>
+                        <line>Interval</line>
+                        <line>Vector</line>
+                    </cell>
+                </row>
+                <row>
+                    <cell>(012345)</cell>
+                    <cell>6<ndash/>1</cell>
+                    <cell>543210</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(012346)</cell>
+                    <cell>6<ndash/>2</cell>
+                    <cell>4443211</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(012347)</cell>
+                    <cell>6<ndash/>Z36</cell>
+                    <cell>433221</cell>
+                    <cell>(012356)</cell>
+                    <cell>6<ndash/>Z3</cell>
+                    <cell>433221</cell>
+                </row>
+                <row>
+                    <cell>(012348)</cell>
+                    <cell>6<ndash/>Z37</cell>
+                    <cell>432321</cell>
+                    <cell>(012456)</cell>
+                    <cell>6<ndash/>Z4</cell>
+                    <cell>432321</cell>
+                </row>
+                <row>
+                    <cell>(012357)</cell>
+                    <cell>6<ndash/>9</cell>
+                    <cell>342231</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(012358)</cell>
+                    <cell>6<ndash/>Z40</cell>
+                    <cell>333231</cell>
+                    <cell>(012457)</cell>
+                    <cell>6<ndash/>Z11</cell>
+                    <cell>333231</cell>
+                </row>
+                <row>
+                    <cell>(012367)</cell>
+                    <cell>6<ndash/>5</cell>
+                    <cell>422232</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(012368)</cell>
+                    <cell>6<ndash/>Z41</cell>
+                    <cell>332232</cell>
+                    <cell>(012457)</cell>
+                    <cell>6<ndash/>Z12</cell>
+                    <cell>332232</cell>
+                </row>
+                <row>
+                    <cell>(012369)</cell>
+                    <cell>6<ndash/>Z42</cell>
+                    <cell>324222</cell>
+                    <cell>(013467)</cell>
+                    <cell>6<ndash/>Z13</cell>
+                    <cell>324222</cell>
+                </row>
+                <row>
+                    <cell>(012378)</cell>
+                    <cell>6<ndash/>Z38</cell>
+                    <cell>421242</cell>
+                    <cell>(012567)</cell>
+                    <cell>6<ndash/>Z6</cell>
+                    <cell>421242</cell>
+                </row>
+                <row>
+                    <cell>(012458)</cell>
+                    <cell>6<ndash/>15</cell>
+                    <cell>323421</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(012468)</cell>
+                    <cell>6<ndash/>22</cell>
+                    <cell>241422</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(012469)</cell>
+                    <cell>6<ndash/>Z46</cell>
+                    <cell>233331</cell>
+                    <cell>(013468)</cell>
+                    <cell>6<ndash/>Z24</cell>
+                    <cell>233331</cell>
+                </row>
+                <row>
+                    <cell>(012478)</cell>
+                    <cell>6<ndash/>Z17</cell>
+                    <cell>322332</cell>
+                    <cell>(012568)</cell>
+                    <cell>6<ndash/>Z43</cell>
+                    <cell>233331</cell>
+                </row>
+                <row>
+                    <cell>(012479)</cell>
+                    <cell>6<ndash/>Z47</cell>
+                    <cell>233241</cell>
+                    <cell>(013568)</cell>
+                    <cell>6<ndash/>Z25</cell>
+                    <cell>233241</cell>
+                </row>
+                <row>
+                    <cell>(012569)</cell>
+                    <cell>6<ndash/>Z44</cell>
+                    <cell>313431</cell>
+                    <cell>(013478)</cell>
+                    <cell>6<ndash/>Z19</cell>
+                    <cell>313431</cell>
+                </row>
+                <row>
+                    <cell>(012578)</cell>
+                    <cell>6<ndash/>18</cell>
+                    <cell>322242</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(012579)</cell>
+                    <cell>6<ndash/>Z48</cell>
+                    <cell>232341</cell>
+                    <cell>(013578)</cell>
+                    <cell>6<ndash/>Z26</cell>
+                    <cell>232341</cell>
+                </row>
+                <row>
+                    <cell>(012678)</cell>
+                    <cell>6<ndash/>7</cell>
+                    <cell>420243</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(013457)</cell>
+                    <cell>6<ndash/>Z10</cell>
+                    <cell>333321</cell>
+                    <cell>(023458)</cell>
+                    <cell>6<ndash/>Z39</cell>
+                    <cell>333321</cell>
+                </row>
+                <row>
+                    <cell>(013458)</cell>
+                    <cell>6<ndash/>14</cell>
+                    <cell>323430</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(013469)</cell>
+                    <cell>6<ndash/>27</cell>
+                    <cell>225222</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(013479)</cell>
+                    <cell>6<ndash/>Z49</cell>
+                    <cell>224322</cell>
+                    <cell>(013569)</cell>
+                    <cell>6<ndash/>Z28</cell>
+                    <cell>224322</cell>
+                </row>
+                <row>
+                    <cell>(013579)</cell>
+                    <cell>6<ndash/>34</cell>
+                    <cell>142422</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(013679)</cell>
+                    <cell>6<ndash/>30</cell>
+                    <cell>224223</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(023679)
+                        <fn>
+                            Forte prime form for 6<ndash/>Z29: (013689)
+                        </fn>
+                    </cell>
+                    <cell>6<ndash/>Z29</cell>
+                    <cell>224232</cell>
+                    <cell>(014679)</cell>
+                    <cell>6<ndash/>Z50</cell>
+                    <cell>224232</cell>
+                </row>
+                <row>
+                    <cell>(014568)</cell>
+                    <cell>6<ndash/>16</cell>
+                    <cell>322431</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(014579)
+                        <fn>
+                            Forte prime form for 6<ndash/>31: (013589)
+                        </fn>
+                    </cell>
+                    <cell>6<ndash/>31</cell>
+                    <cell>223431</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(014589)</cell>
+                    <cell>6<ndash/>20</cell>
+                    <cell>303630</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(023457)</cell>
+                    <cell>6<ndash/>8</cell>
+                    <cell>343230</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(023468)</cell>
+                    <cell>6<ndash/>21</cell>
+                    <cell>242412</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(023469)</cell>
+                    <cell>6<ndash/>Z45</cell>
+                    <cell>234222</cell>
+                    <cell>(023568)</cell>
+                    <cell>6<ndash/>Z23</cell>
+                    <cell>234222</cell>
+                </row>
+                <row>
+                    <cell>(023579)</cell>
+                    <cell>6<ndash/>33</cell>
+                    <cell>143241</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(024579)</cell>
+                    <cell>6<ndash/>32</cell>
+                    <cell>143250</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+                <row>
+                    <cell>(02468T)</cell>
+                    <cell>6<ndash/>35</cell>
+                    <cell>060603</cell>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                </row>
+            </tabular>
+        </table>
+    </section>
+    <section xml:id="TranspositionTn">
+        <title>Transposition (T<n octave="n"/>)</title>
+        <p>Transposition is an operation performed as T<n octave="n"/>, where <em>n</em> is the number of semitones <em>up</em> a set is transposed. For example, [1, 2, 4, 6] at T<n octave="4"/> is [5, 6, 8, 10].</p>
+        <sidebyside>
+            <image source="images/unit12/set-theory-Tn-ex-1">
+                <description/>
+            </image>
+        </sidebyside>
+        <p>When working in a modulo 12 system, remember that numbers larger than 12 have to be reduced to a number smaller than 12 by subtracting 12 from the larger number. For example, 6, 8, 10, 11 at T<n octave="9"/> would result in 15, 17, 18, 20, which, after subtracting 12 from each number, results in 3, 5, 6, 8.</p>
+        <table>
+                <caption/>
+                <tabular halign="center">
+                    <col halign="right"/>
+                    <col/>
+                    <col/>
+                    <col/>
+                    <col/>
+                    <col/>
+                    <row>
+                        <cell halign="right">Pitch classes:</cell>
+                        <cell/>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                        <cell>10</cell>
+                        <cell>11</cell>
+                    </row>
+                    <row>
+                        <cell halign="right">at T<n octave="9"/>:</cell>
+                        <cell>+</cell>
+                        <cell bottom="minor">9</cell>
+                        <cell bottom="minor">9</cell>
+                        <cell bottom="minor">9</cell>
+                        <cell bottom="minor">9</cell>
+                    </row>
+                    <row>
+                        <cell halign="right">Result:</cell>
+                        <cell/>
+                        <cell>15</cell>
+                        <cell>17</cell>
+                        <cell>18</cell>
+                        <cell>20</cell>
+                    </row>
+                    <row>
+                        <cell halign="right">Make numbers modulo 12:</cell>
+                        <cell><ndash/></cell>
+                        <cell bottom="minor">12</cell>
+                        <cell bottom="minor">12</cell>
+                        <cell bottom="minor">12</cell>
+                        <cell bottom="minor">12</cell>
+                    </row>
+                    <row>
+                        <cell halign="right">Result:</cell>
+                        <cell/>
+                        <cell>3</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                    </row>
+                </tabular>
+            </table>
+    </section>
+    <section xml:id="InversionTnI">
+        <title>Inversion (T<n octave="n"/>I)</title>
+        <introduction>
+            <p>Inverting a set using T<n octave="n"/>I is a compound operation. The first step is to invert each note below C using C as an axis. For example, E is a major 3rd above C, so E would invert to A<flat/>, a major third <em>below</em> C.</p>
+            <sidebyside margins="25%">
+                <image source="images/unit12/set-theory-TnI-ex-1">
+                    <description/>
+                </image>
+            </sidebyside>
+            <p>The second step of inversion is to apply the T<n octave="n"/> interval. So, to calculate T<n octave="3"/>I for the note E, one would first  invert E to A<flat/> (this is T<n octave="0"/>I), <em>then</em> transpose the A<flat/> up 3 semitones to B. (Theorist Joseph Straus simplifies the nomenclature to I<n octave="n"/> instead of T<n octave="n"/>I, but the outcome remains the same.)</p>
+            <p>Let’s try inverting a pitch<ndash/>class set, applying T<n octave="7"/>I to [2, 4, 5] (or D, E, and F). Inverting the notes to the opposite side of C using C as an axis yields pitch numbers 10, 8, and 7 (or B<flat/>, A<flat/>, and G), which in ascending order is 7, 8, and 10. Then transposing [7, 8, 10] at T<n octave="7"/> raises each note 7 semitones, resulting in [2, 3, 5] (or D, E<flat/>, and F). </p>
+            <sidebyside>
+                <image source="images/unit12/set-theory-TnI-ex-2">
+                    <description/>
+                </image>
+            </sidebyside>
+        </introduction>
+        <subsection xml:id="IdentifyingInversionallyRelatedSets">
+            <title>Identifying T<n octave="n"/>I for Inversionally<ndash/>Related Sets</title>
+            <p>To determine <em>n</em> of T<n octave="n"/>I for two inversionally<ndash/>related sets, write the second set backward and add the notes of the two sets together. Each sum will equal <em>n</em>. Let’s use our two sets from the previous example above: [2, 4, 5] and [2, 3, 5].</p>
+            <table>
+                <caption/>
+                <tabular halign="center">
+                    <col/>
+                    <col/>
+                    <col/>
+                    <col/>
+                    <col/>
+                    <row>
+                        <cell>First set in order:</cell>
+                        <cell/>
+                        <cell>2</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                    </row>
+                    <row>
+                        <cell>Second set backward:</cell>
+                        <cell>+</cell>
+                        <cell bottom="minor">5</cell>
+                        <cell bottom="minor">3</cell>
+                        <cell bottom="minor">2</cell>
+                    </row>
+                    <row>
+                        <cell><em>n</em> of T<n octave="n"/>I:</cell>
+                        <cell/>
+                        <cell>7</cell>
+                        <cell>7</cell>
+                        <cell>7</cell>
+                    </row>
+                </tabular>
+            </table>
+            <p>This confirms the sets are related at T<n octave="7"/>I.</p>
+        </subsection>
+    </section>
     <exercises xml:id="Set-Theory-Practice-Exercises">
         <title>Practice Exercises</title>
         <exercisegroup>
@@ -406,15 +1727,6 @@
                     </ol>
                 </answer>
             </exercise>
-            <exercise>
-                <statement>
-                    <p></p>
-                    
-                </statement>
-                <answer>
-
-                </answer>
-            </exercise>
         </exercisegroup>
         <exercisegroup>
             <introduction>
@@ -422,27 +1734,136 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p></p>
-                    
+                    <p>For each of the six sets in the example below, determine the normal form, prime form, Forte number, and interval vector.</p>
+                    <sidebyside>
+                        <image source="images/unit12/PRAC-EXER-set-theory-day-2-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
                 </statement>
                 <answer>
-
+                    <table>
+                        <caption/>
+                        <tabular halign="center">
+                            <col/>
+                            <col/>
+                            <col/>
+                            <col/>
+                            <col/>
+                            <row bottom="medium">
+                                <cell>Set</cell>
+                                <cell>Normal Form</cell>
+                                <cell>Prime Form</cell>
+                                <cell>Forte Number</cell>
+                                <cell>Interval Vector</cell>
+                            </row>
+                            <row>
+                                <cell>1</cell>
+                                <cell>[11, 1, 3, 5, 6]</cell>
+                                <cell>(01357)</cell>
+                                <cell>5<ndash/>24</cell>
+                                <cell>131221</cell>
+                            </row>
+                            <row>
+                                <cell>2</cell>
+                                <cell>[5, 8, 10, 0]</cell>
+                                <cell>(0247)</cell>
+                                <cell>4<ndash/>22</cell>
+                                <cell>021120</cell>
+                            </row>
+                            <row>
+                                <cell>3</cell>
+                                <cell>[9, 0, 1, 4, 5]</cell>
+                                <cell>(01458)</cell>
+                                <cell>5<ndash/>21</cell>
+                                <cell>202420</cell>
+                            </row>
+                            <row>
+                                <cell>4</cell>
+                                <cell>[3, 5, 6, 10]</cell>
+                                <cell>(0237)</cell>
+                                <cell>4<ndash/>14</cell>
+                                <cell>111120</cell>
+                            </row>
+                            <row>
+                                <cell>5</cell>
+                                <cell>[2, 3, 6, 7, 9, 10]</cell>
+                                <cell>(013478)</cell>
+                                <cell>6<ndash/>Z19</cell>
+                                <cell>313431</cell>
+                            </row>
+                            <row>
+                                <cell>6</cell>
+                                <cell>[2, 3, 5, 6, 9, 10]</cell>
+                                <cell>(013478)</cell>
+                                <cell>6<ndash/>Z19</cell>
+                                <cell>313431</cell>
+                            </row>
+                        </tabular>
+                    </table>
                 </answer>
-            </exercise>  
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Three</p>
+            </introduction>
             <exercise>
                 <statement>
-                    <p></p>
-
-
+                    <p>Transposition (T<n octave="n"/>) of Sets. Transpose the following sets as specified.</p>
+                    <ol>
+                        <li><p>Transpose [3, 6, 7] at T<n octave="2"/>: [ <fillin characters="3"/> , <fillin characters="3"/>, <fillin characters="3"/> ]</p></li>
+                        <li><p>Transpose [2, 4, 8, 9] at T<n octave="7"/>: [ <fillin characters="3"/> , <fillin characters="3"/>, <fillin characters="3"/> , <fillin characters="3"/> ]</p></li>
+                        <li><p>Transpose [1, 2, 4, 7, 8] at T<n octave="9"/>: [ <fillin characters="3"/> , <fillin characters="3"/>, <fillin characters="3"/> , <fillin characters="3"/> , <fillin characters="3"/> ]</p></li>
+                    </ol>
                 </statement>
                 <answer>
-
+                    <ol>
+                        <li><p>[5, 8, 9]</p></li>
+                        <li><p>[9, 11, 3, 4]</p></li>
+                        <li><p>[10, 11, 1, 4, 7]</p></li>
+                    </ol>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>Inversion (T<n octave="n"/>I) of Sets. Invert the following sets. Write your answers in normal form.</p>
+                    <ol>
+                        <li><p>Invert [7, 10, 11] at T<n octave="0"/>I: [ <fillin characters="3"/> , <fillin characters="3"/>, <fillin characters="3"/> ]</p></li>
+                        <li><p>Invert [0, 2, 4] at T<n octave="4"/>I: [ <fillin characters="3"/> , <fillin characters="3"/>, <fillin characters="3"/> ]</p></li>
+                        <li><p>Invert [4, 6, 10, 11] at T<n octave="9"/>I: [ <fillin characters="3"/> , <fillin characters="3"/>, <fillin characters="3"/> , <fillin characters="3"/> ]</p></li>
+                    </ol>
+                </statement>
+                <answer>
+                    <ol>
+                        <li><p>[1, 2, 5]</p></li>
+                        <li><p>[0, 2, 4]</p></li>
+                        <li><p>[10, 11, 3, 5]</p></li>
+                    </ol>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>Specify the interval of inversion from the first set to the second set.</p>
+                    <ol>
+                        <li><p>[2, 4, 7] inverts to [3, 6, 8] at what T<n octave="n"/>I?</p></li>
+                        <li><p>[1, 2, 4, 7]  inverts to [4, 7, 9, 10] at what T<n octave="n"/>I? </p></li>
+                        <li><p>[6, 7, 10, 1, 2]  inverts to [3, 4, 7, 10, 11] at what T<n octave="n"/>I? </p></li>
+                    </ol>
+                </statement>
+                <answer>
+                    <ol>
+                        <li><p>T<n octave="10"/>I</p></li>
+                        <li><p>T<n octave="11"/>I</p></li>
+                        <li><p>T<n octave="5"/>I</p></li>
+                    </ol>
                 </answer>
             </exercise>
         </exercisegroup>
         <conclusion>
             <p>Click <url href="../hw/MT21C_HW_61.pdf">here to download the first homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_HW_62.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_63.pdf">here to download the third homework assignment for this chapter.</url></p>
         </conclusion>
     </exercises>
 </chapter>
