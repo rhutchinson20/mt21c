@@ -287,7 +287,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="9hrqE_-DvV0" start="8" end="17" play-at="select" preview="generic"/>
+                    <video youtube="9_y6nFjoVp4" start="7" end="16" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -330,11 +330,11 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="Duj7q2oPqas" start="52" end="56" play-at="select" preview="generic"/>
+                    <video youtube="lbblMw6k1cU" start="52" end="56" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>There are two ways to conceptualize this progression. The first is that the progression of <chord root="iii"/> to <chord root="IV"/> (Em to F in C major) is not unusual, so E to F, which appears to be <chord root="III"/> to <chord root="IV"/> but is in fact <chord root="V" bass="vi"/> to <chord root="IV"/>, is a chromatic modification of <chord root="iii"/> to <chord root="IV"/>. Another way to think of <chord root="V" bass="vi"/> to <chord root="IV"/> is as <chord root="V" bass="vi"/> to <chord root="VI" bass="vi"/>, a deceptive progression within the submediant area.</p>
+        <p>There are two ways to conceptualize this progression. The first is that the progression of <chord root="iii"/> to <chord root="IV"/> (Em to F in C major) is not unusual, so E to F, which appears to be <chord root="III"/> to <chord root="IV"/> but is in fact <chord root="V" bass="vi"/> to <chord root="IV"/>, is a chromatic modification of <chord root="iii"/> to <chord root="IV"/>. The other way to think of <chord root="V" bass="vi"/> to <chord root="IV"/> is as <chord root="V" bass="vi"/> to <chord root="VI" bass="vi"/>, a deceptive progression within the submediant area.</p>
         <p>We can conclude that secondary chords do not always resolve strictly to the chords they appear to be tonicizing.</p>
     </section>
     <!--hide this for now

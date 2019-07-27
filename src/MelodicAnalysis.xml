@@ -18,7 +18,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="30fUgcLJK-Y" start="74" end="81" play-at="select" preview="generic"/>
+                    <video youtube="tFafjC-180E" start="75" end="83" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -33,7 +33,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="30fUgcLJK-Y" start="424" end="436" play-at="select" preview="generic"/>
+                    <video youtube="tFafjC-180E" start="426" end="439" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -47,7 +47,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="30fUgcLJK-Y" start="365" end="376" play-at="select" preview="generic"/>
+                    <video youtube="tFafjC-180E" start="369" end="384" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -61,7 +61,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="30fUgcLJK-Y" start="323" end="339" play-at="select" preview="generic"/>
+                    <video youtube="tFafjC-180E" start="327" end="343" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -75,7 +75,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="30fUgcLJK-Y" start="338" end="356" play-at="select" preview="generic"/>
+                    <video youtube="tFafjC-180E" start="342" end="355" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
             <p>In the next section, we will look at some of the various ways one can alter a melody</p>
@@ -86,7 +86,7 @@
         <introduction><p>While there are more than a dozen ways to alter a melody, we will focus on seven methods of basic melodic alteration at this point of the text.</p></introduction>
         <subsection xml:id="InversionSection">
             <title>Inversion</title>
-            <p><term>Inversion</term><idx><h>inversion</h></idx> as applied to a music means an idea is exactly upside<ndash/>down or <q>mirrored</q> across a horizontal plane, like mountains reflected in a lake.</p>
+            <p><term>Inversion</term><idx><h>inversion</h></idx> as applied to a music means an idea is exactly upside-down or <q>mirrored</q> across a horizontal plane, like mountains reflected in a lake.</p>
             <p>First, listen to the following example.</p>
             <figure>
                 <caption>Bach, Invention No. 1 in C Major, BWV 772</caption>
@@ -109,7 +109,7 @@
                     <description/>
                 </image>
             </figure>
-            <p>Melodic inversion can be <em>real</em> (where every interval is exactly the same quality) or <em>tonal</em> (where the intervals abide by the scale or key). For the majority of this text, we will encounter tonal inversion until we discuss techniques of 20th<ndash/> and 21st<ndash/>century music much later on<!--make a link someday-->.</p>
+            <p>Melodic inversion can be <em>real</em> (where every interval is exactly the same quality) or <em>tonal</em> (where the intervals abide by the scale or key). For the majority of this text, we will encounter tonal inversion until we discuss techniques of 20th- and 21st-century music in the final chapters of this text.</p>
         </subsection>
         <subsection xml:id="IntervallicChange">
             <title>Intervallic Change</title>
@@ -139,7 +139,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="oqwes1mQhro" start="33" end="40" play-at="select" preview="generic"/>
+                        <video youtube="STugQ0X1NoI" start="14" end="22" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure> 
@@ -173,7 +173,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="i_GmQac-eRY" start="0" end="18" play-at="select" preview="generic"/>
+                        <video youtube="aDFGmiXnLjU" start="7" end="30" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -207,7 +207,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="t55m6SEW8Yk" start="0" end="20" play-at="select" preview="generic"/>
+                        <video youtube="SrcOcKYQX3c" start="19" end="41" play-at="select" preview="generic"/>
                     </sidebyside> 
                 </sbsgroup>
             </figure>
@@ -221,14 +221,14 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="t55m6SEW8Yk" start="328" end="332" play-at="select" preview="generic"/>
+                        <video youtube="SrcOcKYQX3c" start="385" end="395" play-at="select" preview="generic"/>
                     </sidebyside> 
                 </sbsgroup>
             </figure>
         </subsection>
         <subsection xml:id="OrnamentationSection">
             <title>Ornamentation</title>
-            <p><term>Ornamentation</term><idx><h>ornamentation</h></idx> means the notes in a motive can be ornamented or embellished with passing tones, neighbor tones, and the other non<ndash/>chords tones we studied in the previous chapter.</p>
+            <p><term>Ornamentation</term><idx><h>ornamentation</h></idx> means the notes in a motive can be ornamented or embellished with passing tones, neighbor tones, and the other non-chords tones we studied in the previous chapter.</p>
             <p>Here is an example of the ornamentation of a 4-note motive.</p>
             <figure xml:id="SirDukeExample">
                 <caption>Wonder, <q>Sir Duke</q></caption>
@@ -240,7 +240,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="F_xDFqoUUsA" start="0" end="8" play-at="select" preview="generic"/>
+                        <video youtube="s6fPN5aQVDI" start="0" end="8" play-at="select" preview="generic"/>
                     </sidebyside> 
                 </sbsgroup> 
             </figure>
@@ -273,7 +273,7 @@
     <section xml:id="FragmentSection">
         <title>Fragment</title>
         <p>While the motive is usually defined as the smallest identifiable melodic idea in a composition, <q>compound</q> motives can be broken into <term>fragments</term><idx><h>fragment</h></idx> (sometimes called <q>germs</q>).</p>
-        <p>In J.S. Bach’s Invention 1 in C Major I, the opening 7<ndash/>note compound motive can be divided into two overlapping four<ndash/>note fragments that can each be developed independently.</p>
+        <p>In J.S. Bach’s Invention 1 in C Major I, the opening 7-note compound motive can be divided into two overlapping four-note fragments that can each be developed independently.</p>
         <figure>
             <caption>Fragmentation of motive 1 in C Major Invention</caption>
             <image source="images/unit2/motive-fragment-inv1" width="65%">
@@ -315,8 +315,8 @@
         <title>Phrase</title>
         <p>Musical form is full of sections, and the <term>phrase</term><idx><h>phrase</h><h>definition of</h></idx> is the smallest category of section. Unlike a motive, a phrase gives the sense of completing a formal unit.</p>
         <p>In classical music, phrases always end with <xref ref="cadences" text="title">cadences</xref>; if you have encountered a cadence, you have just witnessed the completion of a phrase. In popular music, a phrase might be completed by a melody reaching four measures in length or by completing a line of lyric instead of by a cadence.</p>
-        <p>To generalize (or perhaps over<ndash/>generalize), most of the phrases you encounter will be four measures in length and will end with one of <xref ref="cadences" text="title">the four cadence types</xref> (authentic cadence, half cadence, deceptive cadence, and, less commonly, the plagal cadence). While four<ndash/> and eight<ndash/>measure phrases are the most common, you will also encounter phrases that are five, six, and seven measures in length. Less commonly, you will encounter three-measure phrases.</p>
-        <p>Here are examples of four<ndash/>measure phrases. Notice that these phrases have a sense of completion even though they do not end with cadences.</p>
+        <p>To generalize (or perhaps over-generalize), most of the phrases you encounter will be four measures in length and will end with one of <xref ref="cadences" text="title">the four cadence types</xref> (authentic cadence, half cadence, deceptive cadence, and, less commonly, the plagal cadence). While four- and eight-measure phrases are the most common, you will also encounter phrases that are five, six, and seven measures in length. Less commonly, you will encounter three-measure phrases.</p>
+        <p>Here are examples of four-measure phrases. Notice that these phrases have a sense of completion even though they do not end with cadences.</p>
         <figure>
             <caption>Robinson and White, <q>My Girl</q></caption>
             <idx><h>songs (popular)</h><h><q>My Girl</q> (The Temptations)</h></idx>
@@ -341,11 +341,11 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="vNAq7Cv34l4" start="26" end="35" play-at="select" preview="generic"/>
+                    <video youtube="vNAq7Cv34l4" start="17" end="26" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup> 
         </figure>
-        <p>Here is an example of a five<ndash/>measure phrase. Notice that the final chord (a minor iv chord, which will be discussed in the chapter on mode mixture) is part of a half cadence or deceptive cadence, yet the phrase has a feeling of completion, especially considering its relation to the phrases before and after it.</p>
+        <p>Here is an example of a five-measure phrase. Notice that the final chord (a minor iv chord, which will be discussed in the chapter on mode mixture) is part of a half cadence or deceptive cadence, yet the phrase has a feeling of completion, especially considering its relation to the phrases before and after it.</p>
         <figure>
             <caption>Smith, Eriksen, Hermansen, Lind, Bj&#x00F8;rklund, Knowles, <q>Irreplaceable</q></caption>
             <idx><h>songs (popular)</h><h><q>Irreplaceable</q> (Beyonc&#x00E9;)</h></idx>
@@ -360,7 +360,7 @@
                 </sidebyside>
             </sbsgroup>  
         </figure>
-        <p>Here is an example of a six<ndash/>measure phrase that ends with a <chord root="V" bps="7"/><ndash/><chord root="i"/> cadence in <n pc="G"/> minor.</p>
+        <p>Here is an example of a six-measure phrase that ends with a <chord root="V" bps="7"/>-<chord root="i"/> cadence in <n pc="G"/> minor.</p>
         <figure>
             <caption>Mozart, Symphony No. 40, K. 550, III</caption>
             <idx><h>Mozart, W.A.</h><h>Symphony No. 40, K. 550, III</h></idx>
@@ -375,7 +375,7 @@
                 </sidebyside>
             </sbsgroup>  
         </figure>
-        <p>Here is an example of an 8<ndash/>measure phrase.</p>
+        <p>Here is an example of an 8-measure phrase.</p>
         <figure>
             <caption>Mozart, Piano Sonata in C Major, K. 545, II</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata in C Major, K. 545, II</h></idx>
@@ -386,11 +386,11 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="1Yv_AINhVn4" start="3" end="32" play-at="select" preview="generic"/>
+                    <video youtube="1vDxlnJVvW8" start="180" end="206" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>  
         </figure>
-        <p>Examples of seven<ndash/>measure phrases are rare and often involve <xref ref="Elision" text="title">elisions</xref>, which will be covered in a later <xref ref="PhrasesInCombination" text="title">chapter</xref> when we discuss how phrases are combined to create small forms like <xref ref="PeriodForm" text="title">periods</xref> and <xref ref="PhraseGroupsAndPhraseChains" text="title">phrase groups</xref>.</p>
+        <p>Examples of seven-measure phrases are rare and often involve <xref ref="Elision" text="title">elisions</xref>, which will be covered in a later <xref ref="PhrasesInCombination" text="title">chapter</xref> when we discuss how phrases are combined to create small forms like <xref ref="PeriodForm" text="title">periods</xref> and <xref ref="PhraseGroupsAndPhraseChains" text="title">phrase groups</xref>.</p>
     </section>
     <section xml:id="subphrase">
         <title>Subphrase</title>
@@ -412,7 +412,7 @@
                 </sidebyside>
             </sbsgroup> 
         </figure>
-        <p>Here is an example of a four<ndash/>measure phrase with subphrases <em>a</em> and <em>b</em>.</p>
+        <p>Here is an example of a four-measure phrase with subphrases <em>a</em> and <em>b</em>.</p>
         <figure>
             <caption>Stefan Gordy and Skyler Gordy, <q>Party Rock Anthem</q></caption>
             <idx><h>songs (popular)</h><h><q>Party Rock Anthem</q> (LMFAO)</h></idx>
@@ -458,7 +458,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>When you listen to the music of <q>The Very Through of You</q> you will hear that each motive lasts for two measures. The difference is that motives are typically short<mdash/>two to seven notes<mdash/>whereas subphrases will usually contain six or more notes and occupy two measures (half of a four<ndash/>measure phrase).</p>
+        <p>When you listen to the music of <q>The Very Through of You</q> you will hear that each motive lasts for two measures. The difference is that motives are typically short<mdash/>two to seven notes<mdash/>whereas subphrases will usually contain six or more notes and occupy two measures (half of a four-measure phrase).</p>
     </section>
     <exercises xml:id="MelodicAnalysisPracticeExercises">
         <title>Practice Exercises</title>
@@ -471,8 +471,8 @@
                     <p>For the following examples:</p>
                     <ul>
                         <li><p>Analyze motives using numbers (1, 2, etc.)</p></li>
-                        <li><p>Label lead<ndash/>sheet symbols and Roman numerals when blanks are provided</p></li>
-                        <li><p>Label non<ndash/>chord tones for notes in parentheses </p></li>
+                        <li><p>Label lead-sheet symbols and Roman numerals when blanks are provided</p></li>
+                        <li><p>Label non-chord tones for notes in parentheses </p></li>
                     </ul>
                     <p>(Note: Even though there are 11 blanks for motives, there are only six motives in this example due to motivic alteration.)</p>
                     <figure>
@@ -493,7 +493,7 @@
             </exercise>
             <exercise>
                 <statement>
-                    <p>For the following example, alter the given motives as specified. Also, provide lead<ndash/>sheet symbols and Roman numerals and analyze non<ndash/>chord tones.</p>
+                    <p>For the following example, alter the given motives as specified. Also, provide lead-sheet symbols and Roman numerals and analyze non-chord tones.</p>
                     <sidebyside>
                         <image source="images/unit2/PRAC-EXER-phrase-motive-composing-1"/>
                     </sidebyside>
@@ -503,9 +503,9 @@
                 <statement>
                     <p>For the following example:</p>
                     <ul>
-                        <li><p>Write the lead<ndash/>sheet symbols</p></li>
+                        <li><p>Write the lead-sheet symbols</p></li>
                         <li><p>Write the chords as whole notes in the bass clef staff</p></li>
-                        <li><p>Analyze non<ndash/>chord tones, including the ones you write</p></li>
+                        <li><p>Analyze non-chord tones, including the ones you write</p></li>
                         <li><p>Alter the given motives as specified to fit the harmony</p></li>
                         <li><p>Specify the cadence</p></li>
                     </ul>
@@ -525,8 +525,8 @@
                     <ul>
                         <li><p>Analyze the motives using numbers (1, 2, etc.), noting motivic alterations when applicable</p></li>
                         <li><p>Analyze subphrases using letters and primes (<em>a</em>, <em>a’</em>, <em>b</em>, etc.)</p></li>
-                        <li><p>Label lead<ndash/>sheet symbols and Roman numerals when blanks are provided</p></li>
-                        <li><p>Label non<ndash/>chord tones for notes in parentheses</p></li>
+                        <li><p>Label lead-sheet symbols and Roman numerals when blanks are provided</p></li>
+                        <li><p>Label non-chord tones for notes in parentheses</p></li>
                     </ul>
                     <figure>
                         <caption>Robert Schumann, <pubtitle>Album for the Young</pubtitle>, Op. 68, No. 16, <q>First Loss</q></caption>
@@ -547,7 +547,7 @@
             <!--this last exercise not needed; phrases will be covered in the chapter on periods
             <exercise>
                 <statement>
-                    <p>Listen to the following example and determine the number of phrases. Analyze the chords with the lead<ndash/>sheet symbols above and Roman numerals below. Label the non<ndash/>chord tone type for notes in parentheses.</p>
+                    <p>Listen to the following example and determine the number of phrases. Analyze the chords with the lead-sheet symbols above and Roman numerals below. Label the non-chord tone type for notes in parentheses.</p>
                     <figure>
                         <caption>Handel, <pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></caption>
                         <idx><h>Handel</h><h><pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></h></idx>

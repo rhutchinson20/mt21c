@@ -45,7 +45,7 @@
             <caption>Brahms, <pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49, No. 4 <q>Wiegenlied</q> (1868)</caption>
             <idx><h>Brahms</h><h><pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49</h><h><q>Wiegenlied</q></h></idx>
             <sidebyside margins="37%">
-                <video youtube="vKGonr3RDx4" start="0" end="54" play-at="select" preview="generic"/>
+                <video youtube="6kh51bIA2q8" start="45" end="90" play-at="select" preview="generic"/>
             </sidebyside>
         </figure>
         <!-- this was the original 
@@ -81,8 +81,8 @@
         -->
         <p>The term <q><term>continuous</term></q><idx><h>continuous</h><h>definition of</h></idx> is used the first section of a binary or ternary form does <em>not</em> end on the tonic chord. While this often means the first section ends in a new key, it can also mean the first section ends on the dominant chord in a half cadence.</p>
         <figure>
-            <caption>Haydn, Symphony No.94 in G major, Hob.I:94, II (1791)</caption>
-            <idx><h>Haydn</h><h>Symphony No.94 in G major, Hob.I:94, II</h></idx>
+            <caption>Haydn, Symphony No. 94 in G major, Hob.I:94, II (1791)</caption>
+            <idx><h>Haydn</h><h>Symphony No. 94 in G major, Hob.I:94, II</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit7/bin-tern-continuous-haydn-surprise-A">
@@ -105,7 +105,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="DaOVgVEEL_0" start="0" end="55" play-at="select" preview="generic"/>
+                    <video youtube="lLjwkamp3lI" start="0" end="52" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -315,8 +315,8 @@
                     </image>
                 </sidebyside>
                 <sidebyside><!--no margins-->
-                    <video youtube="HhCdAfkC8ak" start="808" end="873" play-at="select"/>
-                </sidebyside>
+                    <video youtube="KMrJxhYj3tc" start="808" end="873" play-at="select"/>
+                </sidebyside> 13:28
             </sbsgroup>
         </figure>
         <p>Notice in the example above that the first section and second section can begin similarly in a binary form, resulting in the large<ndash/>scale form AA’. The second section often features development of the primary idea from the first section. We will discuss development in the next chapter.<!--add link later--></p>      
@@ -370,7 +370,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="qS5Xl4IJM5I" start="0" end="37" play-at="select" preview="generic"/>
+                        <video youtube="BJviMnAB_jg" start="0" end="55" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -384,8 +384,8 @@
             <p>Character pieces from the Romantic era with titles such as <q>Nocturne,</q> <q>Intermezzo,</q> and <q>Song Without Words,</q> among others, by composers such as Schubert, Chopin, Mendelssohn, Schumann, and Brahms, are often in a larger ternary form where each section might be longer than eight bars.</p>
             <p>Below are examples from a larger ternary piece, Rachmaninov's Prelude in C<ndash/>sharp minor, Op.3 No.2.</p>
             <figure>
-                <caption>Rachmaninov, Prelude in C<ndash/>sharp minor, Op.3 No.2, First A section bars 1<ndash/>13</caption>
-                <idx><h>Rachmaninov</h><h>Prelude in C<ndash/>sharp minor, Op.3 No.2</h></idx>
+                <caption>Rachmaninov, Prelude in C<ndash/>sharp minor, Op. 3 No. 2, First A section bars 1<ndash/>13</caption>
+                <idx><h>Rachmaninov</h><h>Prelude in C<ndash/>sharp minor, Op. 3 No. 2</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit7/bin-tern-ternary-Rachmaninoff-A1">
@@ -393,7 +393,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="EnYEBzB7XvQ" start="0" end="112" play-at="select" preview="generic"/>
+                        <video youtube="sCtixpIWBto" start="0" end="84" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -406,7 +406,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="EnYEBzB7XvQ" start="112" end="160" play-at="select" preview="generic"/>
+                        <video youtube="sCtixpIWBto" start="84" end="129" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -419,7 +419,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="EnYEBzB7XvQ" start="160" end="265" play-at="select" preview="generic"/>
+                        <video youtube="sCtixpIWBto" start="129" end="232" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -474,7 +474,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="AAkYBxxoKZg" start="0" end="49" play-at="select" preview="generic"/>
+                    <video youtube="hpQBbomOMj0" start="750" end="783" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -581,7 +581,7 @@ There needs to be at least one example with written out repeats, like a Schumann
                                 </image>
                             </sidebyside>
                             <sidebyside margins="37%">
-                                <video youtube="1KAtbB2xpoE" start="9" end="88" play-at="select" preview="generic"/>
+                                <video youtube="vp_h649sZ9A" start="3" end="51" play-at="select" preview="generic"/>
                             </sidebyside>
                         </sbsgroup>
                     </figure>

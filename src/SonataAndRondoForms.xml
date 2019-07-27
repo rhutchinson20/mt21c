@@ -114,7 +114,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="ag81EMx1j28" start="329" end="357" play-at="select" preview="generic"/>
+                        <video youtube="PmO3Wlono6w" start="350" end="381" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -207,7 +207,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="099rHOsVNn0" start="2" end="40" play-at="select" preview="generic"/>
+                        <video youtube="34stw2rF0t8" start="0" end="37" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -398,10 +398,10 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>To review a simple, five<nadsh/>part rondo form, see the section on the second movement of <pubtitle><xref ref="Eine-kleine-ii" text="title">Eine kleine nachtmusik</xref></pubtitle> in the chapter on <xref ref="CreatingContrast" text="title">Creating Contrast Between Sections</xref>.</p></introduction>
+        <p>To review a simple, five-part rondo form, see the section on the second movement of <pubtitle><xref ref="Eine-kleine-ii" text="title">Eine kleine nachtmusik</xref></pubtitle> in the chapter on <xref ref="CreatingContrast" text="title">Creating Contrast Between Sections</xref>.</p></introduction>
         <subsection xml:id="SonataRondoForm">
             <title>Sonata Rondo Form</title>
-            <p>Sonata rondo form is a rondo in which the second episode (the C section) is replaced by a development section, resulting in a design of A<nadsh/>B<nadsh/>A<nadsh/>Dev.<nadsh/>A<nadsh/>B<nadsh/>A.</p>
+            <p>Sonata rondo form is a rondo in which the second episode (the C section) is replaced by a development section, resulting in a design of A-B-A-Dev.-A-B-A.</p>
         </subsection>
     </section>
     <section xml:id="RondoCharacter">
@@ -411,18 +411,17 @@
         <ol>
             <li>
                 <figure>
-                    <caption>Haydn, Piano Sonata in D major, H.XVI No.37, III.</caption>
+                    <caption>Haydn, Piano Sonata in D major, H. XVI No. 37, III.</caption>
                     <sidebyside margins="37%">
-
-                        <video youtube="LBYaOHbKIOw" play-at="select" preview="generic"/>
+                        <video youtube="ysB5SeaJp6s" play-at="select" preview="generic"/>
                     </sidebyside>
                 </figure>
             </li>
             <li>
                 <figure>
-                    <caption>Haydn, Symphony No. 104 in D major, Hob.I:104, IV.</caption>
+                    <caption>Haydn, Symphony No. 104 in D major, Hob. I:104, IV.</caption>
                     <sidebyside margins="37%">
-                        <video youtube="s2MjDg70EtM" play-at="select" preview="generic"/>
+                        <video youtube="QYUANirkakg" play-at="select" preview="generic"/>
                     </sidebyside>
                 </figure>
             </li>
@@ -438,7 +437,7 @@
                 <figure>
                     <caption>Mozart, Symphony No. 36 in C major, K.425, IV.</caption>
                     <sidebyside margins="37%">
-                        <video youtube="nzi5h2VDmUg" play-at="select" preview="generic"/>
+                        <video youtube="hwxNp-LzDYo" start="1265" end="1300" play-at="select" preview="generic"/>
                     </sidebyside>
                 </figure>
             </li>
@@ -446,16 +445,16 @@
                 <figure>
                     <caption>Mozart, Symphony No. 39 in E-flat major, K.543, IV.</caption>
                     <sidebyside margins="37%">
-                        <video youtube="Dr_cQA4K62E" play-at="select" preview="generic"/>
-                    </sidebyside>
+                        <video youtube="H0x_dCrKd4w" start="1369" end="1429" play-at="select" preview="generic"/> 
+                    </sidebyside> 
                 </figure>
             </li>
             <li>
                 <figure>
                     <caption>Mozart, String Quartet No. 19 in C major, K.465, IV.</caption>
                     <sidebyside margins="37%">
-                        <video youtube="paPl1dvyVWI" play-at="select" preview="generic"/>
-                    </sidebyside>
+                        <video youtube="6zbNgyJkzdw" start="1369" end="1470" play-at="select" preview="generic"/>
+                    </sidebyside>1567
                 </figure>
             </li>
         </ol>
@@ -492,7 +491,7 @@
                             <figure>
                                 <caption>Beethoven, Symphony No. 5 in C Minor, Op. 67, I.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="w2YT--LLF1g" start="177" end="220" play-at="select" preview="generic"/>
+                                    <video youtube="W2qW6fOtAMY" start="161" end="178" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -500,7 +499,7 @@
                             <figure>
                                 <caption>Mozart, Piano Sonata No. 18 in D major, K.576, I.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="PEtb9jcLExc" start="30" end="47" play-at="select" preview="generic"/>
+                                    <video youtube="rUgMSF49YE4" start="26" end="42" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -524,7 +523,7 @@
                             <figure>
                                 <caption>Haydn, Symphony No. 104 In D major, Hob. I:104, I.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="2ejtvhNyGtw" start="244" end="257" play-at="select" preview="generic"/>
+                                    <video youtube="21o-aldOI08" start="224" end="234" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -540,7 +539,7 @@
                             <figure>
                                 <caption>Mozart, Piano Sonata No. 18 in D major, K.576, I.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="PEtb9jcLExc" start="82" end="90" play-at="select" preview="generic"/>
+                                    <video youtube="rUgMSF49YE4" start="77" end="85" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -572,7 +571,7 @@
                             <figure>
                                 <caption>Mozart, Symphony No. 40 in G Minor, K. 550, IV.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="HuhO4_yUiSk" start="219" end="258" play-at="select" preview="generic"/>
+                                    <video youtube="B5fqVYXVDwU" start="217" end="258" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -665,7 +664,7 @@
                             <figure>
                                 <caption>Beethoven, Symphony No. 5 in C Minor, Op. 67, IV.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="7wW609jX0UI" start="124" end="169" play-at="select" preview="generic"/>
+                                    <video youtube="6z4KK7RWjmk" start="1491" end="1527" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -689,7 +688,7 @@
                             <figure>
                                 <caption>Haydn, Symphony No. 104 in D major, Hob.I:104, IV.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="2ejtvhNyGtw" start="166" end="199" play-at="select" preview="generic"/>
+                                    <video youtube="QYUANirkakg" start="195" end="226" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -697,7 +696,7 @@
                             <figure>
                                 <caption>Mozart, String Quartet No. 17 In B<ndash/>flat, K.458, IV.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="WEqIqXbFezA" start="12" end="36" play-at="select" preview="generic"/>
+                                    <video youtube="nHtaGz8sqTw" start="1260" end="1285" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -705,7 +704,7 @@
                             <figure>
                                 <caption>Mozart, Piano Sonata No. 18 in D major, K.576, I.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="PEtb9jcLExc" start="177" end="208" play-at="select" preview="generic"/>
+                                    <video youtube="rUgMSF49YE4" start="178" end="207" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -729,7 +728,7 @@
                             <figure>
                                 <caption>Mozart, String Quartet No. 17 In B<ndash/>flat, K.458, IV.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="WEqIqXbFezA" start="158" end="171" play-at="select" preview="generic"/>
+                                    <video youtube="nHtaGz8sqTw" start="1421" end="1435" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>

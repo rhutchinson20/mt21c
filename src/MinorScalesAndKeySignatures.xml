@@ -25,7 +25,7 @@
                 <description>An example showing the lowered 3rd, 6th, and 7th scale degrees placed after the clef as the key signature for the minor key</description>
             </image>
         </sidebyside>
-        <p>Therefore, a minor key signature will have three lowered notes<mdash/>the 3rd, 6th, and 7th<mdash/>in relation to the corresponding major key signature. We use the term <term>parallel minor</term><idx><h>parallel minor</h></idx><idx><h>minor</h><h>parallel</h></idx> when referring to a minor scale that <em>has the same 1st scale degree</em> (in this case <n pc="C"/>) as the major. We say, <q>The parallel minor of <n pc="E"/> major is <n pc="E"/> minor,</q> and <q>The parallel major of <n pc="F"/> minor is <n pc="F"/>major.</q> One method of figuring out a minor key signature is to add three flats to the parallel major key signature. This is the same as subtracting three sharps.</p>
+        <p>Therefore, a minor key signature will have three lowered notes<mdash/>the 3rd, 6th, and 7th<mdash/>in relation to the corresponding major key signature. We use the term <term>parallel minor</term><idx><h>parallel minor</h></idx><idx><h>minor</h><h>parallel</h></idx> when referring to a minor scale that <em>has the same 1st scale degree</em> (in this case <n pc="C"/>) as the major. We say, <q>The parallel minor of <n pc="E"/> major is <n pc="E"/> minor,</q> and <q>The parallel major of <n pc="F"/> minor is <n pc="F"/> major.</q> One method of figuring out a minor key signature is to add three flats to the parallel major key signature. This is the same as subtracting three sharps.</p>
         <sidebyside>
             <image source="images/unit1/minor-parallel-add-3-flats">
                 <description>Adding 3 flats or subtracting 3 sharps to get to the parallel minor key signature from the major key</description>
@@ -69,7 +69,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="ZB5XLjOgehE" start="0" end="10" play-at="select" preview="generic"/>
+                    <video youtube="HFeLqgVLxBM" start="164" end="173" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>

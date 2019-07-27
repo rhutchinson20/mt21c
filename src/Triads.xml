@@ -82,7 +82,7 @@
             <sidebyside>
                 <image source="images/unit1/leadsheet-infograph-on-slash-chord"/>
             </sidebyside>
-            <p>Remember, in a slash chord, the first letter you see represents the root of the chord. The letter after the slash is the lowest note (the bass).</p>
+            <p>Remember, in a slash chord, <em>the first letter you see represents the root of the chord</em>. The letter <em>after</em> the slash is the <em>lowest</em> note (the bass).</p>
             <sidebyside>
                 <tabular halign="center">
                     <row header="yes" bottom="major">
@@ -201,7 +201,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>We will not invert sus chords in this text. In later chapters, we will discuss more sophisticated sus chords like <chord root="C" bps="9" suspended="yes"/> and <chord root="C" suspended="yes"><alteration><flat/>9</alteration></chord>.</p>
+        <p>We will not invert sus chords in this text. In a later chapter, we will discuss more sophisticated sus chords like <chord root="C" bps="9" suspended="yes"/> and <chord root="C" suspended="yes"><alteration><flat/>9</alteration></chord>.</p>
     </section>
     <!--a section is needed on analyzing chords in simple two-part textures, like in Bach Inventions and Mozart Piano Sonatas(and more analysis examples of this type are needed)-->
     <exercises xml:id="TriadsPracticeExercises">

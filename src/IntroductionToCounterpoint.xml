@@ -15,7 +15,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="YGHj2CmNz0E" start="0" end="15" play-at="select" preview="generic"/>
+                    <video youtube="YGHj2CmNz0E" start="10" end="15" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>

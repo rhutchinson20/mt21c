@@ -267,7 +267,7 @@
                     <p>Consecutive first inversion chords<mdash/>alternate between doubling the third and not doubling the third</p>
                     <figure>
                         <caption>J.S. Bach, Chorale 106, <q>Jesu Leiden, Pein und Tod</q>, BWV 245</caption>
-                        <idx><h>Bach, J.S.</h><h>Chorale 106, <q>Jesu Leiden, Pein und Tod</q>, BWV 245</h></idx>
+                        <idx><h>Bach, J.S.</h><h>Chorale 106, <q>Jesu Leiden, Pein und Tod</q>, BWV 245/28</h></idx>
                         <sbsgroup>
                             <sidebyside margins="10%">
                                 <image source="images/unit8/voiceleading-1st-inv-consec-rule">
@@ -275,7 +275,7 @@
                                 </image>
                             </sidebyside>
                             <sidebyside margins="37%">
-                                <video youtube="JKuUfYyU1vw" start="23" end="30" play-at="select" preview="generic"/>
+                                <video youtube="QSv7SkXmhFI" start="4391" end="4396" play-at="select" preview="generic"/>
                             </sidebyside>
                         </sbsgroup>
                     </figure>

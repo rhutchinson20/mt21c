@@ -38,10 +38,11 @@
         <p>Like lead<ndash/>sheet symbols, figured bass allowed a keyboardist or guitarist freedom in choosing chord voicings. While some early music specialists perform from scores with the original notation, editions of Baroque compositions by composers like J.S. Bach and Handel that were originally notated with figured bass have been <q>realized</q> or written out in modern editions.</p>
         <p>In the present day, figured bass is taught in music theory courses primarily as a shorthand for chord inversion symbols (although many music programs also endeavor to teach students to perform at the piano music written with figured bass notation).</p>
     </section>
+
     <section xml:id="FiguredBassInversionSymbols">
         <title>Figured Bass Inversion Symbols</title>
         <p>Following are the figured bass inversion symbols most commonly used for triads and seventh chords. (Remember that figured bass numbers represent intervals above the bass note within the key signature.)</p>
-        <!--<figure>
+        <figure>
             <caption>Figured Bass Inversion Symbols for Triads</caption>
             <idx><h>figured bass</h><h>for triads</h></idx>
             <sidebyside margins="10%">
@@ -49,7 +50,8 @@
                     <description/>
                 </image>
             </sidebyside>
-        </figure>-->
+        </figure>
+        <!--Hide for now
         <table>
             <caption>Figured Bass Inversion Symbols for Triads</caption>
             <tabular top="minor" left="minor">
@@ -80,7 +82,8 @@
                 </row>
             </tabular>
         </table>
-        <!--
+    -->
+        
         <figure>
             <caption>Figured Bass Inversion Symbols for Seventh Chords</caption>
             <idx><h>figured bass</h><h>for seventh chords</h></idx>
@@ -89,9 +92,10 @@
                     <description/>
                 </image>
             </sidebyside>
-        </figure>-->
-<!--<table>
-            <caption>Figured Bass Inversion Symbols for Triads</caption>
+        </figure>
+        <!--hide this
+<table>
+            <caption>Figured Bass Inversion Symbols for Seventh Chords</caption>
             <tabular top="minor" left="minor">
                 <col width="50%" halign="center" right="minor"/>
                 <col width="50%" halign="center"/>
@@ -134,7 +138,10 @@
 
                 </row>
             </tabular>
-        </table>-->
+        </table>
+
+
+
         <table>
             <caption>Figured Bass Inversion Symbols for 7th Chords</caption>
             <tabular top="minor" left="minor">
@@ -177,6 +184,7 @@
                 </row>
             </tabular>
         </table>
+    -->
 
         <p>Unlike original figured bass notation in the Baroque era, in music theory courses, figured bass inversion symbols are placed after Roman numerals.</p>
         <p>Compare figured bass symbols to the modified slash notation we have been using in previous chapters.</p>
@@ -207,6 +215,7 @@
             </sidebyside>
         </figure>
     </section>
+
     <section xml:id="TheCadentialSixFourChord">
         <title>The Cadential Six<ndash/>Four Chord</title>
         <p>A common term in music theory<mdash/>the <q><term>cadential six<ndash/>four</term></q><idx><h>cadential six<ndash/>four (cadential <chord bps="6 4"/>)</h></idx> (or cadential <chord bps="6 4"/>)<mdash/>is used to refer to the <chord root="I" bps="6 4"/> that regularly proceeds the <chord root="V"/> chord in cadences.</p>
@@ -220,7 +229,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="1KAtbB2xpoE" start="09" end="21" play-at="select" preview="generic"/>
+                    <video youtube="vp_h649sZ9A" start="14" end="25" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>

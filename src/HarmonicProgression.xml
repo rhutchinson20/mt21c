@@ -218,7 +218,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="aXYtoKaJplM" start="5" end="09" play-at="select" preview="generic"/>
+                        <video youtube="sUg1Dpsd6fw" start="3" end="7" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -232,7 +232,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="IrqZ0N4a7E4" start="0" end="12" play-at="select" preview="generic"/>
+                        <video youtube="d22CiKMPpaY" start="10" end="24" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -270,7 +270,7 @@
                             </image>
                         </sidebyside>
                         <sidebyside margins="37%">
-                            <video youtube="2c8fu2mWTsc" start="18" end="26" play-at="select" preview="generic"/>
+                            <video youtube="OPapxr8GvGA" start="18" end="26" play-at="select" preview="generic"/>
                         </sidebyside>
                     </sbsgroup>
                 </figure>
@@ -375,7 +375,7 @@
                 </sbsgroup>
             </figure>
             <p>Sometimes, this progression is rotated to <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/>, as in <q>September,</q> the well known song by Earth, Wind, and Fire.</p>
-            <figure>
+            <figure xml:id="september">
                 <caption>White, McKay, Willis, <q>September</q></caption>
                 <idx><h>songs (popular)</h><h><q>September</q> (Earth, Wind, and Fire)</h></idx>
                 <sbsgroup>
@@ -386,6 +386,21 @@
                     </sidebyside>
                     <sidebyside margins="37%">
                         <video youtube="Gs069dndIYk" start="51" end="59" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </sbsgroup>
+            </figure>
+            <p>This <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/> progression is also seen in the following song.</p>
+            <figure>
+                <caption>Stock, Aitken, and Waterman, <q>Never Gonna Give You Up</q></caption>
+                <idx><h>songs (popular)</h><h><q>Never Gonna Give You Up</q> (Rick Astley)</h></idx>
+                <sbsgroup>
+                    <sidebyside>
+                        <image source="images/unit2/harmony-iii-vi-ii-V-never-gonna">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="dQw4w9WgXcQ" start="0" end="10" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -501,7 +516,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="-EMxNFPaU2s" start="90" end="105" play-at="select" preview="generic"/>
+                        <video youtube="Jk7uXaNuWNE" start="89" end="104" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -543,7 +558,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="gKidmokBxao" start="0" end="11" play-at="select" preview="generic"/>
+                        <video youtube="O0PChj-uQPo" start="0" end="10" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -645,7 +660,7 @@
                         <url href="https://youtu.be/pNjpTOB4ksY?t=19s">(YouTube)</url>
                         <idx><h>songs (popular)</h><h><q>Heart and Soul</q></h></idx></p></li>
                         <li><p>Williams, Belvin, Hodge, <q>Earth Angel</q> (in A-flat major)
-                        <url href="https://youtu.be/t2tTibkhu-c">(YouTube)</url>
+                        <url href="https://youtu.be/VJcGi4-n_Yw">(YouTube)</url>
                         <idx><h>songs (popular)</h><h><q>Earth Angel</q> (The Penguins)</h></idx></p></li>
                         <li><p>Parton, <q>I Will Always Love You</q> (in A major)
                         <url href="https://youtu.be/3JWTaaS7LdU?t=1m46s">(YouTube)</url><idx><h>songs (popular)</h><h><q>I Will Always Love You</q> (Whitney Houston)</h></idx></p></li>
@@ -803,7 +818,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="pWidiUqs5zc" start="58" end="73" play-at="select" preview="generic"/>
+                    <video youtube="_bwHK1xkgJA" start="58" end="73" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -868,7 +883,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="92XKG9OwN4A" start="66" end="78" play-at="select" preview="generic"/>
+                    <video youtube="CvBfHwUxHIk" start="66" end="78" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>

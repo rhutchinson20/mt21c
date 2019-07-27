@@ -67,7 +67,7 @@
         </introduction>
         <subsection>
             <title>Identifying Key Signatures</title>
-            <p>While it is preferable to memorize key signatures, use the following method to identify major key signatures.</p>
+            <p>While it is preferable to memorize key signatures, use the following method to determine major key signatures based on the sharps or flats in the key signature.</p>
             <ol>
                 <li><p><em>For key signatures withs sharps</em>: Go up a half<ndash/>step from the last sharp to find the key.</p></li>
                 <li><p><em>For key signatures with flats</em>: The second<ndash/>to<ndash/>last flat is the key.</p></li>
