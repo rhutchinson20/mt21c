@@ -178,7 +178,7 @@
         </figure>
         <p>Remember that both <chord root="vii" mode="diminished"/> (on raised <scaledeg>7</scaledeg>) and the <xref ref="subtonic-triad-vs-leading-tone-triad" text="title">subtonic <chord root="VII"/></xref> (on the lowered <scaledeg>7</scaledeg>) occur in the minor mode. The subtonic <chord root="VII"/><idx><h>subtonic triad</h><h>tonicization of</h></idx> can be tonicized with <chord root="V" bps="7" bass="VII"/>, while <chord root="vii" mode="diminished"/>, being diminished, cannot.</p>
         <p>Notice that an F major chord in C minor can be <chord root="V" bass="VII"/> or <chord root="IV"/>, depending on how it functions or progresses. If the F major chord progresses to a B<flat/> chord, label the F chord as <chord root="V" bass="VII"/>. If the F major chord has <xref ref="PreDominantFunction" text="title">pre<ndash/>dominant function</xref> and progresses to a G major chord (in any inversion) or <chord root="B" mode="diminished"/>, label the F chord as <chord root="IV"/>.</p>
-        <p>The <chord root="B flat" bps="7"/> chord, on the other hand, can be labeled correctly as <chord root="V" bps="7" bass="VII"/> or <chord root="VII" bps="7"/> because both <chord root="V" bps="7" bass="VII"/> or <chord root="VII" bps="7"/> progress to <chord root="III"/> in minor.</p>
+        <p>The <chord root="B flat" bps="7"/> chord, on the other hand, can be labeled correctly as <chord root="V" bps="7" bass="III"/> or <chord root="VII" bps="7"/> because both <chord root="V" bps="7" bass="III"/> or <chord root="VII" bps="7"/> progress to <chord root="III"/> in minor.</p>
     </section>
     <section xml:id="AnalyzingSecondaryDominants">
         <title>Analyzing Secondary Dominants</title>

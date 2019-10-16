@@ -3,7 +3,7 @@
     <title>Augmented Sixth Chords</title>
     <section xml:id="AugmentedSixthIntroduction">
         <title>Augmented Sixth Chords</title>
-        <p><term>Augmented sixth chords</term><idx><h>augmented sixth chords</h></idx> are a special class of <xref ref="PreDominantFunction" text="title">pre<ndash/>dominant</xref> chords with notes that approach the dominant (<scaledeg>5</scaledeg>) from a half<ndash/>step below (<sharp/><scaledeg>4</scaledeg>) and from a half<ndash/>step above (<flat/><scaledeg>6</scaledeg>) simultaneously.
+        <p><term>Augmented sixth chords</term><idx><h>augmented sixth chords</h></idx> are a special class of <xref ref="PreDominantFunction" text="title">pre-dominant</xref> chords with notes that approach the dominant (<scaledeg>5</scaledeg>) from a half-step below (<sharp/><scaledeg>4</scaledeg>) and from a half-step above (<flat/><scaledeg>6</scaledeg>) simultaneously.
         </p>
         <figure>
             <caption/>
@@ -50,8 +50,8 @@
         <p>Once you determine the chord you are analyzing has a <chord mode="diminished"/>3, <em>analyze the scale degrees</em> to determine which type of augmented sixth chord it is.</p>
     </section>
     <section xml:id="LeadSheetAnalysisOfAugmentedSixthChords">
-        <title>Lead<ndash/>Sheet Analysis of Augmented Sixth Chords</title>
-        <p>When using lead<ndash/>sheet symbols for augmented sixth chords, we will treat them as major<ndash/>minor seventh chords built on <flat/><scaledeg>6</scaledeg>, since that matches the sonic quality of the augmented sixth chords and is similar to how they occur and are spelled in jazz and popular music. The chords in parentheses are enharmonic respellings of the three augmented sixth chord types.</p>
+        <title>Lead-Sheet Analysis of Augmented Sixth Chords</title>
+        <p>When using lead-sheet symbols for augmented sixth chords, we will treat them as major-minor seventh chords built on <flat/><scaledeg>6</scaledeg>, since that matches the sonic quality of the augmented sixth chords and is similar to how they occur and are spelled in jazz and popular music. The chords in parentheses are enharmonic respellings of the three augmented sixth chord types.</p>
         <figure>
             <caption>Augmented Sixth Chords Stacked in Thirds</caption>
             <sidebyside>
@@ -60,8 +60,8 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>In the example above, we see a disagreement between <q>Classical</q> analysis and lead<ndash/>sheet analysis. The fundamental concept of lead-sheet analysis is to show root, quality, and inversion. The <q>Classical</q> spelling and the Classical analysis of augmented sixth chords show the direction of resolution (with the chromatically raised notes), which necessitate the need for original labels, since we don't have a Roman numeral or a lead<ndash/>sheet symbol that would communicate a chord containing a diminished third above the root (that is then inverted!).</p>
-        <p>Therefore, when you are asked to provide lead<ndash/>sheet symbols for augmented sixth chords, analyze each one as if it is a dominant 7th chord with a misspelled 7th (<n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="F" acc="sharp"/> instead of <n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="G" acc="flat"/>).</p>
+        <p>In the example above, we see a disagreement between <q>Classical</q> analysis and lead-sheet analysis. The fundamental concept of lead-sheet analysis is to show root, quality, and inversion. The <q>Classical</q> spelling and the Classical analysis of augmented sixth chords show the direction of resolution (with the chromatically raised notes), which necessitate the need for original labels, since we don't have a Roman numeral or a lead-sheet symbol that would communicate a chord containing a diminished third above the root (that is then inverted!).</p>
+        <p>Therefore, when you are asked to provide lead-sheet symbols for augmented sixth chords, analyze each one as if it is a dominant 7th chord with a misspelled 7th (<n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="F" acc="sharp"/> instead of <n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="G" acc="flat"/>).</p>
     </section>
     <section xml:id="ExamplesWithAugmentedSixthChords">
         <title>Examples with Augmented Sixth Chords</title>
@@ -82,7 +82,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>The next example from popular music has an <chord root="It" bps="+6"/> spelled enharmonically as a major<ndash/>minor seventh chord with the fifth omitted.</p>
+            <p>The next example from popular music has an <chord root="It" bps="+6"/> spelled enharmonically as a major-minor seventh chord with the fifth omitted.</p>
             <figure>
                 <caption>Duke Ellington, <q>It Don't Mean A Thing (If It Ain't Got That Swing)</q> (1931)</caption>
                 <idx><h>Duke Ellington</h><h><q>It Don't Mean A Thing (If It Ain't Got That Swing)</q></h></idx>
@@ -100,7 +100,7 @@
         </subsection>
         <subsection>
             <title>The French Augmented Sixth Chord</title>
-            <p>The next example contains an example of a French augmented sixth chord (<chord root="Fr" bps="+6"/>). Notice how the French augmented sixth chord has pre<ndash/>dominant function and intensifies the drive toward the <chord root="V"/> chord.</p>
+            <p>The next example contains an example of a French augmented sixth chord (<chord root="Fr" bps="+6"/>). Notice how the French augmented sixth chord has pre-dominant function and intensifies the drive toward the <chord root="V"/> chord.</p>
             <figure>
                 <caption>Schubert, <pubtitle>Winterreise</pubtitle>, D. 911, <q>Der Wegweiser</q> (1823)</caption>
                 <idx><h>Schubert</h><h><pubtitle>Winterreise</pubtitle>, D. 911</h><h><q>Der Wegweiser</q></h></idx>
@@ -148,7 +148,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>The next example is a movie theme and features a German augmented sixth chord spelled as a major<ndash/>minor seventh chord (<chord root="VI" bps="7"/>). In this particular case, the third of the chord doesn't occur until the fourth beat of the measure.</p>
+            <p>The next example is a movie theme and features a German augmented sixth chord spelled as a major-minor seventh chord (<chord root="VI" bps="7"/>). In this particular case, the third of the chord doesn't occur until the fourth beat of the measure.</p>
             <figure>
                 <caption>Henry Mancini, <q>The Pink Panther Theme</q> (1963)</caption>
                 <idx><h>Mancini, Henry</h><h><q>The Pink Panther Theme</q></h></idx>
@@ -163,7 +163,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>Fiona Apple's <q>Criminal,</q> from 1996, features German augmented sixth chords in the verse (<chord root="F" bps="7"/> in the key of A minor) as well as in the pre<ndash/>chorus, seen in the example below.</p>
+            <p>Fiona Apple's <q>Criminal,</q> from 1996, features German augmented sixth chords in the verse (<chord root="F" bps="7"/> in the key of A minor) as well as in the pre-chorus, seen in the example below.</p>
             <figure>
                 <caption>Fiona Apple, <q>Criminal</q> (1996)</caption>
                 <idx><h>songs (popular)</h><h><q>Criminal</q> (Fiona Apple)</h></idx>
@@ -189,7 +189,7 @@
         </subsection>
         <subsection>
             <title>The Enharmonic German Sixth</title>
-            <p>In the following example an <q>Enharmonic German augmented sixth</q> chord occurs. While a <chord root="G flat" bps="7"/> chord would normally have the notes <n pc="G" acc="flat"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/><ndash/><n pc="F" acc="flat"/>, the F<flat/> is respelled as an E<natural/>, creating the interval of an augmented sixth, while the fifth of the chord, D<flat/>, is respelled as a C<sharp/>, creating the interval of a doubly augmented fourth. In fact, some music theory textbooks refer to the Enharmonic German augmented sixth chord as <q>the chord of the doubly<ndash/>augmented fourth.</q> The spelling is this way because the C<sharp/> will resolve upward to a D<natural/>, the third of a major <chord root="I" bps="6 4"/> chord.</p>
+            <p>In the following example an <q>Enharmonic German augmented sixth</q> chord occurs. While a <chord root="G flat" bps="7"/> chord would normally have the notes <n pc="G" acc="flat"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/><ndash/><n pc="F" acc="flat"/>, the F<flat/> is respelled as an E<natural/>, creating the interval of an augmented sixth, while the fifth of the chord, D<flat/>, is respelled as a C<sharp/>, creating the interval of a doubly augmented fourth. In fact, some music theory textbooks refer to the Enharmonic German augmented sixth chord as <q>the chord of the doubly-augmented fourth.</q> The spelling is this way because the C<sharp/> will resolve upward to a D<natural/>, the third of a major <chord root="I" bps="6 4"/> chord.</p>
             <figure>
                 <caption>Robert Schumann, Dichterliebe, Op. 48, <q>Am leuchtenden Sommermorgen</q> (1840)</caption>
                 <idx><h>Schumann, Robert</h><h><pubtitle>Dichterliebe</pubtitle>, Op. 48</h><h><q>Am leuchtenden Sommermorgen</q></h></idx>
@@ -208,7 +208,7 @@
     </section>
     <section xml:id="DescendingChromaticBassLines">
         <title>Descending Chromatic Bass Lines</title>
-        <p>A common musical pattern is the descending chromatic bass line (<scaledeg>1</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>). Composers harmonize descending chromatic bass lines with all manner of harmonies, including secondary chords, borrowed chords, augmented sixth chords, and rarely<ndash/>used diatonic chords. Below are some examples from the past four centuries.</p> 
+        <p>A common musical pattern is the descending chromatic bass line (<scaledeg>1</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>). Composers harmonize descending chromatic bass lines with all manner of harmonies, including secondary chords, borrowed chords, augmented sixth chords, and rarely-used diatonic chords. Below are some examples from the past four centuries.</p> 
         <figure>
             <caption>Henry Purcell, <pubtitle>Dido and Aeneas</pubtitle>, Z. 636, <q>When I am laid in earth</q> (Dido's Lament) (1688)</caption>
             <idx><h>Purcell, Henry</h><h><pubtitle>Dido and Aeneas</pubtitle>, Z. 636</h><h><q>When I am laid in earth</q> (Dido's Lament)</h></idx>
@@ -411,15 +411,15 @@
         <p>For the harmonization of scale degree <scaledeg>6</scaledeg>, remember that the concept of <sharp/><chord root="vi" mode="diminished"/> was introduced when <xref ref="DiatonicChordsInMinor" text="title">Roman numerals in minor</xref> were introduced. The notes of the <sharp/><chord root="vi" mode="halfdiminished" bps="7"/> chord belong to the <em>melodic</em> minor scale.</p>
     </section>
     <section xml:id="ChromaticPreDominantChords">
-        <title>Chromatic Pre<ndash/>Dominant Chords</title>
-        <p>The table below shows how our study of chromatic harmonies in recent chapters includes the chromatic expansion of the pre<ndash/>dominant <xref ref="HarmonicFlowchart" text="title">harmonic function</xref> category.</p>
+        <title>Chromatic Pre-Dominant Chords</title>
+        <p>The table below shows how our study of chromatic harmonies in recent chapters includes the chromatic expansion of the pre-dominant <xref ref="HarmonicFlowchart" text="title">harmonic function</xref> category.</p>
         <table>
             <caption/>
             <tabular halign="center" top="major" bottom="minor" left="minor" right="minor">
                 <row header="yes" bottom="medium">
                     <cell>Ton.</cell>
                     <cell>Ton. Prol.</cell>
-                    <cell>Pre<ndash/>Dom.</cell>
+                    <cell>Pre-Dom.</cell>
                     <cell>Dom.</cell>
                     <cell>Ton.</cell>
                 </row>
@@ -487,7 +487,7 @@
         <!--do Day One and Day Two-->
         <exercise>
             <statement>
-                <p>Analyze the following chords with lead<ndash/>sheet symbols above and Roman numerals with figured bass inversion symbols below.</p>
+                <p>Analyze the following chords with lead-sheet symbols above and Roman numerals with figured bass inversion symbols below.</p>
                 <sidebyside>
                     <image source="images/unit4/PRAC-EXER-aug6-analyzing"/>
                 </sidebyside>
@@ -502,7 +502,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Given the Roman numeral, please write the notes of the chord and lead<ndash/>sheet symbol. Include key signatures.</p>
+                <p>Given the Roman numeral, please write the notes of the chord and lead-sheet symbol. Include key signatures.</p>
                 <sidebyside>
                     <image source="images/unit4/PRAC-EXER-aug6-writing"/>
                 </sidebyside>

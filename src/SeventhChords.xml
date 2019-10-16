@@ -22,9 +22,11 @@
         <figure>
             <caption/>
             <idx><h>seventh chord</h><h>example of 5 types</h></idx>
-            <image source="images/unit2/7th-chords-all-five-types">
-                <description>All five types of seventh chords, with their abbreviated labels</description>
-            </image>
+            <sidebyside>
+                <image source="images/unit2/7th-chords-all-five-types">
+                    <description>All five types of seventh chords, with their abbreviated labels</description>
+                </image>
+            </sidebyside>
         </figure>
         <p>Another way to differentiate between the five types of seventh chords is by learning how the thirds are stacked in each one.</p>
         <sidebyside>
@@ -44,8 +46,8 @@
         </sidebyside>
         <p>Here is a musical example with the <chord root="IV"/>/<scaledeg>5</scaledeg> chord in <n pc="A" acc="flat"/> major.</p>
         <figure>
-            <caption>Vincent, <q>O<ndash/>o<ndash/>h Child</q></caption>
-            <idx><h>songs (popular)</h><h><q>O<ndash/>o<ndash/>h Child</q> (The Five Stairsteps)</h></idx>
+            <caption>Vincent, <q>O-o-h Child</q></caption>
+            <idx><h>songs (popular)</h><h><q>O-o-h Child</q> (The Five Stairsteps)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/7th-chords-ooh-child">
@@ -56,6 +58,14 @@
                     <video youtube="gIsj8VxQNkw" start="38" end="49" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
+        </figure>
+        <p>Another example of this chord is found in the opening to the Beatles' <q>The Long and Winding Road</q>. In the key E<flat/> major, the chord is A<flat/>/B<flat/>.</p>
+        <figure>
+            <caption>Beatles, <q>The Long and Winding Road</q></caption>
+            <idx><h>songs (popular)</h><h><q>The Long and Winding Road</q> (The Beatles)</h></idx>
+            <sidebyside margins="37%">
+                <video youtube="fR4HjTH_fTM" start="0" end="9" play-at="select" preview="generic"/>
+            </sidebyside>
         </figure>
     </section>
     <section xml:id="RomanNumeralsOfDiatonicSeventhChords">
@@ -79,7 +89,7 @@
         <title>Practice Exercises</title>
         <exercise>
             <statement>
-                <p>Analyze the given chords with lead<ndash/>sheet symbols above and Roman numerals below.</p>
+                <p>Analyze the given chords with lead-sheet symbols above and Roman numerals below.</p>
                 <sidebyside>
                     <image source="images/unit2/PRAC-EXER-7th-chords-ID"/>
                 </sidebyside>
@@ -94,7 +104,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Given the Roman numeral, provide the notes of the chord and the lead<ndash/>sheet symbol above.</p>
+                <p>Given the Roman numeral, provide the notes of the chord and the lead-sheet symbol above.</p>
                 <sidebyside>
                     <image source="images/unit2/PRAC-EXER-7th-chords-writing"/>
                 </sidebyside>
@@ -109,7 +119,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Analyze the harmonies in the excerpts with lead<ndash/>sheet symbols above and Roman numerals below.</p>
+                <p>Analyze the harmonies in the excerpts with lead-sheet symbols above and Roman numerals below.</p>
                 <ol>
                     <li>
                         <p><q>No Scrubs</q> <idx><h>songs (popular)</h><h><q>No Scrubs</q> (TLC)</h></idx><url href="https://youtu.be/FrLequ6dUdM?t=8s">(YouTube)</url></p>

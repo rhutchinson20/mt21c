@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="Serialism">
     <title>Serialism</title>
-    <introduction><p>Serialism is a term that encompasses the twelve<ndash/>tone technique of Schoenberg, Webern, and Berg, who were the major figures we associated with expressionism and atonality in the previous chapter on set theory. We will begin by discussing classic twelve<ndash/>tone serialism before discussing non<ndash/>twelve<ndash/>tone serialism.</p></introduction>
+    <introduction><p>Serialism is a term that encompasses the twelve-tone technique of Schoenberg, Webern, and Berg, who were the major figures we associated with expressionism and atonality in the previous chapter on set theory. We will begin by discussing classic twelve-tone serialism before discussing non-twelve-tone serialism.</p></introduction>
     <section xml:id="TwelveToneTechnique">
-        <title>Twelve<ndash/>Tone Technique</title>
+        <title>Twelve-Tone Technique</title>
         <introduction>
             <figure>
                 <sidebyside><!--no margins on this one-->
-                    <video youtube="bQHR_Z8XVvI" start="0" end="852" play-at="select"/>
+                    <video xml:id="schoenberg-suite-1" youtube="bQHR_Z8XVvI" start="0" end="852" play-at="select"/>
                 </sidebyside>
                 <idx>
                     <h>Schoenberg, Arnold</h><h>Suite for Piano, Op. 25</h>
                 </idx>
                 <caption>Arnold Schoenberg, Suite for Piano, Op. 25</caption>
             </figure>
-            <p>In a twelve<ndash/>tone composition, every note can be accounted for as being a member of the original series or one of its permutations, providing unity to the piece as a whole. Additionally, a twelve<ndash/>tone series is a repository of intervals and can be seen as an outgrowth of atonal music with its emphasis on interval over chord or scale. The basic premises of twelve<ndash/>tone music are as follows:</p>
+            <p>In a twelve-tone composition, every note can be accounted for as being a member of the original series or one of its permutations, providing unity to the piece as a whole. Additionally, a twelve-tone series is a repository of intervals and can be seen as an outgrowth of atonal music with its emphasis on interval over chord or scale. The basic premises of twelve-tone music are as follows:</p>
             <ol>
                 <li><p>All twelve notes of the chromatic scale must occur</p></li>
                 <li><p>No note can be repeated in the series until the other 11 notes of the chromatic scale have occurred (exceptions include direct repetition of a note, trills, and tremolos)</p></li>
@@ -24,8 +24,8 @@
         </introduction>
         <subsection xml:id="RowForms">
             <title>Row Forms</title>
-            <p>A twelve<ndash/>tone series is also commonly called a twelve<ndash/>tone <q>row,</q> and we will use the term <q>row</q> throughout this chapter.</p>
-            <p>The four types of row forms used in twelve<ndash/>tone technique are prime (P), retrograde (R), inversion (I), and retrograde inversion (RI). The <term>prime</term><idx><h>twelve<ndash/>tone technique</h><h>prime form</h></idx> is the original row. The <term>retrograde</term><idx><h>twelve<ndash/>tone technique</h><h>retrograde</h></idx> is the prime form backward. The <term>inversion</term><idx><h>twelve<ndash/>tone technique</h><h>inversion</h></idx> is the original row with all intervals in the row inverted (going in the opposite direction of the original). Finally, the <term>retrograde inversion</term><idx><h>twelve<ndash/>tone technique</h><h>retrograde inversion</h></idx> is the inversion retrograded (and therefore might have more appropriately been labeled <q>inversion retrograded</q> since <q>retrograde inversion</q> sounds like it refers to the backward form inverted instead of the inverted form backward).</p>
+            <p>A twelve-tone series is also commonly called a twelve-tone <q>row,</q> and we will use the term <q>row</q> throughout this chapter.</p>
+            <p>The four types of row forms used in twelve-tone technique are prime (P), retrograde (R), inversion (I), and retrograde inversion (RI). The <term>prime</term><idx><h>twelve-tone technique</h><h>prime form</h></idx> is the original row. The <term>retrograde</term><idx><h>twelve-tone technique</h><h>retrograde</h></idx> is the prime form backward. The <term>inversion</term><idx><h>twelve-tone technique</h><h>inversion</h></idx> is the original row with all intervals in the row inverted (going in the opposite direction of the original). Finally, the <term>retrograde inversion</term><idx><h>twelve-tone technique</h><h>retrograde inversion</h></idx> is the inversion retrograded (and therefore might have more appropriately been labeled <q>inversion retrograded</q> since <q>retrograde inversion</q> sounds like it refers to the backward form inverted instead of the inverted form backward).</p>
             <sidebyside>
                 <image source="images/unit12/12-tone-example-basic-presentation-B">
                     <description/>
@@ -34,7 +34,7 @@
         </subsection>
         <subsection xml:id="TranspositionNumbers">
             <title>Transposition Numbers</title>
-            <p>Each row form can be transposed to start on any note from the chromatic scale. We will use the same <xref ref="IntegerNotationForPitches" text="title">pitch integers</xref> as in set theory. For primes and inversions, we will use P and I accompanied by a pitch integer to specify the starting note. For example, P<n octave="0"/> is a twelve<ndash/>tone row starting on C (pitch integer 0), P<n octave="3"/> is a twelve<ndash/>tone row starting on E<flat/>, and so forth. The same is the case for row forms like I<n octave="2"/> (starting on D), I<n octave="5"/> (starting on F), on so forth.</p>
+            <p>Each row form can be transposed to start on any note from the chromatic scale. We will use the same <xref ref="IntegerNotationForPitches" text="title">pitch integers</xref> as in set theory. For primes and inversions, we will use P and I accompanied by a pitch integer to specify the starting note. For example, P<n octave="0"/> is a twelve-tone row starting on C (pitch integer 0), P<n octave="3"/> is a twelve-tone row starting on E<flat/>, and so forth. The same is the case for row forms like I<n octave="2"/> (starting on D), I<n octave="5"/> (starting on F), on so forth.</p>
             <sidebyside>
                 <image source="images/unit12/12-tone-example-P-I-transposition-numbers-B">
                     <description/>
@@ -100,7 +100,7 @@
                         </sidebyside>
                     </li>
                     <li>
-                        <p>To write RI<n octave="5"/>, transpose RI<n octave="0"/> up 5 semitones (a perfect 4th) so the last note if F (pitch class 5).</p>
+                        <p>To write RI<n octave="5"/>, transpose RI<n octave="0"/> up 5 semitones (a perfect 4th) so the last note is F (pitch class 5).</p>
                         <sidebyside margins="18%">
                             <image source="images/unit12/12-tone-RI5">
                                 <description/>
@@ -114,10 +114,10 @@
     
 
     <section>
-        <title>Twelve<ndash/>Tone Matrix</title>
-        <p>One tool analysts create to analyze a twelve<ndash/>tone composition is a twelve<ndash/>tone matrix, which shows all 48 row forms in a 12 by 12 grid. Below is a matrix for the row we’ve been dealing with in this chapter.</p>
+        <title>Twelve-Tone Matrix</title>
+        <p>One tool analysts create to analyze a twelve-tone composition is a twelve-tone matrix, which shows all 48 row forms in a 12 by 12 grid. Below is a matrix for the row we’ve been dealing with in this chapter.</p>
         <table>
-            <caption>Twelve<ndash/>Tone Matrix</caption>
+            <caption>Twelve-Tone Matrix</caption>
             <tabular halign="center">
                 <col right="minor"/>
                 <col/>
@@ -607,7 +607,7 @@
     </section>
     <section xml:id="RowFormsInMusic">
         <title>Row Form Presentation in Music</title>
-        <p>In a piece of music, twelve<ndash/>tone rows may not be clearly presented. One manner of presentation is overlap, where the final note of one row is the starting note of the next row.</p>
+        <p>In a piece of music, twelve-tone rows may not be clearly presented. One manner of presentation is overlap, where the final note of one row is the starting note of the next row.</p>
         <figure>
             <caption>Twelfth note overlapping with first note in successive row statements</caption>
             <sidebyside>
@@ -626,20 +626,20 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>In the final example in this section, the two rows are presenting in melody<ndash/>accompaniment texture, with P<n octave="0"/> containing the melody and R<n octave="0"/> occurring as chords.</p>
+        <p>In the final example in this section, the two rows are presenting in melody-accompaniment texture, with P<n octave="0"/> containing the melody and R<n octave="0"/> occurring as chords.</p>
         <sidebyside>
             <image source="images/unit12/12-tone-basic-row-chords-in-music">
                 <description/>
             </image>
         </sidebyside>
-        <p>An analyst would first attempt to find a clear presentation of a twelve<ndash/>tone row somewhere in the composition in order to analyze harmonies.</p>
+        <p>An analyst would first attempt to find a clear presentation of a twelve-tone row somewhere in the composition in order to analyze harmonies.</p>
     </section>
     <section xml:id="NonTwelveToneSerialism">
-        <title>Non<ndash/>Twelve<ndash/>Tone Serialism</title>
-        <p>Serialism also includes music that is not twelve<ndash/>tone but does use a series of notes that maintains its order and employs inversion, retrograde, and retrograde inversion of the series. An example is found in Stravinsky’s Septet from 1953.<fn>See Erwin Stein, <q>Strawinsky’s Septet (1953).</q> <pubtitle>Tempo</pubtitle>. Spring, 1954.</fn></p>
+        <title>Non-Twelve-Tone Serialism</title>
+        <p>Serialism also includes music that is not twelve-tone but does use a series of notes that maintains its order and employs inversion, retrograde, and retrograde inversion of the series. An example is found in Stravinsky’s Septet from 1953.<fn>See Erwin Stein, <q>Strawinsky’s Septet (1953).</q> <pubtitle>Tempo</pubtitle>. Spring, 1954.</fn></p>
         <figure>
             <sidebyside><!--no margins on this one-->
-                <video youtube="ijSmRoPzMaY" start="173" end="200" play-at="select"/>
+                <video xml:id="stravinsky-septet1" youtube="ijSmRoPzMaY" start="173" end="200" play-at="select"/>
             </sidebyside>
             <idx>
                 <h>Stravinsky, Igor</h><h>Septet</h>
@@ -658,14 +658,14 @@
             <description/>
         </image>
     </figure>
-    <p>We notice that B (pitch integer 11), A (9), G (7), F<sharp/> (6), and G<sharp/> (8) are repeated in the series, with A, G, and G<sharp/> occurring three times each. Below is the normal form of the 8 pitch classes in the 16<ndash/>note series.</p>
+    <p>We notice that B (pitch integer 11), A (9), G (7), F<sharp/> (6), and G<sharp/> (8) are repeated in the series, with A, G, and G<sharp/> occurring three times each. Below is the normal form of the 8 pitch classes in the 16-note series.</p>
     <figure>
         <caption>Normal form of the 8 pitches in the series from Stravinsky's Septet</caption>
         <image source="images/unit12/12-tone-stravinsky-normal-form">
             <description/>
         </image>
     </figure>
-    <p>Such a series could imply E or A as a tonal center. Note that Stravinsky’s Septet is not strictly serial but contains serial elements. Such an example shows us that serialism can be employed in ways other than the strict, original twelve<ndash/>tone version.</p>
+    <p>Such a series could imply E or A as a tonal center. Note that Stravinsky’s Septet is not strictly serial but contains serial elements. Such an example shows us that serialism can be employed in ways other than the strict, original twelve-tone version.</p>
 </section>
 <exercises xml:id="SerialismExercises">
     <title>Practice Exercises</title>
@@ -675,7 +675,7 @@
         </introduction>
         <exercise>
             <statement>
-                <p>Given the prime form of the twelve<ndash/>tone row in pitch integers, write the specified row forms in the staves below.</p>
+                <p>Given the prime form of the twelve-tone row in pitch integers, write the specified row forms in the staves below.</p>
                 <sidebyside>
                     <image source="images/unit12/PRAC-EXER-12-tone-P7-fill-in">
                         <description/>
@@ -756,7 +756,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Given the prime form of a twelve<ndash/>tone row, label the row forms and transpositions of the permutations given on the staves below.</p>
+                <p>Given the prime form of a twelve-tone row, label the row forms and transpositions of the permutations given on the staves below.</p>
                 <sidebyside>
                     <image source="images/unit12/PRAC-EXER-12-tone-Section-2-P10">
                         <description/>
@@ -804,7 +804,7 @@
         </introduction>
         <exercise>
             <statement>
-                <p>Construct a 12 by 12 matrix for the prime form of this twelve<ndash/>tone row given in pitch integers: 3, 7, 11, 1, 5, 0, 2, 10, 6, 4, 8, 9. Include labels for all row forms including all transposition levels (P<n octave="0"/>, R<n octave="3"/>, I<n octave="8"/>, RI<n octave="6"/>, etc.). Use note names in the matrix, not integers.</p>
+                <p>Construct a 12 by 12 matrix for the prime form of the following twelve-tone row, given in pitch integers: 3, 7, 11, 1, 5, 0, 2, 10, 6, 4, 8, 9. Include labels for all row forms including all transposition levels (P<n octave="0"/>, R<n octave="3"/>, I<n octave="8"/>, RI<n octave="6"/>, etc.). <em>Use note names in the matrix</em>, not integers.</p>
                 <table>
                     <caption/>
                     <tabular halign="center">
@@ -824,22 +824,22 @@
                         <col/>
                         <row bottom="minor">
                             <cell right="minor" bottom="minor"/>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
-                            <cell right="minor">I<fillin characters="2"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
+                            <cell right="minor">I<fillin characters="1"/>&#x2193;</cell>
                             <cell bottom="minor"/>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell></cell>
                             <cell></cell>
@@ -852,10 +852,10 @@
                             <cell></cell>
                             <cell></cell>
                             <cell></cell>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -868,10 +868,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -884,10 +884,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -900,10 +900,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -916,10 +916,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -932,10 +932,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -948,10 +948,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -964,10 +964,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -980,10 +980,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -996,10 +996,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -1012,10 +1012,10 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row bottom="minor">
-                            <cell>P<fillin characters="2"/>&#x2192;</cell>
+                            <cell>P<fillin characters="1"/>&#x2192;</cell>
                             <cell></cell>
                             <cell/>
                             <cell/>
@@ -1028,22 +1028,22 @@
                             <cell/>
                             <cell/>
                             <cell/>
-                            <cell>&#x2190;R<fillin characters="2"/></cell>
+                            <cell>&#x2190;R<fillin characters="1"/></cell>
                         </row>
                         <row>
                             <cell/>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
-                            <cell>&#x2191;RI<fillin characters="2"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
+                            <cell>&#x2191;RI<fillin characters="1"/></cell>
                             <cell/>
                         </row>
                     </tabular>
@@ -1051,7 +1051,7 @@
             </statement>
             <answer>
                 <table>
-                    <caption>Twelve<ndash/>Tone Matrix</caption>
+                    <caption>Twelve-Tone Matrix</caption>
                     <tabular halign="center">
                         <col right="minor"/>
                         <col/>
@@ -1314,7 +1314,7 @@
         </exercise>  
         <exercise>
             <statement>
-                <p>Referring to the twelve<ndash/>tone row used to construct the matrix in the practice exercise above (3, 7, 11, 1, 5, 0, 2, 10, 6, 4, 8, 9), find the normal form and prime form for each discrete three<ndash/>note set from the row, and provide an interval vector for each.</p>
+                <p>Referring to the twelve-tone row used to construct the matrix in the practice exercise above (3, 7, 11, 1, 5, 0, 2, 10, 6, 4, 8, 9), find the normal form and prime form for each discrete three-note set from the row, and provide an interval vector for each.</p>
                 <ol>
                     <li><p>Set 1: 3, 7, 11. Normal form: <fillin characters="9"/> Prime form: <fillin characters="9"/> Interval vector: <fillin characters="9"/></p></li>
                     <li><p>Set 2: 1, 5, 0. Normal form: <fillin characters="9"/> Prime form: <fillin characters="9"/> Interval vector: <fillin characters="9"/></p></li>

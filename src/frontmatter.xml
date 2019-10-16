@@ -5,7 +5,7 @@
             <personname>Robert Hutchinson</personname>
             <institution>University of Puget Sound</institution>
         </author>
-        <date>DRAFT <today/> DRAFT</date>
+        <date><today/></date>
     </titlepage>
     <colophon>
         <website>

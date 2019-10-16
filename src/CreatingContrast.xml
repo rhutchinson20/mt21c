@@ -48,7 +48,7 @@
 	</section>
 	<section xml:id="Eine-kleine-ii">
 		<title>Mozart, <pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</title>
-		<p>The second movement<idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</h></idx> of Mozart’s <pubtitle>Eine kleine Nachtmusik</pubtitle> is a five<ndash/>part <xref ref="RondoForm" text="title">rondo form</xref> (ABACA).</p>
+		<p>The second movement<idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</h></idx> of Mozart’s <pubtitle>Eine kleine Nachtmusik</pubtitle> is a five-part <xref ref="RondoForm" text="title">rondo form</xref> (ABACA).</p>
 		<p>Let us examine the elements of music in the first section (the A section).</p>
 		<figure>
             <caption>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
@@ -75,7 +75,7 @@
                 </row>
                 <row valign="top">
                     <cell halign="center"><em>Rhythm</em></cell>
-                    <cell><p>The 8th note is most common rhythmic value, though the phrase begins with quarter<ndash/>note values</p></cell>
+                    <cell><p>The 8th note is most common rhythmic value, though the phrase begins with quarter-note values</p></cell>
                 </row>
                 <row valign="top">
                     <cell halign="center"><em>Texture</em></cell>
@@ -117,7 +117,7 @@
                 <col width="65%"/>
                 <row valign="top">
                     <cell halign="center"><em>Rhythm</em></cell>
-                    <cell><p>8th notes are the most common rhythmic value, with some 16th<ndash/>note runs</p></cell>
+                    <cell><p>8th notes are the most common rhythmic value, with some 16th-note runs</p></cell>
                 </row>
                 <row valign="top">
                     <cell halign="center"><em>Texture</em></cell>
@@ -204,23 +204,23 @@
                     <video youtube="PIh2xe4jnpk" start="14" end="22" play-at="select" preview="generic"/>
                 </sidebyside>
         </figure>
-        <p>In the pre<ndash/>chorus, the guitars and bass have legato half notes and quarter notes while the drummer plays cross<ndash/>stick eighth notes (if one is counting in a slow <timesignature top="4" bottom="4"/>). Without the snare drum backbeat, the texture lightens.</p>
+        <p>In the pre-chorus, the guitars and bass have legato half notes and quarter notes while the drummer plays cross-stick eighth notes (if one is counting in a slow <timesignature top="4" bottom="4"/>). Without the snare drum backbeat, the texture lightens.</p>
         <figure>
-            <caption>Pre<ndash/>Chorus of <q>Rude</q></caption>
+            <caption>Pre-Chorus of <q>Rude</q></caption>
                 <sidebyside margins="37%">
                     <video youtube="PIh2xe4jnpk" start="27" end="34" play-at="select" preview="generic"/>
                 </sidebyside>
         </figure>
-        <p>The chorus has approximately the same accompaniment as Verse 2 but the voice parts are in a higher register, repeating a 2<ndash/>measure subphrase containing the <q>hook.</q></p>
+        <p>The chorus has approximately the same accompaniment as Verse 2 but the voice parts are in a higher register, repeating a 2-measure subphrase containing the <q>hook.</q></p>
         <figure>
             <caption>Chorus of <q>Rude</q></caption>
                 <sidebyside margins="37%">
                     <video youtube="PIh2xe4jnpk" start="41" end="52" play-at="select" preview="generic"/>
                 </sidebyside>
         </figure>
-        <p>The post<ndash/>chorus emphasizes a (3+3+2)+(3+3+2) rhythm on all instruments (guitars, bass, and the bass drum, snare drum, and hi<ndash/>hat of the drum set).</p>
+        <p>The post-chorus emphasizes a (3+3+2)+(3+3+2) rhythm on all instruments (guitars, bass, and the bass drum, snare drum, and hi-hat of the drum set).</p>
         <figure>
-            <caption>Post<ndash/>Chorus of <q>Rude</q></caption>
+            <caption>Post-Chorus of <q>Rude</q></caption>
             <sbsgroup>
                 <sidebyside width="55%">
                     <image source="images/unit3/contrast-3-3-2-in-8ths">
@@ -246,7 +246,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>This five<ndash/>section unit repeats again with Verse 3, Verse 4, the Pre<ndash/>Chorus, Chorus, and Post<ndash/>Chorus.</p>
+        <p>This five-section unit repeats again with Verse 3, Verse 4, the Pre-Chorus, Chorus, and Post-Chorus.</p>
         <p>When you listen to the entire piece, you hear how the musicians designate the form using the elements of articulation, rhythm, texture, and dynamics. One element that changes very little during entire song is the chord progression, which we examined in the chapter on harmonic progression.</p>
         <sidebyside>
             <image source="images/unit2/harmony-I-vi-IV-V-rotated-rude">

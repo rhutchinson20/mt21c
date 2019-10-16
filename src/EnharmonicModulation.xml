@@ -104,8 +104,8 @@
             </figure>
             <p>In the following example from <pubtitle>Les Miserables</pubtitle>, a <chord root="Ger" bps="+6"/> in E minor is spelled as a <chord root="V" bps="7"/> chord in F major and resolves to the I chord F major.</p>
             <figure>
-                <caption>Music by Claude<ndash/>Michel Sch&#x00F6;nberg, lyrics by Alain Boublil, Herbert Kretzmer, John Caird, Trevor Nunn, and Jean-Marc Natel, <pubtitle>Les Miserables</pubtitle>, <q>On My Own</q> (1980)</caption>
-                <idx><h>Sch&#x00F6;nberg, Claude<ndash/>Michel</h><h><pubtitle>Les Miserables</pubtitle></h><h><q>One My Own</q></h></idx>
+                <caption>Music by Claude-Michel Sch&#x00F6;nberg, lyrics by Alain Boublil, Herbert Kretzmer, John Caird, Trevor Nunn, and Jean-Marc Natel, <pubtitle>Les Miserables</pubtitle>, <q>On My Own</q> (1980)</caption>
+                <idx><h>Sch&#x00F6;nberg, Claude-Michel</h><h><pubtitle>Les Miserables</pubtitle></h><h><q>One My Own</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit6/enh-mod-les-mis-A">
@@ -228,7 +228,7 @@
             </exercise>
             <exercise>
                 <statement>
-                    <p>For the following Roman numeral progressions, label the chords with lead<ndash/>sheet symbols, specify the new key, and notate all of the chords in the appropriate inversion on the staff below. The enharmonic pivot chord can be spelled correctly in only one of the two keys.</p>
+                    <p>For the following Roman numeral progressions, label the chords with lead-sheet symbols, specify the new key, and notate all of the chords in the appropriate inversion on the staff below. The enharmonic pivot chord can be spelled correctly in only one of the two keys.</p>
                     <sidebyside>
                         <image source="images/unit6/PRAC-EXER-enh-mod-analyze-RN-1"/>
                     </sidebyside>
@@ -241,7 +241,7 @@
             </exercise>
             <exercise>
                 <statement>
-                    <p>Analyze with lead<ndash/>sheet symbols and Roman numerals and label the enharmonic pivot chords in the examples below.</p>
+                    <p>Analyze with lead-sheet symbols and Roman numerals and label the enharmonic pivot chords in the examples below.</p>
                     <sidebyside>
                         <image source="images/unit6/PRAC-EXER-enh-mod-analyze-simple-enh-mod-1"/>
                     </sidebyside>
@@ -272,7 +272,7 @@
             </exercise>
             <exercise>
                 <statement>
-                    <p>Analyze with lead<ndash/>sheet symbols and Roman numerals and label the enharmonic pivot chords in the examples below.</p>
+                    <p>Analyze with lead-sheet symbols and Roman numerals and label the enharmonic pivot chords in the examples below.</p>
                     <sidebyside>
                         <image source="images/unit6/PRAC-EXER-enh-mod-analyze-simple-dim-enh-mod-1"/>
                     </sidebyside>

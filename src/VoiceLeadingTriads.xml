@@ -4,18 +4,18 @@
     <section xml:id="VoiceLeading">
         <title>Voice Leading</title>
         <p><term>Voice leading</term><idx><h>voice leading</h><h>definition of</h></idx>, also known as part writing, refers to rules about melodic motions of voices involved in harmonic progressions. The primary concerns behind voice leading rules are independence of parts, voicing of chords, and economy of melodic motion for the sake of singable parts.</p>
-        <p><q>SATB</q> voice leading refers to four<ndash/>part chords scored for soprano (S), alto (A), tenor (T), and bass (B) voices. Three<ndash/>part chords are often specified as SAB (soprano, alto, bass) but could be scored for any combination of three voice types. SATB voice leading will also be referred to as <q>chorale<ndash/>style</q> voice leading.</p>
+        <p><q>SATB</q> voice leading refers to four-part chords scored for soprano (S), alto (A), tenor (T), and bass (B) voices. Three-part chords are often specified as SAB (soprano, alto, bass) but could be scored for any combination of the three voice types. SATB voice leading will also be referred to as <q>chorale-style</q> voice leading.</p>
         <figure>
-            <caption>Soprano, Alto, Tenor, and Bass voices on the grand staff in <q>chorale<ndash/>style</q> voice leading</caption>
+            <caption>Soprano, Alto, Tenor, and Bass voices on the grand staff in <q>chorale-style</q> voice leading</caption>
             <sidebyside margins="25%">
                 <image source="images/unit8/voiceleading-satb-example">
                     <description/>
                 </image>
             </sidebyside>
         </figure>
-        <p><q>Piano<ndash/>style</q> voice leading means the three upper parts are in the upper staff (the right hand part) and the bass is the only voice in bass clef (the left hand part).</p>
+        <p><q>Piano-style</q> voice leading means the three upper parts are in the upper staff (the right hand part) and the bass is the only voice in bass clef (the left hand part).</p>
         <figure>
-            <caption><q>Piano<ndash/>style</q> voice leading</caption>
+            <caption><q>Piano-style</q> voice leading</caption>
             <sidebyside margins="25%">
                 <image source="images/unit8/voiceleading-piano-style-example">
                     <description/>
@@ -30,7 +30,7 @@
             <li><p><em>Contrary motion</em> occurs when the two voices move in opposite direction to each other by step or leap.</p></li>
             <li><p><em>Oblique motion</em> occurs when one voice stays the same and the other voice moves up or down by step or leap.</p></li>
             <li><p><em>Similar motion</em> occurs when both voices move in the same (or <q>similar</q>) direction<mdash/>both up (by step or leap) or both down (by step or leap); similar motion is also called <q>direct</q> motion</p></li>
-            <li><p><em>Parallel motion</em> is a specific type of similar motion and occurs when both voices move in the same direction by the same interval—both up by step, or both down by a third. Parallel motion is also known as <em>direct motion</em>.</p></li>
+            <li><p><em>Parallel motion</em> is a specific type of similar motion and occurs when both voices move in the same direction by the same interval—both up by step, or both down by a third.</p></li>
         </ul>
         <figure>
             <caption>The four types of motion</caption>
@@ -116,7 +116,7 @@
         </figure>
     </section>
     <section xml:id="VoiceLeadingFourPartsRootPosition">
-        <title>Voice<ndash/>leading Root Position Triads in Four Parts</title>
+        <title>Voice Leading Root Position Triads in Four Parts</title>
         <introduction>
             <p>We are writing in four parts but triads have three notes. We will double the root of every root position chord. (The root is in the bass when a triad is in root position, so we are doubling the bass note in an upper part.)</p>
             <principle xml:id="doubling-root-principle">
@@ -149,7 +149,7 @@
                         <description/>
                     </image>
                 </sidebyside></li>
-                <li><p>Move all of the upper voices in the same direction</p>
+                <li><p>Move all of the upper voices in the same direction (each upper voice will move by a 2nd or 3rd to the nearest chord member in the second chord)</p>
                 <sidebyside>
                     <image source="images/unit8/voiceleading-4th-or-5th-part-2">
                         <description/>
@@ -168,18 +168,18 @@
                     </image>
                 </sidebyside>
             </figure>
-            <p xml:id="voice-leading-deceptive-cadence"><em>Exception</em>: When the bass moves by the interval of a 2nd in the deceptive cadence in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass. In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice<ndash/>leading solution if <scaledeg>7</scaledeg>  is in the soprano voice (because it is a <xref ref="TendencyTones" text="title">tendency tone</xref>).</p>
+            <p xml:id="voice-leading-deceptive-cadence"><em>Exception</em>: When the bass moves by the interval of a 2nd in the deceptive progression in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass. In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice-leading solution if <scaledeg>7</scaledeg>  is in the soprano voice (because it is a <xref ref="TendencyTones" text="title">tendency tone</xref>).</p>
             <figure>
-                <caption>Voice leading the deceptive cadence in minor</caption>
+                <caption>Voice leading the deceptive progression in minor</caption>
                 <sidebyside>
                     <image source="images/unit8/voice-leading-deceptive-cadence-minor">
                         <description/>
                     </image>
                 </sidebyside>
             </figure>
-            <p>The following two examples demonstrate the two possible ways to deal with the deceptive cadence in the major mode.</p>
+            <p>The following two examples demonstrate the two possible ways to deal with the deceptive progression in the major mode.</p>
             <figure>
-                <caption><scaledeg>7</scaledeg> in the soprano voice in the deceptive cadence in major</caption>
+                <caption><scaledeg>7</scaledeg> in the soprano voice in the deceptive progression in major</caption>
                 <sidebyside margins="25%">
                     <image source="images/unit8/voice-leading-deceptive-cadence-A">
                         <description/>
@@ -187,7 +187,7 @@
                 </sidebyside>
             </figure>
             <figure>
-                <caption><scaledeg>7</scaledeg> in an inner voice in the deceptive cadence in major</caption>
+                <caption><scaledeg>7</scaledeg> in an inner voice in the deceptive progression in major</caption>
                 <sidebyside margins="25%">
                     <image source="images/unit8/voice-leading-deceptive-cadence-B">
                         <description/>
@@ -209,7 +209,7 @@
         </subsection>
     </section>
     <section xml:id="VoiceLeadingFirstInversionTriads">
-        <title>Voice Leading First<ndash/>Inversion Triads</title>
+        <title>Voice Leading First-Inversion Triads</title>
         <introduction>
             <p>Instead of focusing on the intervallic distance the bass part travels between roots of chords, voice leading first inversion triads requires focusing on the doubling or voicing of the chord itself. When approaching or leaving a first inversion chord, move as smoothly as possible while avoid objectionable parallels, spacing errors, and melodic errors.</p>
         </introduction>
@@ -323,7 +323,7 @@
         <p>Avoid parallel fifths when the <em>roots</em> of triads are a second apart, as in the following examples:</p>
         <ol>
             <li><p><chord root="ii" bps="6"/> to <chord root="I" bps="6 4"/> (see the first measure in the examples below)</p></li>
-            <li><p><chord root="I"/> to <chord root="vii" mode="diminished" bps="6 4"/> (see the second measure the in examples below)</p></li>
+            <li><p><chord root="I"/> to <chord root="vii" mode="diminished" bps="6"/> (see the second measure the in examples below)</p></li>
         </ol>
         <figure>
             <caption>Parallel fifths when <em>roots</em> are a 2nd apart</caption>
@@ -341,10 +341,10 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>In any such situation where the roots are a second apart (even if the chords are in inversion), revoice each chord so the 5th of the chord is <em>below</em> the root of the chord in the upper voices</p>
+        <p>In any such situation where the roots are a second apart (even if the chords are inverted), revoice each chord so the 5th of the chord is <em>below</em> the root of the chord in the upper voices</p>
     </section>
     <section xml:id="TypesOfSixFourChords">
-        <title>Types of Six<ndash/>Four Chords</title>
+        <title>Types of Six-Four Chords</title>
         <p>When you are harmonizing melodies and writing music, there are three situations where it is appropriate to use a <chord bps="6 4"/> chord.</p>
         <ol>
             <li><p>Pedal <chord bps="6 4"/></p></li>
@@ -353,7 +353,7 @@
         </ol>
         <p>The pedal <chord bps="6 4"/> typically occurs in the patterns I<ndash/>IV<chord bps="6 4"/><ndash/>I or V<ndash/>I<chord bps="6 4"/><ndash/>V.</p>
         <figure>
-            <caption>Examples with the Pedal Six<ndash/>Four</caption>
+            <caption>Examples with the Pedal Six-Four</caption>
             <sidebyside margins="15%">
                 <image source="images/unit8/voiceleading-pedal-six-four-examples">
                     <description/>
@@ -362,7 +362,7 @@
         </figure>
         <p>The passing <chord bps="6 4"/> typically occurs in the patterns I<ndash/>V<chord bps="6 4"/><ndash/>I<chord bps="6"/> (or its retrograde) and IV<ndash/>I<chord bps="6 4"/><ndash/>IV<chord bps="6"/> (or its retrograde).</p>
         <figure>
-            <caption>Examples with the Passing Six<ndash/>Four</caption>
+            <caption>Examples with the Passing Six-Four</caption>
             <sidebyside margins="15%">
                 <image source="images/unit8/voiceleading-passing-six-four-examples">
                     <description/>
@@ -376,13 +376,13 @@
         <p>To generalize, here are the doubling rules for voice leading triads in root position, first inversion, and second inversion:</p>
         <ul>
             <li><p>Root Position Chords: DOUBLE THE BASS</p></li>
-            <li><p>First<ndash/>Inversion Chords: DO NOT DOUBLE THE BASS
+            <li><p>First-Inversion Chords: DO NOT DOUBLE THE BASS
             <ul>
                 <li><p>Exception: <chord root="vii" mode="diminished" bps="6"/>and <chord root="ii" mode="diminished" bps="6"/>: DOUBLE THE BASS</p></li>
                 <li><p>Exception: Consecutive first inversion chords<mdash/>alternate between DOUBLE THE BASS and DO NOT DOUBLE THE BASS</p></li>
             </ul>
         </p></li>
-        <li><p>Second<ndash/>Inversion Chords: DOUBLE THE BASS</p></li>
+        <li><p>Second-Inversion Chords: DOUBLE THE BASS</p></li>
     </ul>
 </section>
 <exercises xml:id="VoiceLeadingTriadsPracticeExercises">
@@ -393,7 +393,7 @@
         </introduction>
         <exercise>
             <statement>
-                <p>For bass movement of a 3rd or 6th, in the upper voices hold one common tone and move the other two voices by step. For bass movement of a 2nd, move the upper voices in contrary motion to the bass with the exception of the deceptive cadence, which has special rules. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
+                <p>For bass movement of a 3rd or 6th, in the upper voices hold two common tones and move the other voice by step. For bass movement of a 2nd, move the upper voices in contrary motion to the bass with the exception of the deceptive progression, which has special rules. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
                 <sidebyside>
                     <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths">
                         <description/>
@@ -432,7 +432,7 @@
         </introduction>
         <exercise>
             <statement>
-                <p>Given the bass line and figured bass symbols, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>chorale<ndash/>style,</q> following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the number of times the bass moves by the interval of a 2nd.</p>
+                <p>Given the bass line and figured bass symbols, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>chorale-style,</q> following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the number of times the bass moves by the interval of a 2nd.</p>
                 <sidebyside>
                     <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin">
                         <description/>
@@ -449,7 +449,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Given the bass line, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>keyboard<ndash/>style</q> (all three upper voices in the treble clef), following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the direction of the bass line.</p>
+                <p>Given the bass line, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>keyboard-style</q> (all three upper voices in the treble clef), following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the direction of the bass line.</p>
                 <sidebyside>
                     <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj">
                         <description/>
@@ -505,7 +505,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Harmonize the melody making sure your progression follows the <xref ref="HarmonicFlowchart" text="title">Harmonic Flowchart</xref> (analyze the <xref ref="HarmonicFunction" text="title">harmonic function</xref> of each chord, abbreviated as <q>HF</q>), then add alto, tenor, and bass parts in chorale style following rules of good voice leading. Use first<ndash/>inversion chords to make a smoother bass line.</p>
+                <p>Harmonize the melody making sure your progression follows the <xref ref="HarmonicFlowchart" text="title">Harmonic Flowchart</xref> (analyze the <xref ref="HarmonicFunction" text="title">harmonic function</xref> of each chord, abbreviated as <q>HF</q>), then add alto, tenor, and bass parts in chorale style following rules of good voice leading. Use first-inversion chords to make a smoother bass line.</p>
                 <sidebyside>
                     <image source="images/unit8/PRAC-EXER-1st-inv-harmonize-mel">
                         <description/>
@@ -527,7 +527,7 @@
         </introduction>
         <exercise>
             <statement>
-                <p>Analyze the figured bass symbols to specify Roman numerals with inversion symbols below the staff. Add soprano, alto, and tenor parts in keyboard style. Specify root, third, and fifth for every chord. Additionally, specify the six<ndash/>four chord type (pedal, passing, or cadential).</p>
+                <p>Analyze the figured bass symbols to specify Roman numerals with inversion symbols below the staff. Add soprano, alto, and tenor parts in keyboard style. Specify root, third, and fifth for every chord. Additionally, specify the six-four chord type (pedal, passing, or cadential).</p>
                 <sidebyside>
                     <image source="images/unit8/PRAC-EXER-2nd-inv-fig-bass">
                         <description/>
@@ -544,7 +544,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>For the given Roman numeral progression, provide soprano, alto, tenor, and bass voices in chorale style. Be careful not to exceed any voice’s range. Specify root, third, and fifth for every chord. Additionally, specify the six<ndash/>four chord type.</p>
+                <p>For the given Roman numeral progression, provide soprano, alto, tenor, and bass voices in chorale style. Be careful not to exceed any voice’s range. Specify root, third, and fifth for every chord. Additionally, specify the six-four chord type.</p>
                 <sidebyside>
                     <image source="images/unit8/PRAC-EXER-2nd-inv-Rom-num">
                         <description/>

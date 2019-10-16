@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="IntroductionToJazzTheory">
     <title>Introduction to Jazz Theory</title>
-    <introduction><p>This introduction to jazz theory focuses on the types of chords encountered in jazz, how these chords might be voiced, how to voice lead these chords in five<ndash/>part harmony, and scales associated with these chords.</p></introduction>
+    <introduction><p>This introduction to jazz theory focuses on the types of chords encountered in jazz, how these chords might be voiced, how to voice lead these chords in five-part harmony, and scales associated with these chords.</p></introduction>
     <section xml:id="JazzChordBasics">
         <title>Jazz Chord Basics</title>
         <ol>
@@ -9,7 +9,6 @@
                 <p><term>Ninth chords</term><idx><h>ninth chords</h></idx> are common in jazz.</p>
                 <ol>
                     <li><!--a-->
-                        <p>Four of the five common seventh chord types in classical and popular music will have ninths added to them; the exception is the fully<ndash/>diminished seventh chord.</p>
                         <ol>
                             <li><!--i-->
                                 <p>The <chord mode="halfdiminished" bps="7"/> chord is also labeled as <chord mode="m" bps="7"><alteration><flat/>5</alteration></chord> in jazz<mdash/><chord root="C" mode="halfdiminished" bps="7"/> is the same as <chord root="C" mode="m" bps="7"><alteration><flat/>5</alteration></chord>.</p>
@@ -17,7 +16,7 @@
                         </ol>
                     </li>
                     <li><!--b-->
-                        <p>In lead<ndash/>sheet notation, <em>adding <q>9</q> to a chord symbol means the 7th is also present</em>.</p>
+                        <p>In lead-sheet notation, <em>adding <q>9</q> to a chord symbol means the 7th is also present</em>.</p>
                     </li>
                     <li><!--c-->
                         <p><q>9</q> is <q>2</q> an octave higher and always comes from the major scale unless otherwise specified.</p>
@@ -60,7 +59,7 @@
                 <p>If a chord has a 9th but no 7th, use the term <q>add 9.</q> In popular music, sometimes <q>2</q> or <q>add 2</q> is used instead (refer to the <xref ref="ChordLabels" text="title">Chord Labels</xref> section).</p>
             </li>
             <li><!--4-->
-                <p>m<chord mode="major"/>7 Chord: In addition to the five common seventh chord types, jazz includes use of the minor<ndash/>major seventh chord (a minor triad with a major seventh). This chord will commonly have a ninth added as well. You will see the <q>major</q> symbol (<chord mode="major"/>) used primarily in jazz. Popular music typically uses <q>maj</q> instead.</p>
+                <p>m<chord mode="major"/>7 Chord: In addition to the five common seventh chord types, jazz includes use of the minor-major seventh chord (a minor triad with a major seventh). This chord will commonly have a ninth added as well. You will see the <q>major</q> symbol (<chord mode="major"/>) used primarily in jazz. Popular music typically uses <q>maj</q> instead.</p>
                 <sidebyside margins="25%">
                     <image source="images/unit11/jazz-chord-mM7-mM9">
                         <description/>
@@ -84,7 +83,7 @@
                 <p><term><timesignature top="6" bottom="9"/></term><idx><h><timesignature top="6" bottom="9"/> chords</h></idx> chords: If a chord has a 6th and a 9th, call it a <timesignature top="6" bottom="9"/> chord (C<timesignature top="6" bottom="9"/>) instead of a <timesignature top="9" bottom="6"/> chord. The major <timesignature top="6" bottom="9"/> uses the major third (C<ndash/>E<ndash/>G<ndash/>A<ndash/>D) while the minor <timesignature top="6" bottom="9"/> uses the minor third (C<ndash/>E<flat/><ndash/>G<ndash/>A<ndash/>D). The <q>6</q> always comes from the major scale unless otherwise specified. (Refer to the <xref ref="ChordLabels" text="title">Chord Labels</xref> section for examples.)</p>
             </li>
             <li><!--7-->
-                <p>Enharmonic respelling: Jazz musicians will sometimes respell double<ndash/>flatted notes and double<ndash/>sharped notes enharmonically because for some musicians theory was viewed more from the aspect of the piano than the staff. This may at times include enharmonically respelling notes like B<sharp/>, C<flat/>, E<sharp/>, and F<flat/> (although these notes sometimes will be used).</p>
+                <p>Enharmonic respelling: Jazz musicians will sometimes respell double-flatted notes and double-sharped notes enharmonically because for some musicians theory was viewed more from the aspect of the piano than the staff. This may at times include enharmonically respelling notes like B<sharp/>, C<flat/>, E<sharp/>, and F<flat/> (although these notes sometimes will be used).</p>
                 <sidebyside>
                     <image source="images/unit11/jazz-chord-enharmonic-respellings">
                         <description/>
@@ -128,7 +127,7 @@
                 <p>5th may be raised or lowered (<sharp/>5 or <flat/>5, which can also be written with pluses and minuses as <chord mode="augmented"/>5 or <ndash/>5) and can be respelled enharmonically (the <sharp/>5 of a C7<sharp/>5 could be written as an A<flat/> instead of G<sharp/>) for ease of reading because the chromatic spelling agrees with B<flat/> (the 7th of the chord)<mdash/>it is easier to read a chord where the accidentals agree (all sharps or all flats).</p>
             </li>
             <li>
-                <p>9th may be raised or lowered (<sharp/>9 or <flat/>9, which can also be written in the lead<ndash/>sheet symbol as &#x002B;9 or <ndash/>9).  The <sharp/>9 is often spelled enharmonically on the staff as <flat/>10 for ease of reading; therefore, a dominant seventh chord with a <sharp/>9 will appear to have both a major and minor 3rd (C<ndash/>E<ndash/>G<ndash/>B<flat/><ndash/>E<flat/>). You may be tempted to call such a chord a minor chord with a <flat/>11, but <flat/>11 is not used because it is the major third of a chord.</p>
+                <p>9th may be raised or lowered (<sharp/>9 or <flat/>9, which can also be written in the lead-sheet symbol as &#x002B;9 or <ndash/>9).  The <sharp/>9 is often spelled enharmonically on the staff as <flat/>10 for ease of reading; therefore, a dominant seventh chord with a <sharp/>9 will appear to have both a major and minor 3rd (C<ndash/>E<ndash/>G<ndash/>B<flat/><ndash/>E<flat/>). You may be tempted to call such a chord a minor chord with a <flat/>11, but <flat/>11 is not used because it is the major third of a chord.</p>
             </li>
             <li>
                 <p>Both alterations of 5 and 9 may occur simultaneously (&#x00B1;9/&#x00B1;5).</p><!--plus sign &#x002B;-->
@@ -180,14 +179,14 @@
             </sidebyside>
         </figure>
         <figure>
-            <caption>Half<ndash/>diminished seventh chords</caption>
+            <caption>Half-diminished seventh chords</caption>
             <sidebyside>
                 <image source="images/unit11/jazz-labels-5-half-dim-7ths">
                     <description/>
                 </image>
             </sidebyside>
         </figure>
-        <figure>
+        <figure xml:id="sus-chord-examples">
             <caption>Sus chords</caption>
             <sidebyside>
                 <image source="images/unit11/jazz-labels-6-sus">
@@ -215,7 +214,7 @@
     </section>
     <section xml:id="HowToWriteJazzChords">
         <title>How to Write Jazz Chords</title>
-        <p>To write a jazz chord after being given a lead<ndash/>sheet symbol, begin with all of the major notes up to the 13th.</p>
+        <p>To write a jazz chord after being given a lead-sheet symbol, begin with all of the major notes up to the 13th.</p>
         <p>Let’s work through this with the following label: Dm<chord mode="major"/>11.</p>
         <p>Dm means D<ndash/>F<ndash/>A. The <chord mode="major"/>11 means there is a major 7th, regular 9th, and regular 11th, not that there is a major 11th. Remember, D11 would mean a D7 chord with the 9 and 11 (all chord members up to the 11th<mdash/>D, F<sharp/>, A, C, E, G). D<chord mode="major"/>11 would mean a D<chord mode="major"/>7 chord with all members up to the 11 (D, F<sharp/>, A, C<sharp/>, E, G).</p>
         <sidebyside margins="17%">
@@ -270,7 +269,7 @@
                 <description/>
             </image>
         </sidebyside>
-        <p>Compare this scratch<ndash/>paper <q>all major and perfect</q> 13th chord to the chord to be solved.</p>
+        <p>Compare the <q>all major and perfect</q> 13th chord above to the chord to be solved.</p>
         <sidebyside margins="12%">
             <image source="images/unit11/jazz-chord-analyzing-sample-problem-2-SOLVED">
                 <description/>
@@ -309,10 +308,10 @@
             <p>In this section we will examine two categories of voicings.</p>
             <ol>
                 <li>
-                    <p>The first category (<q>spread</q> voicings) has 5<ndash/>note chords with the root, 3rd, and 7th as the lowest notes with other chord members voiced above, often in the interval of a fourth or fifth. (The root will always be the lowest note, while the 3rd can be voiced above or below the 7th).</p>
+                    <p>The first category (<q>spread</q> voicings) has 5-note chords with the root, 3rd, and 7th as the lowest notes with other chord members voiced above, often in the interval of a fourth or fifth. (The root will always be the lowest note, while the 3rd can be voiced above or below the 7th).</p>
                 </li>
                 <li>
-                    <p>The second category (<q>close</q> voicings) has 5<ndash/>note chords with the bass note in the left hand and the other four notes in <q>close position</q> in the right hand, usually with the 7th or 3rd of the chord as the lowest note in the right hand.</p>
+                    <p>The second category (<q>close</q> voicings) has 5-note chords with the bass note in the left hand and the other four notes in <q>close position</q> in the right hand, usually with the 7th or 3rd of the chord as the lowest note in the right hand.</p>
                     <sidebyside>
                         <image source="images/unit11/jazz-voicings-spread-and-close">
                             <description/>
@@ -334,7 +333,7 @@
         <introduction><p>In this section we will focus only on the ii<ndash/>V<ndash/>I progression and the iii<ndash/>vi<ndash/>ii<ndash/>V progression. Both were already mentioned in <xref ref="ShorterProgressionsFromTheCircleOfFifths" text="type-global"/>.</p></introduction>
         <subsection>
             <title>II<ndash/>V<ndash/>I</title>
-            <p>The II<ndash/>V<ndash/>I is one of most common progressions in jazz, especially in tunes like <q>Autumn Leaves,</q> <q>What Is This Thing Called Love,</q> <q>Tune<ndash/>Up,</q> <q>Pent Up House,</q> <q>Lady Bird,</q> and <q>Firm Roots,</q> to name just a few. In major the progression is Dmin9<ndash/>G9(13)<ndash/>C<chord mode="major"/>9. In minor it is Dmin7(<flat/>5)<ndash/>G7alt<ndash/>Cm<timesignature top="6" bottom="9"/>.</p>
+            <p>The II<ndash/>V<ndash/>I is one of most common progressions in jazz, especially in tunes like <q>Autumn Leaves,</q> <q>What Is This Thing Called Love,</q> <q>Tune-Up,</q> <q>Pent Up House,</q> <q>Lady Bird,</q> and <q>Firm Roots,</q> to name just a few. In major the progression is Dmin9<ndash/>G9(13)<ndash/>C<chord mode="major"/>9. In minor it is Dmin7(<flat/>5)<ndash/>G7alt<ndash/>Cm<timesignature top="6" bottom="9"/>.</p>
             <figure>
                 <caption>The II<ndash/>V<ndash/>I Progression in Major</caption>
                 <sidebyside>
@@ -352,7 +351,7 @@
                 </sidebyside>
             </figure>
         </subsection>
-        <subsection>
+        <subsection xml:id="turnaround-progression">
             <title>III<ndash/>VI<ndash/>II<ndash/>V</title>
             <p>The iii<ndash/>vi<ndash/>ii<ndash/>V progression is called a <term>turnaround</term><idx><h>turnaround</h></idx> because it replaces the static harmony of the I chord in the last two measures of a tune with harmonic motion that leads to the I chord that will occur upon repetition to the top of the form. This also applies to the I<ndash/>VI<ndash/>II<ndash/>V progression.</p>
             <p>One can modify a iii<ndash/>vi<ndash/>ii<ndash/>V turnaround so all four chords are dominant seventh chords: III<chord bps="7"/><ndash/>VI<chord bps="7"/><ndash/>II<chord bps="7"/><ndash/>V<chord bps="7"/> (or V<chord bps="7"/>/vi<ndash/>V<chord bps="7"/>/ii<ndash/>V<chord bps="7"/>/V<ndash/>V<chord bps="7"/><mdash/>E<chord bps="7"/><ndash/>A<chord bps="7"/><ndash/>D<chord bps="7"/><ndash/>G<chord bps="7"/> in lead sheet symbols). Turnarounds made solely of dominant seventh chords can them employ tritone substitutions (substituting a dominant seventh chord a tritone away because they have the same guide tones). For example, E<chord bps="7"/><ndash/>A<chord bps="7"/><ndash/>D<chord bps="7"/><ndash/>G<chord bps="7"/> becomes E<chord bps="7"/><ndash/><em>E</em><flat/><chord bps="7"/><ndash/>D<chord bps="7"/><ndash/><em>D</em><flat/><chord bps="7"/>.</p>
@@ -403,7 +402,7 @@
     </section>
     <section xml:id="JazzScales">
         <title>Scales</title>
-        <introduction><p>In this section on scales, our primary concern will be understanding how scales relate to corresponding chords in order to allow one to improvise a jazz solo. Similarly, understanding chord<ndash/>scale relationships can allow one to write chordal solos (like a sax soli or shout chorus in a jazz ensemble piece) where non-chord tones come from the corresponding scale.</p></introduction>
+        <introduction><p>In this section on scales, our primary concern will be understanding how scales relate to corresponding chords in order to allow one to improvise a jazz solo. Similarly, understanding chord-scale relationships can allow one to write chordal solos (like a sax soli or shout chorus in a jazz ensemble piece) where non-chord tones come from the corresponding scale.</p></introduction>
         <subsection>
             <title>The Blues Scale</title>
             <p>The <term>blues scale</term><idx><h>scales</h><h>Blues scale</h></idx> is identical to the minor pentatonic scale (<scaledeg>1</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><flat/><scaledeg>7</scaledeg>) except with an added <flat/><scaledeg>5</scaledeg>/<sharp/><scaledeg>4</scaledeg> (<scaledeg>1</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><flat/><scaledeg>5</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><flat/><scaledeg>7</scaledeg>).</p>
@@ -415,7 +414,7 @@
                     </image>
                 </sidebyside>
             </figure>
-            <p>A well<ndash/>known example is <q>Sunshine of Your Love</q> by Cream.</p>
+            <p>A well-known example of the blues scale occurs in <q>Sunshine of Your Love</q> by Cream.</p>
             <figure>
                 <caption>Jack Bruce and Eric Clapton, <q>Sunshine of Your Love</q></caption>
                 <idx><h>songs (popular)</h><h><q>Sunshine of Your Love</q> (Cream)</h></idx>
@@ -447,7 +446,7 @@
         </subsection>
         <subsection xml:id="TableOfScales">
             <title>Table of Scales</title>
-            <p>The scales below are represented by scale degrees. Synthetic scales like whole tone, diminished, and diminished<ndash/>whole tone have many acceptable enharmonic respellings.</p>
+            <p>The scales below are represented by scale degrees. Synthetic scales like whole tone, diminished, and diminished-whole tone have many acceptable enharmonic respellings.</p>
             <table>
                 <idx><h>modes</h><h>Ionian</h></idx>
                 <idx><h>modes</h><h>Mixolydian</h></idx>
@@ -455,18 +454,18 @@
                 <idx><h>modes</h><h>Dorian</h></idx>
                 <idx><h>scales</h><h>Whole Tone</h></idx>
                 <idx><h>modes</h><h>Phrygian</h></idx>
-                <idx><h>scales</h><h>Octatonic (Half<ndash/>Whole)</h></idx>
+                <idx><h>scales</h><h>Octatonic (Half-Whole)</h></idx>
                 <idx><h>scales</h><h>diminished scale</h></idx>
                 <idx><h>modes</h><h>Locrian</h></idx>
                 <idx><h>modes</h><h>Locrian <sharp/>2</h></idx>
                 <idx><h>modes</h><h>Lydian</h></idx>
-                <idx><h>scales</h><h>Octatonic (Whole<ndash/>Half)</h></idx>
-                <idx><h>scales</h><h>Diminished<ndash/>Whole Tone</h></idx>
+                <idx><h>scales</h><h>Octatonic (Whole-Half)</h></idx>
+                <idx><h>scales</h><h>Diminished-Whole Tone</h></idx>
                 <idx><h>scales</h><h>Altered</h></idx>
-                <idx><h>modes</h><h>Lydian<ndash/>Dominant</h></idx>
-                <idx><h>modes</h><h>Phrygian<ndash/>Dorian</h></idx>
-                <idx><h>modes</h><h>Lydian<ndash/>Augmented</h></idx>
-                <idx><h>modes</h><h>Mixolydian<ndash/><flat/><scaledeg>6</scaledeg></h></idx>
+                <idx><h>modes</h><h>Lydian-Dominant</h></idx>
+                <idx><h>modes</h><h>Phrygian-Dorian</h></idx>
+                <idx><h>modes</h><h>Lydian-Augmented</h></idx>
+                <idx><h>modes</h><h>Mixolydian-<flat/><scaledeg>6</scaledeg></h></idx>
                 <caption>Table of Scales</caption>
                 <tabular>
                     <col/>
@@ -540,7 +539,7 @@
                             <line><scaledeg>1</scaledeg><ndash/><flat/><scaledeg>2</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><flat/><scaledeg>5</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>7</scaledeg></line>
                         </cell>
                         <cell>
-                            <line><term>Octatonic (Half<ndash/>Whole)</term></line>
+                            <line><term>Octatonic (Half-Whole)</term></line>
                             <line>(<q><term>Diminished</term></q> scale)</line>
                             <line><scaledeg>1</scaledeg><ndash/><flat/><scaledeg>2</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><sharp/><scaledeg>4</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>7</scaledeg></line>
                         </cell>
@@ -553,7 +552,7 @@
                             <line><scaledeg>1</scaledeg><ndash/><scaledeg>2</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><flat/><scaledeg>5</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>7</scaledeg></line>
                         </cell>
                         <cell>
-                            <line><term>Octatonic (Whole<ndash/>Half)</term></line>
+                            <line><term>Octatonic (Whole-Half)</term></line>
                             <line>(<q>Diminished</q> scale)</line>
                             <line><scaledeg>1</scaledeg><ndash/><scaledeg>2</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><sharp/><scaledeg>4</scaledeg><ndash/><sharp/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><scaledeg>7</scaledeg></line>
                         </cell>
@@ -561,13 +560,12 @@
                     <row valign="top">
                         <cell/>
                         <cell>
-                            <line><term>Lydian<ndash/>Dominant</term></line>
+                            <line><term>Lydian-Dominant</term></line>
                             <line>(4th mode Melodic Minor)</line>
                             <line><scaledeg>1</scaledeg><ndash/><scaledeg>2</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><sharp/><scaledeg>4</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>7</scaledeg></line>
                         </cell>
                         <cell>
-                            <line><term>Diminished<ndash/>Whole Tone</term></line>
-                            
+                            <line><term>Diminished-Whole Tone</term></line>
                             <line>(also <q><term>Altered</term></q> scale or</line>
                             <line>7th mode Melodic Minor)</line>
                             <line><scaledeg>1</scaledeg><ndash/><flat/><scaledeg>2</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><flat/><scaledeg>4</scaledeg><ndash/><flat/><scaledeg>5</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>7</scaledeg></line>
@@ -576,7 +574,7 @@
                     <row valign="top">
                         <cell/>
                         <cell>
-                            <line><term>Phyrgian<ndash/>Dorian</term></line>
+                            <line><term>Phyrgian-Dorian</term></line>
                             <line>(2nd mode Melodic Minor)</line>
                             <line><scaledeg>1</scaledeg><ndash/><flat/><scaledeg>2</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>7</scaledeg></line>
                         </cell>
@@ -585,7 +583,7 @@
                     <row valign="top">
                         <cell/>
                         <cell>
-                            <line><term>Lydian<ndash/>Augmented</term></line>
+                            <line><term>Lydian-Augmented</term></line>
                             <line>(3rd mode Melodic Minor)</line>
                             <line><scaledeg>1</scaledeg><ndash/><scaledeg>2</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><sharp/><scaledeg>4</scaledeg><ndash/><sharp/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><scaledeg>7</scaledeg></line>
                         </cell>
@@ -594,7 +592,7 @@
                     <row valign="top">
                         <cell/>
                         <cell>
-                            <line><term>Mixolydian<ndash/><flat/><scaledeg>6</scaledeg></term></line>
+                            <line><term>Mixolydian-<flat/><scaledeg>6</scaledeg></term></line>
                             <line>(5th mode Melodic Minor)</line>
                             <line><scaledeg>1</scaledeg><ndash/><scaledeg>2</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>7</scaledeg></line>
                         </cell>
@@ -605,9 +603,9 @@
         </subsection>
     </section>
     <section xml:id="HowToDetermineChord-ScaleRelationships">
-        <title>How to Determine Chord<ndash/>Scale Relationships</title>
+        <title>How to Determine Chord-Scale Relationships</title>
         <introduction>
-            <p>To discover a chord<ndash/>scale relationship for almost any chord, write all of the notes of the chord (including upper extensions and altered notes), then fill in the thirds with the most logical choices, <em>avoiding augmented seconds and consecutive half<ndash/>steps</em>.</p>
+            <p>To discover a chord-scale relationship for almost any chord, write all of the notes of the chord (including upper extensions and altered notes), then fill in the thirds with the most logical choices, <em>avoiding augmented seconds and consecutive half steps</em>.</p>
             <p>In the example below, we determine the scale that best fits <chord root="G" mode="major" bps="7"><alteration><sharp/>11</alteration></chord> by doing the following:</p>
             <ol>
                 <li><p>Identify the notes in the chord</p></li>
@@ -625,18 +623,18 @@
             </figure>
             <p>The G Lydian scale is the most correct scale to play over <chord root="G" mode="major" bps="7"><alteration><sharp/>11</alteration></chord>.</p>
             <principle xml:id="HowToDetermineChordScale">
-                <title>Determining Chord<ndash/>Scale Relationships</title>
+                <title>Determining Chord-Scale Relationships</title>
                 <statement>
-                    <p>When constructing the scale, avoid augmented seconds and consecutive half<ndash/>steps</p>
+                    <p>When constructing the scale, avoid augmented seconds and consecutive half steps</p>
                 </statement>
             </principle>
         </introduction>
 
         <subsection>
-            <title>List of Chord<ndash/>Scale Relationships</title>
-            <p>Below is a list of common chord<ndash/>scale relationships. When there are two scales listed for a single chord, it is because the chord has a minor third that can be filled with half<ndash/>step then whole<ndash/>step <em>or</em> whole<ndash/>step then half<ndash/>step. This knowledge of chord<ndash/>scale relationships ultimately becomes second nature to an improvising jazz musician.</p>
+            <title>List of Chord-Scale Relationships</title>
+            <p>Below is a list of common chord-scale relationships. When there are two scales listed for a single chord, it is because the chord has a minor third that can be filled with half step then whole step <em>or</em> whole step then half step. This knowledge of chord-scale relationships ultimately becomes second nature to an improvising jazz musician.</p>
             <table>
-                <caption>List of Chord<ndash/>Scale Relationships</caption>
+                <caption>List of Chord-Scale Relationships</caption>
                 <tabular>
                     <col/>
                     <col/>
@@ -654,7 +652,7 @@
                     </row>
                     <row>
                         <cell><chord root="C" mode="major" bps="7"><alteration><sharp/>5</alteration></chord></cell>
-                        <cell>C Lydian<ndash/>Augmented scale</cell>
+                        <cell>C Lydian-Augmented scale</cell>
                     </row>
                     <row>
                         <cell><chord root="C" mode="m" bps="7"/></cell>
@@ -670,7 +668,7 @@
                     </row>
                     <row>
                         <cell><chord root="C" mode="diminished" bps="7"/></cell>
-                        <cell>C Octatonic Whole<ndash/>Half</cell>
+                        <cell>C Octatonic Whole-Half</cell>
                     </row>
                     <row>
                         <cell>Cm<chord mode="major" bps="7"/></cell>
@@ -686,7 +684,7 @@
                     </row>
                     <row>
                         <cell><chord root="C" bps="7"><alteration><sharp/>11</alteration></chord></cell>
-                        <cell>C Lydian<ndash/>Dominant</cell>
+                        <cell>C Lydian-Dominant</cell>
                     </row>
                     <row>
                         <cell><chord root="C" bps="7"><alteration><sharp/>5</alteration></chord></cell>
@@ -698,25 +696,25 @@
                     </row>
                     <row>
                         <cell><chord root="C" bps="7"><alteration><flat/>9</alteration></chord></cell>
-                        <cell>C Octatonic (Half<ndash/>Whole)</cell>
+                        <cell>C Octatonic (Half-Whole)</cell>
                     </row>
                     <row>
                         <cell><chord root="C" bps="7"><alteration><sharp/>9</alteration></chord></cell>
-                        <cell>C Octatonic (Half<ndash/>Whole)</cell>
+                        <cell>C Octatonic (Half-Whole)</cell>
                     </row>
                     <row>
                         <cell><chord root="C" bps="13"><alteration><sharp/>11</alteration><alteration><sharp/>9</alteration></chord></cell>
-                        <cell>C Octatonic (Half<ndash/>Whole)</cell>
+                        <cell>C Octatonic (Half-Whole)</cell>
                     </row>
                     <row>
                         <cell><chord root="C" bps="7"/>alt</cell>
-                        <cell>C Diminished<ndash/>Whole Tone</cell>
+                        <cell>C Diminished-Whole Tone</cell>
                     </row>
                 </tabular>
             </table>
         </subsection>
         <conclusion>
-            <p>This list is not exhaustive. Follow the process above (<q>How to Determine Chord<ndash/>Scale Relationships</q>) for chords not listed in this list.</p>
+            <p>This list is not exhaustive. Follow the process above (<q>How to Determine Chord-Scale Relationships</q>) for chords not listed in this list.</p>
             <p>Additionally, it is often important to look at the relationship of a chord to the overall key of a tune to determine the appropriate scale. For example, the <chord root="F" mode="min" bps="7"/> at the beginning of <q>All The Things You Are</q> by Jerome Kern is the <chord root="vi" bps="7"/> chord in A<flat/> major, in which case it would be inappropriate to play an F Dorian scale because the D<natural/> would conflict with the D<flat/> in the key signature. One would play an F natural minor (or Aeolian) scale instead.</p>
         </conclusion>
     </section>
@@ -725,7 +723,7 @@
         <p>In <pubtitle>The Jazz Theory Book</pubtitle>, author Mark Levine provides a method for harmonizing the <term>bebop major</term><idx><h>scales</h><h>bebop major scale</h></idx> scale (<scaledeg>1</scaledeg><ndash/><scaledeg>2</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><scaledeg><sharp/>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><scaledeg>8</scaledeg>) with four voices.</p>
         <p>Try singing through each part<mdash/>soprano, alto, tenor, then bass.</p>
         <figure>
-            <caption>Four<ndash/>Part Harmonization of the Bebop Scale in Major</caption>
+            <caption>Four-Part Harmonization of the Bebop Scale in Major</caption>
             <sidebyside>
                 <image source="images/unit11/jazz-harmonize-bebop-major">
                     <description/>
@@ -733,15 +731,15 @@
             </sidebyside>
         </figure>
         <figure>
-            <caption>Four<ndash/>Part Harmonization of the Bebop Scale in Minor</caption>
+            <caption>Four-Part Harmonization of the Bebop Scale in Minor</caption>
             <sidebyside>
                 <image source="images/unit11/jazz-harmonize-bebop-minor">
                     <description/>
                 </image>
             </sidebyside>
         </figure>
-        <p>Notice that all of the non<ndash/>tonic chords are <chord root="vii" mode="diminished" bps="7"/> chords in various inversions.</p>
-        <p>One hears a similar approach to harmonizing a scale (though without the fully<ndash/>diminished seventh chords as passing chords) in the following example.</p>
+        <p>Notice that all of the non-tonic chords are <chord root="vii" mode="diminished" bps="7"/> chords in various inversions.</p>
+        <p>One hears a similar approach to harmonizing a scale (though without the fully-diminished seventh chords as passing chords) in the following example.</p>
         <figure>
             <caption>Count Basie and His Orchestra, <q>London Bridge is Falling Down</q></caption>
             <idx><h>songs (popular)</h><h><q>London Bridge is Falling Down</q> (Count Basie)</h></idx>
@@ -758,7 +756,7 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>Given the following lead<ndash/>sheet symbols, write the chords. Remember it is sometimes appropriate to enharmonically respell notes like C<flat/>, B<sharp/>, F<flat/>, E<sharp/> and altered notes like <sharp/>5 and <sharp/>9.</p>
+                    <p>Given the following lead-sheet symbols, write the chords. Remember it is sometimes appropriate to enharmonically respell notes like C<flat/>, B<sharp/>, F<flat/>, E<sharp/> and altered notes like <sharp/>5 and <sharp/>9.</p>
                     <sidebyside>
                         <image source="images/unit11/PRAC-EXER-jazz-chord-writing-A">
                             <description/>
@@ -872,11 +870,11 @@
                     </sidebyside>
                 </statement>
                 <answer>
-                    <p>1. G<sharp/> Diminished<ndash/>Whole Tone</p>
-                    <p>2. F<sharp/> Octatonic (Half<ndash/>Whole)</p>
+                    <p>1. G<sharp/> Diminished-Whole Tone</p>
+                    <p>2. F<sharp/> Octatonic (Half-Whole)</p>
                     <p>3. F Locrian <sharp/>2</p>
-                    <p>4. C Whole<ndash/>Tone</p>
-                    <p>5. A<flat/> Lydian<ndash/>Dominant</p>
+                    <p>4. C Whole-Tone</p>
+                    <p>5. A<flat/> Lydian-Dominant</p>
                     <p>6. C Locrian</p>
                 </answer>
             </exercise>

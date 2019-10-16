@@ -292,7 +292,7 @@
             </subsubsection>
             <subsubsection xml:id="I-vi-ii-V">
                 <title>I-vi-ii-V</title>
-                <p>Here are examples of the <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/> progression, sometimes called the 1950s progression <!--link to 1950s progression section--> because of its prevalence during that decade, although this progression was also widely used in the 1930s and '40s.</p>
+                <p>Here are examples of the <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/> progression, sometimes called the <xref ref="I-vi-IV-V" text="title">1950s progression</xref> because of its prevalence during that decade, although this progression was also widely used in the 1930s and '40s.</p>
                 <figure>
                     <caption>Rodgers, <q>Blue Moon</q> (1930s)</caption>
                     <idx><h>songs (popular)</h><h><q>Blue Moon</q></h></idx>
@@ -339,7 +339,7 @@
             </subsubsection>
             <subsubsection xml:id="ii-V-I-vi">
                 <title>ii-V-I-vi</title>
-                <p>Below is an example of the <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/> progression. In this example, the <chord root="vi"/> chord acts as a link between the <chord root="V"/><ndash/><chord root="I"/> cadence in the middle of the phrase and the <chord root="ii"/> chord at the beginning of the next phrase. This harmonic activity after the arrival on the <chord root="I"/> chord is like a <q>turnaround</q> in jazz. We will discuss turnarounds more in a later chapter on jazz harmony<!--add jazz chapter link later-->.</p>
+                <p>Below is an example of the <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/> progression. In this example, the <chord root="vi"/> chord acts as a link between the <chord root="V"/><ndash/><chord root="I"/> cadence in the middle of the phrase and the <chord root="ii"/> chord at the beginning of the next phrase. This harmonic activity after the arrival on the <chord root="I"/> chord is like a <q>turnaround</q> in jazz. We <xref ref="turnaround-progression" text="title">discuss turnarounds more in a later chapter on jazz harmony</xref>.</p>
                 <figure>
                     <caption>Wright, Forrest, Borodin, <q>Stranger in Paradise</q></caption>
                     <idx><h>songs (popular)</h><h><q>Stranger in Paradise</q></h></idx>
@@ -354,7 +354,7 @@
                         </sidebyside>
                     </sbsgroup>
                 </figure>
-                <p>If you view this video on YouTube, you will briefly see the double bass part, which has lead<ndash/>sheet symbols on it.</p>
+                <p>If you view this video on YouTube, you will briefly see the double bass part, which has lead-sheet symbols on it.</p>
             </subsubsection>
         </subsection>
         <subsection xml:id="III-VI-II-V">
@@ -410,18 +410,18 @@
         <title>Harmonic Function</title>
         <introduction>
             <p>
-                Now we will address non<ndash/>circle<ndash/>of<ndash/>fifths progressions. Notice that we have not included the <chord root="vii" mode="diminished"/> or <chord root="IV"/> chord in any of the shorter circle of fifths progressions above. However, it is a common axiom that Rock ‘n’ Roll is made up of three chords: <chord root="I"/>, <chord root="IV"/>, and <chord root="V"/>. This is because each of those chords represents a harmonic function. <term>Harmonic function</term><idx><h>harmonic function</h><h>definition of</h></idx> refers to the tendency of certain chords to progress to other chords, or to remain at rest. Many texts on music theory enumerate three harmonic functions. In this text, we will discuss four.
+                Now we will address non-circle-of-fifths progressions. Notice that we have not included the <chord root="vii" mode="diminished"/> or <chord root="IV"/> chord in any of the shorter circle of fifths progressions above. However, it is a common axiom that Rock ‘n’ Roll is made up of three chords: <chord root="I"/>, <chord root="IV"/>, and <chord root="V"/>. This is because each of those chords represents a harmonic function. <term>Harmonic function</term><idx><h>harmonic function</h><h>definition of</h></idx> refers to the tendency of certain chords to progress to other chords, or to remain at rest. Many texts on music theory enumerate three harmonic functions. In this text, we will discuss four.
                 <ol>
                     <li><p><xref ref="ScaleDegreeNames" text="title">Tonic</xref> function (abbreviated <q>ton.</q>): The <chord root="I"/> chord has tonic function, which is a state of stability and rest. Tonic chords do not demand progression to other chords.</p></li>
                     <li xml:id="DominantFunction">
                         <p>Dominant function (abbreviated <q>dom.</q>): The <chord root="V"/> and <chord root="vii" mode="diminished"/> (chords containing the leading tone <scaledeg>7</scaledeg> and supertonic <scaledeg>2</scaledeg>) tend to progress to tonic (<chord root="I"/>). <em>Special note</em>: The <chord root="I" bass="5th"/> chord has <em>dominant</em> function when it resolves to the <chord root="V"/> chord, as in the third chord from the end of the <q>Star-Spangled Banner.</q></p>
                         <figure>
-                            <caption>Key and Smith, <q>The Star<ndash/>Spangled Banner</q></caption>
-                            <idx><h>Star<ndash/>Spangled Banner</h></idx>
+                            <caption>Key and Smith, <q>The Star-Spangled Banner</q></caption>
+                            <idx><h>Star-Spangled Banner</h></idx>
                             <image source="images/unit2/harmony-function-six-four-is-dom"/>
                         </figure>
                     </li>
-                    <li xml:id="PreDominantFunction"><p>Pre<ndash/>dominant function (abbreviated <q>pre<ndash/>dom.</q>): The <chord root="IV"/> and <chord root="ii"/> (chords containing the subdominant <scaledeg>4</scaledeg> and submediant <scaledeg>6</scaledeg>) tend to progress to chords of dominant function.</p></li>
+                    <li xml:id="PreDominantFunction"><p>Pre-dominant function (abbreviated <q>pre-dom.</q>): The <chord root="IV"/> and <chord root="ii"/> (chords containing the subdominant <scaledeg>4</scaledeg> and submediant <scaledeg>6</scaledeg>) tend to progress to chords of dominant function.</p></li>
                     <li xml:id="TonicProlongationFunction"><p>Tonic prolongation function (abbreviated <q>ton. prol.</q>): The <chord root="vi"/> and <chord root="iii"/> (chords that share two common tones with  <scaledeg>1</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><scaledeg>5</scaledeg> from the tonic triad) tend to occur after the tonic chord and progress to chords of pre-dominant function.</p></li>
                 </ol>
                 Harmonic function is represented on a flowchart in the next section.
@@ -445,10 +445,10 @@
                     <description>Harmonic Flowchart in Minor</description>
                 </image>
             </figure>
-            <p>The tonic chord <chord root="I"/> can progress directly to a chord of any other function and, in fact, many pieces begin with a <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="I"/> progression, representing harmonic function of Tonic<ndash/>Dominant<ndash/>Tonic.</p>
+            <p>The tonic chord <chord root="I"/> can progress directly to a chord of any other function and, in fact, many pieces begin with a <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="I"/> progression, representing harmonic function of Tonic-Dominant-Tonic.</p>
         </subsection>
         <subsection xml:id="TonicDominantTonicProgression">
-            <title>Tonic<ndash/>Dominant<ndash/>Tonic Progression</title>
+            <title>Tonic-Dominant-Tonic Progression</title>
             <p>This is the most elemental progression in music, often realized with <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="I"/>.</p>
             <figure>
                 <caption>Mozart, Piano Sonata, K. 283, I.</caption>
@@ -493,7 +493,7 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Lennon<ndash/>McCartney, <q>Hey Jude</q></caption>
+                <caption>Lennon-McCartney, <q>Hey Jude</q></caption>
                 <idx><h>songs (popular)</h><h><q>Hey Jude</q> (Beatles)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -520,10 +520,10 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>The principle of <q>Tonic<ndash/>Dominant<ndash/>Tonic</q> could also be represented with <chord root="I"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>. Even though we learned that <q>dominant</q> means <q><scaledeg>5</scaledeg></q> (and also <q><chord root="V"/></q>) in <xref ref="ScaleDegreeNames" text="title">earlier sections</xref>, <q>dominant <em>function</em></q> in terms of harmony means <q>a chord that <em>progresses to</em> the tonic chord.</q> We will revisit this concept and other possibilities for <q>dominant function</q> later.</p>
+            <p>The principle of <q>Tonic-Dominant-Tonic</q> could also be represented with <chord root="I"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>. Even though we learned that <q>dominant</q> means <q><scaledeg>5</scaledeg></q> (and also <q><chord root="V"/></q>) in <xref ref="ScaleDegreeNames" text="title">earlier sections</xref>, <q>dominant <em>function</em></q> in terms of harmony means <q>a chord that <em>progresses to</em> the tonic chord.</q> We will revisit this concept and other possibilities for <q>dominant function</q> later.</p>
         </subsection>
         <subsection xml:id="TonicPredominantDominantTonicProgression">
-            <title>Tonic<ndash/>PreDominant<ndash/>Dominant<ndash/>Tonic Progression</title>
+            <title>Tonic-PreDominant-Dominant-Tonic Progression</title>
             <p>
                 This sequence of harmonic functions can be realized in four possible ways:
                 <ul>
@@ -535,8 +535,8 @@
             </p>
             <p>Here are examples with <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>.</p>
             <figure>
-                <caption>Bach, J.S., <pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle>, Prelude 1 in C major BWV 846</caption>
-                <idx><h>Bach, J.S.</h><h><pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle></h><h>Prelude 1 in C major</h></idx>
+                <caption>Bach, J.S., <pubtitle>Well-Tempered Clavier, Book I</pubtitle>, Prelude 1 in C major BWV 846</caption>
+                <idx><h>Bach, J.S.</h><h><pubtitle>Well-Tempered Clavier, Book I</pubtitle></h><h>Prelude 1 in C major</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/harmony-T-P-D-T-WTC-prel-1">
@@ -592,8 +592,8 @@
             </figure>
             <p>Here are examples with <chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/> realizing the Ton-PreDom-Dom-Ton progression.</p>
             <figure>
-                <caption>Chopin, Waltz in A<ndash/>flat major, Op. 34 No. 1</caption>
-                <idx><h>Chopin</h><h>Waltz in A<ndash/>flat major, Op. 34 No. 1</h></idx>
+                <caption>Chopin, Waltz in A-flat major, Op. 34 No. 1</caption>
+                <idx><h>Chopin</h><h>Waltz in A-flat major, Op. 34 No. 1</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/harmony-I-IV-V-I-chopin">
@@ -622,7 +622,7 @@
             <p>Progressions using <chord root="vii" mode="diminished"/> (<chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/> and <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>) are less common because of the instability of diminished chords.</p>
         </subsection>
         <subsection xml:id="tonic-tonprol-predom-dom">
-            <title>The Tonic<ndash/>Tonic Prolongation<ndash/>PreDominant<ndash/>Dominant Progression</title>
+            <title>The Tonic-Tonic Prolongation-PreDominant-Dominant Progression</title>
             <introduction>
                 <p>This progression is most commonly realized with <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>, although in classical music one will often encounter <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii" bass="3rd"/><ndash/><chord root="V"/> (mentioned <xref ref="VI-II-V-I" text="title">above</xref> in the section on <chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>
                 ).</p>
@@ -672,7 +672,7 @@
                 <p>
                     In the above examples, the chords have have half-note <xref ref="HarmonicRhythm" text="title">harmonic rhythm</xref>. In the following example, the chords have whole-note harmonic rhythm (4 beats per chord).
                     <ul>
-                        <li><p>Stephens and Gad, <q>All of Me</q> (in A<ndash/>flat major)
+                        <li><p>Stephens and Gad, <q>All of Me</q> (in A-flat major)
                         <url href="https://youtu.be/450p7goxZqg?t=1m2s">(YouTube)</url>
                         <idx><h>songs (popular)</h><h><q>All of Me</q> (John Legend)</h></idx></p></li>
                     </ul>
@@ -692,7 +692,7 @@
                         </sidebyside>
                     </sbsgroup>
                 </figure>
-                <p>You will see more examples of Tonic<ndash/>Tonic Prolongation<ndash/>PreDominant<ndash/>Dominant progressions, including the use of the <chord root="iii"/> chord, in the Practice Exercises and the Homework.</p>
+                <p>You will see more examples of Tonic-Tonic Prolongation-PreDominant-Dominant progressions, including the use of the <chord root="iii"/> chord, in the Practice Exercises and the Homework.</p>
                 <p>Remember, there are two exceptions in Harmonic Function: <chord root="IV"/> has tonic prolongation function when it progresses to <chord root="I"/>, and <chord root="I" bass="5th"/> has dominant function when it progresses to <chord root="V"/>.</p>
             </subsubsection>
         </subsection>
@@ -700,7 +700,7 @@
     <!--
     <section xml:id="EmbellishingHarmonies">
         <title>Embellishing Harmonies</title>
-        <p>Some chords do not have harmonic function. They act as passing or neighboring harmonies to embellish tonic, dominant, and sometimes pre<ndash/>dominant function.</p>
+        <p>Some chords do not have harmonic function. They act as passing or neighboring harmonies to embellish tonic, dominant, and sometimes pre-dominant function.</p>
         <p>Here is an example with a passing harmony.</p>
         <figure>
             <caption>Passing harmony embellishing tonic function</caption><image source="images/unit2/harmony-passing-harmony-example"/>Bach chorale Es ist das Heil uns kommen her, Chorale 4 BWV 9
@@ -763,7 +763,7 @@
         <p>Notice also that movement from <chord root="IV"/><ndash/><chord root="I"/> (from the plagal cadence) is common in the following examples from popular music.</p>
         <p>Here are examples ending with <flat/><chord root="VII"/><ndash/><chord root="IV"/><ndash/><chord root="I"/>, where <chord root="IV"/> progresses to <chord root="I"/> (a plagal cadence) and is preceded by <flat/><chord root="VII"/>.</p>
         <figure>
-            <caption>Lennon<ndash/>McCartney, <q>Hey Jude</q> (bass line and chords only)</caption>
+            <caption>Lennon-McCartney, <q>Hey Jude</q> (bass line and chords only)</caption>
             <idx><h>songs (popular)</h><h><q>Hey Jude</q> (Beatles)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -776,7 +776,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>Consider the following questions: When a phrase ends on the <chord root="IV"/> chord, does it have dominant function (i.e, is it a half cadence)? Does <chord root="IV"/> have dominant function in popular music when it progresses to <chord root="I"/>? If so, does <flat/><chord root="VII"/> have pre<ndash/>dominant function in the above progression?</p>
+        <p>Consider the following questions: When a phrase ends on the <chord root="IV"/> chord, does it have dominant function (i.e, is it a half cadence)? Does <chord root="IV"/> have dominant function in popular music when it progresses to <chord root="I"/>? If so, does <flat/><chord root="VII"/> have pre-dominant function in the above progression?</p>
         <p>Notice that <flat/><chord root="VII"/> begins the phrase in the following example, and proceeds to a <chord root="IV"/><ndash/><chord root="I"/> conclusion.</p>
         <figure>
             <caption>U2, <q>Desire</q> (bass line and chords)</caption>
@@ -792,7 +792,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>The following example has <flat/><chord root="VII"/> preceding <em>and following</em> the <chord root="IV"/> chord. Does the <flat/><chord root="VII"/> chord have tonic prolongation as labeled, or is it <q>pre pre<ndash/>dominant</q> in function?</p>
+        <p>The following example has <flat/><chord root="VII"/> preceding <em>and following</em> the <chord root="IV"/> chord. Does the <flat/><chord root="VII"/> chord have tonic prolongation as labeled, or is it <q>pre pre-dominant</q> in function?</p>
         <figure>
             <caption>Forsey and Schiff, <q>Don’t You (Forget About Me)</q> (bass line and chords)</caption>
             <idx><h>songs (popular)</h><h><q>Don’t You (Forget About Me)</q> (Simple Minds)</h></idx>
@@ -818,20 +818,20 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="_bwHK1xkgJA" start="58" end="73" play-at="select" preview="generic"/>
+                    <video youtube="GaH25Sghoqc" start="58" end="73" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
     </section>
     <section xml:id="BestsellerProgression">
-        <title>The Best<ndash/>Seller Progression</title>
+        <title>The Best-Seller Progression</title>
         <figure>
             <caption>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> <q>Best-Seller</q> Progression</caption>
             <image source="images/unit2/harmony-bestseller-basic-version"/>
         </figure>
         <p>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression occurs in many popular songs, has a <url href="https://en.wikipedia.org/wiki/List_of_songs_containing_the_I%E2%80%93V%E2%80%93vi%E2%80%93IV_progression">
-        Wikipedia page</url>, and has been <url href="http://www.newyorker.com/books/page-turner/the-bestseller-code-tells-us-what-we-already-know">mentioned in a New Yorker article</url> about bestselling novels  (see the third paragraph from the end of the article). The music group Axis of Awesome made <url href="https://youtu.be/oOlDewpCfZQ">a compilation of several songs</url> with the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression that makes for an entertaining summary (warning: there is some language after the 5<ndash/>minute mark).</p>
-        <p>Here is a written<ndash/>out example that includes the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression.</p>
+        Wikipedia page</url>, and has been <url href="http://www.newyorker.com/books/page-turner/the-bestseller-code-tells-us-what-we-already-know">mentioned in a New Yorker article</url> about bestselling novels  (see the third paragraph from the end of the article). The music group Axis of Awesome made <url href="https://youtu.be/oOlDewpCfZQ">a compilation of several songs</url> with the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression that makes for an entertaining summary (warning: there is some language after the 5-minute mark).</p>
+        <p>Here is a written-out example that includes the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression.</p>
         <figure>
             <caption>Adkins and Wilson, <q>Someone Like You</q></caption>
             <idx><h>songs (popular)</h><h><q>Someone Like You</q> (Adele)</h></idx>
@@ -868,7 +868,7 @@
         </figure>
         <p>The <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> progression can also be thought of as being in minor: <chord root="i"/><ndash/><chord root="VI"/><ndash/><chord root="III"/><ndash/><chord root="VII"/></p>
         <figure>
-            <caption><q>Best<ndash/>Seller</q> Progression with Roman Numerals in Major and Relative Minor</caption>
+            <caption><q>Best-Seller</q> Progression with Roman Numerals in Major and Relative Minor</caption>
             <image source="images/unit2/harmony-bestseller-in-minor"/>
         </figure>
         <p>Whether you hear this progression in major or minor depends on whether you hear the first chord as the tonic or if you hear the third and fourth chord as tonic and dominant.</p>

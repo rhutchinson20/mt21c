@@ -6,8 +6,8 @@
         <p>The seminal composition text, <pubtitle>Gradus ad Parnassum</pubtitle> (1725), by Johann Joseph Fux, teaches contrapuntal composition through <q>species counterpoint.</q> <term>Species counterpoint</term><idx><h>species counterpoint</h><h>definition of</h></idx> uses simple rhythmic values and teaches composers how to write one, two, three, or four notes against a larger value, usually a whole note. In this text, we will focus on writing for two voices. In a semester-long college course in counterpoint, one typically learns to write for up to four voices.</p>
         <p><term>Counterpoint</term><idx><h>counterpoint</h><h>definition of</h></idx> can be thought of as the simultaneous sounding of two or more melodic lines. An example is shown below.</p>
         <figure>
-            <caption>Bach, J.S., <pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle>, Fugue 3 in C<ndash/>sharp major, BWV 848</caption>
-            <idx><h>Bach, J.S.</h><h><pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle></h><h>Fugue 3 in C<ndash/>sharp major, BWV 848</h></idx>
+            <caption>Bach, J.S., <pubtitle>Well-Tempered Clavier, Book I</pubtitle>, Fugue 3 in C-sharp major, BWV 848</caption>
+            <idx><h>Bach, J.S.</h><h><pubtitle>Well-Tempered Clavier, Book I</pubtitle></h><h>Fugue 3 in C-sharp major, BWV 848</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit10/ctrpt-c-sharp-fugue-mels">
@@ -19,19 +19,19 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>Textures made of counterpoint are called <q>contrapuntal</q> and can be contrasted with melody<ndash/>accompaniment textures, which are called <q>homophonic.</q></p>
+        <p>Textures made of counterpoint are called <q>contrapuntal</q> and can be contrasted with melody-accompaniment textures, which are called <q>homophonic.</q></p>
     </section>
 
 
 
     <section xml:id="FirstSpecies">
         <title>First Species Counterpoint</title>
-        <p>In first species, we will write note<ndash/>against<ndash/>note counterpoint in whole notes. You will be given a melody, called the <foreign>cantus firmus</foreign> (abbreviated <q><foreign>c.f.</foreign></q>), against which you will write a counterpoint.</p>
+        <p>In first species, we will write note-against-note counterpoint in whole notes. You will be given a melody, called the <foreign>cantus firmus</foreign> (abbreviated <q><foreign>c.f.</foreign></q>), against which you will write a counterpoint.</p>
         <figure>
             <caption/>
             <image source="images/unit10/ctrpt-1st-sp-cf-example"/>
         </figure>
-        <p>Fux enumerates several rules to follow to write in proper sixteenth<ndash/>century style (the style of Palestrina). Since this is a brief introduction to writing in species counterpoint, the rules below are slightly modified and simplified. You would likely follow stricter rules in a semester<ndash/>long course in counterpoint.</p>
+        <p>Fux enumerates several rules to follow to write in proper sixteenth-century style (the style of Palestrina). Since this is a brief introduction to writing in species counterpoint, the rules below are slightly modified and simplified. You would likely follow stricter rules in a semester-long course in counterpoint.</p>
         <ol>
             <li>
                 <p>Begin with an octave or unison.</p>
@@ -91,7 +91,7 @@
             </li>
             <li><p>Avoid repeating notes in order to create a flowing melody</p></li>
         </ol>
-        <p>Following these rules may seem dry and uninspired, but these rules come from observations of note<ndash/>by<ndash/>note details in Renaissance masterpieces by composers like Palestrina and can make any composer better and more aware of what they are writing.</p>
+        <p>Following these rules may seem dry and uninspired, but these rules come from observations of note-by-note details in Renaissance masterpieces by composers like Palestrina and can make any composer better and more aware of what they are writing.</p>
         <p><xref ref="first-species-exercises" text="title">Go to First Species Practice Exercises</xref>.</p>
     </section>
 
@@ -208,13 +208,13 @@
             <ol>
                 <li><p>Start with a half rest, then write a half note an 8ve above the <foreign>cantus firmus</foreign>. The half note on the 3rd beat of every measure but the penultimate one ties across the barline to a half note on the first beat of the succeeding measure.</p></li>
                 <li><p>End on a whole note at the interval of an 8ve above the <foreign>cantus firmus</foreign>.</p></li>
-                <li><p>The penultimate measure should contain a 7<ndash/>6 suspension.</p></li>
+                <li><p>The penultimate measure should contain a 7-6 suspension.</p></li>
                 <li><p>The half note on the third beat of each measure is <em>always</em> a consonance.</p></li>
                 <li>
                     <p>If the half note after a tie is a dissonance (4th or 7th), it is a suspension and <em>must resolve down by step</em>.
                     <ol>
                         <li>
-                            <p>Allowable suspensions in the upper part are 4<ndash/>3 and 7<ndash/>6; 9<ndash/>8 and 2<ndash/>1 are not allowed.</p>
+                            <p>Allowable suspensions in the upper part are 4-3 and 7-6; 9-8 and 2-1 are not allowed.</p>
                         </li>
                     </ol>
                 </p></li>
@@ -255,7 +255,7 @@
         <section xml:id="InventionExpositions">
             <title>Invention Expositions</title>
             <introduction>
-                <p>J.S. Bach’s Two<ndash/>Part Inventions were not only intended as instructional keyboard pieces but also as examples of how to compose. In this section we will wed our species counterpoint knowledge with our knowledge of harmony in order to write a four-measure invention exposition using Bach’s C major and E minor inventions as models. Note the I<ndash/>I<ndash/>V<ndash/>V<ndash/>I harmonic progression.</p>
+                <p>J.S. Bach’s Two-Part Inventions were not only intended as instructional keyboard pieces but also as examples of how to compose. In this section we will wed our species counterpoint knowledge with our knowledge of harmony in order to write a four-measure invention exposition using Bach’s C major and E minor inventions as models. Note the I<ndash/>I<ndash/>V<ndash/>V<ndash/>I harmonic progression.</p>
                 <figure>
                     <caption>Bach, Invention No. 1 in C Major, BWV 772</caption>
                     <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
@@ -297,7 +297,7 @@
                 <title>Altering Themes to Fit the Harmonies</title>
                 <ol>
                     <li>
-                        <p>You may find that a theme that leads naturally from I to V needs its contour altered <em>when progressing from V to I in measures 4 to 5</em> in order to emphasize the V chord and the dominant<ndash/>to<ndash/>tonic harmonic motion. Modify the contour to emphasize the V chord at the end of the measure, altering as few notes as possible.</p>
+                        <p>You may find that a theme that leads naturally from I to V needs its contour altered <em>when progressing from V to I in measures 4 to 5</em> in order to emphasize the V chord and the dominant-to-tonic harmonic motion. Modify the contour to emphasize the V chord at the end of the measure, altering as few notes as possible.</p>
                         <sidebyside>
                             <image source="images/unit10/inv-w-stuttering-ending">
                         <description/>
@@ -334,7 +334,7 @@
             </subsection>
             <subsection xml:id="AddingCounterpoint">
                 <title>Adding Counterpoint to the Theme Statements</title>
-                <p>After copying and transposing the theme throughout this four<ndash/>measure invention exposition, you will need to add counterpoint to accompany the statements of the theme in the second, third, and fourth measures. Unlike species counterpoint, your counterpoint in these invention expositions <em>must emphasize the harmony</em> in each measure.</p>
+                <p>After copying and transposing the theme throughout this four-measure invention exposition, you will need to add counterpoint to accompany the statements of the theme in the second, third, and fourth measures. Unlike species counterpoint, your counterpoint in these invention expositions <em>must emphasize the harmony</em> in each measure.</p>
                 <sidebyside>
                     <image source="images/unit10/inv-writ-ctrpt-bad">
                         <description/>
@@ -345,7 +345,7 @@
                         <description/>
                     </image>
                 </sidebyside>
-                <p>You may find the need to create <q>microharmonies</q> within a measure with some themes, such as a I<ndash/>IV<ndash/>I or I<ndash/><chord root="vii" mode="diminished" bps="6"/>  <ndash/>I progression even though the overriding harmony of the bar is the I chord. Examples are found in the first two measures of the C major invention.</p>
+                <p>You may find the need to create <q>microharmonies</q> within a measure with some themes, such as a I<ndash/>IV<ndash/>I or I<ndash/><chord root="vii" mode="diminished" bps="6"/><ndash/>I progression even though the overriding harmony of the bar is the I chord. Examples are found in the first two measures of the C major invention.</p>
                 <figure>
                     <caption>Microharmonies in the C Major Invention by J.S. Bach</caption>
                     <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
@@ -380,7 +380,7 @@
                 <li><p>The <term>response</term><idx><h>fugue</h><h>response</h><h>definition of</h></idx>, called <q>answer</q> in some texts, is the subject intervallically altered to start in the original key before modulating to the dominant. Notice that the third note of the subject in the example below descends a perfect fourth to the fourth note. In the response in measure 3, the third note descends a perfect fifth to the fourth note.</p></li>
                 <li><p>An <term>episode</term><idx><h>fugue</h><h>episode</h><h>definition of</h></idx> is a section that does not contain a full statement of the fugue subject, but instead <xref ref="DevelopmentalFunction" text="title">develops</xref> the subject or other prominent ideas through fragmentation and sequencing.</p></li>
             </ul>
-            <p>Here is the first exposition of Fugue 2 in C minor in Book I of the J.S. Bach’s <pubtitle>Well<ndash/>Tempered Clavier</pubtitle>. In the first exposition of a fugue, all of the voices state the subject at least once. It is important to note that a response is considered equivalent to a subject because the intervallic alterations are so minute.<idx><h>Bach, J.S.</h><h><pubtitle>Well<ndash/>Tempered Clavier, Book I</pubtitle></h><h>Fugue 2 in C minor, BWV 846</h></idx></p>
+            <p>Here is the first exposition of Fugue 2 in C minor in Book I of the J.S. Bach’s <pubtitle>Well-Tempered Clavier</pubtitle>. In the first exposition of a fugue, all of the voices state the subject at least once. It is important to note that a response is considered equivalent to a subject because the intervallic alterations are so minute.<idx><h>Bach, J.S.</h><h><pubtitle>Well-Tempered Clavier, Book I</pubtitle></h><h>Fugue 2 in C minor, BWV 846</h></idx></p>
             <sidebyside>
                 <image source="images/unit10/fug-c-min-A">
                     <description/>
@@ -483,7 +483,7 @@
             </introduction>
             <exercise xml:id="first-species-exercises">
                 <statement>
-                    <p>For each exercise below, write first species (note<ndash/>against<ndash/>note) counterpoint. Write the intervallic distance from the cantus firmus (<q><foreign>c.f.</foreign></q>) to the counterpoint in the blanks above the staff. Remember to begin and end with an octave or unison, to proceed to the last unison by step in both voices, and use only consonances (1, 3, 5, 6, 8, 10).</p>
+                    <p>For each exercise below, write first species (note-against-note) counterpoint. Write the intervallic distance from the cantus firmus (<q><foreign>c.f.</foreign></q>) to the counterpoint in the blanks above the staff. Remember to begin and end with an octave or unison, to proceed to the last unison by step in both voices, and use only consonances (1, 3, 5, 6, 8, 10).</p>
                     <sidebyside>
                         <image source="images/unit10/PRAC-EXER-1st-sp-1-CM">
                             <description/>

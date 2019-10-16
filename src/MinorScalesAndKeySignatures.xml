@@ -3,8 +3,11 @@
     <title>Minor Scales and Key Signatures</title>
     <section xml:id="MinorScales">
         <title>Minor Scales</title>
-        <p>There are three minor scales: the natural minor scale, the harmonic minor scale, and the melodic minor scale. Play or sing through each one and notice the differences.</p>
+        <p>There are three minor scales: the <term>natural minor</term> scale, the <term>harmonic minor</term> scale, and the <term>melodic minor</term> scale. Play or sing through each one and notice the differences.</p>
         <sidebyside>
+            <idx><h>natural minor scale</h></idx>
+            <idx><h>harmonic minor scale</h></idx>
+            <idx><h>melodic minor scale</h></idx>
             <image source="images/unit1/major-and-minor-scales">
                 <description>The major, natural minor, harmonic minor, and melodic minor scales all starting on C, noting that the natural minor has lowered 3rd, 6th and 7th scale degrees, the harmonic minor has lowered 3rd and 6th scale degrees, and the ascending melodic minor scale as a lowered 3rd scale degree</description>
             </image>

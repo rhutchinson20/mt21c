@@ -3,13 +3,13 @@
     <title>Impressionism and Extended Tonality</title>
     <section xml:id="Impressionism">
         <title>Impressionism</title>
-        <p><term>Impressionism</term><idx><h>Impressionism</h></idx> is associated with Claude Debussy and Maurice Ravel in France, Ottorino Respighi in Italy, Charles Tomlinson Griffes in America, and Frederick Delius in England. We will focus on just three techniques found in the music of Debussy and Ravel: (1) the use of modes, (2) the use of upper<ndash/>extensions above the 7th in chord construction in tertian harmonies (9ths, 11ths, and 13ths, which we saw in the chapter on jazz), and (3) parallelism, also known as <q>planing.</q></p>
+        <p><term>Impressionism</term><idx><h>Impressionism</h></idx> is associated with Claude Debussy and Maurice Ravel in France, Ottorino Respighi in Italy, Charles Tomlinson Griffes in America, and Frederick Delius in England. We will focus on just three techniques found in the music of Debussy and Ravel: (1) the use of modes, (2) the use of upper extensions above the 7th in chord construction in tertian harmonies (9ths, 11ths, and 13ths, which we saw in the chapter on jazz), and (3) parallelism, also known as <q>planing.</q></p>
         <ol>
             <li><!--1-->
                 <p><em>Use of modes.</em> Composers such as Debussy and Ravel sometimes wrote in the church modes (Phrygian, Lydian, etc.<mdash/>see <xref ref="TableOfScales" text="title">Scales</xref>) as an alternative to the heavily chromatic music of Richard Wagner (listen to the influential <url href="https://youtu.be/ghjz6D34HPQ">Prelude to Act I</url> of Wagner’s <pubtitle>Tristan und Isolde</pubtitle><idx><h>Wagner, Richard</h><h><pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</h></idx>).</p>
                 <ol>
                     <li><!--a-->
-                        <p>The first movement of Debussy’s String Quartet in G minor, Op. 10, begins in Phrygian mode. Notice that the seventh chord that occurs on the <scaledeg>5</scaledeg> scale degree is half<ndash/>diminished in Phrygian. (The penultimate chord in this example is not in Phrygian mode.)</p>
+                        <p>The first movement of Debussy’s String Quartet in G minor, Op. 10, begins in Phrygian mode. Notice that the seventh chord that occurs on the <scaledeg>5</scaledeg> scale degree is half-diminished in Phrygian. (The penultimate chord in this example is not in Phrygian mode.)</p>
                         <figure>
                             <caption>Debussy, String Quartet in G minor, Op. 10, I.</caption><idx><h>Debussy, Claude</h><h>String Quartet in G minor, Op. 10, I.</h></idx>
                             <sbsgroup>
@@ -164,18 +164,18 @@
     </section>
     <section xml:id="Pandiatonicism">
         <title>Pandiatonicism</title>
-        <p><term>Pandiatonicism</term><idx><h>pandiatonicism</h></idx> refers to the use of all diatonic notes without the need for scale degrees or harmonies to progress or function tonally (V doesn’t need to progress to I, <scaledeg>7</scaledeg> doesn’t need to resolve to <scaledeg>8</scaledeg>, etc.). One often hears it as a wash of notes from the major scale, or as chords made of non<ndash/>traditional combinations of notes from a major scale, often with at least one interval of a 2nd in a chord voicing.</p>
+        <p><term>Pandiatonicism</term><idx><h>pandiatonicism</h></idx> refers to the use of all diatonic notes without the need for scale degrees or harmonies to progress or function tonally (V doesn’t need to progress to I, <scaledeg>7</scaledeg> doesn’t need to resolve to <scaledeg>8</scaledeg>, etc.). One often hears it as a wash of notes from the major scale, or as chords made of non-traditional combinations of notes from a major scale, often with at least one interval of a 2nd in a chord voicing.</p>
         <p>In the first example, notice how Stravinsky creates a wash of sound from the notes of the major scale.</p>
         <figure>
             <sidebyside><!--no margins on this one-->
-                <video youtube="XkM4bKjggKo" start="211" end="220" play-at="select"/>
+                <video xml:id="stravinsky-pandiatonicism" youtube="XkM4bKjggKo" start="211" end="220" play-at="select"/>
             </sidebyside>
             <idx>
                 <h>Stravinsky, Igor</h><h><pubtitle>Petrushka</pubtitle>, Fourth Tableau: <pubtitle>The Shrovetide Fair (Toward Evening</pubtitle>)</h>
             </idx>
             <caption>Stravinsky, <pubtitle>Petrushka</pubtitle>, Fourth Tableau: <pubtitle>The Shrovetide Fair (Toward Evening</pubtitle>)</caption>
         </figure>
-        <p>In the second example, Copland uses non<ndash/>traditional pandiatonic chord shapes in non<ndash/>functional harmonic progression.</p>
+        <p>In the second example, Copland uses non-traditional pandiatonic chord shapes in non-functional harmonic progression.</p>
         <figure>
             <caption>Copland, <pubtitle>Appalachian Spring</pubtitle></caption>
             <idx>
@@ -188,14 +188,14 @@
                     </image>
                 </sidebyside>
                 <sidebyside>
-                    <video youtube="WVahuS9hk_s" start="150" end="170" play-at="select"/>
+                    <video xml:id="copland-pandiatonicism1" youtube="WVahuS9hk_s" start="150" end="170" play-at="select"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
         <p>The third example is similar to the first, with Copland creating a wash of sound from the notes of the major scale, with no regard to the dissonant intervals occurring in counterpoint.</p>
         <figure>
             <sidebyside><!--no margins on this one-->
-                <video youtube="WVahuS9hk_s" start="868" end="880" play-at="select"/>
+                <video xml:id="copland-pandiatonicism2" youtube="WVahuS9hk_s" start="868" end="880" play-at="select"/>
             </sidebyside>
             <idx>
                 <h>Copland, Aaron</h><h><pubtitle>Appalachian Spring</pubtitle></h>
@@ -209,7 +209,7 @@
         <p>The next three examples demonstrate quartal harmony.</p>
         <figure>
             <sidebyside><!--no margins on this one-->
-                <video youtube="m_hMVzPT9f4" start="689" end="745" play-at="select"/>
+                <video xml:id="schoenberg-quartal" youtube="m_hMVzPT9f4" start="689" end="745" play-at="select"/>
             </sidebyside>
             <idx>
                 <h>Schoenberg, Arnold</h><h>Chamber Symphony No. 1, Op. 9</h>
@@ -218,7 +218,7 @@
         </figure>
         <figure>
             <sidebyside margins="37%">
-                <video youtube="D5-bD372v5s" start="71" end="79" play-at="select"/>
+                <video xml:id="chips-theme" youtube="D5-bD372v5s" start="71" end="79" play-at="select"/>
             </sidebyside>
             <idx>
                 <h>songs (popular)</h><h><pubtitle>CHiPs</pubtitle> Theme</h>
@@ -227,7 +227,7 @@
         </figure>
         <figure>
             <sidebyside margins="37%">
-                <video youtube="g0GxiL96i78" start="24" end="35" play-at="select"/>
+                <video xml:id="jeopardy-theme" youtube="AQFxpN30DMU" start="112" end="122" play-at="select"/>
             </sidebyside>
             <idx>
                 <h>songs (popular)</h><h><pubtitle>Jeopardy!</pubtitle> Theme</h>
@@ -237,12 +237,12 @@
         <p>The following is an extended example of quintal harmony.</p>
         <figure>
             <sidebyside><!--no margins on this one-->
-                <video youtube="IfOJCKN148M" start="572" end="664" play-at="select"/>
+                <video xml:id="bartok-quintal" youtube="IfOJCKN148M" start="572" end="664" play-at="select"/>
             </sidebyside>
             <idx>
                 <h>Bart&#x00F3;k, B&#x00E9;la</h><h>Piano Concerto No. 2, II.</h>
             </idx>
-            <caption>B&#x00F3;rtok, Piano Concerto No. 2, II.</caption>
+            <caption>Bart&#x00F3;k, Piano Concerto No. 2, II.</caption>
         </figure>
     </section>
     <section xml:id="polychords">
@@ -261,7 +261,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside><!--no margins on this one-->
-                    <video youtube="BKoO_3-I1dw" start="0" end="12" play-at="select"/>
+                    <video xml:id="stravinsky-polychords1" youtube="BKoO_3-I1dw" start="0" end="12" play-at="select"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -283,14 +283,14 @@
                     </image>
                 </sidebyside>
                 <sidebyside>
-                    <video youtube="WVahuS9hk_s" start="22" end="43" play-at="select"/>
+                    <video xml:id="copland-polychords1" youtube="WVahuS9hk_s" start="22" end="43" play-at="select"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>In the example below, features chromatically ascending dominant seventh chords in the left hand against a repeating three<ndash/>chord cycle of G<ndash/>F<ndash/>C in the right hand.</p>
+        <p>In the example below, features chromatically ascending dominant seventh chords in the left hand against a repeating three-chord cycle of G<ndash/>F<ndash/>C in the right hand.</p>
         <figure>
             <sidebyside><!--no margins on this one-->
-                <video youtube="XkM4bKjggKo" start="487" end="495" play-at="select"/>
+                <video xml:id="stravinsky-polychords2" youtube="XkM4bKjggKo" start="487" end="495" play-at="select"/>
             </sidebyside>
             <idx>
                 <h>Stravinsky, Igor</h><h><pubtitle>Petrushka</pubtitle>, Fourth Tableau: <pubtitle>The Shrovetide Fair (Toward Evening</pubtitle>)</h>
@@ -308,7 +308,7 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p><em>Use of modes</em>. Given the melody and chord symbols for <q>London Bridge</q> in Phrygian mode, analyze the chords as lead<ndash/>sheet symbols (<q>LSS</q>) and as Roman numerals (<q>RN</q>).</p>
+                    <p><em>Use of modes</em>. Given the melody and chord symbols for <q>London Bridge</q> in Phrygian mode, analyze the chords as lead-sheet symbols (<q>LSS</q>) and as Roman numerals (<q>RN</q>).</p>
                     <sidebyside>
                         <image source="images/unit12/PRAC-EXER-london-br-phryg">
                             <description/>
@@ -349,10 +349,10 @@
                 <statement>
                     <p><em>Quartal, Quintal, and Secundal Harmony</em>. After analyzing the given chord as a lead-sheet symbol, revoice it in four ways:</p>
                     <ol>
-                        <li><p>as a six<ndash/>note tertian chord stacked only in thirds</p></li>
-                        <li><p>as a six<ndash/>note quartal chord stacked only in perfect 4ths</p></li>
-                        <li><p>as a six<ndash/>note quintal chord stacked only in perfect 5ths</p></li>
-                        <li><p>as a six<ndash/>note secundal chord stacked only in 2nds </p></li>
+                        <li><p>as a six-note tertian chord stacked only in thirds</p></li>
+                        <li><p>as a six-note quartal chord stacked only in perfect 4ths</p></li>
+                        <li><p>as a six-note quintal chord stacked only in perfect 5ths</p></li>
+                        <li><p>as a six-note secundal chord stacked only in 2nds </p></li>
                     </ol>
                     <sidebyside>
                         <image source="images/unit12/PRAC-EXER-ext-tonal-revoicing">

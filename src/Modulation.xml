@@ -65,14 +65,14 @@
                     <cell><chord root="I"/></cell>
                 </row>
                 <row>
-                    <cell>Pre<ndash/>Dom.</cell>
+                    <cell>Pre-Dom.</cell>
                     <cell>Dom.</cell>
                     <cell>Dom.</cell>
                     <cell>Ton.</cell>
                 </row>
             </tabular>
         </table>
-        <p>In his book <pubtitle>Form in Tonal Music</pubtitle>, Douglass Green defines a <chord root="V"/><ndash/><chord root="I"/> authentic cadence with a pre<ndash/>dominant prefix as a <q>full cadence.</q></p>
+        <p>In his book <pubtitle>Form in Tonal Music</pubtitle>, Douglass Green defines a <chord root="V"/><ndash/><chord root="I"/> authentic cadence with a pre-dominant prefix as a <q>full cadence.</q></p>
         <p>The cadential formula above is found in the following example.</p>
         <figure>
             <caption>J.S. Bach, English Suite No. 4 in F Major, BWV 809, Sarabande (ca. 1715)</caption>
@@ -88,7 +88,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>Notice that this cadential formula establishes a key more strongly than the simple <chord root="V"/><ndash/><chord root="I"/> of an <xref ref="AuthenticCadence" text="title">authentic cadence</xref>. This means there will be ambiguity between a tonicization and a short modulation ending in an authentic cadence, especially in music with fast harmonic rhythm, like Bach chorales (usually in quarter<ndash/>note <xref ref="HarmonicRhythm" text="title">harmonic rhythm</xref>).</p>
+        <p>Notice that this cadential formula establishes a key more strongly than the simple <chord root="V"/><ndash/><chord root="I"/> of an <xref ref="AuthenticCadence" text="title">authentic cadence</xref>. This means there will be ambiguity between a tonicization and a short modulation ending in an authentic cadence, especially in music with fast harmonic rhythm, like Bach chorales (usually in quarter-note <xref ref="HarmonicRhythm" text="title">harmonic rhythm</xref>).</p>
         <figure>
             <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
             <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
@@ -132,7 +132,7 @@
                     </image>
                 </sidebyside>
         </figure>
-        <p>Key signatures that are not closely related are said to be <q><term>foreign</term></q><idx><h>foreign keys</h></idx> or <q><term>distantly related</term><idx><h>distantly related keys</h></idx>.</q> We will see that some types of modulations from the Romantic era, like common<ndash/>tone modulations, exploit foreign key relationships to dramatic effect.</p>
+        <p>Key signatures that are not closely related are said to be <q><term>foreign</term></q><idx><h>foreign keys</h></idx> or <q><term>distantly related</term><idx><h>distantly related keys</h></idx>.</q> We will see that some types of modulations from the Romantic era, like common-tone modulations, exploit foreign key relationships to dramatic effect.</p>
     </section>
     <section xml:id="ModulationsWithDiatonicPivotChords">
         <title>Modulations with Diatonic Pivot Chords</title>
@@ -178,7 +178,7 @@
         <subsection xml:id="HarmonicFunctionsofDiatonicPivotChords">
             <title>Harmonic Functions of Diatonic Pivot Chords</title>
             <p>In terms of <xref ref="HarmonicFunction" text="title">harmonic function</xref>, composers typically do not use a pivot chord that has <xref ref="DominantFunction" text="title">dominant function</xref> in the new key because such a modulation might sound abrupt and unconvincing. Instead, the pivot chord in the first key often has tonic or <xref ref="TonicProlongationFunction" text="title">tonic prolongation function</xref>.</p>
-            <p>In the following example, the pivot chord simultaneously has tonic function in the first key and pre<ndash/>dominant function in the second key. This creates a more seamless and less jarring progression to the second key.</p>
+            <p>In the following example, the pivot chord simultaneously has tonic function in the first key and pre-dominant function in the second key. This creates a more seamless and less jarring progression to the second key.</p>
             <figure>
                 <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
                 <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
@@ -193,7 +193,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>The pivot chord in the first key, G, has tonic harmonic function, while in the second key, D major, the G chord has pre<ndash/>dominant function.</p>
+            <p>The pivot chord in the first key, G, has tonic harmonic function, while in the second key, D major, the G chord has pre-dominant function.</p>
             <p>Observe the harmonic function of the pivot chords in the following examples from Bach chorales.</p>
             <figure> 
                 <caption>J.S. Bach, Chorale 4, <q>Es ist das Heil uns kommen her</q>, BWV 9</caption>
@@ -238,7 +238,7 @@
                     </ol></p></li>
                 </ol>
             </p></li>
-            <li><p>If accidentals are canceled out, they indicate tonicizations or chromatic non<ndash/>chord tones</p> </li>
+            <li><p>If accidentals are canceled out, they indicate tonicizations or chromatic non-chord tones</p> </li>
         </ol>
         <figure>
             <caption>J.S. Bach, English Suite No. 4 in F Major, BWV 809, Sarabande (ca. 1715)</caption>
@@ -312,7 +312,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>In the example above, Schubert bridges the tonal distance between D minor and A<flat/> minor with  <chord root="N" bps="6 5"/> (note the dominant<ndash/>seventh quality of the Neapolitan in this instance), which acts as a <chord root="V" bps="6 5"/> in A<flat/> minor, a tritone away from D minor.</p>
+            <p>In the example above, Schubert bridges the tonal distance between D minor and A<flat/> minor with  <chord root="N" bps="6 5"/> (note the dominant-seventh quality of the Neapolitan in this instance), which acts as a <chord root="V" bps="6 5"/> in A<flat/> minor, a tritone away from D minor.</p>
         </subsection>
         <subsection>
             <title>Augmented Sixth Common Chord</title>
@@ -325,7 +325,7 @@
             <p>This section contains the following subsections below:</p>
             <ul>
                 <li><p><xref ref="DirectModulation" text="title">Direct Modulation</xref></p></li>
-                <li><p><xref ref="CommonToneModulation" text="title">Common<ndash/>Tone Modulation</xref></p></li>
+                <li><p><xref ref="CommonToneModulation" text="title">Common-Tone Modulation</xref></p></li>
                 <li><p><xref ref="SequentialModulation" text="title">Sequential Modulation</xref></p></li>
             </ul>
         </introduction>
@@ -384,8 +384,8 @@
             <p>With direct modulation, composers do not make any attempt to connect two different keys through any pivot chords or common tones. In the next section, we examine how composers connect two keys through a common tone.</p>
         </subsection>
         <subsection xml:id="CommonToneModulation">
-            <title>Common<ndash/>Tone Modulation</title>
-            <introduction><p>In <term>common<ndash/>tone modulation</term><idx><h>common<ndash/>tone modulation</h></idx><idx><h>modulation</h><h>common<ndash/>tone</h></idx>, two chords are connected through a single note to bridge to distance between two keys.</p>
+            <title>Common-Tone Modulation</title>
+            <introduction><p>In <term>common-tone modulation</term><idx><h>common-tone modulation</h></idx><idx><h>modulation</h><h>common-tone</h></idx>, two chords are connected through a single note to bridge to distance between two keys.</p>
             <p>In the following example, the note C<sharp/> acts as a hinge between a C<sharp/> major chord (<chord root="V"/> in F<sharp/> minor) and an A dominant seventh chord (<chord root="V" bps="7"/> in D major).</p></introduction>
             <figure>
                 <caption>Beethoven, Symphony No. 2 in D major, Op. 36, I. (1801<ndash/>1802)</caption>
@@ -413,8 +413,8 @@
             </figure>
             <conclusion><p>In the next example, the note A acts as a hinge between an A major chord (<chord root="V"/> in D minor) and an F major chord (<chord root="I"/> in F major).</p></conclusion>
             <figure xml:id="D898">
-                <caption>Schubert, Piano Trio No. 1 in B<ndash/>flat major, D. 898, I. (1828)</caption>
-                <idx><h>Schubert</h><h>Piano Trio No. 1 in B<ndash/>flat major, D. 898, I.</h></idx>
+                <caption>Schubert, Piano Trio No. 1 in B-flat major, D. 898, I. (1828)</caption>
+                <idx><h>Schubert</h><h>Piano Trio No. 1 in B-flat major, D. 898, I.</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit5/mod-CT-schubert-898-A">
@@ -433,7 +433,7 @@
             </figure>
             <subsubsection xml:id="ChromaticMediants">
                 <title>Chromatic Mediants</title>
-                <introduction><p>In a common<ndash/>tone modulation, the two chords connecting the two keys are typically in a chromatic mediant relationship. <term>Chromatic mediants</term><idx><h>chromatic mediants</h></idx> are chords with roots a third apart that share only one common tone and have the same quality (both are major or both are minor).</p></introduction>
+                <introduction><p>In a common-tone modulation, the two chords connecting the two keys are typically in a chromatic mediant relationship. <term>Chromatic mediants</term><idx><h>chromatic mediants</h></idx> are chords with roots a third apart that share only one common tone and have the same quality (both are major or both are minor).</p></introduction>
                 <figure>
                     <caption>Chromatic mediant relationship in <xref ref="D898" text="type-global"/></caption>
                     <sidebyside margins="15%">
@@ -586,7 +586,7 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>For each given key, list the five closely<ndash/>related keys.</p>
+                    <p>For each given key, list the five closely-related keys.</p>
                     <ol>
                         <li><p>d: <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/></p></li>
                         <li><p>D<flat/>: <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/> <fillin characters="5"/></p></li>
@@ -603,7 +603,7 @@
             </exercise>
             <exercise>
                 <statement>
-                    <p>For each progression, analyze the Roman numerals with lead<ndash/>sheet symbols and specify the second key.</p>
+                    <p>For each progression, analyze the Roman numerals with lead-sheet symbols and specify the second key.</p>
                     <sidebyside>
                         <image source="images/unit5/PRAC-EXER-find-pivot-key1"/>
                     </sidebyside>
@@ -648,7 +648,7 @@
             </exercise>
             <exercise>
                 <statement>
-                    <p>For each progression, analyze the Roman numerals with lead<ndash/>sheet symbols and specify the second key.</p>
+                    <p>For each progression, analyze the Roman numerals with lead-sheet symbols and specify the second key.</p>
                     <sidebyside>
                         <image source="images/unit5/PRAC-EXER-mod-progs-w-chrom-pivots"/>
                     </sidebyside>
@@ -668,7 +668,7 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>Determining Diatonic Common Chords. For each of the two keys in each example, list the diatonic chords as lead<ndash/>sheet symbols and as Roman numerals then circle those diatonic to both keys</p>
+                    <p>Determining Diatonic Common Chords. For each of the two keys in each example, list the diatonic chords as lead-sheet symbols and as Roman numerals then circle those diatonic to both keys</p>
                     <sidebyside>
                         <image source="images/unit5/PRAC-EXER-mod-finding-dia-common-chords"/>
                     </sidebyside>
@@ -683,7 +683,7 @@
             </exercise>
             <exercise>
                 <statement>
-                    <p>Referring to the <xref ref="HarmonicFlowchart" text="title">Harmonic Flowchart</xref>, fill in lead<ndash/>sheet symbols, Roman numerals, and <xref ref="HarmonicFunction" text="title">Harmonic Functions</xref> for the following example<mdash/>be sure to put some of the chords in first inversion for variety; create a melody by adding embellishments (<xref ref="NonChordTonesIntroduction" text="title">non<ndash/>chord tones</xref>) and try to create repeating <xref ref="MotiveSection" text="title">motives</xref> and/or <xref ref="subphrase" text="title">subphrases</xref>; LSS stands for lead<ndash/>sheet symbols, RN stands for Roman numerals, and HF stands for Harmonic Function</p>
+                    <p>Referring to the <xref ref="HarmonicFlowchart" text="title">Harmonic Flowchart</xref>, fill in lead-sheet symbols, Roman numerals, and <xref ref="HarmonicFunction" text="title">Harmonic Functions</xref> for the following example<mdash/>be sure to put some of the chords in first inversion for variety; create a melody by adding embellishments (<xref ref="NonChordTonesIntroduction" text="title">non-chord tones</xref>) and try to create repeating <xref ref="MotiveSection" text="title">motives</xref> and/or <xref ref="subphrase" text="title">subphrases</xref>; LSS stands for lead-sheet symbols, RN stands for Roman numerals, and HF stands for Harmonic Function</p>
                     <sidebyside>
                         <image source="images/unit5/PRAC-EXER-mod-compose-mod-e-to-b-v2"/>
                     </sidebyside>
@@ -727,14 +727,14 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>Analyze lead<ndash/>sheet symbols, motives (with numbers, noting melodic alteration when it occurs), non<ndash/>chord tones, Roman numerals, and harmonic function.</p>
+                    <p>Analyze lead-sheet symbols, motives (with numbers, noting melodic alteration when it occurs), non-chord tones, Roman numerals, and harmonic function.</p>
                     <sidebyside>
                         <image source="images/unit5/HW-mod-compose-based-on-GKB"/>
                     </sidebyside>
                     <sidebyside>
                         <image source="images/unit5/HW-mod-compose-based-on-GKB-2"/>
                     </sidebyside>
-                    <p>Compose an eight<ndash/>measure example using the motivic structure and harmonic function in the example above. Create a new melody with new motives but the same sequence of motives. You may use a different time signature, mode, and accompanimental texture.</p>
+                    <p>Compose an eight-measure example using the motivic structure and harmonic function in the example above. Create a new melody with new motives but the same sequence of motives. You may use a different time signature, mode, and accompanimental texture.</p>
                     <sidebyside>
                         <image source="images/unit5/HW-mod-compose-based-on-GKB-blank1"/>
                     </sidebyside>

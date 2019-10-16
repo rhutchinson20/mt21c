@@ -12,7 +12,7 @@
     </section>
     <section xml:id="TheMajorScale">
         <title>The Major Scale</title>
-        <p>A major scale contains a specific succession of whole and half steps. It is helpful to think of the pattern as consisting of two tetrachords. (A <term>tetrachord</term><idx><h>tetrachord</h></idx> is a four<ndash/>note scale segment.) The lower tetrachord consists of the pattern whole step, whole step, half step. A whole step joins the lower tetrachord to the upper tetrachord. The upper tetrachord duplicates the pattern in the lower one: whole step, whole step, half step. If we use W for whole step and H for half step, the major scale pattern is W<ndash/>W<ndash/>H, Whole<ndash/>step connection, W<ndash/>W<ndash/>H.</p>
+        <p>A major scale contains a specific succession of whole and half steps. It is helpful to think of the pattern as consisting of two tetrachords. (A <term>tetrachord</term><idx><h>tetrachord</h></idx> is a four-note scale segment.) The lower tetrachord consists of the pattern whole step, whole step, half step. A whole step joins the lower tetrachord to the upper tetrachord. The upper tetrachord duplicates the pattern in the lower one: whole step, whole step, half step. If we use W for whole step and H for half step, the major scale pattern is W<ndash/>W<ndash/>H, Whole<ndash/>step connection, W<ndash/>W<ndash/>H.</p>
         <figure>
             <caption>The D major scale on a keyboard</caption>
             <image source="images/unit1/tetrachords-on-piano">
@@ -69,8 +69,8 @@
             <title>Identifying Key Signatures</title>
             <p>While it is preferable to memorize key signatures, use the following method to determine major key signatures based on the sharps or flats in the key signature.</p>
             <ol>
-                <li><p><em>For key signatures withs sharps</em>: Go up a half<ndash/>step from the last sharp to find the key.</p></li>
-                <li><p><em>For key signatures with flats</em>: The second<ndash/>to<ndash/>last flat is the key.</p></li>
+                <li><p><em>For key signatures withs sharps</em>: Go up a halfstep from the last sharp to find the key.</p></li>
+                <li><p><em>For key signatures with flats</em>: The second-to-last flat is the key.</p></li>
             </ol>
         </subsection>
     </section>

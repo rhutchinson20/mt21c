@@ -10,7 +10,7 @@
                 <tabular halign="center">
                     <row header="yes" bottom="major">
                         <cell><em>Key</em></cell>
-                        <cell><em>Lead<ndash/>Sheet</em></cell>
+                        <cell><em>Lead-Sheet</em></cell>
                         <cell><em>Root</em></cell>
                         <cell><em>Scale Degree of Root</em></cell>
                         <cell><em>Roman Numeral</em></cell>
@@ -134,7 +134,7 @@
                 <description>The most commonly used diatonic triads in A minor: A minor, B diminished, C major, D minor, E major, F major, and G-sharp diminished, with Roman numerals</description>
             </image>
         </sidebyside>
-        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q><term>subtonic triad</term></q><idx><h>subtonic triad</h><h>definition of</h></idx>) and <chord root="vii" mode="diminished"/> (the <q>leading<ndash/>tone triad</q>) are included. The subtonic triad (<chord root="VII"/>), built on the lowered <scaledeg>7</scaledeg> that occurs in <em>natural</em> minor, regularly occurs in <xref ref="CircleOfFifths" text="title">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="title">in rock and pop music</xref>, while the leading<ndash/>tone triad (<chord root="vii" mode="diminished"/>), built on raised <scaledeg>7</scaledeg>, is usually either a passing harmony or has <xref ref="HarmonicFunction" text="title">dominant function</xref>.</p>
+        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q><term>subtonic triad</term></q><idx><h>subtonic triad</h><h>definition of</h></idx>) and <chord root="vii" mode="diminished"/> (the <q>leading-tone triad</q>) are included. The subtonic triad (<chord root="VII"/>), built on the lowered <scaledeg>7</scaledeg> that occurs in <em>natural</em> minor, regularly occurs in <xref ref="CircleOfFifths" text="title">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="title">in rock and pop music</xref>, while the leading-tone triad (<chord root="vii" mode="diminished"/>), built on raised <scaledeg>7</scaledeg>, is usually either a passing harmony or has <xref ref="HarmonicFunction" text="title">dominant function</xref>.</p>
     </section>
     <section xml:id="cadences">
         <title>Cadences</title>
@@ -153,8 +153,8 @@
             <title>Examples of Authentic Cadences</title>
             <idx><h>authentic cadence</h><h>musical examples</h></idx>
             <figure>
-            	<caption>Francis Scott Key and John Stafford Smith, <q>Star<ndash/>Spangled Banner</q></caption>
-            	<idx><h>Star<ndash/>Spangled Banner</h><h>musical example</h></idx>
+            	<caption>Francis Scott Key and John Stafford Smith, <q>Star-Spangled Banner</q></caption>
+            	<idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
             	<sbsgroup>
                 	<sidebyside>
                     	<image source="images/unit2/cadences-auth-cad-star-spangled">
@@ -166,10 +166,10 @@
                 	</sidebyside>
             	</sbsgroup>
         	</figure>
-            <p>In the example above, the notes surrounded by parentheses are <xref ref="NonChordTones" text="title">non<ndash/>chord tones</xref>, which will be studied later. Also, there are <xref ref="SeventhChords" text="title">seventh chords</xref> in this example, which we will study in the next chapter.</p>
+            <p>In the example above, the notes surrounded by parentheses are <xref ref="NonChordTones" text="title">non-chord tones</xref>, which will be studied later. Also, there are <xref ref="SeventhChords" text="title">seventh chords</xref> in this example, which we will study in the next chapter.</p>
             <p>Here is another example ending with an authentic cadence.</p>
             <figure>
-            	<caption>Lennon<ndash/>McCartney, <q>I Want to Hold Your Hand</q></caption>
+            	<caption>Lennon-McCartney, <q>I Want to Hold Your Hand</q></caption>
             	<idx><h>songs (popular)</h><h><q>I Want to Hold Your Hand</q> (Beatles)</h></idx>
             	<sbsgroup>
                 	<sidebyside>
@@ -268,7 +268,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>A deceptive cadence means <chord root="V"/> did not go to <chord root="I"/>. This means that <q><chord root="V"/> to not<ndash/><chord root="I"/></q> is technically a more correct description for a deceptive cadence than <chord root="V"/><ndash/><chord root="vi"/>, which is the most common realization of <q><chord root="V"/> to not<ndash/><chord root="I"/>.</q></p>
+            <p>A deceptive cadence means <chord root="V"/> did not go to <chord root="I"/>. This means that <q><chord root="V"/> to not-<chord root="I"/></q> is technically a more correct description for a deceptive cadence than <chord root="V"/>-<chord root="vi"/>, which is the most common realization of <q><chord root="V"/> to not-<chord root="I"/>.</q></p>
             <p>In the example below, <chord root="V"/> goes to <chord root="IV" bass="3rd"/>.</p>
             <figure>
                 <caption>Mozart, <pubtitle>Ave Verum Corpus</pubtitle>, K. 618</caption>
@@ -333,6 +333,7 @@
             </figure>
         </subsection>
     </section>
+    <!--a section is needed on analyzing chords in simple two-part textures, like in Bach Inventions and Mozart Piano Sonatas(and more analysis examples of this type are needed)-->
     <exercises xml:id="RomanNumeralPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>

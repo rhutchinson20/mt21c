@@ -39,10 +39,10 @@
 	</section>
 	<section xml:id="ChoraleTexture">
 		<title>Chorale Texture</title>
-		<p>Chorale textures are those in which there is a chord for every (or nearly every) melody note. A familiar example of chorale texture is the <q>Star<ndash/>Spangled Banner.</q></p>
+		<p>Chorale textures are those in which there is a chord for every (or nearly every) melody note. A familiar example of chorale texture is the <q>Star-Spangled Banner.</q></p>
 		<figure>
-			<caption>Francis Scott Key and John Stafford Smith, <q>The Star<ndash/>-Spangled Banner</q></caption>
-			<idx><h>Star<ndash/>Spangled Banner</h></idx>
+			<caption>Francis Scott Key and John Stafford Smith, <q>The Star-Spangled Banner</q></caption>
+			<idx><h>Star-Spangled Banner</h></idx>
 			<sbsgroup>
 				<sidebyside>
 					<image source="images/unit3/textures-chorale-star-spangled">
@@ -237,8 +237,8 @@
 			<ul>
 				<li><p><xref ref="One-Two-And" text="title">The <q>1 (2) <ampersand/></q> rhythm</xref></p></li>
 				<li><p><xref ref="WalkingOnSunshineRhythm" text="title">The <q>Barbara Ann</q> Rhythm</xref></p></li>
-				<li><p><xref ref="EighthNoteChords" text="title">Repeated 8th<ndash/>note Chords</xref></p></li>
-				<li><p><xref ref="QuarterNoteChords" text="title">Repeated Quarter<ndash/>note Chords</xref></p></li>
+				<li><p><xref ref="EighthNoteChords" text="title">Repeated 8th-note Chords</xref></p></li>
+				<li><p><xref ref="QuarterNoteChords" text="title">Repeated Quarter-note Chords</xref></p></li>
 			</ul>
 		</introduction>
 		<subsection xml:id="One-Two-And">
@@ -394,7 +394,7 @@
 				</sbsgroup>
 			</figure>
 			<figure>
-				<caption>Holland<ndash/>Dozier<ndash/>Holland, <q>You Can't Hurry Love</q></caption>
+				<caption>Holland-Dozier-Holland, <q>You Can't Hurry Love</q></caption>
 				<idx><h>songs (popular)</h><h><q>You Can't Hurry Love</q> (The Supremes)</h></idx>
 				<sbsgroup>
 					<sidebyside>
@@ -466,8 +466,8 @@
 			</figure>
 		</subsection>
 		<subsection xml:id="EighthNoteChords">
-			<title>Repeated 8th<ndash/>note Chords</title>
-			<p>Repeated 8th<ndash/>note chords occur regularly in <q>Classical</q> music textures.</p>
+			<title>Repeated 8th-note Chords</title>
+			<p>Repeated 8th-note chords occur regularly in <q>Classical</q> music textures.</p>
 			<figure>
 				<caption>Mozart, Piano Sonata K. 310, I</caption>
 				<idx><h>Mozart, W.A.</h><h>Piano Sonata K. 310, I</h></idx>
@@ -540,7 +540,7 @@
 					</sidebyside>
 				</sbsgroup>
 			</figure>
-			<p>The repeated eighth<ndash/>note rhythm is also common in recent popular music. Note that the following example uses the 1950's progression (i.e., <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>).</p>
+			<p>The repeated eighth-note rhythm is also common in recent popular music. Note that the following example uses the 1950's progression (i.e., <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>).</p>
 			<figure>
 				<caption>Ruess, Dost, Antonoff, and Bhasker, <q>We Are Young</q></caption>
 				<idx><h>songs (popular)</h><h><q>We Are Young</q> (fun.)</h></idx>
@@ -557,8 +557,8 @@
 			</figure>
 		</subsection>
 		<subsection xml:id="QuarterNoteChords">
-			<title>Repeated Quarter<ndash/>note Chords</title>
-			<p>Repeated quarter<ndash/>note chords are a common accompanimental rhythm in <q>Classical</q> and popular music.</p>
+			<title>Repeated Quarter-note Chords</title>
+			<p>Repeated quarter-note chords are a common accompanimental rhythm in <q>Classical</q> and popular music.</p>
 			<figure>
 				<caption>Handel, <pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></caption>
 				<idx><h>Handel</h><h><pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></h></idx>
@@ -681,7 +681,7 @@
 					</sidebyside> 
 				</sbsgroup>
 			</figure>
-			<p>In the next example, the afterbeats are not repeated chords but instead are passing<ndash/>tone figures harmonized in thirds.</p>
+			<p>In the next example, the afterbeats are not repeated chords but instead are passing-tone figures harmonized in thirds.</p>
 			<figure>
 				<caption>Mozart, Piano Sonata K. 279, III</caption>
 				<idx><h>Mozart, W.A.</h><h>Piano Sonata K. 279, III</h></idx>
@@ -815,9 +815,9 @@
 	<section xml:id="ThreeTwoClave">
 		<title>The 3<ndash/>2 Clav&#x00E9;</title>
 		<introduction>
-			<p>The 3<ndash/>2 clav&#x00E9; (and the 2<ndash/>3 clav&#x00E9;) <idx><h>3<ndash/>2 clave</h></idx>are essential rhythmic elements in Afro-Cuban music. In this section we will see how cross rhythms implied by the 3<ndash/>2 clav&#x00E9; can be viewed as a possible source of cross rhythms in popular music. Here is a video demonstration of a 3<ndash/>2 clav&#x00E9;.</p>
+			<p>The 3<ndash/>2 clav&#x00E9; (and the 2-3 clav&#x00E9;) <idx><h>3<ndash/>2 clave</h></idx>are essential rhythmic elements in Afro-Cuban music. In this section we will see how cross rhythms implied by the 3<ndash/>2 clav&#x00E9; can be viewed as a possible source of cross rhythms in popular music. Here is a video demonstration of a 3<ndash/>2 clav&#x00E9;.</p>
 			<sidebyside margins="4%">
-				<video youtube="dxVeiPQ1juo" start="3" end="20" play-at="select"/>
+				<video xml:id="ThreeTwoClaveVideo" youtube="dxVeiPQ1juo" start="3" end="20" play-at="select" preview="images/ThreeTwoClaveVideo.jpg"/>
 			</sidebyside>
 			<p>Here is rhythmic notation of a 3<ndash/>2 clav&#x00E9;. Notice there are three attacks in the first measure and 2 attacks in the second bar.</p>
 			<sidebyside>
@@ -877,7 +877,7 @@
 						<description/>
 					</image>
 				</sidebyside>
-				<p>The example below shows the sixteenth<ndash/>note subdivisions in the 3+3+2 rhythm.</p>
+				<p>The example below shows the sixteenth-note subdivisions in the 3+3+2 rhythm.</p>
 				<sidebyside>
 					<image source="images/unit3/texture-3-3-2-in-16ths">
 						<description/>
@@ -898,7 +898,7 @@
 						<video youtube="cczwRUBxNL8" start="67" end="79" play-at="select" preview="generic"/>
 					</sidebyside>
 				</figure>
-				<p>The well<ndash/>known introduction to <q>Eye of the Tiger</q> uses the 3+3+2 rhythm.</p>
+				<p>The well-known introduction to <q>Eye of the Tiger</q> uses the 3+3+2 rhythm.</p>
 				<figure>
 					<caption>Sullivan and Peterik, <q>Eye of the Tiger</q></caption>
 					<idx><h>songs (popular)</h><h><q>Eye of the Tiger</q> (Survivor)</h></idx>
@@ -935,7 +935,7 @@
 						<video youtube="450p7goxZqg" start="0" end="16" play-at="select" preview="generic"/>
 					</sidebyside>
 				</figure>
-				<p>Notice that this progression is from the <xref ref="BestsellerProgression" text="title"> Best<ndash/>Seller progression</xref>.</p>
+				<p>Notice that this progression is from the <xref ref="BestsellerProgression" text="title"> Best-Seller progression</xref>.</p>
 				<figure>
 					<caption>Mendes, Geiger, and Harris, <q>Treat You Better</q></caption>
 					<idx><h>songs (popular)</h><h><q>Treat You Better</q> (Shawn Mendes)</h></idx>
@@ -1037,7 +1037,7 @@
 						<video youtube="kJQP7kiw5Fk" start="82" end="96" play-at="select" preview="generic"/>
 					</sidebyside>
 				</figure>
-				<p>Notice that the progression for <q>Despacito</q> comes from the <xref ref="BestsellerProgression" text="title"> Best<ndash/>Seller progression</xref>.</p>
+				<p>Notice that the progression for <q>Despacito</q> comes from the <xref ref="BestsellerProgression" text="title"> Best-Seller progression</xref>.</p>
 				<figure>
 					<caption>Bieber, Michaels, Tranter, Moore, and Tucker, <q>Sorry</q></caption>
 					<idx><h>songs (popular)</h><h><q>Sorry</q> (Justin Bieber)</h></idx>
@@ -1199,7 +1199,7 @@
 				</sidebyside>
 			</figure>
 			<figure>
-				<caption>Lennon<ndash/>McCartney, <q>Day Tripper</q> (1965)</caption>
+				<caption>Lennon-McCartney, <q>Day Tripper</q> (1965)</caption>
 				<idx><h>songs (popular)</h><h><q>Day Tripper</q> (Beatles)</h></idx>
 				<sidebyside margins="37%">
 					<video youtube="eeFpUDCyTUo" start="0" end="14" play-at="select" preview="generic"/>

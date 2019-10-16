@@ -3,10 +3,10 @@
     <title>Sonata and Rondo Forms</title>
     <section xml:id="SonataIntroduction">
         <title>Sonata Form</title>
-        <introduction><p><term>Sonata form</term><idx><h>sonata form</h></idx>, also known as <q>first<ndash/>movement form,</q> is <q>[t]he most important principle of musical form, or formal type, from the Classical period well into the 20th century,</q> according to the Grove Music Online. The purpose of this chapter is to serve as an introduction to formal, thematic, and harmonic aspects of sonata form. We will focus on sonata form as it existed during the height of the Classical era. Further and more detailed study of sonata form occurs in higher<ndash/>level music theory courses.</p></introduction>
+        <introduction><p><term>Sonata form</term><idx><h>sonata form</h></idx>, also known as <q>first-movement form,</q> is <q>[t]he most important principle of musical form, or formal type, from the Classical period well into the 20th century,</q> according to the Grove Music Online. The purpose of this chapter is to serve as an introduction to formal, thematic, and harmonic aspects of sonata form. We will focus on sonata form as it existed during the height of the Classical era. Further and more detailed study of sonata form occurs in higher-level music theory courses.</p></introduction>
         <subsection xml:id="DiagramOfSonataForm">
             <title>Diagram of Sonata Form</title>
-            <p>Below is a generalized diagram of sonata form, which serves as our starting point. Real<ndash/>world examples will contain differences and elaborations.</p>
+            <p>Below is a generalized diagram of sonata form, which serves as our starting point. Real-world examples will contain differences and elaborations.</p>
             <sidebyside>
                 <image source="images/unit7/sonata-DIAGRAM">
                     <description/>
@@ -25,7 +25,7 @@
                 <caption>Tchaikovsky, <pubtitle>The Nutcracker</pubtitle>, <q>Miniature Overture</q> (1892)</caption>
                 <idx><h>Tchaikovsky</h><h><pubtitle>The Nutcracker</pubtitle></h><h><q>Miniature Overture</q></h></idx>
                 <sidebyside>
-                    <video youtube="JRXIDEpquCg" start="0" end="209" play-at="select"/>
+                    <video xml:id="NutcrackerSonatina" youtube="JRXIDEpquCg" start="0" end="209" play-at="select"/>
                 </sidebyside>
             </figure>
             <sidebyside>
@@ -65,8 +65,8 @@
         </subsection>
         <subsection xml:id="SonataPrinciple">
             <title>Sonata Principle</title>
-            <p>Important to sonata form is sonata principle, which Charles Rosen discusses in his book <pubtitle>Sonata Forms</pubtitle>.</p> <!--find the right quote-->
-            <blockquote><p>The exposition of a sonata form presents the thematic material and articulates the movement from tonic to dominant in various ways so that it takes on the character of a polarization or opposition. The essential character of this opposition may be defined as a large<ndash/>scale dissonance: the material played outside the tonic (i.e., in the second group) is dissonant with respect to the center of stability, or tonic. Sonata style did not invent this concept of <em>dissonant section</em>, but it was the first style to make it the generating force of an entire movement.<fn><pubtitle>Sonata Forms</pubtitle>, Revised Edition, 1988, p. 229</fn></p></blockquote>
+            <p>Important to sonata form is sonata principle, which Charles Rosen discusses in his book <pubtitle>Sonata Forms</pubtitle>.</p>
+            <blockquote><p>The exposition of a sonata form presents the thematic material and articulates the movement from tonic to dominant in various ways so that it takes on the character of a polarization or opposition. The essential character of this opposition may be defined as a large-scale dissonance: the material played outside the tonic (i.e., in the second group) is dissonant with respect to the center of stability, or tonic. Sonata style did not invent this concept of <em>dissonant section</em>, but it was the first style to make it the generating force of an entire movement.<fn><pubtitle>Sonata Forms</pubtitle>, Revised Edition, 1988, p. 229</fn></p></blockquote>
             <p>Rosen continues:</p>
             <blockquote><p>The dominant is conceived as a <em>dissonant tonality</em> in the exposition....The polarization, in fact, leads to the concept of a <em>dissonant section</em>, which raises the dissonant interval or chord to a higher power: that is, a simple reintroduction of the tonic key will no longer serve as a resolution, but the section outside the tonic needs to be resolved as a whole.<fn><pubtitle>Sonata Forms</pubtitle>, Revised Edition, 1988, p. 244</fn></p></blockquote>
         </subsection>
@@ -88,128 +88,122 @@
         </introduction>
         <subsection xml:id="ExpositoryFunction">
             <title>Expository Function</title>
-            <p>Music expressing <term>expository function</term><idx><h>expository function</h><h>definition of</h></idx> maintains a stable tonal center and clear melodies, usually with well<ndash/>defined phrases. The vast majority of the music we encountered in binary and ternary form in the last chapter was expository in nature. Additionally, the primary and secondary themes in a sonata form are usually have expository function. Below is the secondary theme from the first movement of Mozart’s Piano Sonata, K. 333.</p>
+            <p>Music expressing <term>expository function</term><idx><h>expository function</h><h>definition of</h></idx> maintains a stable tonal center and clear melodies, usually with well-defined phrases. The vast majority of the music we encountered in binary and ternary form in the last chapter was expository in nature. Additionally, the primary and secondary themes in a sonata form are usually have expository function. Below is the secondary theme from the first movement of Mozart’s Piano Sonata, K. 333.</p>
+            <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 333, I</h></idx>
+            <sidebyside>
+                <image source="images/unit7/sonata-K333-I-ST-A">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-K333-I-ST-B">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-K333-I-ST-C">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-K333-I-ST-D">
+                    <description/>
+                </image>
+            </sidebyside>
             <figure>
                 <caption>Mozart, Piano Sonata, K. 333, I, Secondary Theme</caption>
-                <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 333, I</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-K333-I-ST-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-K333-I-ST-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-K333-I-ST-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-K333-I-ST-D">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="PmO3Wlono6w" start="350" end="381" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <sidebyside margins="37%">
+                <video youtube="PmO3Wlono6w" start="350" end="381" play-at="select" preview="generic"/>
+                </sidebyside>
             </figure>
-            <p>Notice the perfect authentic cadence that closes off this four<ndash/>phrase parallel double period within the larger sonata form. Cadences are important demarcations within a form.</p>
+            <p>Notice the perfect authentic cadence that closes off this four-phrase parallel double period within the larger sonata form. Cadences are important demarcations within a form.</p>
         </subsection>
         <subsection xml:id="TransitionalFunction">
             <title>Transitional Function</title>
             <p>Music of <term>transitional function</term><idx><h>transitional function</h><h>definition of</h></idx> moves from one tonal center to another and often features a contrasting accompanimental texture more rhythmically active than preceding expository material. Tonicizations may also occur within a transition. Transitions are sometimes called bridges. Mozart and Haydn often ended their sonata form transitions with a half cadence followed by a rest to signal that the secondary theme was about to commence. Again, notice the importance of cadences to demarcate the form.</p>
+            <idx><h>Haydn</h><h>Piano Sonata in C major, Hob. XVI:35, I.</h></idx>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-haydn-XVI35-I-A">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-haydn-XVI35-I-B">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-haydn-XVI35-I-C">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-haydn-XVI35-I-D">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-haydn-XVI35-I-E">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-haydn-XVI35-I-F">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-haydn-XVI35-I-G">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-haydn-XVI35-I-H">
+                    <description/>
+                </image>
+            </sidebyside>
             <figure>
                 <caption>Haydn, Piano Sonata in C major, Hob. XVI:35, I.</caption>
-                <idx><h>Haydn</h><h>Piano Sonata in C major, Hob. XVI:35, I.</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-D">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-E">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-F">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-G">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-haydn-XVI35-I-H">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="Lfq9P-zT_0I" start="0" end="47" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <sidebyside margins="37%">
+                <video youtube="Lfq9P-zT_0I" start="0" end="47" play-at="select" preview="generic"/>
+            </sidebyside>
             </figure>
+            <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 284, I</h></idx>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-moz-284-I-A">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-moz-284-I-B">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-moz-284-I-C">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-moz-284-I-D">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-moz-284-I-E">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-trans-moz-284-I-F">
+                    <description/>
+                </image>
+            </sidebyside>
             <figure>
                 <caption>Mozart, Piano Sonata, K. 284, I.</caption>
-                <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 284, I</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-moz-284-I-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-moz-284-I-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-moz-284-I-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-moz-284-I-D">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-moz-284-I-E">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-trans-moz-284-I-F">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="34stw2rF0t8" start="0" end="37" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <sidebyside margins="37%">
+                    <video youtube="34stw2rF0t8" start="0" end="37" play-at="select" preview="generic"/>
+                </sidebyside>
             </figure>
         </subsection>
         <subsection xml:id="DevelopmentalFunction">
@@ -235,36 +229,34 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
+            <idx><h>Beethoven</h><h><pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, III</h><h>Terminative function in Closing Theme</h></idx>
+            <sidebyside>
+                <image source="images/unit7/sonata-term-beeth-moon-III-A">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-term-beeth-moon-III-B">
+                    <description/>
+                </image>
+            </sidebyside>
+            <sidebyside>
+                <image source="images/unit7/sonata-term-beeth-moon-III-C">
+                    <description/>
+                </image>
+            </sidebyside>
             <figure>
                 <caption>Beethoven, <pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, III, Closing Theme (1802)</caption>
-                <idx><h>Beethoven</h><h><pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, III</h><h>Terminative function in Closing Theme</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-term-beeth-moon-III-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-term-beeth-moon-III-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit7/sonata-term-beeth-moon-III-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="aOzWTNaQRxQ" start="81" end="93" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <sidebyside margins="37%">
+                    <video youtube="aOzWTNaQRxQ" start="81" end="93" play-at="select" preview="generic"/>
+                </sidebyside>
             </figure>
             <p>Go to the <xref ref="SonataAndRondoPracticeExercises" text="title">Practice Exercises</xref> at the end of this chapter to practice identifying these four structural functions aurally.</p>
         </subsection>
     </section>
     <section xml:id="RondoForm">
         <title>Rondo Form</title>
-        <introduction><p>A <term>rondo</term><idx><h>rondo form</h></idx> is a piece that begins with a refrain (an A section) that alternates with episodes (B and C). The 5-part rondo, an example of which we encountered in an earlier chapter, has ABACA form or ABABA form. The 7<ndash/>part rondo typically has ABACABA form, although other designs exist. A diagram for 7<ndash/>part Classical form is shown below.</p>
+        <introduction><p>A <term>rondo</term><idx><h>rondo form</h></idx> is a piece that begins with a refrain (an A section) that alternates with episodes (B and C). The 5-part rondo, an example of which we encountered in an earlier chapter, has ABACA form or ABABA form. The 7-part rondo typically has ABACABA form, although other designs exist. A diagram for 7-part Classical form is shown below.</p>
         <sidebyside>
             <image source="images/unit7/rondo-DIAGRAM">
                 <description/>
@@ -272,7 +264,7 @@
         </sidebyside>
         <p>The refrain (the A section) is always in tonic. The first episode (the B section) was typically in a closely related key—the dominant (V) if in major or the mediant (III) if in minor. There was greater variety of keys used for the second episode (the C section), including tonic minor in a major sonata or the submediant (vi or VI). A retransition in this case is defined as a transition returning to material previously heard.</p>
         <p>Note that the B section being first stated in the dominant then later in tonic is an example of sonata principle, a principle which occurred in many Classical era pieces (see Charles Rosen’s <pubtitle>Sonata Forms</pubtitle> for more on sonata principle).</p>
-        <p>An example of Classical seven<ndash/>part rondo form is found below in the third and final movement of Beethoven’s Path&#x00E9;tique Sonata, Op. 13.</p>
+        <p>An example of Classical seven-part rondo form is found below in the third and final movement of Beethoven’s Path&#x00E9;tique Sonata, Op. 13.</p>
         <figure>
             <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, III (1798), Refrain</caption>
             <idx><h>Beethoven</h><h>Path&#x00E9;tique Sonata, Op. 13, III</h></idx>
@@ -453,7 +445,7 @@
                 <figure>
                     <caption>Mozart, String Quartet No. 19 in C major, K.465, IV.</caption>
                     <sidebyside margins="37%">
-                        <video youtube="6zbNgyJkzdw" start="1369" end="1470" play-at="select" preview="generic"/>
+                        <video youtube="zuMs8kD5Des" start="1431" end="1470" play-at="select" preview="generic"/>
                     </sidebyside>1567
                 </figure>
             </li>
@@ -464,17 +456,14 @@
         <p>Below are the forms commonly encountered in the various movements of Classical symphonies, string quartets, and sonatas.</p>
         <ol>
             <li><p>First movement: Sonata form</p></li>
-            <li><p>Second movement: Ternary form (ABA), Sonatina form, or five<ndash/>part Rondo</p></li>
+            <li><p>Second movement: Ternary form (ABA), sonatina form, or five-part rondo</p></li>
             <li><p>Third movement: Minuet and Trio (Compound Ternary)</p></li>
-            <li><p>Fourth movement: Rondo form, Sonata form, or Sonata rondo form</p></li>
+            <li><p>Fourth movement: Rondo form, sonata form, or sonata rondo form</p></li>
         </ol>
     </section>
     <exercises xml:id="SonataAndRondoPracticeExercises">
         <title>Practice Exercises</title>
         <exercisegroup>
-            <!--save for when there are Rondo exercises <introduction>
-                <p>Day One</p>
-            </introduction> -->
             <exercise>
                 <statement>
                     <p>For each excerpt below, identify the structural function as either expository, transitional, developmental, or terminative. First, aurally identify the tonic and determine if the key is maintained or another (or multiple other) keys occur. Also, listen for cadences to demarcate the form.</p>
@@ -606,7 +595,7 @@
                                 </image>
                             </sidebyside>
                             <sidebyside>
-                                <video youtube="Rxsrsp7dLCg" start="0" end="186" play-at="select"/>
+                                <video xml:id="mozart-k545-sonata" youtube="Rxsrsp7dLCg" start="0" end="186" play-at="select"/>
                             </sidebyside>
                         </sbsgroup>
                     </figure>
@@ -619,7 +608,7 @@
                                 </image>
                             </sidebyside>
                             <sidebyside>
-                                <video youtube="wPKFdj5V3Bw" start="0" end="344" play-at="select"/>
+                                <video xml:id="mozart-k525-sonata" youtube="wPKFdj5V3Bw" start="0" end="344" play-at="select"/>
                             </sidebyside>
                         </sbsgroup>
                     </figure>
@@ -664,7 +653,7 @@
                             <figure>
                                 <caption>Beethoven, Symphony No. 5 in C Minor, Op. 67, IV.</caption>
                                 <sidebyside margins="37%">
-                                    <video youtube="6z4KK7RWjmk" start="1491" end="1527" play-at="select" preview="generic"/>
+                                    <video youtube="fOk8Tm815lE" start="1493" end="1532" play-at="select" preview="generic"/>
                                 </sidebyside>
                             </figure>
                         </li>
@@ -694,7 +683,7 @@
                         </li>
                         <li>
                             <figure>
-                                <caption>Mozart, String Quartet No. 17 In B<ndash/>flat, K.458, IV.</caption>
+                                <caption>Mozart, String Quartet No. 17 In B-flat, K.458, IV.</caption>
                                 <sidebyside margins="37%">
                                     <video youtube="nHtaGz8sqTw" start="1260" end="1285" play-at="select" preview="generic"/>
                                 </sidebyside>
@@ -726,7 +715,7 @@
                         </li>
                         <li>
                             <figure>
-                                <caption>Mozart, String Quartet No. 17 In B<ndash/>flat, K.458, IV.</caption>
+                                <caption>Mozart, String Quartet No. 17 In B-flat, K.458, IV.</caption>
                                 <sidebyside margins="37%">
                                     <video youtube="nHtaGz8sqTw" start="1421" end="1435" play-at="select" preview="generic"/>
                                 </sidebyside>

@@ -40,7 +40,7 @@
                 <video youtube="6V1hokSS4TU" start="193" end="221" play-at="select" preview="generic"/>
             </sidebyside>
         </figure>
-        <p>To hear additive process in Glass’s well<ndash/>known <pubtitle>Einstein on the Beach</pubtitle>, listen to the following minute of music from Act 1, Scene 1, <q>Train.</q> Each chord in a five<ndash/>chord cadential progression is gradually lengthened by adding to the number of subdivisions given to each chord. </p>
+        <p>To hear additive process in Glass’s well-known <pubtitle>Einstein on the Beach</pubtitle>, listen to the following minute of music from Act 1, Scene 1, <q>Train.</q> Each chord in a five<ndash/>chord cadential progression is gradually lengthened by adding to the number of subdivisions given to each chord. </p>
         <figure>
             <caption>Glass, <pubtitle>Einstein on the Beach</pubtitle></caption>
             <idx><h>Glass, Philip</h><h><pubtitle>Einstein on the Beach</pubtitle></h><h>Act 1, Scene 1, <q>Train</q></h></idx>
@@ -62,7 +62,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside>
-                    <video youtube="lzkOFJMI5i8" start="20" end="234" play-at="embed"/><!--no preview-->
+                    <video xml:id="reich-clapping-music" youtube="lzkOFJMI5i8" start="20" end="234" play-at="embed"/><!--no preview-->
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -77,7 +77,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside>
-                    <video youtube="57TuvksMR70" start="0" end="386" play-at="embed"/>
+                    <video xml:id="reich-piano-phase" youtube="57TuvksMR70" start="0" end="386" play-at="embed"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -103,7 +103,7 @@
         <figure>
             <caption>Reich, <pubtitle>Three Movements</pubtitle>, II.</caption><idx><h>Reich, Steve</h><h><pubtitle>Three Movements</pubtitle>, II.</h></idx>
             <sidebyside>
-                <video youtube="XIuJ_my4_-k" start="478" end="548" play-at="embed"/>
+                <video xml:id="reich-three-movements" youtube="XIuJ_my4_-k" start="478" end="548" play-at="embed"/>
             </sidebyside>
         </figure>
         <p>It is worth mentioning that composers like Stravinsky applied rotation to serialism, which Joseph Straus details in Chapter 6 of his <pubtitle>Introduction to Post<ndash/>Tonal Analysis</pubtitle> (4th edition). </p>

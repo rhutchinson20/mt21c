@@ -5,7 +5,7 @@
         <title>Mode Mixture</title>
         <p><term>Mode mixture</term><idx><h>mode mixture</h><h>definition of</h></idx> typically consists of borrowing chords from the parallel minor during a passage in a major key. <q><term>Borrowed chords</term></q><idx><h>borrowed chords</h><h>definition of</h></idx> refers to borrowing chords from minor and is synonymous with mode mixture. In the examples that follow, notice the lowered chromaticisms<mdash/><flat/><scaledeg>6</scaledeg> is most common but <flat/><scaledeg>3</scaledeg> and <flat/><scaledeg>7</scaledeg> also occur in borrowed chords.</p>
         <figure>
-            <caption>Lennon<ndash/>McCartney, <q>Blackbird</q> (1968)</caption>
+            <caption>Lennon-McCartney, <q>Blackbird</q> (1968)</caption>
             <idx><h>songs (popular)</h><h><q>Blackbird</q> (The Beatles)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -224,8 +224,8 @@
         <title>The Deceptive Cadence with <flat/><chord root="VI"/></title>
         <p>The <chord root="V"/><ndash/><flat/><chord root="VI"/> deceptive cadence is a deceptive realization of a deceptive progression. This <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence ties into the <xref ref="i-VII-VI-VII" text="title"><flat/><chord root="VI"/><ndash/><flat/><chord root="VII"/><ndash/><chord root="I"/> progression</xref> to produce an <q>epic</q> (although somewhat clich&#x00E9;d) ending to the <q>Star Spangled Banner</q> as performed at the Super Bowl and Presidential Inaugurations by artists such as Whitney Houston, Beyonc&#x00E9;, and Lady Gaga, among others.</p>
         <figure>
-            <caption>John Stafford Smith and Francis Scott Key, <q>The Star Spangled Banner</q> (1814) as performed by Whitney Houston at the 1991 Super Bowl</caption>
-            <idx><h>Star<ndash/>Spangled Banner</h><h>musical example</h></idx>
+            <caption>John Stafford Smith and Francis Scott Key, <q>The Star-Spangled Banner</q> (1814) as performed by Whitney Houston at the 1991 Super Bowl</caption>
+            <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/mode-mix-deceptive-whitney">
@@ -238,8 +238,8 @@
             </sbsgroup>
         </figure>
         <figure>
-            <caption>John Stafford Smith and Francis Scott Key, <q>The Star Spangled Banner</q> (1814) as performed by Beyonc&#x00E9; at the 2013 Presidential Inauguration</caption>
-            <idx><h>Star<ndash/>Spangled Banner</h><h>musical example</h></idx>
+            <caption>John Stafford Smith and Francis Scott Key, <q>The Star-Spangled Banner</q> (1814) as performed by Beyonc&#x00E9; at the 2013 Presidential Inauguration</caption>
+            <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/mode-mix-deceptive-beyonce">
@@ -253,8 +253,8 @@
         </figure>
 
         <figure>
-            <caption>John Stafford Smith and Francis Scott Key, <q>The Star Spangled Banner</q> (1814) as performed by Lady Gaga at the 2016 Super Bowl</caption>
-            <idx><h>Star<ndash/>Spangled Banner</h><h>musical example</h></idx>
+            <caption>John Stafford Smith and Francis Scott Key, <q>The Star-Spangled Banner</q> (1814) as performed by Lady Gaga at the 2016 Super Bowl</caption>
+            <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/mode-mix-deceptive-gaga">
@@ -324,8 +324,8 @@
             <statement>
                 <p>Analyze the following excerpt with lead<ndash/>sheet symbols above and Roman numerals with figured bass inversion symbols below. Analyze notes that are non<ndash/>chord tones by putting parentheses around them and specifying them by type.</p>
                 <figure>
-                    <caption>Chopin, Nocturne in E<ndash/>flat major, Op. 9, No. 2 (1832)</caption>
-                    <idx><h>Chopin</h><h>Nocturne in E<ndash/>flat major, Op. 9, No. 2</h></idx>
+                    <caption>Chopin, Nocturne in E-flat major, Op. 9, No. 2 (1832)</caption>
+                    <idx><h>Chopin</h><h>Nocturne in E-flat major, Op. 9, No. 2</h></idx>
                     <sbsgroup>
                         <sidebyside>
                             <image source="images/unit4/PRAC-EXER-mode-mix-chopin">

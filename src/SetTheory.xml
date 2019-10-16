@@ -4,14 +4,14 @@
     <section xml:id="SetTheorySection">
         <title>Set Theory</title>
         <introduction>
-            <p><term>Set theory</term><idx><h>set theory</h></idx> is the analytical technique we will use to analyze expressionist music. The primary composers associated with expressionism are Arnold Schoenberg (1874<ndash/>1951), Anton Webern (1883<ndash/>1945), and Alban Berg (1885<ndash/>1935). In this text, we will associate <term>atonal music</term><idx><h>atonal music</h><h>definition of</h></idx><mdash/>music that avoids traditional harmonies and scales<mdash/>with expressionism. Instead of scales and chords, intervals are the building blocks of Expressionist music. Although composers began writing atonal music in 1908, there was no widely<ndash/>accepted systematic analytical approach that could show relationships between different pieces until Allen Forte published his seminal <pubtitle>The Structure of Atonal Music</pubtitle><idx><h>Forte, Allen</h><h><pubtitle>The Structure of Atonal Music</pubtitle></h></idx> in 1973, in which Forte applied set theory mathematics to music. However, our approach to normal form and prime form will follow the slightly<ndash/>modified approach set out by John Rahn <idx><h>Rahn, John</h><h><pubtitle>Basic Atonal Theory</pubtitle></h></idx> in his <pubtitle>Basic Atonal Theory</pubtitle> (1980), which is the approach followed by Joseph Straus <idx><h>Straus, Joseph</h><h><pubtitle>Introduction to Post<ndash/>Tonal Theory</pubtitle></h></idx> in his well<ndash/>known and widely<ndash/>used <pubtitle>Introduction to Post<ndash/>Tonal Theory</pubtitle>.<fn>Of the 208 sets that exist,  only 6 are different between the Forte and Rahn methods for prime form. See <url href="https://www.mta.ca/pc-set/pc-set_new/pages/pc-table/packed.html">https://www.mta.ca/pc-set/pc-set_new/pages/pc-table/packed.html</url>.</fn></p>
+            <p><term>Set theory</term><idx><h>set theory</h></idx> is the analytical technique we will use to analyze expressionist music. The primary composers associated with expressionism are Arnold Schoenberg (1874<ndash/>1951), Anton Webern (1883<ndash/>1945), and Alban Berg (1885<ndash/>1935). In this text, we will associate <term>atonal music</term><idx><h>atonal music</h><h>definition of</h></idx><mdash/>music that avoids traditional harmonies and scales<mdash/>with expressionism. Instead of scales and chords, intervals are the building blocks of Expressionist music. Although composers began writing atonal music in 1908, there was no widely-accepted systematic analytical approach that could show relationships between different pieces until Allen Forte published his seminal <pubtitle>The Structure of Atonal Music</pubtitle><idx><h>Forte, Allen</h><h><pubtitle>The Structure of Atonal Music</pubtitle></h></idx> in 1973, in which Forte applied set theory mathematics to music. However, our approach to normal form and prime form will follow the slightly-modified approach set out by John Rahn <idx><h>Rahn, John</h><h><pubtitle>Basic Atonal Theory</pubtitle></h></idx> in his <pubtitle>Basic Atonal Theory</pubtitle> (1980), which is the approach followed by Joseph Straus <idx><h>Straus, Joseph</h><h><pubtitle>Introduction to Post-Tonal Theory</pubtitle></h></idx> in his well-known and widely-used <pubtitle>Introduction to Post-Tonal Theory</pubtitle>.<fn>Of the 208 sets that exist,  only 6 are different between the Forte and Rahn methods for prime form. See <url href="https://www.mta.ca/pc-set/pc-set_new/pages/pc-table/packed.html">https://www.mta.ca/pc-set/pc-set_new/pages/pc-table/packed.html</url>.</fn></p>
         </introduction>
         <subsection xml:id="AtonalMusic">
             <title>Atonal Music</title>
             <p>Listen to the following example by Anton Webern.</p>
             <figure>
                 <sidebyside><!--no margins on this one-->
-                    <video youtube="ELAKF8ZxDmg" start="334" end="342" play-at="select"/>
+                    <video xml:id="webern-atonal1" youtube="ELAKF8ZxDmg" start="334" end="342" play-at="select"/>
                 </sidebyside>
                 <idx>
                     <h>Webern, Anton</h><h>5 movements for string quartet</h><h>No. 3. <foreign>Sehr bewegt</foreign></h>
@@ -122,8 +122,8 @@
             </table>
         </subsection>
         <subsection xml:id="PitchClassSets">
-            <title>Pitch<ndash/>Class Sets</title>
-            <p>In atonal music we will analyze sets of pitch classes, hence the term <q>pitch<ndash/>class set analysis.</q> Let us return to the example by Webern, this time with integers for pitches and for intervals.</p>
+            <title>Pitch-Class Sets</title>
+            <p>In atonal music we will analyze sets of pitch classes, hence the term <q>pitch-class set analysis.</q> Let us return to the example by Webern, this time with integers for pitches and for intervals.</p>
             <sidebyside>
                 <image source="images/unit12/set-theory-webern-op5no3-ex-2">
                     <description/>
@@ -141,11 +141,11 @@
     </section>
     <section xml:id="NormalForm">
         <title>Normal Form</title>
-        <p><term>Normal form</term><idx><h>normal form</h><h>definition of</h></idx> represents the notes of a pitch<ndash/>class set (as they occur in the music) in their most compact form.</p> 
+        <p><term>Normal form</term><idx><h>normal form</h><h>definition of</h></idx> represents the notes of a pitch-class set (as they occur in the music) in their most compact form.</p> 
         <p>To determine normal form, follow these steps:</p>
         <ol>
             <li>
-                <p>Put the notes of a pitch<ndash/>class set from a piece of music in ascending numeric order (like a scale). Eliminate any duplicate pitches.</p>
+                <p>Put the notes of a pitch-class set from a piece of music in ascending numeric order (like a scale). Eliminate any duplicate pitches.</p>
                 <sidebyside>
                     <image source="images/unit12/set-theory-normal-form-unordered-set">
                         <description/>
@@ -308,19 +308,19 @@
                 </image>
             </sidebyside>
             <p>The prime form of the second set, when including the C<sharp/> from the cello, is (0236).</p>
-            <p>We do not see any relationship between these first two sets after including the C<sharp/> with each three<ndash/>note set. One doesn’t know this until one examines this new segmentation.</p>
+            <p>We do not see any relationship between these first two sets after including the C<sharp/> with each three-note set. One doesn’t know this until one examines this new segmentation.</p>
         </subsection>
     </section>
     <section xml:id="IntervalVector">
         <title>Interval Vector</title>
-        <p>An <term>interval vector</term><idx><h>interval vector</h><h>definition of</h></idx> (also known as <q>Interval Class Content</q>) is a list of every possible interval occurring in a pitch<ndash/>class set. Calculating an interval vector is rather straightforward. First, after determing normal form, measure from the first note to all the other notes. Second, measure from the second note to all higher notes (not back or down to the first note). Continue measuring from each successive note to the notes following and you will have completed the interval vector.</p>
+        <p>An <term>interval vector</term><idx><h>interval vector</h><h>definition of</h></idx> (also known as <q>Interval Class Content</q>) is a list of every possible interval occurring in a pitch-class set. Calculating an interval vector is rather straightforward. First, after determing normal form, measure from the first note to all the other notes. Second, measure from the second note to all higher notes (not back or down to the first note). Continue measuring from each successive note to the notes following and you will have completed the interval vector.</p>
         <p>Before demonstrating this, it is important to discuss the term <q>interval class.</q> An <term>interval class</term><idx><h>interval class</h><h>definition of</h></idx> (abbreviated <q>ic</q>) is the shortest distance between two notes measured in semitones. In the example below, C up to A is a major 6th. However, the shortest distance between C and A (measure downward) is a minor 3rd. Therefore, the largest interval class is 6 (the tritone), because any perfect 5th (for example, from C to G) has an interval class of 5 (a perfect 4th) because C <em>down</em> to G is a perfect 4th.</p>
         <sidebyside>
             <image source="images/unit12/set-theory-interval-class-demo">
                 <description/>
             </image>
         </sidebyside>
-        <p>With this in mind, let’s complete an interval vector of the a half<ndash/>diminished 7th chord on G. First, arrange the notes in ascending order, then measure from the first note to the second, third, and fourth notes.</p>
+        <p>With this in mind, let’s complete an interval vector of the a half-diminished 7th chord on G. First, arrange the notes in ascending order, then measure from the first note to the second, third, and fourth notes.</p>
         <sidebyside margins="25%">
             <image source="images/unit12/set-theory-vector-step1">
                 <description/>
@@ -390,7 +390,7 @@
                 </row>
             </tabular>
         </sidebyside>
-        <p>Finally, measure from the third note to the fourth note, and the interval vector will be complete. We add one tally for ic4; the complete interval vector is 012011, which tells us a half<ndash/>diminished chord has zero half steps, one major 2nd (shown in this voicing as a minor 7th), two minor 3rds, no major 3rds, one perfect 4th (shown in this voicing as perfect 5th), and one tritone.</p>
+        <p>Finally, measure from the third note to the fourth note, and the interval vector will be complete. We add one tally for ic4; the complete interval vector is 012011, which tells us a half-diminished chord has zero half steps, one major 2nd (shown in this voicing as a minor 7th), two minor 3rds, no major 3rds, one perfect 4th (shown in this voicing as perfect 5th), and one tritone.</p>
         <sidebyside margins="25%">
             <image source="images/unit12/set-theory-vector-step3">
                 <description/>
@@ -425,21 +425,21 @@
                 </row>
             </tabular>
         </sidebyside>
-        <p>An interval vector always contains 6 digits. When an interval class does not occur (the way the minor second did not occur in the G half<ndash/>diminished seventh chord), place a zero in the column for that interval class.</p>
+        <p>An interval vector always contains 6 digits. When an interval class does not occur (the way the minor second did not occur in the G half-diminished seventh chord), place a zero in the column for that interval class.</p>
     </section>
     <section xml:id="ForteNumbers">
         <title>Forte Numbers</title>
-        <introduction><p>When Allen Forte created a catalog of every possible 3<ndash/>, 4<ndash/>, 5<ndash/>, 6<ndash/>, 7<ndash/>, 8<ndash/>, and 9<ndash/>note set in Appendix 1 of <pubtitle>The Structure of Atonal Music</pubtitle>, he labeled each prime form with two numbers separated by a hyphen. His labels (3<ndash/>1, 3<ndash/>2, etc.) are now known as <q>Forte numbers,</q>  and are seen in the tables in the <xref ref="ListsOfSetClasses" text="title">Lists of Set Classes</xref>, which include prime forms and interval vectors as well.</p></introduction>
+        <introduction><p>When Allen Forte created a catalog of every possible 3-, 4-, 5-, 6-, 7-, 8-, and 9-note set in Appendix 1 of <pubtitle>The Structure of Atonal Music</pubtitle>, he labeled each prime form with two numbers separated by a hyphen. His labels (3<ndash/>1, 3<ndash/>2, etc.) are now known as <q>Forte numbers,</q>  and are seen in the tables in the <xref ref="ListsOfSetClasses" text="title">Lists of Set Classes</xref>, which include prime forms and interval vectors as well.</p></introduction>
         <subsection xml:id="ZRelations">
-            <title>Z<ndash/>Relations</title>
+            <title>Z-Relations</title>
             <p><q>Z</q> in a set label (for example, 4<ndash/>Z29) stands  for <q>zygotic</q> (<q>twinned</q>), and is used when different prime forms (for example, 4<ndash/>Z29 and 4<ndash/>Z15 have the same interval vector<mdash/>111111).</p>
         </subsection>
     </section>
     <section xml:id="ListsOfSetClasses">
         <title>Lists of Set Classes</title>
-        <p>Below are lists of all set classes with prime form, Forte number, and interval vectors shown. Allen Forte published the original list of set classes in <pubtitle>The Structure of Atonal Music</pubtitle> in 1973. These lists use prime forms as calculated using the Rahn method. Prime forms of sets are ordered from most packed to the left to least packed to the left, as is found in the list of set classes in both John Rahn's <pubtitle>Basic Atonal Theory</pubtitle> and Joseph Straus' <pubtitle>Introduction to Post<ndash/>Tonal Theory</pubtitle>. Sets are listed across from their <term>complements</term><idx><h>complement</h><h>definition of</h></idx>. When taken together, complements can complete the 12<ndash/>note chromatic scale when correctly transposed (and sometimes inverted).</p> 
+        <p>Below are lists of all set classes with prime form, Forte number, and interval vectors shown. Allen Forte published the original list of set classes in <pubtitle>The Structure of Atonal Music</pubtitle> in 1973. These lists use prime forms as calculated using the Rahn method. Prime forms of sets are ordered from most packed to the left to least packed to the left, as is found in the list of set classes in both John Rahn's <pubtitle>Basic Atonal Theory</pubtitle> and Joseph Straus' <pubtitle>Introduction to Post-Tonal Theory</pubtitle>. Sets are listed across from their <term>complements</term><idx><h>complement</h><h>definition of</h></idx>. When taken together, complements can complete the 12-note chromatic scale when correctly transposed (and sometimes inverted).</p> 
         <table>
-            <caption>List of Set Classes for 3<ndash/> and 9<ndash/>note sets (Trichords and Nonachords)</caption>
+            <caption>List of Set Classes for 3- and 9-note sets (Trichords and Nonachords)</caption>
             <tabular halign="center">
                 <col/>
                 <col/>
@@ -1192,9 +1192,9 @@
                 </row>
             </tabular>
         </table>
-        <p>In the table below, when no set is listed across from a six<ndash/>note set, it is self<ndash/>complementary (that is, it can combine with a transposed and possibly inverted set of itself to complete a 12<ndash/>note chromatic scale.</p>
+        <p>In the table below, when no set is listed across from a six<ndash/>note set, it is self<ndash/>complementary (that is, it can combine with a transposed and possibly inverted set of itself to complete a 12-note chromatic scale.</p>
         <table>
-            <caption>List of Set Classes for 6<ndash/>note sets (Hexachords)</caption>
+            <caption>List of Set Classes for 6-note sets (Hexachords)</caption>
             <tabular halign="center">
                 <col/>
                 <col/>
@@ -1590,7 +1590,7 @@
                 </image>
             </sidebyside>
             <p>The second step of inversion is to apply the T<n octave="n"/> interval. So, to calculate T<n octave="3"/>I for the note E, one would first  invert E to A<flat/> (this is T<n octave="0"/>I), <em>then</em> transpose the A<flat/> up 3 semitones to B. (Theorist Joseph Straus simplifies the nomenclature to I<n octave="n"/> instead of T<n octave="n"/>I, but the outcome remains the same.)</p>
-            <p>Let’s try inverting a pitch<ndash/>class set, applying T<n octave="7"/>I to [2, 4, 5] (or D, E, and F). Inverting the notes to the opposite side of C using C as an axis yields pitch numbers 10, 8, and 7 (or B<flat/>, A<flat/>, and G), which in ascending order is 7, 8, and 10. Then transposing [7, 8, 10] at T<n octave="7"/> raises each note 7 semitones, resulting in [2, 3, 5] (or D, E<flat/>, and F). </p>
+            <p>Let’s try inverting a pitch-class set, applying T<n octave="7"/>I to [2, 4, 5] (or D, E, and F). Inverting the notes to the opposite side of C using C as an axis yields pitch numbers 10, 8, and 7 (or B<flat/>, A<flat/>, and G), which in ascending order is 7, 8, and 10. Then transposing [7, 8, 10] at T<n octave="7"/> raises each note 7 semitones, resulting in [2, 3, 5] (or D, E<flat/>, and F). </p>
             <sidebyside>
                 <image source="images/unit12/set-theory-TnI-ex-2">
                     <description/>
@@ -1598,8 +1598,8 @@
             </sidebyside>
         </introduction>
         <subsection xml:id="IdentifyingInversionallyRelatedSets">
-            <title>Identifying T<n octave="n"/>I for Inversionally<ndash/>Related Sets</title>
-            <p>To determine <em>n</em> of T<n octave="n"/>I for two inversionally<ndash/>related sets, write the second set backward and add the notes of the two sets together. Each sum will equal <em>n</em>. Let’s use our two sets from the previous example above: [2, 4, 5] and [2, 3, 5].</p>
+            <title>Identifying T<n octave="n"/>I for Inversionally-Related Sets</title>
+            <p>To determine <em>n</em> of T<n octave="n"/>I for two inversionally-related sets, write the second set backward and add the notes of the two sets together. Each sum will equal <em>n</em>. Let’s use our two sets from the previous example above: [2, 4, 5] and [2, 3, 5].</p>
             <table>
                 <caption/>
                 <tabular halign="center">

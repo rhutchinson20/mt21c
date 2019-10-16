@@ -97,7 +97,7 @@
             <p>Generally, a period will either contain a phrase ending in a half cadence (HC) followed by a phrase ending in an authentic cadence (IAC or PAC), or it will contain a phrase ending in an IAC following by a phrase ending in a PAC.</p>
         </subsection>
         <subsection xml:id="PeriodExamples">
-            <title>Examples of the <q>Less Conclusive<ndash/>More Conclusive</q> Cadential Formula</title>
+            <title>Examples of the <q>Less Conclusive-More Conclusive</q> Cadential Formula</title>
             <p>In the first example, a HC concludes the first phrase and a PAC concludes the second phrase, making a period.</p>
             <figure>
                 <caption>Mozart, Piano Sonata K. 331, I</caption>
@@ -328,7 +328,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>
-            <p>Examine the difference between these two formal diagrams, noting the cadence after the second phrase in each:</p>
+            <p>Examine the difference between these two formal diagrams, noting the cadence after the <em>second</em> phrase in each:</p>
             <figure>
                 <caption>Formal diagram of a repeated period (Beethoven, Op. 53, I)</caption>
                 <sidebyside>
@@ -352,8 +352,8 @@
         <title>Phrase Groups and Phrase Chains</title>
         <p>Phrase groups and phrase chains are not periods. In phrase groups and phrase chains, <em>the final cadence is a half cadence</em>. A <term>phrase group</term><idx><h>phrase group</h><h>definition of</h></idx> consists of at least two phrases whose melodies begin similarly and has the final phrase ending in a half cadence. The terminology in this section draws from Douglass Green’s <pubtitle>Form in Tonal Music</pubtitle>.</p>
         <figure>
-            <caption>Couperin, 5 Pi&#x00E8;ces de Clavecin, 4. Le Petit<ndash/>Rien (Ordre XIV, 8)</caption>
-            <idx><h>Couperin</h><h>5 Pi&#x00E8;ces de Clavecin, 4. Le Petit<ndash/>Rien (Ordre XIV, 8) (phrase group)</h></idx>
+            <caption>Couperin, 5 Pi&#x00E8;ces de Clavecin, 4. Le Petit-Rien (Ordre XIV, 8)</caption>
+            <idx><h>Couperin</h><h>5 Pi&#x00E8;ces de Clavecin, 4. Le Petit-Rien (Ordre XIV, 8) (phrase group)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit3/phrases-phrase-group-couperin">
@@ -383,7 +383,7 @@
     </section>
     <section xml:id="Elision">
         <title>The Elision</title>
-        <p>An elision is a special device for joining phrases together in an overlapping manner. In an elision, the final bar of one phrase is simultaneously the first bar of the next phrase.</p>
+        <p>An <term>elision</term><idx><h>elision</h></idx> is a special device for joining phrases together in an overlapping manner. In an elision, the final bar of one phrase is simultaneously the first bar of the next phrase.</p>
         <figure>
             <caption>Mozart, <pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I.</caption>
             <idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I. (elision)</h></idx>
@@ -578,7 +578,8 @@
             </answer>
         </exercise>
         <conclusion>
-            <p>Click <url href="../hw/MT21C_HW_14.pdf">here to download the homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_14.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="../hw/MT21C_HW_15.pdf">here to download the second homework assignment for this chapter.</url></p>
             <p>Click <url href="../hw/MT21C_Unit_3_Practice_Test.pdf">here to download the Unit 3 Practice Test.</url></p>
         </conclusion>
     </exercises>
