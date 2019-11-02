@@ -211,7 +211,7 @@
     <section xml:id="VoiceLeadingFirstInversionTriads">
         <title>Voice Leading First-Inversion Triads</title>
         <introduction>
-            <p>Instead of focusing on the intervallic distance the bass part travels between roots of chords, voice leading first inversion triads requires focusing on the doubling or voicing of the chord itself. When approaching or leaving a first inversion chord, move as smoothly as possible while avoid objectionable parallels, spacing errors, and melodic errors.</p>
+            <p>Instead of focusing on the intervallic distance the bass part travels between roots of chords, voice leading first inversion triads requires focusing on the doubling or voicing of the chord itself. When approaching or leaving a first inversion chord, move as smoothly as possible while avoiding objectionable parallels, spacing errors, and melodic errors.</p>
         </introduction>
         <subsection xml:id="VoicingFirstInversion">
             <title>Voicing a First Inversion Chord</title>
@@ -226,7 +226,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="8ZKxI8d4VbM" start="109" end="117" play-at="select" preview="generic"/>
+                        <video youtube="8ZKxI8d4VbM" start="108" end="116" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -360,7 +360,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>The passing <chord bps="6 4"/> typically occurs in the patterns I<ndash/>V<chord bps="6 4"/><ndash/>I<chord bps="6"/> (or its retrograde) and IV<ndash/>I<chord bps="6 4"/><ndash/>IV<chord bps="6"/> (or its retrograde).</p>
+        <p>The passing <chord bps="6 4"/> typically occurs in the patterns I<ndash/>V<chord bps="6 4"/><ndash/>I<chord bps="6"/> (or its <xref ref="RetrogradeSection" text="title">retrograde</xref>) and IV<ndash/>I<chord bps="6 4"/><ndash/>IV<chord bps="6"/> (or its retrograde).</p>
         <figure>
             <caption>Examples with the Passing Six-Four</caption>
             <sidebyside margins="15%">

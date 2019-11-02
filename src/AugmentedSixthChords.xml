@@ -323,7 +323,7 @@
         </figure>
         <p>Below is a table comparing the harmonizations of these descending bass lines.</p>
         <table>
-            <caption/>
+            <title/>
             <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
                 <row header="yes" bottom="major">
                     <cell>Bass Line</cell>
@@ -414,7 +414,7 @@
         <title>Chromatic Pre-Dominant Chords</title>
         <p>The table below shows how our study of chromatic harmonies in recent chapters includes the chromatic expansion of the pre-dominant <xref ref="HarmonicFlowchart" text="title">harmonic function</xref> category.</p>
         <table>
-            <caption/>
+            <title/>
             <tabular halign="center" top="major" bottom="minor" left="minor" right="minor">
                 <row header="yes" bottom="medium">
                     <cell>Ton.</cell>

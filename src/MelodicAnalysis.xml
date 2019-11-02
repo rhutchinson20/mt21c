@@ -124,7 +124,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="k0c7Cmc_iA8" start="15" end="25" play-at="select" preview="generic"/>
+                        <video youtube="7qkbDMRc9vo" start="15" end="25" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -267,7 +267,7 @@
                     </sidebyside> 
                 </sbsgroup> 
             </figure>
-            <p>We will not consider <xref ref="RomanNumeralChordSymbols" text="title">transposition</xref> of a motive (also know as a <xref ref="sequence-definition" text="title">sequence</xref>) to be a motivic alteration worth labeling since it is so common.</p>
+            <p>We will not consider <xref ref="RomanNumeralChordSymbols" text="title">transposition</xref> of a motive (also known as a <xref ref="sequence-definition" text="title">sequence</xref>) to be a motivic alteration worth labeling since it is so common.</p>
         </subsection>
     </section>
     <section xml:id="FragmentSection">
@@ -454,7 +454,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="k0c7Cmc_iA8" start="15" end="25" play-at="select" preview="generic"/>
+                    <video youtube="7qkbDMRc9vo" start="15" end="25" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>

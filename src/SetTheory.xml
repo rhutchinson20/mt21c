@@ -70,7 +70,7 @@
             <title>Integer Notation for Intervals</title>
             <p>We will also measure intervals using integers, with each interval represented by the number of <term>semitones</term><idx><h>semitone</h></idx> (half steps) it contains. The following table contains the number of semitones in each interval.</p>
             <table>
-                <caption>Interval Integers</caption>
+                <title>Interval Integers</title>
                 <tabular halign="center">
                     <col/>
                     <col right="minor"/>
@@ -439,7 +439,7 @@
         <title>Lists of Set Classes</title>
         <p>Below are lists of all set classes with prime form, Forte number, and interval vectors shown. Allen Forte published the original list of set classes in <pubtitle>The Structure of Atonal Music</pubtitle> in 1973. These lists use prime forms as calculated using the Rahn method. Prime forms of sets are ordered from most packed to the left to least packed to the left, as is found in the list of set classes in both John Rahn's <pubtitle>Basic Atonal Theory</pubtitle> and Joseph Straus' <pubtitle>Introduction to Post-Tonal Theory</pubtitle>. Sets are listed across from their <term>complements</term><idx><h>complement</h><h>definition of</h></idx>. When taken together, complements can complete the 12-note chromatic scale when correctly transposed (and sometimes inverted).</p> 
         <table>
-            <caption>List of Set Classes for 3- and 9-note sets (Trichords and Nonachords)</caption>
+            <title>List of Set Classes for 3- and 9-note sets (Trichords and Nonachords)</title>
             <tabular halign="center">
                 <col/>
                 <col/>
@@ -575,7 +575,7 @@
 
 
         <table>
-            <caption>List of Set Classes for 4<ndash/> and 8<ndash/>note sets (Tetrachords and Octachords)</caption>
+            <title>List of Set Classes for 4<ndash/> and 8<ndash/>note sets (Tetrachords and Octachords)</title>
             <tabular halign="center">
                 <col/>
                 <col/>
@@ -848,7 +848,7 @@
 
 
         <table>
-            <caption>List of Set Classes for 5<ndash/> and 7<ndash/>note sets (Pentachords and Septachords)</caption>
+            <title>List of Set Classes for 5<ndash/> and 7<ndash/>note sets (Pentachords and Septachords)</title>
             <tabular halign="center">
                 <col/>
                 <col/>
@@ -1194,7 +1194,7 @@
         </table>
         <p>In the table below, when no set is listed across from a six<ndash/>note set, it is self<ndash/>complementary (that is, it can combine with a transposed and possibly inverted set of itself to complete a 12-note chromatic scale.</p>
         <table>
-            <caption>List of Set Classes for 6-note sets (Hexachords)</caption>
+            <title>List of Set Classes for 6-note sets (Hexachords)</title>
             <tabular halign="center">
                 <col/>
                 <col/>
@@ -1529,7 +1529,7 @@
         </sidebyside>
         <p>When working in a modulo 12 system, remember that numbers larger than 12 have to be reduced to a number smaller than 12 by subtracting 12 from the larger number. For example, 6, 8, 10, 11 at T<n octave="9"/> would result in 15, 17, 18, 20, which, after subtracting 12 from each number, results in 3, 5, 6, 8.</p>
         <table>
-                <caption/>
+                <title/>
                 <tabular halign="center">
                     <col halign="right"/>
                     <col/>
@@ -1601,7 +1601,7 @@
             <title>Identifying T<n octave="n"/>I for Inversionally-Related Sets</title>
             <p>To determine <em>n</em> of T<n octave="n"/>I for two inversionally-related sets, write the second set backward and add the notes of the two sets together. Each sum will equal <em>n</em>. Let’s use our two sets from the previous example above: [2, 4, 5] and [2, 3, 5].</p>
             <table>
-                <caption/>
+                <title/>
                 <tabular halign="center">
                     <col/>
                     <col/>
@@ -1743,7 +1743,7 @@
                 </statement>
                 <answer>
                     <table>
-                        <caption/>
+                        <title/>
                         <tabular halign="center">
                             <col/>
                             <col/>

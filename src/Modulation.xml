@@ -30,19 +30,27 @@
     <section xml:id="TonicizationVersusModulation">
         <title>Tonicization versus Modulation</title>
         <p>Studying modulation will require us to distinguish between <xref ref="Tonicization" text="title">tonicization</xref>, which we studied recently, and modulation. Tonicization, involving secondary chords, can be as short as two chords (<chord root="V" bass="V"/> to <chord root="V"/>, for example) but can sometimes encompass several measures as in the following example.</p>
+        <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Abschied</q></h></idx>
+        <sidebyside>
+            <image source="images/unit5/mod-ton-vs-mod-abschied-A">
+                <description/>
+            </image>
+        </sidebyside>
+        <sidebyside>
+            <image source="images/unit5/mod-ton-vs-mod-abschied-B">
+                <description/>
+            </image>
+        </sidebyside>
+        <sidebyside>
+            <image source="images/unit5/mod-ton-vs-mod-abschied-C">
+                <description/>
+            </image>
+        </sidebyside>
         <figure>
             <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Abschied</q> (1828)</caption>
-            <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Abschied</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit5/mod-ton-vs-mod-abschied">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="Wod-JellQ88" start="26" end="41" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <sidebyside margins="37%">
+                <video youtube="Wod-JellQ88" start="26" end="41" play-at="select" preview="generic"/>
+            </sidebyside> 
         </figure>
         <p>Below is a reduction showing the underlying diatonic progression of the example above.</p>
         <figure>
@@ -55,7 +63,7 @@
         </figure>
         <p>A modulation to a new key requires an eventual cadence to confirm that new key. This cadence will often (though not always) have the following cadential formula:</p>
         <table>
-            <caption>Cadential Formula to Establish a Key</caption>
+            <title>Cadential Formula to Establish a Key</title>
             <!--inbetween table and tabular would be a sidebyside with left margin = 0 look for margins attribute-->
             <tabular>
                 <row>

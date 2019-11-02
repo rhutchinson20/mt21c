@@ -339,7 +339,7 @@
                 </sidebyside>
             </statement>
             <answer>
-                <p>1. <n pc="F" acc="sharp"/><n pc="A" acc="sharp"/><n pc="C" acc="sharp"/>, 2. <n pc="G"/><n pc="B" acc="flat"/><n pc="D"/>, 3. <n pc="A" acc="flat"/><n pc="C" acc="flat"/><n pc="E" acc="flat"/></p>
+                <p>1. <n pc="F" acc="sharp"/><n pc="A" acc="sharp"/><n pc="C" acc="sharp"/>, 2. <n pc="G"/><n pc="B" acc="flat"/><n pc="D" acc="flat"/>, 3. <n pc="A" acc="flat"/><n pc="C" acc="flat"/><n pc="E" acc="flat"/></p>
             </answer>
         </exercise>
         <conclusion>

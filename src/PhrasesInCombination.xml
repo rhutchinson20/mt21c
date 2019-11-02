@@ -402,7 +402,7 @@
     <section xml:id="SummaryOfPhrasesInCombination">
         <title>Summary of Phrases in Combination</title>
         <table>
-            <caption/>
+            <title/>
             <tabular top="major">
                 <col right="minor"/>
                 <col right="minor"/>
@@ -513,50 +513,30 @@
         <title>Practice Exercises</title>
         <exercise>
             <statement>
-                <p>For each excerpt below, do the following:</p>
+                <p>For the following excerpt (<q>Ein M&#x00E4;dchen oder Weibchen,</q> from Mozart's <pubtitle>Magic Flute</pubtitle>)<idx><h>Mozart, W.A.</h><h><pubtitle>The Magic Flute</pubtitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></h></idx>, do the following:</p>
                 <ul>
                     <li><p>Label chords with Roman numerals at the ends of phrases to determine cadences</p></li>
                     <li><p>Label cadences by type (PAC, IAC, HC, PC, DC)</p></li>
                     <li><p>Examine the motivic structure to determine if a phrase is a sentence</p></li>
                     <li><p>Create a diagram of the form using cadence abbreviations (HC, DC, PC, IAC, and PAC) and letters to designate melody (<em>a</em>, <em>a’</em>, <em>b</em>, etc.). Use the <q>prime</q> symbol (') to show if a melody ends with a different cadence. In this chapter, the prime symbol should not be used to represent embellishment of the melody or changes in the harmonization or register.</p></li>
                     <li><p>Name the form of the excerpt (sentence, parallel period, contrasting period, asymmetrical period, parallel double period, repeated phrase, repeated period).</p></li>
-                </ul>
-                <ol>
-                    <li>
-                        <p>Mozart, <pubtitle>The Magic Flute</pubtitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></p>
-                        <figure>
-                            <caption/>
-                            <idx><h>Mozart, W.A.</h><h><pubtitle>The Magic Flute</pubtitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></h></idx>
-                            <sbsgroup>
-                                <sidebyside>
-                                    <image source="images/unit3/PRAC-EXER-phrases-mozart-ein-madchen">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
-                                <sidebyside margins="37%">
-                                    <video youtube="CI0hJLioGF0" start="0" end="15" play-at="select" preview="generic"/>
-                                </sidebyside>
-                            </sbsgroup>
-                        </figure>
-                    </li>
-                    <li>
-                        <p>Mozart, Piano Sonata K. 333, I</p>
-                        <figure>
-                            <caption/>
-                            <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 333, I</h></idx>
-                            <sbsgroup>
-                                <sidebyside>
-                                    <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
-                                <sidebyside margins="37%">
-                                    <video youtube="PmO3Wlono6w" start="351" end="380" play-at="select" preview="generic"/>
-                                </sidebyside>
-                            </sbsgroup>
-                        </figure>
-                    </li>
-                </ol>
+                </ul>    
+                <sidebyside>
+                    <image source="images/unit3/PRAC-EXER-phrases-mozart-ein-madchenA">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside>
+                    <image source="images/unit3/PRAC-EXER-phrases-mozart-ein-madchenB">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <figure>
+                    <caption/>
+                    <sidebyside margins="37%">
+                        <video youtube="CI0hJLioGF0" start="0" end="15" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </figure>
             </statement>
             <answer>
                 <p>Mozart, <pubtitle>The Magic Flute</pubtitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q>:</p>
@@ -567,6 +547,46 @@
                     <li><p>Melodic labels: <em>a</em>, <em>b</em></p></li>
                     <li><p>Form: contrasting period</p></li>
                 </ul>
+            </answer>
+        </exercise>
+            <exercise>
+                <statement>
+                    <p>For the following excerpt (the first movement Mozart's K. 333)<idx><h>Mozart, W.A.</h><h>Piano Sonata K. 333, I</h></idx>, do the following:</p>
+                    <ul>
+                        <li><p>Label chords with Roman numerals at the ends of phrases to determine cadences</p></li>
+                        <li><p>Label cadences by type (PAC, IAC, HC, PC, DC)</p></li>
+                        <li><p>Examine the motivic structure to determine if a phrase is a sentence</p></li>
+                        <li><p>Create a diagram of the form using cadence abbreviations (HC, DC, PC, IAC, and PAC) and letters to designate melody (<em>a</em>, <em>a’</em>, <em>b</em>, etc.). Use the <q>prime</q> symbol (') to show if a melody ends with a different cadence. In this chapter, the prime symbol should not be used to represent embellishment of the melody or changes in the harmonization or register.</p></li>
+                        <li><p>Name the form of the excerpt (sentence, parallel period, contrasting period, asymmetrical period, parallel double period, repeated phrase, repeated period).</p></li>
+                    </ul>    
+                    <sidebyside>
+                        <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-D">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <figure>
+                        <caption/>
+                        <sidebyside margins="37%">
+                            <video youtube="PmO3Wlono6w" start="351" end="380" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </figure>
+                </statement>
+            <answer>
                 <p>Mozart, Piano Sonata K. 333, I:</p>
                 <ul>
                     <li><p>Chords: <chord root="vii" mode="diminished"/><ndash/><chord root="I"/>, <chord root="vi"/><ndash/><chord root="V"/>, <chord root="vii" mode="diminished"/><ndash/><chord root="I"/>, <chord root="V"/><ndash/><chord root="I"/></p></li>

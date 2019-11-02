@@ -130,7 +130,7 @@
                     <p><q>Strict</q> resolution:</p>
                     <ol>
                         <li>
-                            <p>Complete <chord root="V" bps="7"/> to incomplete I: resolve <scaledeg>7</scaledeg> up and <scaledeg>4</scaledeg> and <scaledeg>2</scaledeg> down. This means resolving the 3rd of the <chord root="V" bps="7"/> chord (<scaledegree>7</scaledegree>) up and the 7th and 5th of the <chord root="V" bps="7"/> chord down. For the sake of consistency in terminology, the examples below label <scaledeg>7</scaledeg>, <scaledeg>2</scaledeg>, and the 7th of the chord. The incomplete I chord will have a tripled root and one 3rd.
+                            <p>Complete <chord root="V" bps="7"/> to incomplete I: resolve <scaledeg>7</scaledeg> up and <scaledeg>4</scaledeg> and <scaledeg>2</scaledeg> down. This means resolving the 3rd of the <chord root="V" bps="7"/> chord (<scaledeg>7</scaledeg>) up and the 7th and 5th of the <chord root="V" bps="7"/> chord down. For the sake of consistency in terminology, the examples below label <scaledeg>7</scaledeg>, <scaledeg>2</scaledeg>, and the 7th of the chord. The incomplete I chord will have a tripled root and one 3rd.
                             <sidebyside>
                                 <image source="images/unit8/voiceleading-7ths-V7-I-Com-Inc">
                                     <description/>
@@ -210,7 +210,7 @@
     </section>
     <section xml:id="WhenToUseSeventhChords">
         <title>When to Use Seventh Chords</title>
-        <p>In your harmonizations of melodies, it is best to use seventh chords to add tension as you approach tonic function. Therefore, sevenths are added most frequently to chords of dominant function (<chord root="V"/> and <chord root="vii" mode="diminished"/>) and chords of pre<ndash/>dominant function (<chord root="ii"/> and, to a lesser extent, <chord root="IV"/>). (See the <!--ADD LINK!-->harmonic flowchart.) For this reason, seventh chords like <chord root="iii" bps="7"/>, <chord root="vi" bps="7"/>, <chord root="IV" mode="M" bps="7"/>, and <chord root="I" mode="M" bps="7"/> are less commonly used and encountered.</p>
+        <p>In your harmonizations of melodies, it is best to use seventh chords to add tension as you approach tonic function. Therefore, sevenths are added most frequently to chords of dominant function (<chord root="V"/> and <chord root="vii" mode="diminished"/>) and chords of pre<ndash/>dominant function (<chord root="ii"/> and, to a lesser extent, <chord root="IV"/>). (See the <xref ref="HarmonicFlowchart" text="title">harmonic flowchart</xref>.) For this reason, seventh chords like <chord root="iii" bps="7"/>, <chord root="vi" bps="7"/>, <chord root="IV" mode="M" bps="7"/>, and <chord root="I" mode="M" bps="7"/> are less commonly used and encountered.</p>
         <figure>
             <caption>J.S. Bach, Chorale 342, <q>Lobt Gott, ihr Christen, allzugleich </q>, BWV 376</caption>
             <idx><h>Bach, J.S.</h><h>Chorale 342, <q>Lobt Gott, ihr Christen, allzugleich </q>, BWV 376</h></idx>

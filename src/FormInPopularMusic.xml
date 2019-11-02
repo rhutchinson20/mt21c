@@ -7,7 +7,7 @@
         <title>Verse-Chorus Form</title>
         <p>The <term>Verse-Chorus form</term><idx><h>Verse-Chorus form</h></idx> is arguably the most common musical form of present day popular music and is probably familiar to most readers of this text. In Verse-Chorus form, the chorus contains the <q>hook,</q> the memorable refrain, while the verse typically contains less memorable melodic material. A clear example can be found in the 1985 song <q>We Are the World.</q></p>
         <table>
-            <caption>Jackson and Richie, <q>We Are The World</q></caption>
+            <title>Jackson and Richie, <q>We Are The World</q></title>
             <idx><h>songs (popular)</h><h><q>We Are The World</q></h></idx>
             <!--inbetween table and tabular would be a sidebyside with left margin = 0 look for margins attribute-->
             <tabular>
@@ -76,7 +76,7 @@
         </sidebyside>
         <p>Common additions to the Verse-Chorus form, beside the bridge, are the pre-chorus and post-chorus.</p>
         <table>
-            <caption>Cobain, Novoselic, and Grohl, <q>Smells Like Teen Spirit</q></caption>
+            <title>Cobain, Novoselic, and Grohl, <q>Smells Like Teen Spirit</q></title>
             <idx><h>songs (popular)</h><h><q>Smells Like Teen Spirit</q> (Nirvana)</h></idx>
             <tabular>
                 <col/>
@@ -165,7 +165,7 @@
         <title>AABA Form</title>
         <p>The AABA form is associated with the hits of the musicals of the 1930s and remained one of the most popular forms of popular music until the 1950s, when Rock ‘n’ Roll became popular. Each section (A or B) is typically 8 measures long. The A sections contain the primary melody we associate with the song while the B section provides contrast and is often called the <q>bridge</q> or <q>middle eight.</q></p>
         <table>
-            <caption>Gershwin, <q>I Got Rhythm</q></caption>
+            <title>Gershwin, <q>I Got Rhythm</q></title>
             <idx><h>songs (popular)</h><h><q>I Got Rhythm</q> (Gershwin)</h></idx>
             <tabular>
                 <col/>
@@ -249,7 +249,7 @@
         <p>Many popular songs from the 1930s<ndash/>1950s were in the 32-bar ABAC form. Well-known examples include <q><url href="https://youtu.be/w9QLn7gM-hY">White Christmas</url><idx><h>songs (popular)</h><h><q>White Christmas</q></h></idx>,</q>  <q><url href="https://youtu.be/fWN9UfUV9eE?t=38s">Someday My Prince Will Come</url><idx><h>songs (popular)</h><h><q>Someday My Prince Will Come</q></h></idx>,</q> and <q><url href="https://youtu.be/xV0MBh-_BDI">When I Fall In Love</url><idx><h>songs (popular)</h><h><q>When I Fall In Love</q></h></idx>.</q></p>
         <p><q>Star Dust</q> is an example of an ABAC form that is usually performed with a verse preceding the refrain.</p>
         <table>
-            <caption>Carmichael, <q>Star Dust</q></caption>
+            <title>Carmichael, <q>Star Dust</q></title>
             <idx><h>songs (popular)</h><h><q>Star Dust</q> (Hoagy Carmichael)</h></idx>
             <tabular>
                 <col/>
@@ -301,7 +301,7 @@
         <title>The 12-Bar Blues</title>
         <p>Associated with the Blues genre, which originated in the early 1900s, the 12-bar blues was also popular during the Swing Era of the 1930s and 1940s, (examples include <q>In The Mood</q> and <q>One O’Clock Jump</q>), as well as during the early years of Rock ‘n’ Roll in the 1950s (<q>Johnny B. Goode,</q> <q>Hound Dog,</q> <q>Rock around the Clock</q>). The basic 12-bar blues progression is shown below.</p>
         <table>
-            <caption>Berry, <q>Johnny B. Goode</q></caption>
+            <title>Berry, <q>Johnny B. Goode</q></title>
             <idx><h>songs (popular)</h><h><q>Johnny B. Goode</q> (Chuck Berry)</h></idx>
             <tabular>
                 <col right="minor"/>
@@ -347,7 +347,7 @@
             </tabular>
         </table>
         <sidebyside margins="37%">
-            <video youtube="ZFo8-JqzSCM" play-at="select" preview="generic"/>
+            <video youtube="p0FLZyTZBJ4" play-at="select" preview="generic"/>
         </sidebyside>
     </section>
     <section xml:id="HarmonicallyClosedAndOpenSections">
@@ -356,7 +356,7 @@
         <p>In an AABA form, the A sections are usually harmonically closed, ending on <chord root="I"/>, and the B section (or bridge) is usually harmonically open, ending on <chord root="V"/>.</p>
         <p>In verse-chorus form, sections that leads into the chorus (verse, pre-chorus, and bridge) are usually harmonically open, while choruses can be harmonically closed or open.</p>
         <p>If you compose a piece in AABA or verse-chorus form, placing harmonically open and closed sections appropriately is important to the flow of the music.</p>
-        <p>For example, the verse and bridge on <q>We Are the World</q> are harmonically open (end on <chord root="V"/>) while the chorus is harmonically closed (ends on the tonic chord, <chord root="I"/>).</p>
+        <p>For example, the verse and bridge on <q>We Are the World</q> are harmonically open (ending on <chord root="V"/>) while the chorus is harmonically closed (ending on the tonic chord, <chord root="I"/>).</p>
     </section>
     <exercises xml:id="PopFormPracticeExercises">
         <title>Practice Exercises</title>
@@ -368,7 +368,7 @@
                         <idx><h>songs (popular)</h><h><q>She's Out of My Life</q> (Michael Jackson)</h></idx>
                         <sidebyside>
                             <table>
-                                <caption>Bahler, <q>She's Out of My Life</q></caption>
+                                <title>Bahler, <q>She's Out of My Life</q></title>
                                 <tabular>
                                     <col/>
                                     <col/>
@@ -416,7 +416,7 @@
                             <idx><h>songs (popular)</h><h><q>Penny Lane</q> (Beatles)</h></idx>
                             <sidebyside>
                                 <table>
-                                    <caption>Lennon-McCartney, <q>Penny Lane</q></caption>
+                                    <title>Lennon-McCartney, <q>Penny Lane</q></title>
                                     <tabular>
                                         <col/>
                                         <col/>

@@ -117,7 +117,7 @@
         <title>Twelve-Tone Matrix</title>
         <p>One tool analysts create to analyze a twelve-tone composition is a twelve-tone matrix, which shows all 48 row forms in a 12 by 12 grid. Below is a matrix for the row we’ve been dealing with in this chapter.</p>
         <table>
-            <caption>Twelve-Tone Matrix</caption>
+            <title>Twelve-Tone Matrix</title>
             <tabular halign="center">
                 <col right="minor"/>
                 <col/>
@@ -361,7 +361,7 @@
         </table>
         <p>To construct a matrix, write the prime form from left to right in the top row, then write the inverted form from top to bottom in the left column.</p>
         <table>
-            <caption/>
+            <title/>
             <tabular halign="center">
                 <col right="minor"/>
                 <col/>
@@ -806,7 +806,7 @@
             <statement>
                 <p>Construct a 12 by 12 matrix for the prime form of the following twelve-tone row, given in pitch integers: 3, 7, 11, 1, 5, 0, 2, 10, 6, 4, 8, 9. Include labels for all row forms including all transposition levels (P<n octave="0"/>, R<n octave="3"/>, I<n octave="8"/>, RI<n octave="6"/>, etc.). <em>Use note names in the matrix</em>, not integers.</p>
                 <table>
-                    <caption/>
+                    <title/>
                     <tabular halign="center">
                         <col right="minor"/>
                         <col right="minor"/>
@@ -1051,7 +1051,7 @@
             </statement>
             <answer>
                 <table>
-                    <caption>Twelve-Tone Matrix</caption>
+                    <title>Twelve-Tone Matrix</title>
                     <tabular halign="center">
                         <col right="minor"/>
                         <col/>

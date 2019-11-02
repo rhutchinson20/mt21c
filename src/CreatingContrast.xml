@@ -6,7 +6,7 @@
 		<title>The Elements of Music</title>
 		<p>Creating contrast usually involves varying one or more of the <q>Elements of Music,</q> which are listed and explained below.</p>
 		<table>
-            <caption>The <q>Elements of Music</q></caption>
+            <title>The <q>Elements of Music</q></title>
             <tabular top="minor" bottom="minor" left="minor" right="minor">
                 <col/>
                 <col width="65%"/>
@@ -51,7 +51,7 @@
 		<p>The second movement<idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</h></idx> of Mozart’s <pubtitle>Eine kleine Nachtmusik</pubtitle> is a five-part <xref ref="RondoForm" text="title">rondo form</xref> (ABACA).</p>
 		<p>Let us examine the elements of music in the first section (the A section).</p>
 		<figure>
-            <caption>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
+            <title>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></title>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit3/contrast-eine-3-a-idea">
@@ -65,7 +65,7 @@
         </figure>
         <p>Notice how Mozart expresses the various musical elements:</p>
         <table>
-            <caption>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
+            <title>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></title>
             <tabular top="minor" bottom="minor" left="minor" right="minor">
                 <col/>
                 <col width="65%"/>
@@ -111,7 +111,7 @@
         </figure>
         <p>Here are the most noticeable differences:</p>
         <table>
-            <caption>B Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
+            <title>B Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></title>
             <tabular top="minor" bottom="minor" left="minor" right="minor">
                 <col/>
                 <col width="65%"/>
@@ -145,7 +145,7 @@
         </figure>
         <p>The following elements are noticeably changed:</p>
         <table>
-            <caption>C Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
+            <title>C Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></title>
             <tabular top="minor" bottom="minor" left="minor" right="minor">
                 <col/>
                 <col width="65%"/>

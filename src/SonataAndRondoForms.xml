@@ -466,7 +466,82 @@
         <exercisegroup>
             <exercise>
                 <statement>
-                    <p>For each excerpt below, identify the structural function as either expository, transitional, developmental, or terminative. First, aurally identify the tonic and determine if the key is maintained or another (or multiple other) keys occur. Also, listen for cadences to demarcate the form.</p>
+                    <p>Identify the structural function of each excerpt below as expository, transitional, developmental, or terminative. Aurally identify the tonic and determine if the key is maintained or if other keys occur. Listen for cadences to demarcate the form.</p>
+                    <p>
+                        (a) Haydn, Piano Sonata No. 59 in E-flat major, Hob. XVI:49, I.
+                        <sidebyside margins="37%">
+                            <video youtube="je74Fhokrxg" start="314" end="333" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (b) Beethoven, Symphony No. 5 in C Minor, Op. 67, I.
+                        <sidebyside margins="37%">
+                            <video youtube="W2qW6fOtAMY" start="161" end="178" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (c) Mozart, Piano Sonata No. 18 in D major, K.576, I.
+                        <sidebyside margins="37%">
+                            <video youtube="rUgMSF49YE4" start="26" end="42" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (d) Mozart, Symphony No. 40 in G Minor, K. 550, I.
+                        <sidebyside margins="37%">
+                            <video youtube="kWBCjaxVaeE" start="217" end="333" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (e) Mozart, Piano Sonata No. 7 in C major, K. 309, I.
+                        <sidebyside margins="37%">
+                            <video youtube="ZbWsNTiaebY" start="446" end="476" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (f) Haydn, Symphony No. 104 In D major, Hob. I:104, I.
+                        <sidebyside margins="37%">
+                            <video youtube="21o-aldOI08" start="224" end="234" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (g) Mozart, Piano Sonata No. 7 in C major, K. 309, I.
+                        <sidebyside margins="37%">
+                            <video youtube="V_i_FMMPKPc" start="30" end="46" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (h) Mozart, Piano Sonata No. 18 in D major, K.576, I.
+                        <sidebyside margins="37%">
+                            <video youtube="rUgMSF49YE4" start="77" end="85" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+
+                        (i) Mozart, Piano Sonata No. 8 in A minor, K. 310, I.
+                        <sidebyside margins="37%">
+                            <video youtube="U4K2mz_rPcs" start="89" end="100" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (j) Haydn, Piano Sonata No. 60 in C major, Op. 79, Hob. XVI:50, I.
+                        <sidebyside margins="37%">
+                            <video youtube="EhJ-G0Lp8bI" start="23" end="42" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (k) Mozart, Piano Sonata No. 14 in C Minor, K. 457, I.
+                        <sidebyside margins="37%">
+                            <video youtube="sBYfP1gbTkE" start="450" end="480" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (l) Mozart, Symphony No. 40 in G Minor, K. 550, IV.
+                        <sidebyside margins="37%">
+                            <video youtube="B5fqVYXVDwU" start="217" end="258" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+
+                    <!--OLD VERSION
                     <ol>
                         <li>
                             <figure>
@@ -565,6 +640,10 @@
                             </figure>
                         </li>
                     </ol>
+                -->
+
+
+
                 </statement>
                 <answer>
                     <ol>
@@ -631,7 +710,83 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>For each excerpt below, identify the structural function as either expository, transitional, developmental, or terminative.</p>
+                    <p>For each excerpt below, identify the structural function as either expository, transitional, developmental, or terminative.</p>  
+                    <p>
+                        (a) Haydn, Piano Sonata No. 59 in E-flat major, Hob. XVI:49, I.
+                        <sidebyside margins="37%">
+                            <video youtube="je74Fhokrxg" start="101" end="108" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (b) Mozart, Piano Sonata No. 7 in C major, K. 309, I.
+                        <sidebyside margins="37%">
+                            <video youtube="ZbWsNTiaebY" start="101" end="122" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (c) Beethoven, Symphony No. 5 in C Minor, Op. 67, IV.
+                        <sidebyside margins="37%">
+                            <video youtube="fOk8Tm815lE" start="1493" end="1532" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (d) Mozart, Piano Sonata No. 8 in A Minor, K. 310, I.
+                        <sidebyside margins="37%">
+                            <video youtube="U4K2mz_rPcs" start="159" end="177" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (e) Mozart, Piano Sonata No. 14 in C Minor, K. 457, I.
+                        <sidebyside margins="37%">
+                            <video youtube="sBYfP1gbTkE" start="246" end="290" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (f) Haydn, Symphony No. 104 in D major, Hob.I:104, IV.
+                        <sidebyside margins="37%">
+                            <video youtube="QYUANirkakg" start="195" end="226" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+
+
+                    <p>
+                        (g) Mozart, String Quartet No. 17 In B-flat, K.458, IV.
+                        <sidebyside margins="37%">
+                            <video youtube="nHtaGz8sqTw" start="1260" end="1285" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (h) Mozart, Piano Sonata No. 18 in D major, K.576, I.
+                        <sidebyside margins="37%">
+                            <video youtube="rUgMSF49YE4" start="178" end="207" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (i) Mozart, Piano Sonata No. 8 in A minor, K. 310, I.
+                        <sidebyside margins="37%">
+                            <video youtube="U4K2mz_rPcs" start="17" end="45" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (j) Haydn, Piano Sonata No. 60 in C major, Hob. XVI:50, I.
+                        <sidebyside margins="37%">
+                            <video youtube="EhJ-G0Lp8bI" start="99" end="113" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (k) Mozart, String Quartet No. 17 In B-flat, K.458, IV.
+                        <sidebyside margins="37%">
+                            <video youtube="nHtaGz8sqTw" start="1421" end="1435" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+                    <p>
+                        (l) Mozart, Piano Sonata No. 14 in C Minor, K. 457, I.
+                        <sidebyside margins="37%">
+                            <video youtube="sBYfP1gbTkE" start="104" end="118" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </p>
+
+                    <!--OLD VERSION
                     <ol>
                         <li>
                             <figure>
@@ -730,6 +885,11 @@
                             </figure>
                         </li>
                     </ol>  
+                -->
+
+
+
+
                 </statement>
             </exercise>
         </exercisegroup>

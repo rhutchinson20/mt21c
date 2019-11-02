@@ -466,7 +466,7 @@
                 <idx><h>modes</h><h>Phrygian-Dorian</h></idx>
                 <idx><h>modes</h><h>Lydian-Augmented</h></idx>
                 <idx><h>modes</h><h>Mixolydian-<flat/><scaledeg>6</scaledeg></h></idx>
-                <caption>Table of Scales</caption>
+                <title>Table of Scales</title>
                 <tabular>
                     <col/>
                     <col/>
@@ -634,7 +634,7 @@
             <title>List of Chord-Scale Relationships</title>
             <p>Below is a list of common chord-scale relationships. When there are two scales listed for a single chord, it is because the chord has a minor third that can be filled with half step then whole step <em>or</em> whole step then half step. This knowledge of chord-scale relationships ultimately becomes second nature to an improvising jazz musician.</p>
             <table>
-                <caption>List of Chord-Scale Relationships</caption>
+                <title>List of Chord-Scale Relationships</title>
                 <tabular>
                     <col/>
                     <col/>
