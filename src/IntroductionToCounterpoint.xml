@@ -477,13 +477,13 @@
 
         <exercises xml:id="IntroductionToCounterpointExercises">
             <title>Practice Exercises</title>
-            
+
             <introduction>
                 <p>Species Counterpoint: Day One</p>
             </introduction>
             
             <subexercises>
-                <title>First and Second Species Exercises</title>
+                <title><p>First and Second Species Exercises</p></title>
                 <exercise xml:id="first-species-exercises">
                     <statement>
                         <p>For each exercise below, write first species (note-against-note) counterpoint. Write the intervallic distance from the cantus firmus (<q><foreign>c.f.</foreign></q>) to the counterpoint in the blanks above the staff. Remember to begin and end with an octave or unison, to proceed to the last unison by step in both voices, and use only consonances (1, 3, 5, 6, 8, 10).</p>
@@ -717,8 +717,8 @@
             </exercise>
         </subexercises>
         <subexercises>
-            <title>Fugue Analysis</title>
-            
+            <title><p>Fugue Analysis</p></title>
+
 
             <exercise>
                 <statement>
@@ -770,7 +770,7 @@
                             <col width="11%"/>
                             <col right="none" width="11%"/>
                             <col width="11%"/>
-                            
+
                             <row>
                                 <cell  right="major" halign="center" bottom="major">FORM</cell>
                                 <cell bottom="major"></cell>
@@ -1241,11 +1241,11 @@
                             <col width="11%"/>
                             <col right="none" width="11%"/>
                             <col width="11%"/>
-                            
+
                             <row>
                                 <cell  right="major" halign="center" bottom="major">FORM</cell>
                                 <cell colspan="8" bottom="major">Exposition 1</cell>
-                                
+
                             </row>
                             <row>
                                 <cell  right="major" bottom="minor">SOPRANO</cell>
@@ -1277,7 +1277,7 @@
                                 <cell bottom="minor"></cell>
                                 <cell bottom="minor"></cell>
                                 <cell colspan="3" bottom="minor">Subject</cell>
-                                
+
                             </row>
                             <row>
                                 <cell halign="center" right="major">BASS</cell>
@@ -1285,7 +1285,7 @@
                                 <cell colspan="2" bottom="minor">Subject</cell>
                                 <cell bottom="minor">Sub.</cell>
                                 <cell colspan="3" bottom="minor">Countersubject</cell>
-                                
+
                             </row>
                             <row>
                                 <cell halign="center" right="major" bottom="major">KEY</cell>
@@ -1630,7 +1630,7 @@
                             </row>
                         </tabular>
                     </table>
-                    
+
 
 
 
@@ -1639,12 +1639,12 @@
         </subexercises>
 
         <conclusion>
-            <p>Click <url href="../hw/MT21C_HW_48.pdf">here to download the first homework assignment for this chapter.</url></p>
-            <p>Click <url href="../hw/MT21C_HW_49.pdf">here to download the second homework assignment for this chapter.</url></p>
-            <p>Click <url href="../hw/MT21C_HW_50.pdf">here to download the third homework assignment for this chapter.</url></p>
-            <p>Click <url href="../hw/MT21C_HW_51.pdf">here to download the fourth homework assignment for this chapter.</url></p>
-            <p>Click <url href="../hw/MT21C_HW_52.pdf">here to download the fifth homework assignment for this chapter.</url></p>
-            <p>Click <url href="../hw/MT21C_Unit_10_Practice_Test.pdf">here to download the Unit 10 Practice Test.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_48.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_49.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_50.pdf">here to download the third homework assignment for this chapter.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_51.pdf">here to download the fourth homework assignment for this chapter.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_52.pdf">here to download the fifth homework assignment for this chapter.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_Unit_10_Practice_Test.pdf">here to download the Unit 10 Practice Test.</url></p>
         </conclusion>
     </exercises>
 </chapter>

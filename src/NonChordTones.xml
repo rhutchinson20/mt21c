@@ -509,6 +509,7 @@
         <exercise>
             <statement>
                 <p>Fill in the blanks in the following table.</p>
+                <p></p>
                 <tabular halign="left" top="major" left="minor">
                     <col left="minor" right="minor"/>
                     <col right="minor"/>
@@ -620,7 +621,7 @@
             </answer>
         </exercise>
         <conclusion>
-            <p>Click <url href="../hw/MT21C_HW_10.pdf">here to download the homework.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_10.pdf">here to download the homework.</url></p>
         </conclusion>
     </exercises>
 </chapter>

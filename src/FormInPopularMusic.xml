@@ -5,7 +5,7 @@
     </introduction>
     <section xml:id="VerseChorusForm">
         <title>Verse-Chorus Form</title>
-        <p>The <term>Verse-Chorus form</term><idx><h>Verse-Chorus form</h></idx> is arguably the most common musical form of present day popular music and is probably familiar to most readers of this text. In Verse-Chorus form, the chorus contains the <q>hook,</q> the memorable refrain, while the verse typically contains less memorable melodic material. A clear example can be found in the 1985 song <q>We Are the World.</q></p>
+        <p>The <term>Verse-Chorus form</term><idx><h>Verse-Chorus form</h></idx> is arguably the most common musical form of present day popular music and is probably familiar to most readers of this text. In Verse-Chorus form, the chorus contains the <q>hook</q><mdash/>the memorable refrain<mdash/>while the verse typically contains less memorable melodic material. A clear example can be found in the 1985 song <q>We Are the World.</q></p>
         <table>
             <title>Jackson and Richie, <q>We Are The World</q></title>
             <idx><h>songs (popular)</h><h><q>We Are The World</q></h></idx>
@@ -163,7 +163,7 @@
     </section>
     <section xml:id="AABAForm">
         <title>AABA Form</title>
-        <p>The AABA form is associated with the hits of the musicals of the 1930s and remained one of the most popular forms of popular music until the 1950s, when Rock ‘n’ Roll became popular. Each section (A or B) is typically 8 measures long. The A sections contain the primary melody we associate with the song while the B section provides contrast and is often called the <q>bridge</q> or <q>middle eight.</q></p>
+        <p>The AABA form is associated with the hits from Broadway musicals in the 1930s and remained one of the most popular forms of popular music until the 1950s, when Rock ‘n’ Roll became popular. Each section (A or B) is typically 8 measures long. The A sections contain the primary melody we associate with the song while the B section provides contrast and is often called the <q>bridge</q> or <q>middle eight.</q></p>
         <table>
             <title>Gershwin, <q>I Got Rhythm</q></title>
             <idx><h>songs (popular)</h><h><q>I Got Rhythm</q> (Gershwin)</h></idx>
@@ -240,7 +240,7 @@
             <video youtube="Q_jKTPsh54Y" play-at="select" preview="generic"/>
         </sidebyside>
         <p>It is common for one or more of the A sections to be instrumental, and it is also common to eliminate an A section on the repeat of the entire AABA form (AABAABA, for example).</p>
-        <p>Other well known songs with AABA form include Over the Rainbow from The Wizard of Oz as well as many famous songs from the <pubtitle>Great American Songbook</pubtitle> by George Gershwin (<q>Let’s Call the Whole Thing Off,</q> <q>Someone to Watch Over Me</q>), Cole Porter (<q>Anything Goes,</q> <q>Love for Sale,</q> <q>I Get A Kick Out of You</q>), Irving Berlin (<q>Blue Skies,</q> <q>Puttin’ on the Ritz</q>), and Jerome Kern (<q>The Way You Look Tonight,</q> <q>Smoke Gets In Your Eyes</q>).</p>
+        <p>Other well known songs with AABA form include <q>Over the Rainbow</q> from <pubtitle>The Wizard of Oz</pubtitle> as well as many famous songs from the <pubtitle>Great American Songbook</pubtitle> by George Gershwin (<q>Let’s Call the Whole Thing Off,</q> <q>Someone to Watch Over Me</q>), Cole Porter (<q>Anything Goes,</q> <q>Love for Sale,</q> <q>I Get A Kick Out of You</q>), Irving Berlin (<q>Blue Skies,</q> <q>Puttin’ on the Ritz</q>), and Jerome Kern (<q>The Way You Look Tonight,</q> <q>Smoke Gets In Your Eyes</q>).</p>
         <p>The AABA form continued to be dominant into the 1960s (including Beatles songs like <q>Yesterday,</q> <q>Norwegian Wood,</q> and <q><url href="https://youtu.be/A_MjCqQoLLA">Hey Jude</url>,</q> to name a few). The AABA form is less common in the present day but can be found in songs like The Cure’s <q><url href="https://youtu.be/0thnAQKadpo">Friday, I’m in Love</url></q> (1992) and Norah Jones’s <q><url href="https://youtu.be/tO4dxvguQDk">Don’t Know Why</url></q> (1999).</p>
         <p>A note on terminology: the entire 32-bar AABA form is sometimes called a <q>refrain</q> or <q>chorus,</q> and some AABA songs are preceded by a <q>verse.</q> This means a song like <q><url href="https://youtu.be/gjUXG-Fz8pc">Someone To Watch Over Me</url></q> begins with a verse and is followed by a <q>refrain</q> (which could also be called a <q>chorus</q>). Other synonymous terms you may encounter for <q>verse</q> in the context of AABA form are <q>prelude</q> and <q>introduction.</q></p>
     </section>
@@ -517,7 +517,7 @@
             </answer>
         </exercise>
         <conclusion>
-            <p>Click <url href="../hw/MT21C_HW_13.pdf">here to download the homework assignment for this chapter.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_13.pdf">here to download the homework assignment for this chapter.</url></p>
         </conclusion>
     </exercises>
 </chapter>
