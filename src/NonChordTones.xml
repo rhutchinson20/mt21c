@@ -87,7 +87,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>In the first bar of the <q>Want to Want Me</q> example, the passing tone is unaccented. In the third bar, it is accented (on the beat). The non-chord tone in bar 2 is an <xref ref="Appoggiatura" text="title">appoggiatura</xref>.</p>
+        <p>In the first bar of the <q>Want to Want Me</q> example, the passing tone is unaccented. In the third bar, it is accented (on the beat). The non-chord tone in bar 2 is an <xref ref="Appoggiatura" text="custom">appoggiatura</xref>.</p>
         <p>There can be two consecutive diatonic passing tones in a descending scale segment from the root and fifth of a chord.</p>
         <figure>
             <caption>Hupfeld, <q>As Time Goes By</q></caption>
@@ -137,7 +137,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>In the next section we discuss the appogiatura.</p>
+        <p>In the next section we discuss the appoggiatura.</p>
     </section>
     <section xml:id="Appoggiatura">
         <title>Appoggiatura</title>
@@ -207,8 +207,8 @@
         </figure>
         <p>Here is another example, with escape tones used in a melodic sequence.</p>
         <figure>
-            <caption>Haydn, Sonata No. 48 in C Major, Hob. XVI: 35, III</caption>
-            <idx><h>Haydn</h><h>Sonata No. 48 in C Major, Hob. XVI: 35, III</h></idx>
+            <caption>Joseph Haydn, Piano Sonata in C Major, Hob. XVI:35, III</caption>
+            <idx><h>Haydn, Joseph</h><h>Piano Sonata in C Major, Hob. XVI:35, III</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-esc-haydn">
@@ -245,8 +245,8 @@
             <image source="images/unit2/NCT-dn-generic"/>
         </figure>
         <figure>
-            <caption>Kuhlau, Sonatina in C Major, Op. 55, No. 1, I</caption>
-            <idx><h>Kuhlau</h><h>Sonatina in C Major, Op. 55, No. 1, I</h></idx>
+            <caption>Friedrich Kuhlau, Sonatina in C Major, Op. 55, No. 1, I</caption>
+            <idx><h>Kuhlau, Friedrich</h><h>Sonatina in C Major, Op. 55, No. 1, I</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-dn-kuhlau">
@@ -279,8 +279,8 @@
         <title>Anticipation</title>
         <p>An <term>anticipation</term><idx><h>anticipation</h></idx> is a non-chord tone that anticipates the arrival of the next chord and is often found at cadences, as in the next example.</p>
         <figure>
-            <caption>Handel, <pubtitle>Rinaldo</pubtitle>, <q>Lascia ch'io pianga</q></caption>
-            <idx><h>Handel</h><h><pubtitle>Rinaldo</pubtitle>, <q>Lascia ch'io pianga</q></h></idx>
+            <caption>George Frideric Handel, <pubtitle>Rinaldo</pubtitle>, <q>Lascia ch'io pianga</q></caption>
+            <idx><h>Handel, George Frideric</h><h><pubtitle>Rinaldo</pubtitle>, <q>Lascia ch'io pianga</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-ant-handel">
@@ -307,7 +307,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>Sometimes <xref ref="syncopation-definition" text="title">syncopation</xref> will lead to an anticipation of a note in a chord in the following measure, as occurs at the ends of bars 1, 2, and 3 of the <q>Call Me</q> example.</p>
+        <p>Sometimes <xref ref="syncopation-definition" text="custom">syncopation</xref> will lead to an anticipation of a note in a chord in the following measure, as occurs at the ends of bars 1, 2, and 3 of the <q>Call Me</q> example.</p>
     </section>
     <section xml:id="PedalPoint">
         <title>Pedal Point</title>
@@ -377,8 +377,8 @@
         </figure>
         <p>Here is an example with 7-6 and 9-8 suspensions.</p>
         <figure>
-            <caption>Handel, Suite No. 2 in D Major, HWV 349: II</caption>
-            <idx><h>Handel</h><h>Suite No. 2 in D Major, HWV 349: II</h></idx>
+            <caption>George Frideric Handel, Suite No. 2 in D Major, HWV 349: II</caption>
+            <idx><h>Handel, George Frideric</h><h>Suite No. 2 in D Major, HWV 349: II</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-sus-7-6-hornpipe">
@@ -451,8 +451,8 @@
         <title>Incomplete Neighbor</title>
         <p>Because composers are notorious for <q>breaking the rules,</q> you will encounter examples in the real world that either defy explanation or have multiple valid explanations. One <q>utility</q> non-chord tone is the incomplete neighbor.</p>
         <figure>
-            <caption>Puccini, <pubtitle>Gianni Schicchi</pubtitle>, <q>O mio babbino caro</q></caption>
-            <idx><h>Puccini</h><h><pubtitle>Gianni Schicchi</pubtitle>, <q>O mio babbino caro</q></h></idx>
+            <caption>Giacomo Puccini, <pubtitle>Gianni Schicchi</pubtitle>, <q>O mio babbino caro</q></caption>
+            <idx><h>Puccini, Giacomo</h><h><pubtitle>Gianni Schicchi</pubtitle>, <q>O mio babbino caro</q></h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit2/NCT-inc-nt-o-mio">

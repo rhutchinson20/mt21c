@@ -6,7 +6,7 @@
         <p><term>Impressionism</term><idx><h>Impressionism</h></idx> is associated with Claude Debussy and Maurice Ravel in France, Ottorino Respighi in Italy, Charles Tomlinson Griffes in America, and Frederick Delius in England. We will focus on just three techniques found in the music of Debussy and Ravel: (1) the use of modes, (2) the use of upper extensions above the 7th in chord construction in tertian harmonies (9ths, 11ths, and 13ths, which we saw in the chapter on jazz), and (3) parallelism, also known as <q>planing.</q></p>
         <ol>
             <li><!--1-->
-                <p><em>Use of modes.</em> Composers such as Debussy and Ravel sometimes wrote in the church modes (Phrygian, Lydian, etc.<mdash/>see <xref ref="TableOfScales" text="title">Scales</xref>) as an alternative to the heavily chromatic music of Richard Wagner (listen to the influential <url href="https://youtu.be/ghjz6D34HPQ">Prelude to Act I</url> of Wagner’s <pubtitle>Tristan und Isolde</pubtitle><idx><h>Wagner, Richard</h><h><pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</h></idx>).</p>
+                <p><em>Use of modes.</em> Composers such as Debussy and Ravel sometimes wrote in the church modes (Phrygian, Lydian, etc.<mdash/>see <xref ref="TableOfScales" text="custom">Scales</xref>) as an alternative to the heavily chromatic music of Richard Wagner (listen to the influential <url href="https://youtu.be/ghjz6D34HPQ">Prelude to Act I</url> of Wagner’s <pubtitle>Tristan und Isolde</pubtitle><idx><h>Wagner, Richard</h><h><pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</h></idx>).</p>
                 <ol>
                     <li><!--a-->
                         <p>The first movement of Debussy’s String Quartet in G minor, Op. 10, begins in Phrygian mode. Notice that the seventh chord that occurs on the <scaledeg>5</scaledeg> scale degree is half-diminished in Phrygian. (The penultimate chord in this example is not in Phrygian mode.)</p>
@@ -114,7 +114,7 @@
                 </ol>
             </li>
             <li><!--3-->
-                <p><em>Use of parallelism</em> (also known as <q>planing</q>). In contrast to the <xref ref="ObjectionableParallels" text="title">prohibition against parallel fifths and octaves in traditional voice leading</xref>, both Debussy and Ravel would take a chord voicing and move all voices in parallel motion.</p>
+                <p><em>Use of parallelism</em> (also known as <q>planing</q>). In contrast to the <xref ref="ObjectionableParallels" text="custom">prohibition against parallel fifths and octaves in traditional voice leading</xref>, both Debussy and Ravel would take a chord voicing and move all voices in parallel motion.</p>
                 <ol>
                     <li><!--a-->
                         <p>In <pubtitle>Pavane pour une infante d&#x00E9;funte</pubtitle>, Ravel writes dominant 9th chords in parallel motion in bar 27.</p>
@@ -265,7 +265,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>Polychords are notated using a horizontal line between the chords instead of a slash. (The slash was used for <xref ref="slash-chord-paragraph" text="title">slash chords</xref>.)</p>
+        <p>Polychords are notated using a horizontal line between the chords instead of a slash. (The slash was used for <xref ref="slash-chord-paragraph" text="custom">slash chords</xref>.)</p>
         <sidebyside><!--no margins on this one-->
             <image source="images/unit12/polychord-how-to-notate"/>
         </sidebyside>

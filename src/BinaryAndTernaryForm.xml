@@ -21,7 +21,7 @@
     <section xml:id="SectionalVersusContinuous">
         <title>Sectional versus Continuous</title>
         <p>We apply the descriptor <q><term>sectional</term></q><idx><h>sectional</h><h>definition of</h></idx> to a binary or ternary form when the first section (the A section) ends on the tonic. (Note: We use lowercase letters to refer to phrases and uppercase letters to refer to sections.)</p>
-        <idx><h>Brahms</h><h><pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49</h><h><q>Wiegenlied</q></h></idx>
+        <idx><h>Brahms, Johannes</h><h><pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49</h><h><q>Wiegenlied</q></h></idx>
         <sidebyside>
             <image source="images/unit7/bin-tern-section-brahms-wiegenlied-A">
                 <description/>
@@ -43,7 +43,7 @@
             </image>
         </sidebyside>
         <figure>
-            <caption>Brahms, <pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49, No. 4 <q>Wiegenlied</q> (1868)</caption>
+            <caption>Johannes Brahms, <pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49, No. 4 <q>Wiegenlied</q> (1868)</caption>
             <sidebyside margins="37%">
                 <video youtube="6kh51bIA2q8" start="45" end="90" play-at="select" preview="generic"/>
             </sidebyside>
@@ -80,7 +80,7 @@
         </figure> 
     -->
     <p>The term <q><term>continuous</term></q><idx><h>continuous</h><h>definition of</h></idx> is used the first section of a binary or ternary form does <em>not</em> end on the tonic chord. While this often means the first section ends in a new key, it can also mean the first section ends on the dominant chord in a half cadence.</p>
-    <idx><h>Haydn</h><h>Symphony No. 94 in G major, Hob.I:94, II</h></idx>
+    <idx><h>Haydn, Joseph</h><h>Symphony No. 94 in G major, Hob. I:94, II</h></idx>
     <sidebyside>
         <image source="images/unit7/bin-tern-continuous-haydn-surprise-A">
             <description/>
@@ -102,7 +102,7 @@
         </image>
     </sidebyside>
     <figure>
-        <caption>Haydn, Symphony No. 94 in G major, Hob.I:94, II (1791)</caption>
+        <caption>Joseph Haydn, Symphony No. 94 in G major, Hob. I:94, II (1791)</caption>
         <sidebyside margins="37%">
             <video youtube="lLjwkamp3lI" start="0" end="52" play-at="select" preview="generic"/>
         </sidebyside>
@@ -375,8 +375,8 @@
         <p>Character pieces from the Romantic era with titles such as <q>Nocturne,</q> <q>Intermezzo,</q> and <q>Song Without Words,</q> among others, by composers such as Schubert, Chopin, Mendelssohn, Schumann, and Brahms, are often in a larger ternary form where each section might be longer than eight bars.</p>
         <p>Below are examples from a larger ternary piece, Rachmaninov's Prelude in C-sharp minor, Op.3 No.2.</p>
         <figure>
-            <caption>Rachmaninov, Prelude in C-sharp minor, Op. 3 No. 2, First A section bars 1<ndash/>13</caption>
-            <idx><h>Rachmaninov</h><h>Prelude in C-sharp minor, Op. 3 No. 2</h></idx>
+            <caption>Sergei Rachmaninoff, Prelude in C-sharp minor, Op. 3 No. 2, First A section bars 1<ndash/>13</caption>
+            <idx><h>Rachmaninoff, Sergei</h><h>Prelude in C-sharp minor, Op. 3 No. 2</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit7/bin-tern-ternary-Rachmaninoff-A1">
@@ -490,7 +490,7 @@ There needs to be at least one example with written out repeats, like a Schumann
     <exercise>
         <statement>
             <p>For Handel's Gavotte, HWV 491, please fill in the blanks below the staves and diagram the form. Also, name the form. You will need to determine which notes are non-chord tones in order to determine Roman numerals.</p>
-            <idx><h>Handel</h><h>Gavotte, HWV 491</h></idx>
+            <idx><h>Handel, George Frideric</h><h>Gavotte, HWV 491</h></idx>
             <sidebyside>
                 <image source="images/unit7/HW-bin-tern-Handel-gavotte-A">
                     <description/>
@@ -520,7 +520,7 @@ There needs to be at least one example with written out repeats, like a Schumann
                 <video youtube="IHEwWbK2fBw" start="0" end="56" play-at="select" preview="generic"/>
             </sidebyside>
             <figure>
-                <caption>Handel, Gavotte, HWV 491</caption>
+                <caption>George Frideric Handel, Gavotte, HWV 491</caption>
             </figure>
             <p>For the piece above, complete the following diagram based on your analysis. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
             <sidebyside>
@@ -773,6 +773,7 @@ There needs to be at least one example with written out repeats, like a Schumann
     <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_34.pdf">here to download the second homework assignment for this chapter.</url></p>
     <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_35.pdf">here to download the third homework assignment for this chapter.</url></p>
     <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_32.pdf">here to download the review sheet for material studied prior to this chapter.</url></p>
+    <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
 </conclusion>
 </exercises>
 </chapter>

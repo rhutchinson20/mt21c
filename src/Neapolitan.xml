@@ -4,7 +4,7 @@
     <section xml:id="NeapolitanIntroduction">
         <title>The Neapolitan Chord</title>
         <p>The label <q><term>Neapolitan</term></q><idx><h>Neapolitan</h><h>definition of</h></idx> is used in classical music for the <flat/><chord root="II"/> chord and is labeled as <q><chord root="N"/></q> instead of <flat/><chord root="II"/>. For example, when the Neapolitan chord occurs in first inversion<mdash/>its most common inversion<mdash/>it is labeled as <chord root="N" bps="6"/>.</p>
-        <p>Being a chromatically altered <chord root="ii"/> chord, the Neapolitan has <xref ref="PreDominantFunction" text="title">pre<ndash/>dominant harmonic function</xref>.</p>
+        <p>Being a chromatically altered <chord root="ii"/> chord, the Neapolitan has <xref ref="PreDominantFunction" text="custom">pre<ndash/>dominant harmonic function</xref>.</p>
         <p>Notice the special character of the Neapolitan and how composers sometimes alter texture, register, and dynamics when the Neapolitan occurs, as in the first movement of Beethoven's Symphony No. 7, Op. 92.</p>
         <figure>
             <caption>Beethoven, Symphony No. 7, Op. 92, I (1812)</caption>
@@ -33,7 +33,7 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="57zT4A13z3g" start="0" end="25" play-at="select" preview="generic"/>
+                    <video youtube="bT6WmWVYPhI" start="22" end="48" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>

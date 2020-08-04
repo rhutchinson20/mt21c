@@ -76,11 +76,11 @@
                         </ol>
                     </p></li>
                     <li>
-                        <p><q>Perfect</q> consonances (unisons, 5ths, 8ves, 12ths) may only be approached in <em>contrary</em> motion in order to avoid direct 5ths and direct 8ves (you may wish to review the <xref ref="TypesOfMotion" text="title">Types of Motion</xref>).</p></li><!--needs examlpe-->
+                        <p><q>Perfect</q> consonances (unisons, 5ths, 8ves, 12ths) may only be approached in <em>contrary</em> motion in order to avoid direct 5ths and direct 8ves (you may wish to review the <xref ref="TypesOfMotion" text="custom">Types of Motion</xref>).</p></li><!--needs examlpe-->
                     </ol>
                 </p>
             </li>
-            <li><p>Only the following leaps are allowed: 3rds, 4ths, 5ths, ascending minor sixths, and 8ves (review the <xref ref="RulesOfMelody" text="title">Rules of Melody</xref> with regard to direction changes after leaps).</p></li>
+            <li><p>Only the following leaps are allowed: 3rds, 4ths, 5ths, ascending minor sixths, and 8ves (review the <xref ref="RulesOfMelody" text="custom">Rules of Melody</xref> with regard to direction changes after leaps).</p></li>
             <li>
                 <p>Avoid melodically outlining a tritone by changing directions at two turning points in a melody.</p>
                 <sidebyside>
@@ -92,7 +92,7 @@
             <li><p>Avoid repeating notes in order to create a flowing melody</p></li>
         </ol>
         <p>Following these rules may seem dry and uninspired, but these rules come from observations of note-by-note details in Renaissance masterpieces by composers like Palestrina and can make any composer better and more aware of what they are writing.</p>
-        <p><xref ref="first-species-exercises" text="title">Go to First Species Practice Exercises</xref>.</p>
+        <p><xref ref="first-species-exercises" text="custom">Go to First Species Practice Exercises</xref>.</p>
     </section>
 
 
@@ -149,7 +149,7 @@
                     <description/>
                 </image>
             </sidebyside>
-            <p><xref ref="second-species-exercises" text="title">Go to Second Species Practice Exercises</xref>.</p>
+            <p><xref ref="second-species-exercises" text="custom">Go to Second Species Practice Exercises</xref>.</p>
 
 
 
@@ -200,7 +200,7 @@
                     <description/>
                 </image>
             </sidebyside>
-            <p><xref ref="third-species-exercises" text="title">Go to Third Species Practice Exercises</xref>.</p>
+            <p><xref ref="third-species-exercises" text="custom">Go to Third Species Practice Exercises</xref>.</p>
         </section>
         <section xml:id="FourthSpecies">
             <title>Fourth Species Counterpoint</title>
@@ -226,7 +226,7 @@
                 </image>
             </sidebyside>
             <p>Notice that all suspensions and syncopations are labeled and all dissonant intervals are circled.</p>
-            <p><xref ref="fourth-species-exercises" text="title">Go to Fourth Species Practice Exercises</xref>.</p>
+            <p><xref ref="fourth-species-exercises" text="custom">Go to Fourth Species Practice Exercises</xref>.</p>
         </section>
 
 
@@ -363,7 +363,7 @@
                 <p>Given these pieces of information, you are prepared to begin writing tonal counterpoint in two parts.</p>
             </subsection>
             <conclusion>
-                <p><xref ref="invention-exposition-exercises" text="title">Go to the Invention Exposition Practice Exercises</xref>.</p>
+                <p><xref ref="invention-exposition-exercises" text="custom">Go to the Invention Exposition Practice Exercises</xref>.</p>
             </conclusion>
         </section>
 
@@ -375,12 +375,12 @@
             <p>We will now turn to analysis of fugue. Let us set out definitions first.</p>
             <ul>
                 <li><p>A <term>fugue</term><idx><h>fugue</h><h>definition of</h></idx> is a contrapuntal composition whose form features sections called expositions and episodes</p></li>
-                <li><p>A fugue <term>exposition</term><idx><h>fugue</h><h>exposition</h><h>definition of</h></idx> is a section that contains at least one full statement of the subject of the fugue.</p></li>
+                <li><p>A fugue <term>exposition</term><idx><h>fugue</h><h>exposition</h><h>definition of</h></idx> is a section that contains at least one full statement of the subject of the fugue.<fn>Some authors reserve the term <q>exposition</q> solely for the first exposition and use the term <q>middle entry</q> for later statements of the full subject. <pubtitle>Grove Music Online</pubtitle> includes the following in their definition of <q>Exposition</q>: <q>...In German the word <foreign>Durchf&#x00FC;hrung</foreign> is used to refer to all groups of thematic entries in the body of the fugue, after the opening <em>Exposition</em>. Because there is no equivalent word so used in English, English speakers sometimes, but by no means universally, apply the word ‘exposition’ to these later thematic groups as well.</q></fn></p></li>
                 <li><p>The fugue <term>subject</term><idx><h>fugue</h><h>subject</h><h>definition of</h></idx> is the primary melodic idea and is stated by each voice in turn in the first exposition.</p></li>
-                <li><p>The <term>response</term><idx><h>fugue</h><h>response</h><h>definition of</h></idx>, called <q>answer</q> in some texts, is the subject intervallically altered to start in the original key before modulating to the dominant. Notice that the third note of the subject in the example below descends a perfect fourth to the fourth note. In the response in measure 3, the third note descends a perfect fifth to the fourth note.</p></li>
-                <li><p>An <term>episode</term><idx><h>fugue</h><h>episode</h><h>definition of</h></idx> is a section that does not contain a full statement of the fugue subject, but instead <xref ref="DevelopmentalFunction" text="title">develops</xref> the subject or other prominent ideas through fragmentation and sequencing.</p></li>
+                <li><p>The <term>answer</term><idx><h>fugue</h><h>answer</h><h>definition of</h></idx>, called <q>response</q> in some texts, refers to the statement of subject in the key of the dominant by the second voice to enter in a fugue. Sometimes this statement of the answer has intervals altered in order to start in the tonic before modulating to the dominant. When the intervals are altered in this manner, we call this a <q>tonal answer.</q> In contrast, a <q>real answer</q> contains no alteration of intervals. In the example below, notice that the third note of the subject in measure 1 descends a perfect fourth to the fourth note. In the answer in measure 3, the third note descends a perfect fifth to the fourth note.</p></li>
+                <li><p>An <term>episode</term><idx><h>fugue</h><h>episode</h><h>definition of</h></idx> is a section that does not contain a full statement of the fugue subject, but instead <xref ref="DevelopmentalFunction" text="custom">develops</xref> the subject or other prominent ideas through fragmentation and sequencing.</p></li>
             </ul>
-            <p>Here is the first exposition of Fugue 2 in C minor in Book I of the J.S. Bach’s <pubtitle>Well-Tempered Clavier</pubtitle>. In the first exposition of a fugue, all of the voices state the subject at least once. It is important to note that a response is considered equivalent to a subject because the intervallic alterations are so minute.<idx><h>Bach, J.S.</h><h><pubtitle>Well-Tempered Clavier, Book I</pubtitle></h><h>Fugue 2 in C minor, BWV 846</h></idx></p>
+            <p>Here is the first exposition of Fugue 2 in C minor in Book I of the J.S. Bach’s <pubtitle>Well-Tempered Clavier</pubtitle>. In the first exposition of a fugue, all of the voices state the subject at least once. It is important to note that a answer is considered equivalent to a subject because the intervallic alterations are so minute.<idx><h>Bach, J.S.</h><h><pubtitle>Well-Tempered Clavier, Book I</pubtitle></h><h>Fugue 2 in C minor, BWV 846</h></idx></p>
             <sidebyside>
                 <image source="images/unit10/fug-c-min-A">
                     <description/>
@@ -403,10 +403,10 @@
                 </sidebyside>
             </figure>
             <ul>
-                <li><p>The <term>bridge</term><idx><h>fugue</h><h>bridge</h><h>definition of</h></idx>, if it occurs, is a brief modulatory passage that only happens <em>within</em> the first exposition, usually to connect the response to the subsequent subject statement.</p></li>
+                <li><p>The <term>bridge</term><idx><h>fugue</h><h>bridge</h><h>definition of</h></idx>, if it occurs, is a brief modulatory passage that only happens <em>within</em> the first exposition, usually to connect the answer to the subsequent subject statement.</p></li>
                 <li><p>A <term>countersubject</term><idx><h>fugue</h><h>countersubject</h><h>definition of</h></idx> is counterpoint that consistently accompanies each occurrence of the subject. <q>Countersubject 1</q> is in the alto voice in measure 3 and in the soprano voice in measure 7. The alternative to using a countersubject would be for a composer to write different accompanying counterpoint (labeled as <q>CTRPT</q> in the examples) each time a subject is stated.</p></li>
             </ul>
-            <p>Within the bridge (bar 5 in the example above), we see motivic <xref ref="FragmentSection" text="title">fragmentation</xref> of the subject (<q>subject head</q>). Subjects, responses, and countersubjects can be fragmented into head motives and tail motives in episodes in fugues. In this fugue, we will see the subject, countersubject 1, and countersubject 2 fragmented.</p>
+            <p>Within the bridge (bar 5 in the example above), we see motivic <xref ref="FragmentSection" text="custom">fragmentation</xref> of the subject (<q>subject head</q>). Subjects, answers, and countersubjects can be fragmented into head motives and tail motives in episodes in fugues. In this fugue, we will see the subject, countersubject 1, and countersubject 2 fragmented.</p>
             <p>Below is the first episode, which contains motivic fragmentation of the subject and countersubject 1.</p>
             <sidebyside>
                 <image source="images/unit10/fug-c-min-D">
@@ -468,7 +468,7 @@
                     <video youtube="itvGdURMfbM" start="53" end="94" play-at="select" preview="generic"/>
                 </sidebyside>
             </figure>
-            <p>In homework and on the test, you will be asked to analyze a fugue with regard to expositions (including the bridge, if it occurs), episodes, subjects, responses, countersubjects, and motivic fragmentation.</p>
+            <p>In homework and on the test, you will be asked to analyze a fugue with regard to expositions (including the bridge, if it occurs), episodes, subjects, answers, countersubjects, and motivic fragmentation.</p>
         </section>
 
 
@@ -722,7 +722,7 @@
 
             <exercise>
                 <statement>
-                    <p>For this fugue from the second <foreign>Kyrie eleison</foreign> of Bach's <pubtitle>Mass in B Minor</pubtitle> (BWV 232), specify formal sections (expositions and episodes), motives (subject, response, countersubjects, and fragments thereof), and key areas for expositions only in the table below. This fugue contains more <q>counterpoint</q> (material not derived for subjects or countersubjects) than the C minor fugue in the body of the text.</p>
+                    <p>For this fugue from the second <foreign>Kyrie eleison</foreign> of Bach's <pubtitle>Mass in B Minor</pubtitle> (BWV 232), specify formal sections (expositions and episodes), motives (subject, answer, countersubjects, and fragments thereof), and key areas for expositions only in the table below. This fugue contains more <q>counterpoint</q> (material not derived for subjects or countersubjects) than the C minor fugue in the body of the text.</p>
                     <sidebyside>
                         <image source="images/unit10/PRAC-EXER-fugue-b-minor-mass-A">
                             <description/>
@@ -1645,6 +1645,7 @@
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_51.pdf">here to download the fourth homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_52.pdf">here to download the fifth homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_Unit_10_Practice_Test.pdf">here to download the Unit 10 Practice Test.</url></p>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
         </conclusion>
     </exercises>
 </chapter>

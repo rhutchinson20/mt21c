@@ -34,7 +34,7 @@
         </subsection>
         <subsection xml:id="TranspositionNumbers">
             <title>Transposition Numbers</title>
-            <p>Each row form can be transposed to start on any note from the chromatic scale. We will use the same <xref ref="IntegerNotationForPitches" text="title">pitch integers</xref> as in set theory. For primes and inversions, we will use P and I accompanied by a pitch integer to specify the starting note. For example, P<n octave="0"/> is a twelve-tone row starting on C (pitch integer 0), P<n octave="3"/> is a twelve-tone row starting on E<flat/>, and so forth. The same is the case for row forms like I<n octave="2"/> (starting on D), I<n octave="5"/> (starting on F), on so forth.</p>
+            <p>Each row form can be transposed to start on any note from the chromatic scale. We will use the same <xref ref="IntegerNotationForPitches" text="custom">pitch integers</xref> as in set theory. For primes and inversions, we will use P and I accompanied by a pitch integer to specify the starting note. For example, P<n octave="0"/> is a twelve-tone row starting on C (pitch integer 0), P<n octave="3"/> is a twelve-tone row starting on E<flat/>, and so forth. The same is the case for row forms like I<n octave="2"/> (starting on D), I<n octave="5"/> (starting on F), on so forth.</p>
             <sidebyside>
                 <image source="images/unit12/12-tone-example-P-I-transposition-numbers-B">
                     <description/>
@@ -115,7 +115,7 @@
 
     <section>
         <title>Twelve-Tone Matrix</title>
-        <p>One tool analysts create to analyze a twelve-tone composition is a twelve-tone matrix, which shows all 48 row forms in a 12 by 12 grid. Below is a matrix for the row we’ve been dealing with in this chapter.</p>
+        <p>One tool analysts create to analyze a twelve-tone composition is a twelve-tone matrix, which shows all 48 row forms in a 12-by-12 grid. Below is a matrix for the row we’ve been dealing with in this chapter.</p>
         <table>
             <title>Twelve-Tone Matrix</title>
             <tabular halign="center">
@@ -1297,7 +1297,7 @@
         </exercise> 
         <exercise>
             <statement>
-                <p>For the following excerpt, determine P<n octave="4"/> and identify each row form and statement. This example contains overlap.</p>
+                <p>For the following excerpt, determine P<n octave="5"/> and identify each row form and statement. This example contains overlap.</p>
                 <sidebyside>
                     <image source="images/unit12/PRAC-EXER-12-tone-excerpt-for-analysis">
                         <description/>

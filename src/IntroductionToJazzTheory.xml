@@ -9,6 +9,7 @@
                 <p><term>Ninth chords</term><idx><h>ninth chords</h></idx> are common in jazz.</p>
                 <ol>
                     <li><!--a-->
+                        <p>Four of the five common seventh chord types in classical and popular music will have ninths added to them; the exception is the fully diminished seventh chord.</p>
                         <ol>
                             <li><!--i-->
                                 <p>The <chord mode="halfdiminished" bps="7"/> chord is also labeled as <chord mode="m" bps="7"><alteration><flat/>5</alteration></chord> in jazz<mdash/><chord root="C" mode="halfdiminished" bps="7"/> is the same as <chord root="C" mode="m" bps="7"><alteration><flat/>5</alteration></chord>.</p>
@@ -32,13 +33,13 @@
                 <p>Alterations (maj, <chord mode="major"/>, <sharp/>, <flat/>, <chord mode="augmented"/>, m, <ndash/>) are applied as follows:</p>
                 <ol>
                     <li><!--a-->
-                        <p><q>maj</q> or <q><chord mode="major"/></q> with 7, 9, 11, or 13 refers to the 7th of the chord being major, not the 9th, 11th, or 13th.</p>
+                        <p><q>maj</q> or <q><chord mode="major"/></q> followed by 7, 9, 11, or 13 means the 7th of the chord is major, not the 9th, 11th, or 13th.</p>
                     </li>
                     <li><!--b-->
                         <p>Lowercase <q>m</q> or the minus sign (<q><ndash/></q>) means minor and applies to the 3rd of the chord.</p>
                         <ol>
                             <li><!--i-->
-                                <p>The minus sign (<ndash/>) is equivalent to a flat when placed in front of 9, 11, or 13 (i.e., <flat/>9 and <ndash/>9 mean the same thing). <q><chord root="C sharp"/><ndash/><chord bps="6"/></q> (equivalent to <q><chord root="C sharp" mode="m" bps="6"/></q>) means a <chord root="C sharp"/> minor chord (<q><chord root="C sharp"/><ndash/></q>) with the 6th from major (A<sharp/>). <q><chord root="C sharp"/> (add <ndash/>6),</q> whidh is equivalent to <q><chord root="C sharp"><alteration>add <flat/>6</alteration></chord>,</q> means a C<sharp/> major triad with the <flat/>6 added</p>
+                                <p>The minus sign (<ndash/>) is equivalent to a flat when placed in front of 9, 11, or 13 (i.e., <flat/>9 and <ndash/>9 mean the same thing). <q><chord root="C sharp"/><ndash/><chord bps="6"/></q> (equivalent to <q><chord root="C sharp" mode="m" bps="6"/></q>) means a <chord root="C sharp"/> minor chord (<q><chord root="C sharp"/><ndash/></q>) with the 6th from major (A<sharp/>). <q><chord root="C sharp"/> (add <ndash/>6),</q> which is equivalent to <q><chord root="C sharp"><alteration>add <flat/>6</alteration></chord>,</q> means a C<sharp/> major triad with the <flat/>6 added</p>
                             </li>
                         </ol>
                     </li>
@@ -56,7 +57,7 @@
                 </ol>
             </li>
             <li><!--3-->
-                <p>If a chord has a 9th but no 7th, use the term <q>add 9.</q> In popular music, sometimes <q>2</q> or <q>add 2</q> is used instead (refer to the <xref ref="ChordLabels" text="title">Chord Labels</xref> section).</p>
+                <p>If a chord has a 9th but no 7th, use the term <q>add 9.</q> In popular music, sometimes <q>2</q> or <q>add 2</q> is used instead (refer to the <xref ref="ChordLabels" text="custom">Chord Labels</xref> section).</p>
             </li>
             <li><!--4-->
                 <p>m<chord mode="major"/>7 Chord: In addition to the five common seventh chord types, jazz includes use of the minor-major seventh chord (a minor triad with a major seventh). This chord will commonly have a ninth added as well. You will see the <q>major</q> symbol (<chord mode="major"/>) used primarily in jazz. Popular music typically uses <q>maj</q> instead.</p>
@@ -80,7 +81,7 @@
                 </ol>
             </li>
             <li><!--6-->
-                <p><term><timesignature top="6" bottom="9"/></term><idx><h><timesignature top="6" bottom="9"/> chords</h></idx> chords: If a chord has a 6th and a 9th, call it a <timesignature top="6" bottom="9"/> chord (C<timesignature top="6" bottom="9"/>) instead of a <timesignature top="9" bottom="6"/> chord. The major <timesignature top="6" bottom="9"/> uses the major third (C<ndash/>E<ndash/>G<ndash/>A<ndash/>D) while the minor <timesignature top="6" bottom="9"/> uses the minor third (C<ndash/>E<flat/><ndash/>G<ndash/>A<ndash/>D). The <q>6</q> always comes from the major scale unless otherwise specified. (Refer to the <xref ref="ChordLabels" text="title">Chord Labels</xref> section for examples.)</p>
+                <p><term><timesignature top="6" bottom="9"/></term><idx><h><timesignature top="6" bottom="9"/> chords</h></idx> chords: If a chord has a 6th and a 9th, call it a <timesignature top="6" bottom="9"/> chord (C<timesignature top="6" bottom="9"/>) instead of a <timesignature top="9" bottom="6"/> chord. The major <timesignature top="6" bottom="9"/> uses the major third (C<ndash/>E<ndash/>G<ndash/>A<ndash/>D) while the minor <timesignature top="6" bottom="9"/> uses the minor third (C<ndash/>E<flat/><ndash/>G<ndash/>A<ndash/>D). The <q>6</q> always comes from the major scale unless otherwise specified. (Refer to the <xref ref="ChordLabels" text="custom">Chord Labels</xref> section for examples.)</p>
             </li>
             <li><!--7-->
                 <p>Enharmonic respelling: Jazz musicians will sometimes respell double-flatted notes and double-sharped notes enharmonically because for some musicians theory was viewed more from the aspect of the piano than the staff. This may at times include enharmonically respelling notes like B<sharp/>, C<flat/>, E<sharp/>, and F<flat/> (although these notes sometimes will be used).</p>
@@ -275,7 +276,7 @@
                 <description/>
             </image>
         </sidebyside>
-        <p>We notice we don’t have an A, and we remember that we might have a sus chord where the 4 (or sus4) substitutes for the 3rd. We see we have a B<flat/>, which confirms this. We also do not see a C, but we remember that it is common to omit the 5th in a chord (see <xref ref="IncompleteChords" text="title">Incomplete Chords</xref>). Therefore we have F<ndash/>B<flat/><ndash/>E<flat/>, making an F7sus chord. When we examine for upper structure notes (the 9, 11, and 13), we find a G<flat/> (the <flat/>9 of the chord) and a D (the 13). Remember, the B<flat/> is the sus (the 4th), not the 11th, because we have no 3rd (see <xref ref="ElevenVsSus" text="title">11 versus Sus</xref>).</p>
+        <p>We notice we don’t have an A, and we remember that we might have a sus chord where the 4 (or sus4) substitutes for the 3rd. We see we have a B<flat/>, which confirms this. We also do not see a C, but we remember that it is common to omit the 5th in a chord (see <xref ref="IncompleteChords" text="custom">Incomplete Chords</xref>). Therefore we have F<ndash/>B<flat/><ndash/>E<flat/>, making an F7sus chord. When we examine for upper structure notes (the 9, 11, and 13), we find a G<flat/> (the <flat/>9 of the chord) and a D (the 13). Remember, the B<flat/> is the sus (the 4th), not the 11th, because we have no 3rd (see <xref ref="ElevenVsSus" text="custom">11 versus Sus</xref>).</p>
         <p>The final label is F13sus(<flat/>9).</p>
         <p><q>F13</q> means we have root, 3rd, 5th, <flat/>7th, 9th, 11th, and 13th. <q>Sus</q> is a modifier that means we have the 4th, which eliminates the 3rd as well as the 11th because <q>sus</q> and 11 refer the same note (B<flat/>). <q><flat/>9</q> means the 9th is lowered chromatically.</p>
     </section>
@@ -363,7 +364,7 @@
                     </image>
                 </sidebyside>
             </figure>
-            <p>Because of tritone substitutions, the <flat/>II<chord bps="7"/> chord can be substituted for V<chord bps="7"/>. In C, D<flat/>9(13) is often substituted for <chord root="G" bps="7"><alteration><sharp/>9</alteration><alteration><sharp/>5</alteration></chord>).</p>
+            <p>Because of tritone substitutions, the <flat/>II<chord bps="7"/> chord can be substituted for V<chord bps="7"/>. In C, D<flat/>9(13) is often substituted for <chord root="G" bps="7"><alteration><sharp/>9</alteration><alteration><sharp/>5</alteration></chord>.</p>
             <figure>
                 <caption>The <flat/>II<chord bps="7"/> substituting for V<chord bps="7"/> in a Tritone Substitution</caption>
                 <sidebyside>
@@ -375,7 +376,7 @@
         </subsection>
         <subsection>
             <title>The Blues Progression</title>
-            <p>Below are two choruses of a common jazz version of the <xref ref="TwelveBarBlues" text="title">blues progression</xref>. The first chorus uses the first category of voicings (<q>spread</q> voicings) while the second chorus uses the second category (<q>close</q> voicings with the 3rd or 7th as the lowest note).</p>
+            <p>Below are two choruses of a common jazz version of the <xref ref="TwelveBarBlues" text="custom">blues progression</xref>. The first chorus uses the first category of voicings (<q>spread</q> voicings) while the second chorus uses the second category (<q>close</q> voicings with the 3rd or 7th as the lowest note).</p>
             <p>Notice that the voicings for the <chord root="A" bps="7"><alteration><sharp/>9</alteration><alteration><sharp/>5</alteration></chord> and <chord root="E flat" bps="9"><alteration>13</alteration></chord> are identical (not counting the roots) because the <chord root="E flat" bps="9"><alteration>13</alteration></chord> is a tritone substitution for the <chord root="A" bps="7"><alteration><sharp/>9</alteration><alteration><sharp/>5</alteration></chord>. The same is true for the <chord root="G" bps="7"><alteration><sharp/>9</alteration><alteration><sharp/>5</alteration></chord> and the <chord root="D flat" bps="9"><alteration>13</alteration></chord>. The Roman numerals below the staves are simplified.</p>
             <sidebyside>
                 <image source="images/unit11/jazz-voiceleading-blues-A">
@@ -425,7 +426,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="f3y8jf01UY8" start="0" end="9" play-at="select" preview="generic"/>
+                        <video youtube="KWKXNoKgLQU" start="0" end="9" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -434,7 +435,7 @@
         </subsection>
         <subsection>
             <title>The Bebop Scale</title>
-            <p>The bebop scale (known more specifically as the <q><term>bebop dominant</term><idx><h>scales</h><h>bebop dominant</h></idx></q> scale in jazz theory texts) is identical to the <xref ref="TableOfScales" text="title">Mixolydian scale</xref> except is has an added &#x2191;<scaledeg>7</scaledeg>. The added chromatic note (&#x2191;<scaledeg>7</scaledeg>) occurs in descending passages (from <scaledeg>8</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg>) as a chromatic passing tone. The bebop scale is most often used over the dominant 7th chord. In the most rudimentary form of improvising, one can use the bebop scale in descending eighth notes beginning on the downbeat of a measure, starting on the root, 3rd, 5th, or 7th.</p>
+            <p>The bebop scale (known more specifically as the <q><term>bebop dominant</term><idx><h>scales</h><h>bebop dominant</h></idx></q> scale in jazz theory texts) is identical to the <xref ref="TableOfScales" text="custom">Mixolydian scale</xref> except is has an added &#x2191;<scaledeg>7</scaledeg>. The added chromatic note (&#x2191;<scaledeg>7</scaledeg>) occurs in descending passages (from <scaledeg>8</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg>) as a chromatic passing tone. The bebop scale is most often used over the dominant 7th chord. In the most rudimentary form of improvising, one can use the bebop scale in descending eighth notes beginning on the downbeat of a measure, starting on the root, 3rd, 5th, or 7th.</p>
             <figure>
                 <caption>Descending C Bebop Scale starting on Root, then 3rd, then 5th, then 7th</caption>
                 <sidebyside>
@@ -574,7 +575,7 @@
                     <row valign="top">
                         <cell/>
                         <cell>
-                            <line><term>Phyrgian-Dorian</term></line>
+                            <line><term>Phrygian-Dorian</term></line>
                             <line>(2nd mode Melodic Minor)</line>
                             <line><scaledeg>1</scaledeg><ndash/><flat/><scaledeg>2</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>7</scaledeg></line>
                         </cell>
@@ -820,7 +821,7 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>Voice lead the following progressions. Remember to spell notes enharmonically when necessary. In the first example, use <q>close</q> voicing, keeping all the upper notes as close together as possible. In the second example, use Root<ndash/>3rd<ndash/>7th or Root<ndash/>7th<ndash/>3rd always for the lowest three voices, then realize the rest of the lead sheet symbol with the upper two parts (<q>spread</q> voicing). Use Root<ndash/>3rd<ndash/>6th for 6th chords and Root<ndash/>4th<ndash/>7th for sus chords. You may need to omit the 5th to maintain five parts throughout.</p>
+                    <p>Voice lead the following progressions, maintaining five voices throughout. Remember to spell notes enharmonically when necessary. In the first example, use <q>close</q> voicing, keeping all the upper notes as close together as possible. In the second example, use Root<ndash/>3rd<ndash/>7th or Root<ndash/>7th<ndash/>3rd always for the lowest three voices, then realize the rest of the lead sheet symbol with the upper two parts (<q>spread</q> voicing). Use Root<ndash/>3rd<ndash/>6th for 6th chords and Root<ndash/>4th<ndash/>7th for sus chords. You may need to omit the 5th to maintain five parts throughout.</p>
                     <sidebyside>
                         <image source="images/unit11/PRAC-EXER-jazz-voiceleading-close">
                             <description/>
@@ -966,6 +967,7 @@
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_57.pdf">here to download the fifth homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_58.pdf">here to download the sixth homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_Unit_11_Practice_Test.pdf">here to download the Unit 11 Practice Test.</url></p>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
         </conclusion>
     </exercises>
 </chapter>

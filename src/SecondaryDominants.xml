@@ -2,7 +2,7 @@
 <chapter xml:id="SecondaryDominants">
     <title>Secondary Dominant Chords</title>
     <introduction>
-        <p>So far we have studied <xref ref="DiatonicChordsInMajor" text="title">diatonic harmony</xref> (chords without accidentals, with the exception of the use of raised <scaledeg>6</scaledeg> and <scaledeg>7</scaledeg> in minor, which are considered diatonic). In the following chapters, we will study <em>chromatic</em> harmony.</p>
+        <p>So far we have studied <xref ref="DiatonicChordsInMajor" text="custom">diatonic harmony</xref> (chords without accidentals, with the exception of the use of raised <scaledeg>6</scaledeg> and <scaledeg>7</scaledeg> in minor, which are considered diatonic). In the following chapters, we will study <em>chromatic</em> harmony.</p>
     </introduction>
     <section xml:id="ExamplesWithSecondaryDominants">
         <title>Examples with Secondary Dominants</title>
@@ -106,11 +106,10 @@
         <p>In this chapter and the next, we will study <term>tonicization</term><idx><h>tonicization</h><h>definition of</h></idx>, which means treating a chord <em>other</em> than the <chord root="I"/> chord like a tonic by approaching it with its dominant. In diatonic harmony, the <chord root="V"/> chord (the dominant) resolves to the <chord root="I"/> chord (the tonic). A <em>secondary</em> dominant is a major triad or dominant seventh chord that resolves to (or <em>tonicizes</em>) a chord other than the <chord root="I"/> chord.</p>
         <figure>
             <caption/>
-            <sidebyside>
-                <image source="images/unit4/sec-dom-6-5-sequence">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dom-6-5-sequence">
+                <description/>
+            </image>
+            <audio source="images/unit4/sec-dom-audio-example.mp3" width="80%"/>
         </figure>
         <p>Sing the bass line of the example above and notice that a secondary chord, through its chromaticism, intensifies the drive to the next chord. 
             <principle xml:id="SecondaryDominantsPrinciple1">
@@ -136,6 +135,9 @@
                 <image source="images/unit4/sec-dom-tonicizing-diminished-chords">
                     <description/>
                 </image>
+            </sidebyside>
+            <sidebyside margins="18%">
+                <audio source="images/unit4/sec-of-vii-resolution.mp3"/>
             </sidebyside>
         </figure>
     </section>
@@ -176,8 +178,8 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Remember that both <chord root="vii" mode="diminished"/> (on raised <scaledeg>7</scaledeg>) and the <xref ref="subtonic-triad-vs-leading-tone-triad" text="title">subtonic <chord root="VII"/></xref> (on the lowered <scaledeg>7</scaledeg>) occur in the minor mode. The subtonic <chord root="VII"/><idx><h>subtonic triad</h><h>tonicization of</h></idx> can be tonicized with <chord root="V" bps="7" bass="VII"/>, while <chord root="vii" mode="diminished"/>, being diminished, cannot.</p>
-        <p>Notice that an F major chord in C minor can be <chord root="V" bass="VII"/> or <chord root="IV"/>, depending on how it functions or progresses. If the F major chord progresses to a B<flat/> chord, label the F chord as <chord root="V" bass="VII"/>. If the F major chord has <xref ref="PreDominantFunction" text="title">pre<ndash/>dominant function</xref> and progresses to a G major chord (in any inversion) or <chord root="B" mode="diminished"/>, label the F chord as <chord root="IV"/>.</p>
+        <p>Remember that both <chord root="vii" mode="diminished"/> (on raised <scaledeg>7</scaledeg>) and the <xref ref="subtonic-triad-vs-leading-tone-triad" text="custom">subtonic <chord root="VII"/></xref> (on the lowered <scaledeg>7</scaledeg>) occur in the minor mode. The subtonic <chord root="VII"/><idx><h>subtonic triad</h><h>tonicization of</h></idx> can be tonicized with <chord root="V" bps="7" bass="VII"/>, while <chord root="vii" mode="diminished"/>, being diminished, cannot.</p>
+        <p>Notice that an F major chord in C minor can be <chord root="V" bass="VII"/> or <chord root="IV"/>, depending on how it functions or progresses. If the F major chord progresses to a B<flat/> chord, label the F chord as <chord root="V" bass="VII"/>. If the F major chord has <xref ref="PreDominantFunction" text="custom">pre<ndash/>dominant function</xref> and progresses to a G major chord (in any inversion) or <chord root="B" mode="diminished"/>, label the F chord as <chord root="IV"/>.</p>
         <p>The <chord root="B flat" bps="7"/> chord, on the other hand, can be labeled correctly as <chord root="V" bps="7" bass="III"/> or <chord root="VII" bps="7"/> because both <chord root="V" bps="7" bass="III"/> or <chord root="VII" bps="7"/> progress to <chord root="III"/> in minor.</p>
     </section>
     <section xml:id="AnalyzingSecondaryDominants">
@@ -275,7 +277,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>Remember, however, that the subtonic <flat/><chord root="VII"/> in major can act as a substitute for the dominant (see the <xref ref="SubtonicVIIFlowchart" text="title">Harmonic Flowchart for Popular Music with Subtonic <chord root="VII"/> chord in Major </xref>).</p>
+        <p>Remember, however, that the subtonic <flat/><chord root="VII"/> in major can act as a substitute for the dominant (see the <xref ref="SubtonicVIIFlowchart" text="custom">Harmonic Flowchart for Popular Music with Subtonic <chord root="VII"/> chord in Major </xref>).</p>
         <p>In <q>Baby Love</q> by the Supremes, a <chord root="C" bps="7" bass="B flat"/> in C major (<chord root="V" bps="4 2" bass="IV"/>) resolves to an <chord root="A" bps="7"/> chord (<chord root="V" bps="7" bass="ii"/>), which then resolves to <chord root="ii"/> (<chord root="Dm"/>). In this example, notice that the B<flat/> in the <chord root="C" bps="7" bass="B flat"/> is a lowered chromatic note that wants to resolve downward by half step to A. Instead of this A being the third of the <chord root="IV"/> chord (an F major chord), which is the traditional and expected resolution, it is the root of an <chord root="A" bps="7"/> chord (<chord root="V" bps="7" bass="ii"/>).</p>
         <figure>
             <caption>Lamont Dozier, Brian Holland, and Eddie Holland, <q>Baby Love</q> (1964)</caption>
@@ -359,56 +361,6 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>Analyze the following secondary dominants. Include lead-sheet symbols above.</p>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-analyzing"/>
-                    </sidebyside>
-                </statement>
-                <answer>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-analyzing-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </answer>
-            </exercise>
-            <exercise>
-                <statement>
-                    <p>Write the following secondary dominants. Include lead-sheet symbols above. Include key signatures.</p>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-writing"/>
-                    </sidebyside>
-                </statement>
-                <answer>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-writing-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </answer>
-            </exercise>
-            <exercise>
-                <statement>
-                    <p>On the empty staff below, copy the notes from the upper staff to the lower staff while adding the specified <xref ref="NonChordTonesIntroduction" text="title">non<ndash/>chord tones</xref>. (Note: LNT = lower neighbor tone; UNT = upper neighbor tone.)  Realize the lead<ndash/>sheet symbols using <xref ref="QuarterNoteChords" text="title">quarter<ndash/>note accompanimental texture</xref>. Below the lower staff, analyze the chords using Roman numerals with figured bass inversion symbols. </p>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-NCT-realization"/>
-                    </sidebyside>
-                </statement>
-                <answer>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-NCT-realization-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                </answer>
-            </exercise>
-        </exercisegroup>
-        <exercisegroup>
-            <introduction>
-                <p>Day Two:</p>
-            </introduction>
-            <exercise>
-                <statement>
                     <p>Approach each chord with its secondary dominant seventh chord (whose root lies a perfect 5th above the root of the chord of resolution). Label chords with Roman numerals below and lead<ndash/>sheet symbols above.</p>
                     <sidebyside>
                         <image source="images/unit4/PRAC-EXER-sec-dom-approaching-exer"/>
@@ -427,7 +379,60 @@
             </exercise>
             <exercise>
                 <statement>
-                    <p>For the following example, alter the given motives as specified. Add an accompanimental texture of <xref ref="AfterbeatsOffbeats" text="title">afterbeats</xref>. Analyze the Roman numerals with figured bass inversion symbols below the staff.</p>
+                    <p>Analyze the following secondary dominants. Include lead-sheet symbols above.</p>
+                    <sidebyside>
+                        <image source="images/unit4/PRAC-EXER-sec-dom-analyzing"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit4/PRAC-EXER-sec-dom-analyzing-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>On the empty staff below, copy the notes from the upper staff to the lower staff while adding the specified <xref ref="NonChordTonesIntroduction" text="custom">non<ndash/>chord tones</xref>. (Note: LNT = lower neighbor tone; UNT = upper neighbor tone.)  Realize the lead<ndash/>sheet symbols using <xref ref="QuarterNoteChords" text="custom">quarter<ndash/>note accompanimental texture</xref>. Below the lower staff, analyze the chords using Roman numerals with figured bass inversion symbols. </p>
+                    <sidebyside>
+                        <image source="images/unit4/PRAC-EXER-sec-dom-NCT-realization"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit4/PRAC-EXER-sec-dom-NCT-realization-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside margins="18%">
+                        <audio source="images/unit4/PRAC-EXER-sec-dom-realization-audio.mp3"/>
+                    </sidebyside>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Two:</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>Write the following secondary dominants. Include lead-sheet symbols above. Include key signatures.</p>
+                    <sidebyside>
+                        <image source="images/unit4/PRAC-EXER-sec-dom-writing"/>
+                    </sidebyside>
+                </statement>
+                <answer>
+                    <sidebyside>
+                        <image source="images/unit4/PRAC-EXER-sec-dom-writing-ANSWER">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>For the following example, alter the given motives as specified. Add an accompanimental texture of <xref ref="AfterbeatsOffbeats" text="custom">afterbeats</xref>. Analyze the Roman numerals with figured bass inversion symbols below the staff.</p>
                     <sidebyside>
                         <image source="images/unit4/PRAC-EXER-sec-dom-motivic-completion"/>
                     </sidebyside>
@@ -438,13 +443,16 @@
                             <description/>
                         </image>
                     </sidebyside>
+                    <sidebyside margins="18%">
+                        <audio source="images/unit4/PRAC-EXER-sec-dom-motivic-realization-audio.mp3"/>
+                    </sidebyside>
                 </answer>                
             </exercise>
         </exercisegroup>
         <conclusion>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_17.pdf">here to download the first homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_18.pdf">here to download the second homework assignment for this chapter.</url></p>
-            
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
         </conclusion>
     </exercises>
 </chapter>

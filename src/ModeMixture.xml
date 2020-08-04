@@ -117,10 +117,10 @@
             </sbsgroup>
         </figure>
         <p>In the example above for <q>Lithium,</q> the Roman numerals are analyzed as triads instead of <q>5</q> chords because the third of the chord is either implied or occurs in the voice part (not shown).</p>
-        <p>In the next example from the third movement Brahms's Third Symphony, the <chord root="I"/> chord alternates twice with a borrowed chord. The movement began in C minor, so there are three flats in the key signature, but this section is in C major.</p>
+        <p>In the next example from the third movement Brahms's Third Symphony, the <chord root="I"/> chord alternates twice with a borrowed chord. There are three flats in the key signature because this movement began in C minor, but this section occurs later in the movement and is in C major.</p>
         <figure>
-            <caption>Brahms, <pubtitle>Symphony No. 3 in F major</pubtitle>, Op. 90, III. Poco Allegretto (1883)</caption>
-            <idx><h>Brahms</h><h><pubtitle>Symphony No. 3 in F major</pubtitle>, Op. 90, III. Poco Allegretto</h></idx>
+            <caption>Johannes Brahms, <pubtitle>Symphony No. 3 in F major</pubtitle>, Op. 90, III. Poco Allegretto (1883)</caption>
+            <idx><h>Brahms, Johannes</h><h><pubtitle>Symphony No. 3 in F major</pubtitle>, Op. 90, III. Poco Allegretto</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit4/mode-mix-brahms-3-iii">
@@ -222,7 +222,7 @@
     </section>
     <section xml:id="TheDeceptiveCadenceWithFlatSix">
         <title>The Deceptive Cadence with <flat/><chord root="VI"/></title>
-        <p>The <chord root="V"/><ndash/><flat/><chord root="VI"/> deceptive cadence is a deceptive realization of a deceptive progression. This <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence ties into the <xref ref="i-VII-VI-VII" text="title"><flat/><chord root="VI"/><ndash/><flat/><chord root="VII"/><ndash/><chord root="I"/> progression</xref> to produce an <q>epic</q> (although somewhat clich&#x00E9;d) ending to the <q>Star Spangled Banner</q> as performed at the Super Bowl and Presidential Inaugurations by artists such as Whitney Houston, Beyonc&#x00E9;, and Lady Gaga, among others.</p>
+        <p>The <chord root="V"/><ndash/><flat/><chord root="VI"/> deceptive cadence is a deceptive realization of a deceptive progression. This <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence ties into the <xref ref="i-VII-VI-VII" text="custom"><flat/><chord root="VI"/><ndash/><flat/><chord root="VII"/><ndash/><chord root="I"/> progression</xref> to produce an <q>epic</q> (although somewhat clich&#x00E9;d) ending to the <q>Star Spangled Banner</q> as performed at the Super Bowl and Presidential Inaugurations by artists such as Whitney Houston, Beyonc&#x00E9;, and Lady Gaga, among others.</p>
         <figure>
             <caption>John Stafford Smith and Francis Scott Key, <q>The Star-Spangled Banner</q> (1814) as performed by Whitney Houston at the 1991 Super Bowl</caption>
             <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
@@ -324,8 +324,8 @@
             <statement>
                 <p>Analyze the following excerpt with lead<ndash/>sheet symbols above and Roman numerals with figured bass inversion symbols below. Analyze notes that are non<ndash/>chord tones by putting parentheses around them and specifying them by type.</p>
                 <figure>
-                    <caption>Chopin, Nocturne in E-flat major, Op. 9, No. 2 (1832)</caption>
-                    <idx><h>Chopin</h><h>Nocturne in E-flat major, Op. 9, No. 2</h></idx>
+                    <caption>Fr&#x00E9;d&#x00E9;ric Chopin, Nocturne in E-flat major, Op. 9, No. 2 (1832)</caption>
+                    <idx><h>Chopin, Fr&#x00E9;d&#x00E9;ric</h><h>Nocturne in E-flat major, Op. 9, No. 2</h></idx>
                     <sbsgroup>
                         <sidebyside>
                             <image source="images/unit4/PRAC-EXER-mode-mix-chopin">
@@ -347,7 +347,8 @@
             </answer>
         </exercise>
         <conclusion>
-            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_21.pdf">here to download the homework assignment for this chapter.</url></p>           
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_21.pdf">here to download the homework assignment for this chapter.</url></p>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>        
         </conclusion>
     </exercises>
 </chapter>

@@ -27,10 +27,10 @@
         <title>Types of Motion</title>
         <p>Definitions must be set out regarding types of motion between two parts.</p>
         <ul>
-            <li><p><em>Contrary motion</em> occurs when the two voices move in opposite direction to each other by step or leap.</p></li>
-            <li><p><em>Oblique motion</em> occurs when one voice stays the same and the other voice moves up or down by step or leap.</p></li>
-            <li><p><em>Similar motion</em> occurs when both voices move in the same (or <q>similar</q>) direction<mdash/>both up (by step or leap) or both down (by step or leap); similar motion is also called <q>direct</q> motion</p></li>
-            <li><p><em>Parallel motion</em> is a specific type of similar motion and occurs when both voices move in the same direction by the same interval—both up by step, or both down by a third.</p></li>
+            <li><p><em><term>Contrary motion</term></em><idx><h>motion, types of</h><h>contrary motion</h></idx> occurs when the two voices move in opposite direction to each other by step or leap.</p></li>
+            <li><p><em><term>Oblique motion</term></em><idx><h>motion, types of</h><h>oblique motion</h></idx> occurs when one voice stays the same and the other voice moves up or down by step or leap.</p></li>
+            <li><p><em><term>Similar motion</term></em><idx><h>motion, types of</h><h>similar motion</h></idx> occurs when both voices move in the same (or <q>similar</q>) direction<mdash/>both up (by step or leap) or both down (by step or leap); similar motion is also called <q>direct</q> motion</p></li>
+            <li><p><em><term>Parallel motion</term></em><idx><h>motion, types of</h><h>parallel motion</h></idx> is a specific type of similar motion and occurs when both voices move in the same direction by the same interval—both up by step, or both down by a third.</p></li>
         </ul>
         <figure>
             <caption>The four types of motion</caption>
@@ -105,7 +105,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Larger spaces between notes occur lower in the overtone series. Consider the voicings of the following chords. Some <q>ring</q> or resonate better than others. Notice that all of the notes fall within the voice ranges specified <xref ref="VoiceRanges" text="title">above</xref>.</p>
+        <p>Larger spaces between notes occur lower in the overtone series. Consider the voicings of the following chords. Some <q>ring</q> or resonate better than others. Notice that all of the notes fall within the voice ranges specified <xref ref="VoiceRanges" text="custom">above</xref>.</p>
         <figure>
             <caption/>
             <sidebyside>
@@ -168,7 +168,7 @@
                     </image>
                 </sidebyside>
             </figure>
-            <p xml:id="voice-leading-deceptive-cadence"><em>Exception</em>: When the bass moves by the interval of a 2nd in the deceptive progression in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass. In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice-leading solution if <scaledeg>7</scaledeg>  is in the soprano voice (because it is a <xref ref="TendencyTones" text="title">tendency tone</xref>).</p>
+            <p xml:id="voice-leading-deceptive-cadence"><em>Exception</em>: When the bass moves by the interval of a 2nd in the deceptive progression in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass. In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice-leading solution if <scaledeg>7</scaledeg>  is in the soprano voice (because it is a <xref ref="TendencyTones" text="custom">tendency tone</xref>).</p>
             <figure>
                 <caption>Voice leading the deceptive progression in minor</caption>
                 <sidebyside>
@@ -360,7 +360,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>The passing <chord bps="6 4"/> typically occurs in the patterns I<ndash/>V<chord bps="6 4"/><ndash/>I<chord bps="6"/> (or its <xref ref="RetrogradeSection" text="title">retrograde</xref>) and IV<ndash/>I<chord bps="6 4"/><ndash/>IV<chord bps="6"/> (or its retrograde).</p>
+        <p>The passing <chord bps="6 4"/> typically occurs in the patterns I<ndash/>V<chord bps="6 4"/><ndash/>I<chord bps="6"/> (or its <xref ref="RetrogradeSection" text="custom">retrograde</xref>) and IV<ndash/>I<chord bps="6 4"/><ndash/>IV<chord bps="6"/> (or its retrograde).</p>
         <figure>
             <caption>Examples with the Passing Six-Four</caption>
             <sidebyside margins="15%">
@@ -369,7 +369,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>In an earlier section we discussed the <xref ref="TheCadentialSixFourChord" text="title">Cadential <chord bps="6 4"/> chord</xref>. Please refer to that section to review the cadential <chord bps="6 4"/> chord.</p>
+        <p>In an earlier section we discussed the <xref ref="TheCadentialSixFourChord" text="custom">Cadential <chord bps="6 4"/> chord</xref>. Please refer to that section to review the cadential <chord bps="6 4"/> chord.</p>
     </section>
     <section xml:id="SummaryOfDoublingRules">
         <title>Summary of Doubling Rules for Triads</title>
@@ -488,7 +488,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Given the bass line and <xref ref="FiguredBassInversionSymbols" text="title"> figured bass symbols</xref>, analyze the Roman numerals and add soprano, alto, and tenor parts in chorale style. Review the special rule for doubling in diminished triads in first inversion. You may wish to review <xref ref="FiguredBassWithChromaticAlterations" text="title">figured bass with chromatic alterations</xref>.</p>
+                <p>Given the bass line and <xref ref="FiguredBassInversionSymbols" text="custom"> figured bass symbols</xref>, analyze the Roman numerals and add soprano, alto, and tenor parts in chorale style. Review the special rule for doubling in diminished triads in first inversion. You may wish to review <xref ref="FiguredBassWithChromaticAlterations" text="custom">figured bass with chromatic alterations</xref>.</p>
                 <sidebyside>
                     <image source="images/unit8/PRAC-EXER-1st-inv-w-fig-bass">
                         <description/>
@@ -505,7 +505,7 @@
         </exercise>
         <exercise>
             <statement>
-                <p>Harmonize the melody making sure your progression follows the <xref ref="HarmonicFlowchart" text="title">Harmonic Flowchart</xref> (analyze the <xref ref="HarmonicFunction" text="title">harmonic function</xref> of each chord, abbreviated as <q>HF</q>), then add alto, tenor, and bass parts in chorale style following rules of good voice leading. Use first-inversion chords to make a smoother bass line.</p>
+                <p>Harmonize the melody making sure your progression follows the <xref ref="HarmonicFlowchart" text="custom">Harmonic Flowchart</xref> (analyze the <xref ref="HarmonicFunction" text="custom">harmonic function</xref> of each chord, abbreviated as <q>HF</q>), then add alto, tenor, and bass parts in chorale style following rules of good voice leading. Use first-inversion chords to make a smoother bass line.</p>
                 <sidebyside>
                     <image source="images/unit8/PRAC-EXER-1st-inv-harmonize-mel">
                         <description/>
@@ -565,6 +565,7 @@
         <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_39.pdf">here to download the second homework assignment for this chapter.</url></p>
         <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_40.pdf">here to download the third homework assignment for this chapter.</url></p>
         <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_41.pdf">here to download the fourth homework assignment for this chapter.</url></p>
+        <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
     </conclusion>
 </exercises>
 </chapter>

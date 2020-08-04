@@ -3,7 +3,7 @@
     <title>Roman Numerals and Cadences</title>
     <section xml:id="RomanNumeralChordSymbols">
         <title>Roman Numeral Chord Symbols</title>
-        <!--needs phrygian half cadence somewhere-->
+        
         <p>Music is full of patterns that are similar from one piece to the next. As we saw with minor scales, we were able to use scale degree numbers to show the different patterns for harmonic, melodic, and natural minor, despite the fact that there are 15 minor key signatures. Using numbers instead of note names helps us see these patterns. Thinking of music in terms of numbers is also helpful with <term>transposition</term><idx><h>transposition</h><h>definition of</h></idx>, which means moving melodies and/or chord progressions from one key to another. Thinking of music in terms of numbers also helps us to analyze it and to spot similar patterns between many different pieces in different keys.</p>
         <p>We will use Roman numerals to represent chords within a specified key. The Roman numeral <q><chord root="I"/></q> represents a triad built on <scaledeg>1</scaledeg>, or the 1st note of the scale. Uppercase Roman numerals represent major triads and lowercase Roman numerals (e.g., <q><chord root="i"/></q>) represent minor triads. Uppercase Roman numerals with a <q><chord mode="augmented"/></q> are augmented (e.g., <q><chord root="III" mode="augmented"/></q>), and lowercase Roman numerals with a <q><chord mode="diminished"/></q> are diminished (e.g., <q><chord root="vii" mode="diminished"/></q>). (There is also the <url href="https://en.wikipedia.org/wiki/Nashville_number_system">Nashville Number System</url>, which uses Arabic numbers for chords instead of Roman numerals.)</p>
         <sidebyside>
@@ -67,7 +67,7 @@
                     </row>-->
                 </tabular>
             </sidebyside> 
-        <p>For inversion of Roman numerals, we will use a modified <q>slash chord</q> notation until we study Figured Bass<!--add link to Figured Bass later on--> later on. For now, we will write <q><chord root="I"/>/3rd</q> if the 3rd of the <chord root="I"/> chord is the bass note, for example.</p>
+        <p>For inversion of Roman numerals, we will use a modified <q>slash chord</q> notation until we study <xref ref="FiguredBass" text="title"/>. For now, we will write <q><chord root="I"/>/3rd</q> if the 3rd of the <chord root="I"/> chord is the bass note, for example.</p>
         <sidebyside>
             <image source="images/unit2/RN-inversions-for-now">
                 <description>C: I/3rd means E is the bass note for C-E-G</description>
@@ -114,33 +114,39 @@
     <section xml:id="DiatonicChordsInMajor">
         <title>Diatonic Chords in Major</title>
         <p>Observe the pattern of diatonic chords in major represented by Roman numerals. (<term>Diatonic</term><idx><h>diatonic</h><h>definition of</h></idx> means notes <em>within</em> a key signature and can be contrasted with the term <q>chromatic.</q>) One sees the pattern M-m-m-M-M-m-<chord mode="diminished"/> in triad quality.</p>
-        <sidebyside>
+        <figure>
+            <caption/>
             <image source="images/unit2/Roman-numerals-dia-chords-in-major">
                 <description>All diatonic triads in C major</description>
             </image>
-        </sidebyside>
+            <audio source="images/unit2/DiatonicTriadsMajorAudio.mp3" width="80%"/>
+        </figure>
     </section>
     <section xml:id="DiatonicChordsInMinor">
         <title>Diatonic Chords in Minor</title>
         <p>Because there are three versions of the minor scale, there are more than seven diatonic chords in minor. The sixth and seventh scale degrees affect all of the triads except the tonic, making 13 possible diatonic triads in minor.</p>
-        <sidebyside>
+        <figure>
+            <caption/>
             <image source="images/unit2/Roman-numerals-dia-chords-all-minor">
                 <description>All diatonic triads in A natural minor, A harmonic minor, and A melodic minor</description>
             </image>
-        </sidebyside>
+            <audio source="images/unit2/DiatonicTriadsNatMinorAudio.mp3" width="80%"/>
+            <audio source="images/unit2/DiatonicTriadsHarmMinorAudio.mp3" width="80%"/>
+            <audio source="images/unit2/DiatonicTriadsMelMinorAudio.mp3" width="80%"/>
+        </figure>
         <p>However, when one analyzes a large amount of tonal music, one finds the following Roman numerals are most commonly used in minor.</p>
         <sidebyside>
             <image source="images/unit2/Roman-numerals-most-common-in-minor">
                 <description>The most commonly used diatonic triads in A minor: A minor, B diminished, C major, D minor, E major, F major, and G-sharp diminished, with Roman numerals</description>
             </image>
         </sidebyside>
-        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q><term>subtonic triad</term></q><idx><h>subtonic triad</h><h>definition of</h></idx>) and <chord root="vii" mode="diminished"/> (the <q>leading-tone triad</q>) are included. The subtonic triad (<chord root="VII"/>), built on the lowered <scaledeg>7</scaledeg> that occurs in <em>natural</em> minor, regularly occurs in <xref ref="CircleOfFifths" text="title">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="title">in rock and pop music</xref>, while the leading-tone triad (<chord root="vii" mode="diminished"/>), built on raised <scaledeg>7</scaledeg>, is usually either a passing harmony or has <xref ref="HarmonicFunction" text="title">dominant function</xref>.</p>
+        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q><term>subtonic triad</term></q><idx><h>subtonic triad</h><h>definition of</h></idx>) and <chord root="vii" mode="diminished"/> (the <q>leading-tone triad</q>) are included. The subtonic triad (<chord root="VII"/>), built on the lowered <scaledeg>7</scaledeg> that occurs in <em>natural</em> minor, regularly occurs in <xref ref="CircleOfFifths" text="custom">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="custom">in rock and pop music</xref>, while the leading-tone triad (<chord root="vii" mode="diminished"/>), built on raised <scaledeg>7</scaledeg>, is usually either a passing harmony or has <xref ref="HarmonicFunction" text="custom">dominant function</xref>.</p>
     </section>
     <section xml:id="cadences">
         <title>Cadences</title>
         <introduction>
             <p>
-                We’ve been studying harmony<mdash/>triads and chords. A <term>cadence</term><idx><h>cadence</h><h>definition of</h></idx> is a harmonic arrival point, a harmonic moment of stasis. A cadence can be compared to a comma or period in written language<mdash/>the ear gets a moment to process a short passage of music, then the music continues. We will differentiate between four basic cadences now, adding <xref ref="PerfectAuthenticCadence" text="title">more specificity in a later chapter</xref>.
+                We’ve been studying harmony<mdash/>triads and chords. A <term>cadence</term><idx><h>cadence</h><h>definition of</h></idx> is a harmonic arrival point, a harmonic moment of stasis. A cadence can be compared to a comma or period in written language<mdash/>the ear gets a moment to process a short passage of music, then the music continues. We will differentiate between four basic cadences now, adding <xref ref="PerfectAuthenticCadence" text="custom">more specificity in a later chapter</xref>.
                 <ol>
                     <li xml:id="AuthenticCadence"><p><term>Authentic Cadence</term><idx><h>authentic cadence</h><h>definition of</h></idx><idx><h>cadence</h><h>authentic</h></idx> (AC): a phrase ending with the chords <chord root="V"/><ndash/><chord root="I"/></p></li>
                     <li xml:id="PlagalCadence"><p><term>Plagal Cadence</term><idx><h>plagal cadence</h><h>definition of</h></idx><idx><h>cadence</h><h>plagal</h></idx> (PC): a phrase ending with the chords <chord root="IV"/><ndash/><chord root="I"/></p></li>
@@ -166,7 +172,7 @@
                 	</sidebyside>
             	</sbsgroup>
         	</figure>
-            <p>In the example above, the notes surrounded by parentheses are <xref ref="NonChordTones" text="title">non-chord tones</xref>, which will be studied later. Also, there are <xref ref="SeventhChords" text="title">seventh chords</xref> in this example, which we will study in the next chapter.</p>
+            <p>In the example above, the notes surrounded by parentheses are <xref ref="NonChordTones" text="custom">non-chord tones</xref>, which will be studied later. Also, there are <xref ref="SeventhChords" text="custom">seventh chords</xref> in this example, which we will study in the next chapter.</p>
             <p>Here is another example ending with an authentic cadence.</p>
             <figure>
             	<caption>Lennon-McCartney, <q>I Want to Hold Your Hand</q></caption>
@@ -253,7 +259,7 @@
                     </sidebyside>
                 </sbsgroup>
             </figure>            
-            <p>The following example, from the prelude to Act I of Richard Wagner's opera <pubtitle>Tristan und Isolde</pubtitle>, is arguably one of the most famous deceptive cadences in the history of music.</p>
+            <p>The following example, from the prelude to Act I of Richard Wagner's opera <pubtitle>Tristan und Isolde</pubtitle>, is arguably one of the most famous deceptive cadences in the history of classical music.</p>
             <figure>
                 <caption>Wagner, <pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</caption>
                 <idx><h>Wagner, Richard</h><h><pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</h></idx>
@@ -333,6 +339,8 @@
             </figure>
         </subsection>
     </section>
+    <!--needs phrygian half cadence somewhere Arcangelo Corelli, Concerto Grosso op. 6, no. 4  dWImWeehguA 1:57 to 2:23   117 to 143-->
+
     <!--a section is needed on analyzing chords in simple two-part textures, like in Bach Inventions and Mozart Piano Sonatas(and more analysis examples of this type are needed)-->
     <exercises xml:id="RomanNumeralPracticeExercises">
         <title>Practice Exercises</title>
@@ -363,20 +371,25 @@
         <exercise>
             <statement>
                 <p>Label lead-sheet symbols above and Roman numerals below and analyze the type of cadence that ends the phrase.</p>
-                <ol>
-                    <li>
-                        <p><q>Columbia, the Gem of the Ocean</q> <idx><h>Columbia, the Gem of the Ocean</h></idx><url href="https://youtu.be/Iyn3HEVFOhM?t=8s">(YouTube)</url></p>
-                        <sidebyside>
-                            <image source="images/unit2/PRAC-EXER-cadences-columbia"/>
-                        </sidebyside>
-                    </li>
-                    <li>
-                        <p><q>Could You Be Loved</q> <idx><h>songs (popular)</h><h><q>Could You Be Loved</q> (Bob Marley)</h></idx><url href="https://youtu.be/pOm4MYha9jg?t=23s">(YouTube)</url></p>
-                        <sidebyside>
-                            <image source="images/unit2/PRAC-EXER-cadences-could-you-be"/>
-                        </sidebyside>
-                    </li>
-                </ol>
+                <p>
+                    Thomas a'Becket, <q>Columbia, the Gem of the Ocean</q><idx><h>Columbia, the Gem of the Ocean</h></idx>
+                    <sidebyside>
+                        <image source="images/unit2/PRAC-EXER-cadences-columbia"/>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="Iyn3HEVFOhM" start="8" end="17" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </p>
+                <p>
+                    Bob Marley, <q>Could You Be Loved</q> <idx><h>songs (popular)</h><h><q>Could You Be Loved</q> (Bob Marley)</h></idx>
+                    <sidebyside>
+                        <image source="images/unit2/PRAC-EXER-cadences-could-you-be"/>
+                    </sidebyside>
+                    <sidebyside margins="37%">
+                        <video youtube="g3t6YDnGXAc" start="23" end="33" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </p>
+                
             </statement>
             <answer>
                 <p>a. <q>Columbia, the Gem of the Ocean</q>: 1. <chord root="G"/>, <chord root="I"/>; 2. <chord root="D"/>, <chord root="V"/>; 3. <chord root="G"/>, <chord root="I"/>; 4. <chord root="C"/>, <chord root="IV"/>; 5. <chord root="G"/>, <chord root="I"/>; 6. <chord root="D"/>, <chord root="V"/>; Cadence type = Half Cadence (HC)</p>

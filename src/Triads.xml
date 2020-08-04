@@ -52,16 +52,21 @@
         </sidebyside>
         <p>Here is a musical example with lead-sheet symbols and guitar tablature.</p>
         <figure>
-            <caption>Germanotta, Garibay, Blair, <q>Edge of Glory</q></caption>
-            <idx><h>songs (popular)</h><h><q>Edge of Glory</q> (Lady Gaga)</h></idx>
+            <caption>Alicia Keys, Salaam Remi, Jeff Bhasker, Billy Squier, <q>Girl on Fire</q> (2012)</caption>
+            <idx><h>songs (popular)</h><h><q>Girl on Fire</q> (Alicia Keys)</h></idx>
             <sbsgroup>
                 <sidebyside>
-                    <image source="images/unit1/leadsheet-edge-of-glory">
+                    <image source="images/unit1/leadsheet-girl-on-fire-A">
+                        <description/>
+                    </image>
+                </sidebyside>
+                <sidebyside>
+                    <image source="images/unit1/leadsheet-girl-on-fire-B">
                         <description/>
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="jQ7BQuoRmbs" start="22" end="32" play-at="select" preview="generic"/>
+                    <video youtube="J91ti_MpdHA" start="5" end="16" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
@@ -166,14 +171,14 @@
     </section>
     <section xml:id="SimpleSusChords">
         <title>Simple <q>Sus</q> Chords</title>
-        <p>Common in popular music are <q>sus</q> chords, with <q>sus</q> being a shortening of <q>suspended,</q> a term we will study in the chapter on <xref ref="NonChordTones" text="title">non-chord tones</xref>.</p>
+        <p>Common in popular music are <q>sus</q> chords, with <q>sus</q> being a shortening of <q>suspended,</q> a term we will study in the chapter on <xref ref="NonChordTones" text="custom">non-chord tones</xref>.</p>
         <p>The two basic sus chords are the sus4 and sus2 chords. In the <term>sus4</term><idx><h>sus4 chord</h></idx> chord (also labeled simply as <q>sus</q>), a perfect 4th replaces the 3rd of the chord. In the <term>sus2</term><idx><h>sus2 chord</h></idx><idx><h>sus9 chord</h></idx> chord (sometimes called <q>sus9</q>), a major 2nd replaces the 3rd of the chord. Both of these sus chords have a perfect 5th from the root to the fifth.</p>
         <sidebyside>
             <image source="images/unit1/lead-sheet-sus-chords"/>
         </sidebyside>
         <p>Here is a musical example with a sus4 chord.</p>
         <figure>
-            <caption>Cetera and Foster, <q>Hard to Say I'm Sorry</q></caption>
+            <caption>Peter Cetera and David Foster, <q>Hard to Say I'm Sorry</q></caption>
             <idx><h>songs (popular)</h><h><q>Hard to Say I'm Sorry</q> (Chicago)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -188,7 +193,7 @@
         </figure>
         <p>Here is a musical example with a sus2 chord.</p>
         <figure>
-            <caption>Bareilles, <q>Love Song</q></caption>
+            <caption>Sara Bareilles, <q>Love Song</q></caption>
             <idx><h>songs (popular)</h><h><q>Love Song</q> (Sara Bareilles)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -201,7 +206,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>We will not invert sus chords in this text. In a later chapter, there is <xref ref="sus-chord-examples" text="title">a section on more sophisticated sus chords</xref> like <chord root="C" bps="9" suspended="yes"/> and <chord root="C" bps="7" suspended="yes"><alteration><flat/>9</alteration></chord>.</p>
+        <p>We will not invert sus chords in this text. In a later chapter, there is <xref ref="sus-chord-examples" text="custom">a section on more sophisticated sus chords</xref> like <chord root="C" bps="9" suspended="yes"/> and <chord root="C" bps="7" suspended="yes"><alteration><flat/>9</alteration></chord>.</p>
     </section>
     <section xml:id="SummaryOfTriadConstruction">
         <title>Summary</title>

@@ -2,7 +2,7 @@
 <chapter xml:id="MelodicAnalysis">
     <title>Melodic Analysis</title>
     <introduction>
-        <p>We will divide analysis of melodies into <xref ref="MotiveSection" text="title">motives</xref> (which can be broken into <xref ref="FragmentSection" text="title">fragments</xref>) and <xref ref="PhraseSection" text="title">phrases</xref> (which can be broken into <xref ref="subphrase" text="title">subphrases</xref>) in order to understand the construction of melodies. We will discuss periods and sentences in another chapter.</p>
+        <p>We will divide analysis of melodies into <xref ref="MotiveSection" text="custom">motives</xref> (which can be broken into <xref ref="FragmentSection" text="custom">fragments</xref>) and <xref ref="PhraseSection" text="custom">phrases</xref> (which can be broken into <xref ref="subphrase" text="custom">subphrases</xref>) in order to understand the construction of melodies. We will discuss periods and sentences in another chapter.</p>
     </introduction>
     <section xml:id="MotiveSection">
         <title>Motive</title>
@@ -22,7 +22,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>Later in the movement we find Beethoven extracting motives from this four-measure phrase in order to develop them through <xref ref="sequence-definition" text="title">sequences</xref>.</p>
+        <p>Later in the movement we find Beethoven extracting motives from this four-measure phrase in order to develop them through <xref ref="sequence-definition" text="custom">sequences</xref>.</p>
         <p>Here is development of motive 1.</p>
         <figure>
             <caption>Beethoven, Symphony No. 1, I, development of motive 1</caption>
@@ -86,7 +86,7 @@
         <introduction><p>While there are more than a dozen ways to alter a melody, we will focus on seven methods of basic melodic alteration at this point of the text.</p></introduction>
         <subsection xml:id="InversionSection">
             <title>Inversion</title>
-            <p><term>Inversion</term><idx><h>inversion</h></idx> as applied to a music means an idea is exactly upside-down or <q>mirrored</q> across a horizontal plane, like mountains reflected in a lake.</p>
+            <p><term>Inversion</term><idx><h>inversion</h></idx> as applied to music means an idea is exactly upside-down or <q>mirrored</q> across a horizontal plane, like mountains reflected in a lake.</p>
             <p>First, listen to the following example.</p>
             <figure>
                 <caption>Bach, Invention No. 1 in C Major, BWV 772</caption>
@@ -124,7 +124,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="7qkbDMRc9vo" start="15" end="25" play-at="select" preview="generic"/>
+                        <video youtube="v9V98ECtsfY" start="15" end="25" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -165,7 +165,7 @@
             <p><term>Diminution</term><idx><h>diminution</h></idx> is the opposite of augmentation and usually refers to the exact halving of the duration of every rhythmic value in a motive or phrase. However, diminution can also refer to the use of shorter rhythmic values, as in the following example.</p>
             <figure>
                 <caption>Diminution of the first four notes in <q>Uranus</q> from <pubtitle>The Planets</pubtitle> by Holst</caption>
-                <idx><h>Holst</h><h><pubtitle>The Planets</pubtitle>, <q>Uranus</q></h></idx>
+                <idx><h>Holst, Gustav</h><h><pubtitle>The Planets</pubtitle>, <q>Uranus</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/motive-diminution-uranus">
@@ -248,7 +248,7 @@
         <subsection xml:id="ExtensionSection">
             <title>Extension</title>
             <p>Extension of a motive needs little explanation: additional material is added to the end of a motive upon its repetition or reoccurrence at a later point in a piece.</p>
-            <p>Refer to the <xref ref="SirDukeExample" text="title"><q>Sir Duke</q></xref> example directly above and to the final measure of the J.S. Bach <xref ref="invention1-aug-and-ext" text="title">Invention in C Major example</xref> in the section on augmentation.</p>
+            <p>Refer to the <xref ref="SirDukeExample" text="custom"><q>Sir Duke</q></xref> example directly above and to the final measure of the J.S. Bach <xref ref="invention1-aug-and-ext" text="custom">Invention in C Major example</xref> in the section on augmentation.</p>
         </subsection>
         <subsection xml:id="RetrogradeSection">
             <title>Retrograde</title>
@@ -267,7 +267,7 @@
                     </sidebyside> 
                 </sbsgroup> 
             </figure>
-            <p>We will not consider <xref ref="RomanNumeralChordSymbols" text="title">transposition</xref> of a motive (also known as a <xref ref="sequence-definition" text="title">sequence</xref>) to be a motivic alteration worth labeling since it is so common.</p>
+            <p>We will not consider <xref ref="RomanNumeralChordSymbols" text="custom">transposition</xref> of a motive (also known as a <xref ref="sequence-definition" text="custom">sequence</xref>) to be a motivic alteration worth labeling since it is so common.</p>
         </subsection>
     </section>
     <section xml:id="FragmentSection">
@@ -314,8 +314,8 @@
     <section xml:id="PhraseSection">
         <title>Phrase</title>
         <p>Musical form is full of sections, and the <term>phrase</term><idx><h>phrase</h><h>definition of</h></idx> is the smallest category of section. Unlike a motive, a phrase gives the sense of completing a formal unit.</p>
-        <p>In classical music, phrases always end with <xref ref="cadences" text="title">cadences</xref>; if you have encountered a cadence, you have just witnessed the completion of a phrase. In popular music, a phrase might be completed by a melody reaching four measures in length or by completing a line of lyric instead of by a cadence.</p>
-        <p>To generalize (or perhaps over-generalize), most of the phrases you encounter will be four measures in length and will end with one of <xref ref="cadences" text="title">the four cadence types</xref> (authentic cadence, half cadence, deceptive cadence, and, less commonly, the plagal cadence). While four- and eight-measure phrases are the most common, you will also encounter phrases that are five, six, and seven measures in length. Less commonly, you will encounter three-measure phrases.</p>
+        <p>In classical music, phrases always end with <xref ref="cadences" text="custom">cadences</xref>; if you have encountered a cadence, you have just witnessed the completion of a phrase. In popular music, a phrase might be completed by a melody reaching four measures in length or by completing a line of lyric instead of by a cadence.</p>
+        <p>To generalize (or perhaps over-generalize), most of the phrases you encounter will be four measures in length and will end with one of <xref ref="cadences" text="custom">the four cadence types</xref> (authentic cadence, half cadence, deceptive cadence, and, less commonly, the plagal cadence). While four- and eight-measure phrases are the most common, you will also encounter phrases that are five, six, and seven measures in length. Less commonly, you will encounter three-measure phrases.</p>
         <p>Here are examples of four-measure phrases. Notice that these phrases have a sense of completion even though they do not end with cadences.</p>
         <figure>
             <caption>Robinson and White, <q>My Girl</q></caption>
@@ -390,7 +390,7 @@
                 </sidebyside>
             </sbsgroup>  
         </figure>
-        <p>Examples of seven-measure phrases are rare and often involve <xref ref="Elision" text="title">elisions</xref>, which will be covered in a later <xref ref="PhrasesInCombination" text="title">chapter</xref> when we discuss how phrases are combined to create small forms like <xref ref="PeriodForm" text="title">periods</xref> and <xref ref="PhraseGroupsAndPhraseChains" text="title">phrase groups</xref>.</p>
+        <p>Examples of seven-measure phrases are rare and often involve <xref ref="Elision" text="custom">elisions</xref>, which will be covered in a later <xref ref="PhrasesInCombination" text="custom">chapter</xref> when we discuss how phrases are combined to create small forms like <xref ref="PeriodForm" text="custom">periods</xref> and <xref ref="PhraseGroupsAndPhraseChains" text="custom">phrase groups</xref>.</p>
     </section>
     <section xml:id="subphrase">
         <title>Subphrase</title>
@@ -454,11 +454,11 @@
                     </image>
                 </sidebyside>
                 <sidebyside margins="37%">
-                    <video youtube="7qkbDMRc9vo" start="15" end="25" play-at="select" preview="generic"/>
+                    <video youtube="v9V98ECtsfY" start="15" end="25" play-at="select" preview="generic"/>
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>When you listen to the music of <q>The Very Through of You</q> you will hear that each motive lasts for two measures. The difference is that motives are typically short<mdash/>two to seven notes<mdash/>whereas subphrases will usually contain six or more notes and occupy two measures (half of a four-measure phrase).</p>
+        <p>When you listen to the music of <q>The Very Thought of You</q> you will hear that each motive lasts for two measures. The difference is that motives are typically short<mdash/>two to seven notes<mdash/>whereas subphrases will usually contain six or more notes and occupy two measures (half of a four-measure phrase).</p>
     </section>
     <exercises xml:id="MelodicAnalysisPracticeExercises">
         <title>Practice Exercises</title>

@@ -57,7 +57,7 @@
         <title>Meter</title>
         <p><term>Meter</term><idx><h>meter</h></idx> describes the number of beats in a measure (also know as a <q>bar</q>) and how the beats are normally divided.</p>
         <p><term>Beat</term><idx><h>beat</h></idx> is "[t]he basic pulse underlying measured music and thus the unit by which musical time is reckoned..." according to Barry Kernfeld in <em>The New Grove Dictionary of Jazz</em>, 2nd edition. <term>Pulse</term><idx><h>pulse</h></idx> and beat are synonymous.</p>
-        <p><term>Tempo</term><idx><h>tempo</h></idx> refers to the speed of the beat or pulse. Tempo can be referred to in <term>beats per minute</term><idx><h>beats per minute</h></idx> (<term>bpm</term><idx><h>bpm</h></idx>), such as 60bpm (where the rate of the beat would be equal to a second), or, in Classical music, with terms like Allegro, Andante, and Adagio, sometimes in combinations with "<term>M.M.</term><idx><h>M.M. (Maelzel's Metronome)</h></idx>" for <term>Maelzel's Metronome</term><idx><h>Maelzel's Metronome</h></idx>.</p>
+        <p><term>Tempo</term><idx><h>tempo</h></idx> refers to the speed of the beat or pulse. Tempo can be referred to in <term>beats per minute</term><idx><h>beats per minute</h></idx> (<term>bpm</term><idx><h>bpm</h></idx>), such as 60bpm (where the rate of the beat would be equal to a second), or, in classical music, with terms like Allegro, Andante, and Adagio, sometimes in combinations with "<term>M.M.</term><idx><h>M.M. (Maelzel's Metronome)</h></idx>" for <term>Maelzel's Metronome</term><idx><h>Maelzel's Metronome</h></idx>.</p>
         <p>Meters with two beats in a bar are described as <em>duple</em><idx><h>meter</h><h>duple</h></idx>. If there are three beats in a bar, the meter is described as <em>triple</em><idx><h>meter</h><h>triple</h></idx>, and if there are four beats in a bar, the meter is described as <em>quadruple</em><idx><h>meter</h><h>quadruple</h></idx>.</p>
         <p>If the beats are normally divided into two parts, the meter is described as <term>simple</term><idx><h>simple meter</h></idx><idx><h>meter</h><h>simple</h></idx>. If the beats are normally divided into three parts, the meter is described as <term>compound</term><idx><h>compound meter</h></idx><idx><h>meter</h><h>compound</h></idx>.</p>
         <sidebyside>
@@ -174,17 +174,53 @@
     <exercises xml:id="BasicsOfRhythmPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>
-            <statement>
+            <statement><!--needs indexing-->
+                <p>After listening to each example, specify the meter (e.g., <q>compound triple</q>).</p>
                 <p>
-                    After listening to each example, specify the meter (e.g., <q>compound triple</q>).
+                    (a) Sousa, <q>Washington Post March</q>
+                    <sidebyside margins="37%">
+                        <video youtube="Mxrh1CrMmTY" start="45" end="65" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </p>
+                <p>
+                    (b) The Beatles, <q>Eleanor Rigby</q>
+                    <sidebyside margins="37%">
+                        <video youtube="HuS5NuXRb5Y" start="0" end="20" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </p>
+                <p>
+                    (c) Verdi, <q>La donna &#x00E8; mobile</q>
+                    <sidebyside margins="37%">
+                        <video youtube="4iUwkJuRdiY" start="0" end="20" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </p>
+                <p>
+                    (d) Third Day, <q>Morning Has Broken</q>
+                    <sidebyside margins="37%">
+                        <video youtube="qH0iFkxQba4" start="9" end="29" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </p>
+                <p>
+                    (e) Latch featuring Sam Smith, <q>Disclosure</q>
+                    <sidebyside margins="37%">
+                        <video youtube="93ASUImTedo" start="126" end="146" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </p>
+
+                    <!--
                     <ol>
                         <li><p><url href="https://youtu.be/Mxrh1CrMmTY?t=45s">Sousa, <q>Washington Post March</q></url></p></li>
+
                         <li><p><url href="https://youtu.be/HuS5NuXRb5Y">The Beatles, <q>Eleanor Rigby</q></url></p></li>
+
                         <li><p><url href="https://youtu.be/4iUwkJuRdiY">Verdi, <q>La donna e mobile</q></url></p></li>
+
                         <li><p><url href="https://youtu.be/qH0iFkxQba4?t=9s">Third Day, <q>Morning Has Broken</q></url></p></li>
+
                         <li><p><url href="https://youtu.be/93ASUImTedo?t=2m6s">Latch featuring Sam Smith, <q>Disclosure</q></url></p></li>
                     </ol>
                 </p>
+            -->
             </statement>
             <answer>
                 <p>
@@ -254,6 +290,7 @@
         </exercise>
         <conclusion>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_3.pdf">here to download the homework.</url></p>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
         </conclusion>
     </exercises>
 </chapter>

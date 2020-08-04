@@ -27,8 +27,8 @@
                     <cell><p>The different tone colors of different instruments, and the different tone colors an individual instrument can produce.</p></cell>
                 </row>
                 <row valign="top">
-                    <cell halign="center"><em><xref ref="Texture" text="title">Texture</xref></em></cell>
-                    <cell><p>Described <xref ref="Texture" text="title">in the previous chapter</xref> as existing in the vertical plane (the number of voices) and the horizontal plane (rhythmic activity of the various voices).</p></cell>
+                    <cell halign="center"><em><xref ref="Texture" text="custom">Texture</xref></em></cell>
+                    <cell><p>Described <xref ref="Texture" text="custom">in the previous chapter</xref> as existing in the vertical plane (the number of voices) and the horizontal plane (rhythmic activity of the various voices).</p></cell>
                 </row>
                 <row valign="top">
                     <cell halign="center"><em>Articulation</em></cell>
@@ -48,7 +48,7 @@
 	</section>
 	<section xml:id="Eine-kleine-ii">
 		<title>Mozart, <pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</title>
-		<p>The second movement<idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</h></idx> of Mozart’s <pubtitle>Eine kleine Nachtmusik</pubtitle> is a five-part <xref ref="RondoForm" text="title">rondo form</xref> (ABACA).</p>
+		<p>The second movement<idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, II.</h></idx> of Mozart’s <pubtitle>Eine kleine Nachtmusik</pubtitle> is a five-part <xref ref="RondoForm" text="custom">rondo form</xref> (ABACA).</p>
 		<p>Let us examine the elements of music in the first section (the A section).</p>
 		<figure>
             <title>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></title>
@@ -247,7 +247,7 @@
             </sbsgroup>
         </figure>
         <p>This five-section unit repeats again with Verse 3, Verse 4, the Pre-Chorus, Chorus, and Post-Chorus.</p>
-        <p>When you listen to the entire piece, you hear how the musicians designate the form using the elements of articulation, rhythm, texture, and dynamics. One element that changes very little during entire song is the chord progression, which we examined in the chapter on harmonic progression.</p>
+        <p>When you listen to the entire piece, you hear how the musicians designate the form using the elements of articulation, rhythm, texture, and dynamics. One element that changes very little during entire song is the chord progression, which we examined in the chapter on harmonic progression, and is a rotation of the 50s progression.</p>
         <sidebyside>
             <image source="images/unit2/harmony-I-vi-IV-V-rotated-rude">
                 <description/>

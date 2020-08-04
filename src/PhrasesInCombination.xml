@@ -93,7 +93,7 @@
                     </row>
                 </tabular>
             </sidebyside>
-            <p>In addition, the <xref ref="PerfectAuthenticCadence" text="title">perfect authentic cadence</xref> (PAC) is more conclusive than the imperfect authentic cadence (IAC). While the plagal cadence (PC) occurs less frequently than the other three cadences listed in the table above, it will sometimes occur in root position at the end of a phrase after an inverted imperfect authentic cadence (IAC) has concluded a previous phrase, with the understanding that a root position PC could be considered more conclusive than an inverted IAC.</p>
+            <p>In addition, the <xref ref="PerfectAuthenticCadence" text="custom">perfect authentic cadence</xref> (PAC) is more conclusive than the imperfect authentic cadence (IAC). While the plagal cadence (PC) occurs less frequently than the other three cadences listed in the table above, it will sometimes occur in root position at the end of a phrase after an inverted imperfect authentic cadence (IAC) has concluded a previous phrase, with the understanding that a root position PC could be considered more conclusive than an inverted IAC.</p>
             <p>Generally, a period will either contain a phrase ending in a half cadence (HC) followed by a phrase ending in an authentic cadence (IAC or PAC), or it will contain a phrase ending in an IAC following by a phrase ending in a PAC.</p>
         </subsection>
         <subsection xml:id="PeriodExamples">
@@ -120,11 +120,11 @@
                     <description/>
                 </image>
             </figure>
-            <p>Notice that one or more phrases within a period can be a <xref ref="SentenceStructure" text="title">sentence</xref>, as in the example above, since sentences are phrases with specific melodic structure.</p>
+            <p>Notice that one or more phrases within a period can be a <xref ref="SentenceStructure" text="custom">sentence</xref>, as in the example above, since sentences are phrases with specific melodic structure.</p>
             <p>In the next example, the first phrase concludes with an IAC and the second phrase concludes with a PAC.</p>
             <figure>
-                <caption>Haydn, Piano Sonata in F Major, Hob. XVI:9 , III. Scherzo</caption>
-                <idx><h>Haydn</h><h>Piano Sonata in F Major, Hob. XVI:9 , III</h><h>period form</h></idx>
+                <caption>Joseph Haydn, Piano Sonata in F Major, Hob. XVI:9, III. Scherzo</caption>
+                <idx><h>Haydn, Joseph</h><h>Piano Sonata in F Major, Hob. XVI:9, III</h><h>period form</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit3/phrases-period-haydn-pno">
@@ -238,8 +238,8 @@
         <title>The Asymmetrical Period</title>
         <p>Asymmetrical periods consist of three or five phrases. In an asymmetrical period, there will be an unequal number of antecedents and consequents, hence the <q>asymmetry.</q> In the example below, there is one antecedent and two consequents.</p>
         <figure>
-            <caption>Chopin, Prelude Op. 28, No. 20, in C minor</caption>
-            <idx><h>Chopin</h><h>Prelude Op. 28, No. 20, in C minor</h></idx>
+            <caption>Fr&#x00E9;d&#x00E9;ric Chopin, Prelude Op. 28, No. 20, in C minor</caption>
+            <idx><h>Chopin, Fr&#x00E9;d&#x00E9;ric</h><h>Prelude Op. 28, No. 20, in C minor</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit3/phrases-asymmetrical-period-chopin-prelude">
@@ -352,8 +352,8 @@
         <title>Phrase Groups and Phrase Chains</title>
         <p>Phrase groups and phrase chains are not periods. In phrase groups and phrase chains, <em>the final cadence is a half cadence</em>. A <term>phrase group</term><idx><h>phrase group</h><h>definition of</h></idx> consists of at least two phrases whose melodies begin similarly and has the final phrase ending in a half cadence. The terminology in this section draws from Douglass Green’s <pubtitle>Form in Tonal Music</pubtitle>.</p>
         <figure>
-            <caption>Couperin, 5 Pi&#x00E8;ces de Clavecin, 4. Le Petit-Rien (Ordre XIV, 8)</caption>
-            <idx><h>Couperin</h><h>5 Pi&#x00E8;ces de Clavecin, 4. Le Petit-Rien (Ordre XIV, 8) (phrase group)</h></idx>
+            <caption>Fran&#x00E9;ois Couperin, 5 Pi&#x00E8;ces de Clavecin, 4. Le Petit-Rien (Ordre XIV, 8)</caption>
+            <idx><h>Couperin, Fran&#x00E9;ois</h><h>5 Pi&#x00E8;ces de Clavecin, 4. Le Petit-Rien (Ordre XIV, 8) (phrase group)</h></idx>
             <sbsgroup>
                 <sidebyside>
                     <image source="images/unit3/phrases-phrase-group-couperin">
@@ -416,7 +416,7 @@
                 </row>
                 <row valign="top">
                     <cell>2 phrases</cell>
-                    <cell><xref ref="ParallelAndContrastingPeriods" text="title">Parallel Period</xref></cell>
+                    <cell><xref ref="ParallelAndContrastingPeriods" text="custom">Parallel Period</xref></cell>
                     <cell><em>a a'</em></cell>
                     <cell>
                         <line>Less conclusive then</line> 
@@ -425,7 +425,7 @@
                 </row>
                 <row valign="top">
                     <cell/>
-                    <cell><xref ref="ParallelAndContrastingPeriods" text="title">Contrasting Period</xref></cell>
+                    <cell><xref ref="ParallelAndContrastingPeriods" text="custom">Contrasting Period</xref></cell>
                     <cell><em>a b</em></cell>
                     <cell>
                         <line>Less conclusive then</line> 
@@ -434,25 +434,25 @@
                 </row>
                 <row valign="top">
                     <cell/>
-                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="title">Phrase Group</xref></cell>
+                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="custom">Phrase Group</xref></cell>
                     <cell><em>a a'</em></cell>
                     <cell>Ends with HC</cell>
                 </row>
                 <row valign="top">
                     <cell/>
-                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="title">Phrase Chain</xref></cell>
+                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="custom">Phrase Chain</xref></cell>
                     <cell><em>a b</em></cell>
                     <cell>Ends with HC</cell>
                 </row>
                 <row valign="top" header="yes" bottom="medium">
                     <cell/>
-                    <cell><xref ref="RepeatedPhrase" text="title">Repeated Phrase</xref></cell>
+                    <cell><xref ref="RepeatedPhrase" text="custom">Repeated Phrase</xref></cell>
                     <cell><em>a a</em></cell>
                     <cell>Same cadence twice</cell>
                 </row>
                 <row valign="top">
                     <cell>3 phrases</cell>
-                    <cell><xref ref="AsymmetricalPeriod" text="title">Asymmetrical period</xref></cell>
+                    <cell><xref ref="AsymmetricalPeriod" text="custom">Asymmetrical period</xref></cell>
                     <cell>
                         <line><em>a a b</em> or</line> 
                         <line><em>a b b</em></line>
@@ -464,7 +464,7 @@
                 </row>
                 <row valign="top">
                     <cell/>
-                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="title">Phrase group</xref></cell>
+                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="custom">Phrase group</xref></cell>
                     <cell>
                         <line><em>a a b</em> or</line> 
                         <line><em>a b b</em></line>
@@ -473,13 +473,13 @@
                 </row>
                 <row valign="top" header="yes" bottom="medium">
                     <cell/>
-                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="title">Phrase Chain</xref></cell>
+                    <cell><xref ref="PhraseGroupsAndPhraseChains" text="custom">Phrase Chain</xref></cell>
                     <cell><em>a b c</em></cell>
                     <cell>Ends with HC</cell>
                 </row>
                 <row valign="top">
                     <cell>4 phrases</cell>
-                    <cell><xref ref="DoublePeriodForm" text="title">Double Period</xref></cell>
+                    <cell><xref ref="DoublePeriodForm" text="custom">Double Period</xref></cell>
                     <cell>
                         <line><em>a b a b'</em> or</line>
                         <line><em>a a' a a"</em> or</line> 
@@ -493,7 +493,7 @@
                 </row>
                 <row valign="top" header="yes" bottom="major">
                     <cell/>
-                    <cell><xref ref="RepeatedPeriod" text="title">Repeated period</xref></cell>
+                    <cell><xref ref="RepeatedPeriod" text="custom">Repeated period</xref></cell>
                     <cell>
                         <line><em>a b a b</em> or</line>
                         <line><em>a b a c</em> or</line>
@@ -560,6 +560,7 @@
                     </ul>
                 </answer>
             </exercise>
+
             <exercise>
                 <title>Mozart, Piano Sonata K. 333, I</title>
                 <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 333, I</h></idx>
@@ -587,7 +588,7 @@
                     <figure>
                         <caption/>
                         <sidebyside margins="37%">
-                            <video youtube="PmO3Wlono6w" start="351" end="380" play-at="select" preview="generic"/>
+                            <video youtube="PmO3Wlono6w" start="351" end="381" play-at="select" preview="generic"/>
                         </sidebyside>
                     </figure>
                 </statement>
@@ -602,11 +603,58 @@
                     </ul>
                 </answer>
             </exercise>
+
+            <exercise>
+                <title>Edmond D&#x00E9;d&#x00E9;, <pubtitle>Chicago, Grande Valse &#x00E0; l'Am&#x00E9;ricaine</pubtitle></title>
+                <idx><h>D&#x00E9;d&#x00E9;, Edmond</h><h><pubtitle>Chicago, Grande Valse &#x00E0; l'Am&#x00E9;ricaine</pubtitle></h></idx>
+                <statement>
+                    <sidebyside>
+                        <image source="images/unit3/PRAC-EXER-phrases-dede-chicago-A">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit3/PRAC-EXER-phrases-dede-chicago-B">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <sidebyside>
+                        <image source="images/unit3/PRAC-EXER-phrases-dede-chicago-C">
+                            <description/>
+                        </image>
+                    </sidebyside>
+                    <figure>
+                        <caption/>
+                        <sidebyside margins="37%">
+                            <video youtube="gBeigjxviQc" start="39" end="75" play-at="select" preview="generic"/>
+                        </sidebyside>
+                    </figure>
+                </statement>
+                <answer>
+                    <p>D&#x00E9;d&#x00E9;, <pubtitle>Chicago</pubtitle>:</p>
+                    <ul>
+                        <li><p>Chords: <chord root="V"/>,<chord root="V"/>, <chord root="V"/>, <chord root="V"/>, <chord root="V"/><ndash/><chord root="I"/></p></li>
+                        <li><p>Cadences: HC, HC, HC, PAC</p></li>
+                        <li><p>The 1st and 3rd phrases are sentences</p></li>
+                        <li><p>Melodic labels: <em>a</em>, <em>a</em>, <em>a</em>, <em>a'</em></p></li>
+                        <li><p>Form: parallel double period</p></li>
+                    </ul>
+                </answer>
+            </exercise>
         </subexercises>
+        <!--other practice exercises: 
+           TWO PHRASES:
+           K333 III 1-16; 
+           Beeth Op13 III 1-8
+           Schum Op 68 No6 1-8
+           K527 La ci darem la mano 1-8
+           Beeth Op10No1 1-8
+       -->
         <conclusion>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_14.pdf">here to download the first homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_15.pdf">here to download the second homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_Unit_3_Practice_Test.pdf">here to download the Unit 3 Practice Test.</url></p>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
         </conclusion>
     </exercises>
 </chapter>

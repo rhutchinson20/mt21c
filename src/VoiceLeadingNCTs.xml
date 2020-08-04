@@ -3,7 +3,7 @@
     <title>Voice Leading With Non-Chord Tones</title>
     <section xml:id="VoiceLeadingNCTsIntro">
         <title>Voice Leading With Non-Chord Tones</title>
-        <p><xref ref="NonChordTones" text="title">Non-chord tones</xref> are common in J.S. Bach’s <pubtitle>371 Chorales</pubtitle>, which are our model for voice leading.</p>
+        <p><xref ref="NonChordTones" text="custom">Non-chord tones</xref> are common in J.S. Bach’s <pubtitle>371 Chorales</pubtitle>, which are our model for voice leading.</p>
         <figure>
             <caption>J.S. Bach, Chorale 323, <q>Wie sch&#x00F6;n leuchtet der Morgenstern</q>, BWV 172</caption>
             <idx><h>Bach, J.S.</h><h>Chorale 323, <q>Wie sch&#x00F6;n leuchtet der Morgenstern</q>, BWV 172</h></idx>
@@ -35,7 +35,7 @@
     </section>
     <section xml:id="AvoidingObjectionableParallels">
         <title>Avoiding Objectionable Parallels</title>
-        <p>When adding non-chord tones, one must avoid creating <xref ref="ObjectionableParallels" text="title">objectionable parallels</xref>. To avoid creating parallel 5ths and 8ves when adding non-chord tones, first identify intervals of 5ths and 8ves between voices in your original voice leading.</p>
+        <p>When adding non-chord tones, one must avoid creating <xref ref="ObjectionableParallels" text="custom">objectionable parallels</xref>. To avoid creating parallel 5ths and 8ves when adding non-chord tones, first identify intervals of 5ths and 8ves between voices in your original voice leading.</p>
         <figure>
             <caption>Progression with 8ves and 5ths identified</caption>
             <sidebyside>
@@ -73,7 +73,7 @@
             <li><p>Step down:
                 <ol>
                     <li>
-                        <p>Add a <xref ref="sus-all-numbers" text="title">suspension</xref> by delaying the resolution of the note</p>
+                        <p>Add a <xref ref="sus-all-numbers" text="custom">suspension</xref> by delaying the resolution of the note</p>
                         <figure>
                             <caption/>
                             <sidebyside margins="15%">

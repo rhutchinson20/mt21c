@@ -3,7 +3,7 @@
     <title>Modulation</title>
     <section xml:id="ModulationIntroduction">
         <title>Modulation</title>
-        <p>At its simplest, <term>modulation</term><idx><h>modulation</h><h>definition of</h></idx> is a change of key that happens within a composition. In popular music, the change of key will often be called a <q><term>key change</term><idx><h>key change</h></idx></q> instead of a <q>modulation.</q> Those who study classical music theory typically reserve the term <q>modulation</q> for the slower and more subtle change of key that occurs in many classical pieces, although there are similarities between <q>key change</q> in popular music and the classical music term <q>direct modulation</q>, which we will study later in this chapter.</p>
+        <p>At its simplest, <term>modulation</term><idx><h>modulation</h><h>definition of</h></idx> is a change of key that happens within a composition. In popular music, the change of key will often be called a <q><term>key change</term><idx><h>key change</h></idx></q> instead of a <q>modulation.</q> Those who study classical music theory typically reserve the term <q>modulation</q> for the slower and more subtle change of key that occurs in many classical pieces, although there are similarities between <q>key change</q> in popular music and the classical music term <q>direct modulation,</q> which we will study later in this chapter.</p>
         <p>Here are examples of key changes in popular music.</p>
         <figure>
             <caption>Beyonc&#x00E9; Knowles, Terius Nash, and Shea Taylor, <q>Love on Top</q> (2011)</caption>
@@ -16,7 +16,7 @@
             <caption>James Horner and Will Jennings, <q>My Heart Will Go On</q> (1997)</caption>
             <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <pubtitle>Titanic</pubtitle>)</h></idx>
             <sidebyside margins="37%">
-                <video youtube="AjnJDBHmN18" start="193" end="213" play-at="select" preview="generic"/>
+                <video youtube="Siz-xBfIqpg" start="193" end="213" play-at="select" preview="generic"/>
             </sidebyside>
         </figure>
         <figure>
@@ -29,7 +29,7 @@
     </section>
     <section xml:id="TonicizationVersusModulation">
         <title>Tonicization versus Modulation</title>
-        <p>Studying modulation will require us to distinguish between <xref ref="Tonicization" text="title">tonicization</xref>, which we studied recently, and modulation. Tonicization, involving secondary chords, can be as short as two chords (<chord root="V" bass="V"/> to <chord root="V"/>, for example) but can sometimes encompass several measures as in the following example.</p>
+        <p>Studying modulation will require us to distinguish between <xref ref="Tonicization" text="custom">tonicization</xref>, which we studied recently, and modulation. Tonicization, involving secondary chords, can be as short as two chords (<chord root="V" bass="V"/> to <chord root="V"/>, for example) but can sometimes encompass several measures as in the following example.</p>
         <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Abschied</q></h></idx>
         <sidebyside>
             <image source="images/unit5/mod-ton-vs-mod-abschied-A">
@@ -55,11 +55,10 @@
         <p>Below is a reduction showing the underlying diatonic progression of the example above.</p>
         <figure>
             <caption>Reduction of Harmonies from <q>Abschied</q></caption>
-                <sidebyside margins="5%">
-                    <image source="images/unit5/mod-ton-vs-mod-abschied-reduction">
-                        <description/>
-                    </image>
-                </sidebyside>
+            <image source="images/unit5/mod-ton-vs-mod-abschied-reduction">
+                <description/>
+            </image>
+            <audio source="images/unit5/Abschied-harmonic-reduction.mp3" width="80%"/>
         </figure>
         <p>A modulation to a new key requires an eventual cadence to confirm that new key. This cadence will often (though not always) have the following cadential formula:</p>
         <table>
@@ -80,6 +79,10 @@
                 </row>
             </tabular>
         </table>
+        <figure>
+            <caption>Audio Realization of Cadential Formula to Establish a Key</caption>
+            <audio source="images/unit5/cadential-formula-for-mod-audio.mp3" width="80%"/>
+        </figure>
         <p>In his book <pubtitle>Form in Tonal Music</pubtitle>, Douglass Green defines a <chord root="V"/><ndash/><chord root="I"/> authentic cadence with a pre-dominant prefix as a <q>full cadence.</q></p>
         <p>The cadential formula above is found in the following example.</p>
         <figure>
@@ -96,7 +99,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>Notice that this cadential formula establishes a key more strongly than the simple <chord root="V"/><ndash/><chord root="I"/> of an <xref ref="AuthenticCadence" text="title">authentic cadence</xref>. This means there will be ambiguity between a tonicization and a short modulation ending in an authentic cadence, especially in music with fast harmonic rhythm, like Bach chorales (usually in quarter-note <xref ref="HarmonicRhythm" text="title">harmonic rhythm</xref>).</p>
+        <p>Notice that this cadential formula establishes a key more strongly than the simple <chord root="V"/><ndash/><chord root="I"/> of an <xref ref="AuthenticCadence" text="custom">authentic cadence</xref>. This means there will be ambiguity between a tonicization and a short modulation ending in an authentic cadence, especially in music with fast harmonic rhythm, like Bach chorales (usually in quarter-note <xref ref="HarmonicRhythm" text="custom">harmonic rhythm</xref>).</p>
         <figure>
             <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
             <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
@@ -185,7 +188,7 @@
         </subsection>
         <subsection xml:id="HarmonicFunctionsofDiatonicPivotChords">
             <title>Harmonic Functions of Diatonic Pivot Chords</title>
-            <p>In terms of <xref ref="HarmonicFunction" text="title">harmonic function</xref>, composers typically do not use a pivot chord that has <xref ref="DominantFunction" text="title">dominant function</xref> in the new key because such a modulation might sound abrupt and unconvincing. Instead, the pivot chord in the first key often has tonic or <xref ref="TonicProlongationFunction" text="title">tonic prolongation function</xref>.</p>
+            <p>In terms of <xref ref="HarmonicFunction" text="custom">harmonic function</xref>, composers typically do not use a pivot chord that has <xref ref="DominantFunction" text="custom">dominant function</xref> in the new key because such a modulation might sound abrupt and unconvincing. Instead, the pivot chord in the first key often has tonic or <xref ref="TonicProlongationFunction" text="custom">tonic prolongation function</xref>.</p>
             <p>In the following example, the pivot chord simultaneously has tonic function in the first key and pre-dominant function in the second key. This creates a more seamless and less jarring progression to the second key.</p>
             <figure>
                 <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
@@ -332,9 +335,9 @@
         <introduction>
             <p>This section contains the following subsections below:</p>
             <ul>
-                <li><p><xref ref="DirectModulation" text="title">Direct Modulation</xref></p></li>
-                <li><p><xref ref="CommonToneModulation" text="title">Common-Tone Modulation</xref></p></li>
-                <li><p><xref ref="SequentialModulation" text="title">Sequential Modulation</xref></p></li>
+                <li><p><xref ref="DirectModulation" text="custom">Direct Modulation</xref></p></li>
+                <li><p><xref ref="CommonToneModulation" text="custom">Common-Tone Modulation</xref></p></li>
+                <li><p><xref ref="SequentialModulation" text="custom">Sequential Modulation</xref></p></li>
             </ul>
         </introduction>
         <subsection xml:id="DirectModulation">
@@ -385,7 +388,7 @@
                         </image>
                     </sidebyside>
                     <sidebyside margins="37%">
-                        <video youtube="AjnJDBHmN18" start="193" end="208" play-at="select" preview="generic"/>
+                        <video youtube="Siz-xBfIqpg" start="193" end="208" play-at="select" preview="generic"/>
                     </sidebyside>
                 </sbsgroup>
             </figure>
@@ -393,7 +396,7 @@
         </subsection>
         <subsection xml:id="CommonToneModulation">
             <title>Common-Tone Modulation</title>
-            <introduction><p>In <term>common-tone modulation</term><idx><h>common-tone modulation</h></idx><idx><h>modulation</h><h>common-tone</h></idx>, two chords are connected through a single note to bridge to distance between two keys.</p>
+            <introduction><p>In <term>common-tone modulation</term><idx><h>common-tone modulation</h></idx><idx><h>modulation</h><h>common-tone</h></idx>, two chords are connected through a single note to bridge the distance between two keys.</p>
             <p>In the following example, the note C<sharp/> acts as a hinge between a C<sharp/> major chord (<chord root="V"/> in F<sharp/> minor) and an A dominant seventh chord (<chord root="V" bps="7"/> in D major).</p></introduction>
             <figure>
                 <caption>Beethoven, Symphony No. 2 in D major, Op. 36, I. (1801<ndash/>1802)</caption>
@@ -470,7 +473,7 @@
                             </image>
                         </sidebyside>
                         <sidebyside margins="37%">
-                            <video youtube="GXmaz-mj6Q8" start="2766" end="2781" play-at="select" preview="generic"/>
+                            <video youtube="meGuEnjERxc" start="4276" end="4289" play-at="select" preview="generic"/>
                         </sidebyside>
                     </sbsgroup>
                 </figure>
@@ -691,7 +694,7 @@
             </exercise>
             <exercise>
                 <statement>
-                    <p>Referring to the <xref ref="HarmonicFlowchart" text="title">Harmonic Flowchart</xref>, fill in lead-sheet symbols, Roman numerals, and <xref ref="HarmonicFunction" text="title">Harmonic Functions</xref> for the following example<mdash/>be sure to put some of the chords in first inversion for variety; create a melody by adding embellishments (<xref ref="NonChordTonesIntroduction" text="title">non-chord tones</xref>) and try to create repeating <xref ref="MotiveSection" text="title">motives</xref> and/or <xref ref="subphrase" text="title">subphrases</xref>; LSS stands for lead-sheet symbols, RN stands for Roman numerals, and HF stands for Harmonic Function</p>
+                    <p>Referring to the <xref ref="HarmonicFlowchart" text="custom">Harmonic Flowchart</xref>, fill in lead-sheet symbols, Roman numerals, and <xref ref="HarmonicFunction" text="custom">Harmonic Functions</xref> for the following example<mdash/>be sure to put some of the chords in first inversion for variety; create a melody by adding embellishments (<xref ref="NonChordTonesIntroduction" text="custom">non-chord tones</xref>) and try to create repeating <xref ref="MotiveSection" text="custom">motives</xref> and/or <xref ref="subphrase" text="custom">subphrases</xref>; LSS stands for lead-sheet symbols, RN stands for Roman numerals, and HF stands for Harmonic Function</p>
                     <sidebyside>
                         <image source="images/unit5/PRAC-EXER-mod-compose-mod-e-to-b-v2"/>
                     </sidebyside>
@@ -735,13 +738,13 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>Analyze lead-sheet symbols, motives (with numbers, noting melodic alteration when it occurs), non-chord tones, Roman numerals, and harmonic function.</p>
-                    <sidebyside>
+                    <p>Analyze lead-sheet symbols, motives (with numbers, noting melodic alteration when it occurs), Roman numerals, and harmonic function.</p>
+                    <figure>
+                        <caption/>
                         <image source="images/unit5/HW-mod-compose-based-on-GKB"/>
-                    </sidebyside>
-                    <sidebyside>
                         <image source="images/unit5/HW-mod-compose-based-on-GKB-2"/>
-                    </sidebyside>
+                        <audio source="images/unit5/PRAC-EXER-gkb-example-audio.mp3" width="80%"/>
+                    </figure>
                     <p>Compose an eight-measure example using the motivic structure and harmonic function in the example above. Create a new melody with new motives but the same sequence of motives. You may use a different time signature, mode, and accompanimental texture.</p>
                     <sidebyside>
                         <image source="images/unit5/HW-mod-compose-based-on-GKB-blank1"/>
@@ -758,7 +761,8 @@
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_27.pdf">here to download the third homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_28.pdf">here to download the fourth homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_29.pdf">here to download the fifth homework assignment for this chapter.</url></p>
-            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_Unit_5_Practice_Test.pdf">here to download the Unit 5 Practice Test.</url></p>         
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_Unit_5_Practice_Test.pdf">here to download the Unit 5 Practice Test.</url></p>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>     
         </conclusion>
     </exercises>
 </chapter>

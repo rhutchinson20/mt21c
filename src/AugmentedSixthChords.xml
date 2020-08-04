@@ -3,7 +3,7 @@
     <title>Augmented Sixth Chords</title>
     <section xml:id="AugmentedSixthIntroduction">
         <title>Augmented Sixth Chords</title>
-        <p><term>Augmented sixth chords</term><idx><h>augmented sixth chords</h></idx> are a special class of <xref ref="PreDominantFunction" text="title">pre-dominant</xref> chords with notes that approach the dominant (<scaledeg>5</scaledeg>) from a half-step below (<sharp/><scaledeg>4</scaledeg>) and from a half-step above (<flat/><scaledeg>6</scaledeg>) simultaneously.
+        <p><term>Augmented sixth chords</term><idx><h>augmented sixth chords</h></idx> are a special class of <xref ref="PreDominantFunction" text="custom">pre-dominant</xref> chords with notes that approach the dominant (<scaledeg>5</scaledeg>) from a half-step below (<sharp/><scaledeg>4</scaledeg>) and from a half-step above (<flat/><scaledeg>6</scaledeg>) simultaneously.
         </p>
         <figure>
             <caption/>
@@ -60,14 +60,14 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>In the example above, we see a disagreement between <q>Classical</q> analysis and lead-sheet analysis. The fundamental concept of lead-sheet analysis is to show root, quality, and inversion. The <q>Classical</q> spelling and the Classical analysis of augmented sixth chords show the direction of resolution (with the chromatically raised notes), which necessitate the need for original labels, since we don't have a Roman numeral or a lead-sheet symbol that would communicate a chord containing a diminished third above the root (that is then inverted!).</p>
+        <p>In the example above, we see a disagreement between <q>classical</q> analysis and lead-sheet analysis. The fundamental concept of lead-sheet analysis is to show root, quality, and inversion. The <q>classical</q> spelling and the classical analysis of augmented sixth chords show the direction of resolution (with the chromatically raised notes), which necessitate the need for original labels, since we don't have a Roman numeral or a lead-sheet symbol that would communicate a chord containing a diminished third above the root (that is then inverted!).</p>
         <p>Therefore, when you are asked to provide lead-sheet symbols for augmented sixth chords, analyze each one as if it is a dominant 7th chord with a misspelled 7th (<n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="F" acc="sharp"/> instead of <n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="G" acc="flat"/>).</p>
     </section>
     <section xml:id="ExamplesWithAugmentedSixthChords">
         <title>Examples with Augmented Sixth Chords</title>
         <subsection>
             <title>The Italian Augmented Sixth Chord</title>
-            <p>The first examples, from the first movement of Beethoven's Fifth Symphony, shows an Italian augmented sixth chord (<chord root="It" bps="+6"/>) in C minor with the <q>Classical</q> spelling.</p>
+            <p>The first examples, from the first movement of Beethoven's Fifth Symphony, shows an Italian augmented sixth chord (<chord root="It" bps="+6"/>) in C minor with the <q>classical</q> spelling.</p>
             <figure>
                 <caption>Beethoven, Symphony No. 5, Op. 67, I (1808)</caption>
                 <idx><h>Beethoven</h><h>Symphony No. 5, Op. 67, I</h></idx>
@@ -85,7 +85,7 @@
             <p>The next example from popular music has an <chord root="It" bps="+6"/> spelled enharmonically as a major-minor seventh chord with the fifth omitted.</p>
             <figure>
                 <caption>Duke Ellington, <q>It Don't Mean A Thing (If It Ain't Got That Swing)</q> (1931)</caption>
-                <idx><h>Duke Ellington</h><h><q>It Don't Mean A Thing (If It Ain't Got That Swing)</q></h></idx>
+                <idx><h>Ellington, Duke</h><h><q>It Don't Mean A Thing (If It Ain't Got That Swing)</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit4/aug-6-dont-mean-a-thing">
@@ -120,8 +120,8 @@
             <title>The German Augmented Sixth Chord</title>
             <p>The following example, from Rossini's <pubtitle>William Tell</pubtitle> Overture, has a German augmented sixth chord leading to a chord of dominant function, the <chord root="I" bps="6 4"/> chord.</p>
             <figure>
-                <caption>Rossini, <pubtitle>William Tell</pubtitle> Overture (1829)</caption>
-                <idx><h>Rossini</h><h><pubtitle>William Tell</pubtitle> Overture</h></idx>
+                <caption>Gioachino Rossini, <pubtitle>William Tell</pubtitle> Overture (1829)</caption>
+                <idx><h>Rossini, Gioachino</h><h><pubtitle>William Tell</pubtitle> Overture</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit4/aug-6-rossini-tell">
@@ -136,7 +136,7 @@
             <p>John Coltrane's minor blues, <q>Mr. P.C.,</q> contains a German augmented sixth chord (spelled as <chord root="VI" bps="7"/> in minor) progressing to the <chord root="V"/> chord. (Note: The bass line in this example is a jazz <q>walking</q> bass, which doesn't stick strictly to chord tones.)</p>
             <figure>
                 <caption>John Coltrane, <q>Mr. P.C.</q> (1959)</caption>
-                <idx><h>John Coltrane</h><h><q>Mr. P.C.</q></h></idx>
+                <idx><h>Coltrane, John</h><h><q>Mr. P.C.</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit4/aug-6-coltrane-mr-pc">
@@ -206,6 +206,55 @@
             </figure>
         </subsection>
     </section>
+
+    <section xml:id="DistinguishingBetweenChromaticHarmonies">
+        <title>Distingushing Between Chromatic Harmonies</title>
+        <p>The following table provides a brief synopsis of what to look for when analyzing chromatic harmonies.</p>
+        <table>
+                
+                <title>Distingushing Between Chromatic Harmonies</title>
+                <tabular>
+                    <col/>
+                    <col/>
+                    <col/>
+                    <row>
+                        <cell bottom="major">Chromatic Chord Type</cell>
+                        <cell bottom="major">What to look for</cell>
+                        <cell bottom="major">Chord Labels</cell>
+                    </row>
+                    <row valign="top">
+                        <cell>Secondary Dominant</cell>
+                        <cell>QUALITY<mdash/>M triad or Mm7</cell>
+                        <cell>V/<fillin characters="2"/>, V7/<fillin characters="2"/></cell>
+                    </row>
+                    <row valign="top">
+                        <cell>Secondary Diminished</cell>
+                        <cell>QUALITY<mdash/><chord mode="diminished"/>, <chord mode="diminished" bps="7"/>, <chord mode="halfdiminished" bps="7"/></cell>
+                        <cell><chord root="vii" mode="diminished"/>/<fillin characters="2"/>, <chord root="vii" mode="halfdiminished" bps="7"/>/<fillin characters="2"/>, <chord root="vii" mode="diminished" bps="7"/>/<fillin characters="2"/></cell>
+                    </row>
+                    <row valign="top">
+                        <cell>Mode Mixture</cell>
+                        <cell>ACCIDENTALS<mdash/>lowered notes</cell>
+                        <cell><chord root="ii" mode="diminished"/>, <chord root="ii" mode="halfdiminished" bps="7"/>, <chord root="iv"/>, <chord root="vii" mode="diminished" bps="7"/>, <flat/><chord root="VI"/>, etc.</cell>
+                    </row>
+                    <row valign="top">
+                        <cell>Neapolitan</cell>
+                        <cell><flat/>II</cell>
+                        <cell>N</cell>
+                    </row>
+                    <row valign="top">
+                        <cell>Augmented Sixth Chord</cell>
+                        <cell><chord mode="diminished"/>3 interval</cell>
+                        <cell><chord root="It" bps="+6"/>, <chord root="Fr" bps="+6"/>, <chord root="Ger" bps="+6"/>, <chord root="EnGer" bps="+6"/></cell>
+                    </row>
+                </tabular>
+            </table>
+    </section>
+
+
+
+
+
     <section xml:id="DescendingChromaticBassLines">
         <title>Descending Chromatic Bass Lines</title>
         <p>A common musical pattern is the descending chromatic bass line (<scaledeg>1</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>). Composers harmonize descending chromatic bass lines with all manner of harmonies, including secondary chords, borrowed chords, augmented sixth chords, and rarely-used diatonic chords. Below are some examples from the past four centuries.</p> 
@@ -408,11 +457,11 @@
                 </row>
             </tabular>
         </table>
-        <p>For the harmonization of scale degree <scaledeg>6</scaledeg>, remember that the concept of <sharp/><chord root="vi" mode="diminished"/> was introduced when <xref ref="DiatonicChordsInMinor" text="title">Roman numerals in minor</xref> were introduced. The notes of the <sharp/><chord root="vi" mode="halfdiminished" bps="7"/> chord belong to the <em>melodic</em> minor scale.</p>
+        <p>For the harmonization of scale degree <scaledeg>6</scaledeg>, remember that the concept of <sharp/><chord root="vi" mode="diminished"/> was introduced when <xref ref="DiatonicChordsInMinor" text="custom">Roman numerals in minor</xref> were introduced. The notes of the <sharp/><chord root="vi" mode="halfdiminished" bps="7"/> chord belong to the <em>melodic</em> minor scale.</p>
     </section>
     <section xml:id="ChromaticPreDominantChords">
         <title>Chromatic Pre-Dominant Chords</title>
-        <p>The table below shows how our study of chromatic harmonies in recent chapters includes the chromatic expansion of the pre-dominant <xref ref="HarmonicFlowchart" text="title">harmonic function</xref> category.</p>
+        <p>The table below shows how our study of chromatic harmonies in recent chapters includes the chromatic expansion of the pre-dominant <xref ref="HarmonicFlowchart" text="custom">harmonic function</xref> category.</p>
         <table>
             <title/>
             <tabular halign="center" top="major" bottom="minor" left="minor" right="minor">

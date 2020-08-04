@@ -24,6 +24,7 @@
             <image source="images/unit1/tetrachords-on-staff" width="90%">
                 <description>The D major scale on the staff, shown as two tetrachords</description>
             </image>
+            <audio source="images/unit1/MajorScale-D-major-scale-audio.mp3" width="80%"/>
         </figure>
         <p>All major scales use the notes of the musical alphabet in order; no notes are skipped and no notes occur twice. In the example above, the first four notes are <n pc="D"/><ndash/><n pc="E"/><ndash/><n pc="F" acc="sharp"/><ndash/><n pc="G"/>, not <n pc="D"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="flat"/><ndash/><n pc="G"/>. In <n pc="D"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="flat"/><ndash/><n pc="G"/>, <n pc="G"/> erroneously occurs twice and the <n pc="F" acc="sharp"/> between <n pc="E"/> and <n pc="G"/> is skipped.</p>
     </section>
@@ -69,7 +70,7 @@
             <title>Identifying Key Signatures</title>
             <p>While it is preferable to memorize key signatures, use the following method to determine major key signatures based on the sharps or flats in the key signature.</p>
             <ol>
-                <li><p><em>For key signatures withs sharps</em>: Go up a halfstep from the last sharp to find the key.</p></li>
+                <li><p><em>For key signatures withs sharps</em>: Go up a half step from the last sharp to find the key.</p></li>
                 <li><p><em>For key signatures with flats</em>: The second-to-last flat is the key.</p></li>
             </ol>
         </subsection>
@@ -110,6 +111,7 @@
         </exercise>
         <conclusion>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_1.pdf">here to download the homework.</url></p>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
         </conclusion>
     </exercises>
 </chapter>

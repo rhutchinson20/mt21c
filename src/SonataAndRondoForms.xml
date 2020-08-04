@@ -121,7 +121,7 @@
         <subsection xml:id="TransitionalFunction">
             <title>Transitional Function</title>
             <p>Music of <term>transitional function</term><idx><h>transitional function</h><h>definition of</h></idx> moves from one tonal center to another and often features a contrasting accompanimental texture more rhythmically active than preceding expository material. Tonicizations may also occur within a transition. Transitions are sometimes called bridges. Mozart and Haydn often ended their sonata form transitions with a half cadence followed by a rest to signal that the secondary theme was about to commence. Again, notice the importance of cadences to demarcate the form.</p>
-            <idx><h>Haydn</h><h>Piano Sonata in C major, Hob. XVI:35, I.</h></idx>
+            <idx><h>Haydn, Joseph</h><h>Piano Sonata in C major, Hob. XVI:35, I</h></idx>
             <sidebyside>
                 <image source="images/unit7/sonata-trans-haydn-XVI35-I-A">
                     <description/>
@@ -163,7 +163,7 @@
                 </image>
             </sidebyside>
             <figure>
-                <caption>Haydn, Piano Sonata in C major, Hob. XVI:35, I.</caption>
+                <caption>Joseph Haydn, Piano Sonata in C major, Hob. XVI:35, I.</caption>
                 <sidebyside margins="37%">
                 <video youtube="Lfq9P-zT_0I" start="0" end="47" play-at="select" preview="generic"/>
             </sidebyside>
@@ -208,7 +208,7 @@
         </subsection>
         <subsection xml:id="DevelopmentalFunction">
             <title>Developmental Function</title>
-            <p>Music with <term>developmental function</term><idx><h>developmental function</h><h>definition of</h></idx> often contains sequences and fragmentation of earlier melodies. In addition, developmental music modulates through multiple keys. Phrase lengths may be irregular and <xref ref="Elision" text="title">elisions</xref> may be used by the composer to keep the listener off balance.</p>
+            <p>Music with <term>developmental function</term><idx><h>developmental function</h><h>definition of</h></idx> often contains sequences and fragmentation of earlier melodies. In addition, developmental music modulates through multiple keys. Phrase lengths may be irregular and <xref ref="Elision" text="custom">elisions</xref> may be used by the composer to keep the listener off balance.</p>
             <p>It can sometimes be difficult to distinguish between transitional and developmental music. A development section is typically longer than a transition and therefore will contain more sections of a varying nature and as well as a greater number of modulations.</p>
             <p>Examples from a development section can be found in <xref ref="MotiveSection" text="type-global"/> of this text. Note the fragmentation and sequencing of melodic ideas as well as the different keys expressed in the examples throughout that section.</p>
         </subsection>
@@ -251,7 +251,7 @@
                     <video youtube="aOzWTNaQRxQ" start="81" end="93" play-at="select" preview="generic"/>
                 </sidebyside>
             </figure>
-            <p>Go to the <xref ref="SonataAndRondoPracticeExercises" text="title">Practice Exercises</xref> at the end of this chapter to practice identifying these four structural functions aurally.</p>
+            <p>Go to the <xref ref="SonataAndRondoPracticeExercises" text="custom">Practice Exercises</xref> at the end of this chapter to practice identifying these four structural functions aurally.</p>
         </subsection>
     </section>
     <section xml:id="RondoForm">
@@ -390,7 +390,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>To review a simple, five-part rondo form, see the section on the second movement of <pubtitle><xref ref="Eine-kleine-ii" text="title">Eine kleine nachtmusik</xref></pubtitle> in the chapter on <xref ref="CreatingContrast" text="title">Creating Contrast Between Sections</xref>.</p></introduction>
+        <p>To review a simple, five-part rondo form, see the section on the second movement of <pubtitle><xref ref="Eine-kleine-ii" text="custom">Eine kleine nachtmusik</xref></pubtitle> in the chapter on <xref ref="CreatingContrast" text="custom">Creating Contrast Between Sections</xref>.</p></introduction>
         <subsection xml:id="SonataRondoForm">
             <title>Sonata Rondo Form</title>
             <p>Sonata rondo form is a rondo in which the second episode (the C section) is replaced by a development section, resulting in a design of A-B-A-Dev.-A-B-A.</p>
@@ -403,7 +403,17 @@
         <ol>
             <li>
                 <figure>
-                    <caption>Haydn, Piano Sonata in D major, H. XVI No. 37, III.</caption>
+                    <caption>Joseph Bologne, Chevalier de Saint-Georges, Violin Concerto No. 9 in G major, Op. 8, III.</caption>
+                    <idx><h>Saint-Georges, Joseph Bologne, Chevalier de</h><h>Violin Concerto No. 9 in G major, Op. 8, III.</h></idx>
+                    <sidebyside margins="37%">
+                        <video youtube="kmiuh_OL2Zg" start="1043" end="1068" play-at="select" preview="generic"/>
+                    </sidebyside>
+                </figure>
+            </li>
+            <li>
+                <figure>
+                    <caption>Haydn, Piano Sonata in D major, H. XVI:37, III.</caption>
+                    <idx><h>Haydn</h><h>Piano Sonata in D major, H. XVI:37, III</h></idx>
                     <sidebyside margins="37%">
                         <video youtube="ysB5SeaJp6s" play-at="select" preview="generic"/>
                     </sidebyside>
@@ -412,6 +422,7 @@
             <li>
                 <figure>
                     <caption>Haydn, Symphony No. 104 in D major, Hob. I:104, IV.</caption>
+                    <idx><h>Haydn</h><h>Symphony No. 104 in D major, Hob. I:104, IV</h></idx>
                     <sidebyside margins="37%">
                         <video youtube="QYUANirkakg" play-at="select" preview="generic"/>
                     </sidebyside>
@@ -420,6 +431,7 @@
             <li>
                 <figure>
                     <caption>Haydn, String Quartet in E-flat major, Op. 33, No. 2, IV.</caption>
+                    <idx><h>Haydn</h><h>String Quartet in E-flat major, Op. 33, No. 2, IV</h></idx>
                     <sidebyside margins="37%">
                         <video youtube="YhGkLPqWjBc" play-at="select" preview="generic"/>
                     </sidebyside>
@@ -428,6 +440,7 @@
             <li>
                 <figure>
                     <caption>Mozart, Symphony No. 36 in C major, K.425, IV.</caption>
+                    <idx><h>Mozart, W.A.</h><h>String Quartet K. 425, IV</h></idx>
                     <sidebyside margins="37%">
                         <video youtube="hwxNp-LzDYo" start="1265" end="1300" play-at="select" preview="generic"/>
                     </sidebyside>
@@ -436,6 +449,7 @@
             <li>
                 <figure>
                     <caption>Mozart, Symphony No. 39 in E-flat major, K.543, IV.</caption>
+                    <idx><h>Mozart, W.A.</h><h>Symphony No. 39 K.543, IV</h></idx>
                     <sidebyside margins="37%">
                         <video youtube="H0x_dCrKd4w" start="1369" end="1429" play-at="select" preview="generic"/> 
                     </sidebyside> 
@@ -444,9 +458,10 @@
             <li>
                 <figure>
                     <caption>Mozart, String Quartet No. 19 in C major, K.465, IV.</caption>
+                    <idx><h>Mozart, W.A.</h><h>String Quartet K. 465, IV</h></idx>
                     <sidebyside margins="37%">
                         <video youtube="zuMs8kD5Des" start="1431" end="1470" play-at="select" preview="generic"/>
-                    </sidebyside>1567
+                    </sidebyside>
                 </figure>
             </li>
         </ol>
@@ -516,7 +531,6 @@
                         </sidebyside>
                     </p>
                     <p>
-
                         (i) Mozart, Piano Sonata No. 8 in A minor, K. 310, I.
                         <sidebyside margins="37%">
                             <video youtube="U4K2mz_rPcs" start="89" end="100" play-at="select" preview="generic"/>

@@ -14,7 +14,7 @@
                 </sidebyside>
             </li>
             <li>
-                <p>Alternate complete voicings with incomplete voicings when voice leading <xref ref="successive-seventh-chords-principle" text="title">successive root position seventh chords</xref> . Note that with secondary chords, the 3rd of the chord, typically a raised note, will resolve down by half step to the 7th of the chord, which is a diatonic note that cancels out the chromaticism of the previous note.</p>
+                <p>Alternate complete voicings with incomplete voicings when voice leading <xref ref="successive-seventh-chords-principle" text="custom">successive root position seventh chords</xref> . Note that with secondary chords, the 3rd of the chord, typically a raised note, will resolve down by half step to the 7th of the chord, which is a diatonic note that cancels out the chromaticism of the previous note.</p>
                 <sidebyside>
                     <image source="images/unit9/vl-secondary-consecutive-7th">
                         <description/>
@@ -22,7 +22,7 @@
                 </sidebyside>
             </li>
             <li>
-                <p>Follow the <xref ref="SpecialResolutionOfVII7" text="title">principle</xref> for resolving <chord root="vii" mode="diminished" bps="7"/> and <chord root="vii" mode="halfdiminished" bps="7"/> when dealing with secondary <chord root="vii" mode="diminished" bps="7"/> and <chord root="vii" mode="halfdiminished" bps="7"/> chords.</p>
+                <p>Follow the <xref ref="SpecialResolutionOfVII7" text="custom">principle</xref> for resolving <chord root="vii" mode="diminished" bps="7"/> and <chord root="vii" mode="halfdiminished" bps="7"/> when dealing with secondary <chord root="vii" mode="diminished" bps="7"/> and <chord root="vii" mode="halfdiminished" bps="7"/> chords.</p>
                 <sidebyside margins="25%">
                     <image source="images/unit9/vl-secondary-resolving-viio7">
                         <description/>
@@ -43,7 +43,7 @@
     </section>
     <section xml:id="VoiceLeadingBorrowedChords">
         <title>Voice Leading Borrowed Chords</title>
-        <p><xref ref="ModeMixtureSection" text="title">Borrowed chords</xref>, or chords making use of mode mixture, are handled similarly to their diatonic versions in terms of voice leading, e.g., <chord root="ii" mode="halfdiminished" bps="7"/> is handled similarly to <chord root="ii" bps="7"/>. In any of the borrowed chords with <flat/><scaledeg>6</scaledeg>, resolve this tendency tone down by step whenever possible.</p>
+        <p><xref ref="ModeMixtureSection" text="custom">Borrowed chords</xref>, or chords making use of mode mixture, are handled similarly to their diatonic versions in terms of voice leading, e.g., <chord root="ii" mode="halfdiminished" bps="7"/> is handled similarly to <chord root="ii" bps="7"/>. In any of the borrowed chords with <flat/><scaledeg>6</scaledeg>, resolve this tendency tone down by step whenever possible.</p>
         <principle xml:id="VoiceLeadingBorrowedChordsPrinciple">
             <title>Voice Leading Borrowed Chords</title>
             <statement>
@@ -58,12 +58,12 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Another situation where you  may encounter a borrowed chord is the <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence, which should be handled exactly as the <xref ref="voice-leading-deceptive-cadence" text="title">deceptive cadence in minor</xref> is handled<mdash/>resolve the 3rd of the <chord root="V"/> chord up by step and move the other two voices in contrary motion to the bass.</p>
+        <p>Another situation where you  may encounter a borrowed chord is the <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence, which should be handled exactly as the <xref ref="voice-leading-deceptive-cadence" text="custom">deceptive cadence in minor</xref> is handled<mdash/>resolve the 3rd of the <chord root="V"/> chord up by step and move the other two voices in contrary motion to the bass.</p>
         <p>There are no specific rules for other borrowed chords such as <flat/><chord root="III"/>, <flat/><chord root="VII"/>, <chord root="i"/>, and <chord root="v"/>; simply voice lead them as smoothly as possible while avoiding objectionable parallels.</p>
     </section>
     <section xml:id="VoiceLeadingNeapolitanChord">
         <title>Voice Leading the Neapolitan Chord</title>
-        <p>There are two rules for voice leading <xref ref="NeapolitanIntroduction" text="title">the <chord root="N" bps="6"/> chord</xref> in four parts:</p>
+        <p>There are two rules for voice leading <xref ref="NeapolitanIntroduction" text="custom">the <chord root="N" bps="6"/> chord</xref> in four parts:</p>
         <ol>
             <li><p>Double the bass (the third)</p></li>
             <li><p>Resolve <flat/><scaledeg>2</scaledeg> <em>down</em> to the nearest note in the next chord.</p></li>
@@ -79,7 +79,7 @@
     </section>
     <section xml:id="VoiceLeadingAugmentedSixthChords">
         <title>Voice Leading Augmented Sixth Chords</title>
-        <p>It may be helpful to <xref ref="TypesOfAugmentedSixthChords" text="title">review the three types of augmented sixth chords</xref> before discussing how one voice leads them.</p>
+        <p>It may be helpful to <xref ref="TypesOfAugmentedSixthChords" text="custom">review the three types of augmented sixth chords</xref> before discussing how one voice leads them.</p>
         <p>The salient accidental in all three augmented sixth chords is <sharp/><scaledeg>4</scaledeg>, which almost always resolves upward to <scaledeg>5</scaledeg>.</p>
         <figure>
             <caption><sharp/><scaledeg>4</scaledeg> to <scaledeg>5</scaledeg> in resolution to V</caption>

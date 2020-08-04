@@ -3,14 +3,13 @@
     <title>Secondary Diminished Chords</title>
     <section xml:id="SecondaryDiminishedChordSection">
         <title>Secondary Diminished Chords</title>
-        <p>The <chord root="vii" mode="diminished"/> chord has dominant function (see the <xref ref="HarmonicFlowchartInMajor" text="title">Harmonic Function Flowchart</xref>). Since chords of dominant function typically resolve to chords of tonic function, diminished triads as well as half<ndash/>diminished and fully<ndash/>diminished seventh chords occur as secondary diminished chords<idx><h>secondary diminished chord</h></idx>.</p>
+        <p>The <chord root="vii" mode="diminished"/> chord has dominant function (see the <xref ref="HarmonicFlowchartInMajor" text="custom">Harmonic Function Flowchart</xref>). Since chords of dominant function typically resolve to chords of tonic function, diminished triads as well as half<ndash/>diminished and fully<ndash/>diminished seventh chords occur as secondary diminished chords<idx><h>secondary diminished chord</h></idx>.</p>
         <figure>
             <caption>A Harmonic Sequence with Secondary Diminished Chords in C major</caption>
-            <sidebyside>
-                <image source="images/unit4/sec-dim-chord-sequence">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dim-chord-sequence">
+                <description/>
+            </image>
+            <audio source="images/unit4/sec-DIM-audio-example.mp3" width="80%"/>
         </figure>
         <p>Below are some examples of pieces with secondary diminished chords. Notice that chromaticism is an <q>essential</q> part of secondary diminished chords (<q>non<ndash/>essential</q> chromaticism refers to chromatic non<ndash/>chord tones).</p>
         <figure>
@@ -89,7 +88,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Notice that <chord root="vii" mode="diminished" bass="III"/> in minor is not included because it is <chord root="ii" mode="diminished"/>. Notice also that <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> has no accidentals<mdash/>it is the same as <chord root="ii" mode="halfdiminished" bps="7"/> but functions differently. The <chord root="ii" mode="halfdiminished" bps="7"/> chord has <xref ref="PreDominantFunction" text="title">pre<ndash/>dominant function</xref> and progresses to <chord root="V"/> whereas the <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> chord progresses to <chord root="III"/>.</p>
+        <p>Notice that <chord root="vii" mode="diminished" bass="III"/> in minor is not included because it is <chord root="ii" mode="diminished"/>. Notice also that <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> has no accidentals<mdash/>it is the same as <chord root="ii" mode="halfdiminished" bps="7"/> but functions differently. The <chord root="ii" mode="halfdiminished" bps="7"/> chord has <xref ref="PreDominantFunction" text="custom">pre<ndash/>dominant function</xref> and progresses to <chord root="V"/> whereas the <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> chord progresses to <chord root="III"/>.</p>
         <p>Minor triads are tonicized by fully diminished seventh chords. Major triads are traditionally tonicized by half diminished seventh chords but can also be tonicized by fully diminished seventh chords.</p>
     </section>
     <section xml:id="AnalyzingSecondaryDiminishedChords">

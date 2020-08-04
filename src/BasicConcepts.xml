@@ -87,8 +87,8 @@
             There are five types of accidentals; <term>accidentals</term><idx><h>accidentals</h></idx> are characters that can be placed before notes to raise or lower them.
             <ul>
                 <li><p>The <term>sharp</term><idx><h>sharp</h></idx> symbol<mdash/><sharp/><mdash/>raises a pitch a half step.</p></li>
-                <li><p>The <term>flat</term><idx><h>flat</h></idx> symbol<mdash/><flat/><mdash/>lowers a pitch a <xref ref="HalfStepsAndWholeSteps" text="title">half step</xref>.</p></li>
-                <li><p>The <term>double sharp</term><idx><h>double sharp</h></idx> symbol<mdash/><doublesharp/><mdash/>raises a pitch two half steps, or a <xref ref="HalfStepsAndWholeSteps" text="title">whole step</xref>.</p></li>
+                <li><p>The <term>flat</term><idx><h>flat</h></idx> symbol<mdash/><flat/><mdash/>lowers a pitch a <xref ref="HalfStepsAndWholeSteps" text="custom">half step</xref>.</p></li>
+                <li><p>The <term>double sharp</term><idx><h>double sharp</h></idx> symbol<mdash/><doublesharp/><mdash/>raises a pitch two half steps, or a <xref ref="HalfStepsAndWholeSteps" text="custom">whole step</xref>.</p></li>
                 <li><p>The <term>double flat</term><idx><h>double flat</h></idx> symbol<mdash/><doubleflat/><mdash/>lowers a pitch two half steps, or a whole step.</p></li>
                 <li><p>The <term>natural</term><idx><h>natural</h></idx> symbol<mdash/><natural/><mdash/>cancels out any other accidentals that may have occurred earlier in a measure or in <xref ref="MajorKeySignatures" text="title"/> or <xref ref="MinorKeySignatures" text="title"/>.</p></li>
             </ul>
@@ -150,5 +150,9 @@
                 <p>1. <n pc="G" acc="doubleflat"/> and <n pc="E" acc="sharp"/>; 2. <n pc="D" acc="sharp"/> and <n pc="F" acc="doubleflat"/>; 3. <n pc="G" acc="doublesharp"/> and <n pc="B" acc="doubleflat"/>; 4. <n pc="G" acc="flat"/> and <n pc="E" acc="doublesharp"/></p>
             </answer>
         </exercise>
+        <conclusion>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
+        </conclusion>
     </exercises>
+
 </chapter>

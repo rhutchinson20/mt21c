@@ -21,7 +21,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>Like a verbal pun, this harmonic pun is effective because the third chord (<chord root="G" bps="7"/>) has two <q>meanings</q><mdash/>in the context of C major, <chord root="G" bps="7"/> is <chord root="V" bps="7"/> and the root wants to cadence down a fifth to C, but the <chord root="G" bps="7"/> is a <xref ref="TypesOfAugmentedSixthChords" text="title"><chord root="Ger" bps="+6"/></xref> in the context of B minor, where the root of the <chord root="G" bps="7"/> wants to progress down a half step to a chord of dominant function, <chord root="i" bps="6 4"/> in the example above.</p>
+        <p>Like a verbal pun, this harmonic pun is effective because the third chord (<chord root="G" bps="7"/>) has two <q>meanings</q><mdash/>in the context of C major, <chord root="G" bps="7"/> is <chord root="V" bps="7"/> and the root wants to cadence down a fifth to C, but the <chord root="G" bps="7"/> is a <xref ref="TypesOfAugmentedSixthChords" text="custom"><chord root="Ger" bps="+6"/></xref> in the context of B minor, where the root of the <chord root="G" bps="7"/> wants to progress down a half step to a chord of dominant function, <chord root="i" bps="6 4"/> in the example above.</p>
         <figure>
             <caption/>
             <sidebyside margins="15%">
@@ -135,7 +135,7 @@
                 </image>
             </sidebyside>
         </figure>
-        <p>In the example above, each note of the <chord root="vii" mode="diminished" bps="7"/> chord was treated in turn as the <scaledeg>7</scaledeg> scale degree and resolved up by half step. In the example below, each note of the chord is resolved as if it were the 7th of the chord, moving down by half step to the root of a dominant seventh chord.</p>
+        <p>In the example above, each note of the <chord root="vii" mode="diminished" bps="7"/> chord was treated in turn as scale degree <scaledeg>7</scaledeg> and resolved up by half step. In the example below, each note of the chord resolves as if it were the 7th of the chord, moving down by half step to the root of a dominant seventh chord.</p>
         <figure>
             <caption>Resolutions of a Diminished Seventh Sonority to a Dominant Seventh Sonority</caption>
             <sidebyside>
@@ -242,9 +242,13 @@
             <exercise>
                 <statement>
                     <p>Analyze with lead-sheet symbols and Roman numerals and label the enharmonic pivot chords in the examples below.</p>
-                    <sidebyside>
-                        <image source="images/unit6/PRAC-EXER-enh-mod-analyze-simple-enh-mod-1"/>
-                    </sidebyside>
+                    <figure>
+                        <caption/>
+                        <image source="images/unit6/PRAC-EXER-enh-mod-analyze-simple-enh-mod-1">
+                            <description/>
+                        </image>
+                        <audio source="images/unit6/PRAC-EXER-enh-mod-analysis-1-audio.mp3" width="80%"/>
+                    </figure>
                 </statement>
                 <answer>
                     <sidebyside>
@@ -273,9 +277,11 @@
             <exercise>
                 <statement>
                     <p>Analyze with lead-sheet symbols and Roman numerals and label the enharmonic pivot chords in the examples below.</p>
-                    <sidebyside>
+                    <figure>
+                        <caption/>
                         <image source="images/unit6/PRAC-EXER-enh-mod-analyze-simple-dim-enh-mod-1"/>
-                    </sidebyside>
+                        <audio source="images/unit6/PRAC-EXER-enh-mod-analysis-2-audio.mp3" width="80%"/>
+                    </figure>
                 </statement>
                 <answer>
                     <sidebyside>

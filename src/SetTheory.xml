@@ -429,7 +429,7 @@
     </section>
     <section xml:id="ForteNumbers">
         <title>Forte Numbers</title>
-        <introduction><p>When Allen Forte created a catalog of every possible 3-, 4-, 5-, 6-, 7-, 8-, and 9-note set in Appendix 1 of <pubtitle>The Structure of Atonal Music</pubtitle>, he labeled each prime form with two numbers separated by a hyphen. His labels (3<ndash/>1, 3<ndash/>2, etc.) are now known as <q>Forte numbers,</q>  and are seen in the tables in the <xref ref="ListsOfSetClasses" text="title">Lists of Set Classes</xref>, which include prime forms and interval vectors as well.</p></introduction>
+        <introduction><p>When Allen Forte created a catalog of every possible 3-, 4-, 5-, 6-, 7-, 8-, and 9-note set in Appendix 1 of <pubtitle>The Structure of Atonal Music</pubtitle>, he labeled each prime form with two numbers separated by a hyphen. His labels (3<ndash/>1, 3<ndash/>2, etc.) are now known as <q><term>Forte numbers</term><idx><h>Forte number</h></idx>,</q>  and are seen in the tables in the <xref ref="ListsOfSetClasses" text="custom">Lists of Set Classes</xref>, which include prime forms and interval vectors as well.</p></introduction>
         <subsection xml:id="ZRelations">
             <title>Z-Relations</title>
             <p><q>Z</q> in a set label (for example, 4<ndash/>Z29) stands  for <q>zygotic</q> (<q>twinned</q>), and is used when different prime forms (for example, 4<ndash/>Z29 and 4<ndash/>Z15 have the same interval vector<mdash/>111111).</p>
@@ -1706,7 +1706,7 @@
                         </li>
 
                         <li>
-                            <p>Normal form is [6, 10, 11, 1]. Prime form is (0137).</p>
+                            <p>Normal form is [6, 10, 11, 1]. Prime form is (0237).</p>
                         </li>
 
                         <li>
@@ -1864,6 +1864,7 @@
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_61.pdf">here to download the first homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_62.pdf">here to download the second homework assignment for this chapter.</url></p>
             <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_63.pdf">here to download the third homework assignment for this chapter.</url></p>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
         </conclusion>
     </exercises>
 </chapter>

@@ -72,18 +72,21 @@
         <title>Roman Numerals of Diatonic Seventh Chords</title>
         <p>When notating seventh chords with Roman numerals, there are a few conventions to follow. An uppercase Roman numeral means a major triad and a lowercase Roman numeral means a minor triad. Adding <q>7</q> after a Roman numeral means there is a minor seventh between the root and seventh of the chord. Therefore, <chord root="V" bps="7"/> means a major triad with a minor seventh between the root and seventh and <chord root="vi" bps="7"/> means a minor triad and a minor seventh between the root and seventh. Add <q>M7</q> for a major seventh chord (e.g., <chord root="I" mode="M" bps="7"/>). The half-diminished symbol (<chord mode="halfdiminished" bps="7"/>) means there is a diminished triad with a minor seventh from root to seventh. The diminished symbol (<chord mode="diminished" bps="7"/>) on a seventh chord means the triad is diminished and the distance from the root to seventh is a diminished seventh.</p>
         <p>Below are the diatonic seventh chords used in major and minor and their Roman numerals.</p>
-        <sbsgroup>
-            <sidebyside>
-                <image source="images/unit2/7th-chords-RN-in-major">
-                    <description>Roman numerals for diatonic seventh chords in major</description>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit2/7th-chords-RN-in-minor">
-                    <description>Roman numerals for diatonic seventh chords in minor</description>
-                </image>
-            </sidebyside>
-        </sbsgroup>
+        <figure>
+            <caption>Roman numerals for diatonic seventh chords in major</caption>
+            <image source="images/unit2/7th-chords-RN-in-major">
+                <description>Roman numerals for diatonic seventh chords in major</description>
+            </image>
+            <audio source="images/unit2/DiatonicSeventhChords.mp3" width="80%"/>
+        </figure>
+        <figure>
+            <caption>Roman numerals for diatonic seventh chords in minor</caption>
+            <image source="images/unit2/7th-chords-RN-in-minor">
+                <description>Roman numerals for diatonic seventh chords in minor</description>
+            </image>
+            <audio source="images/unit2/DiatonicSeventhChordsMinor.mp3" width="80%"/>
+            
+        </figure>
     </section>
     <exercises xml:id="SeventhChordsExercises">
         <title>Practice Exercises</title>
@@ -122,15 +125,21 @@
                 <p>Analyze the harmonies in the excerpts with lead-sheet symbols above and Roman numerals below.</p>
                 <ol>
                     <li>
-                        <p><q>No Scrubs</q> <idx><h>songs (popular)</h><h><q>No Scrubs</q> (TLC)</h></idx><url href="https://youtu.be/FrLequ6dUdM?t=8s">(YouTube)</url></p>
+                        <p><q>No Scrubs</q> <idx><h>songs (popular)</h><h><q>No Scrubs</q> (TLC)</h></idx></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-7th-chords-no-scrubs"/>
                         </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="FrLequ6dUdM" start="8" end="19" play-at="select" preview="generic"/>
+                        </sidebyside>
                     </li>
                     <li>
-                        <p>Mozart, Piano Sonata K. 545, I <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 545, I., primary theme</h></idx><url href="https://youtu.be/5NkzTTkqTB4">(YouTube)</url></p>
+                        <p>Mozart, Piano Sonata K. 545, I <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 545, I., primary theme</h></idx></p>
                         <sidebyside>
                             <image source="images/unit2/PRAC-EXER-7th-chords-k545"/>
+                        </sidebyside>
+                        <sidebyside margins="37%">
+                            <video youtube="5NkzTTkqTB4" start="0" end="08" play-at="select" preview="generic"/>
                         </sidebyside>
                     </li>
                 </ol>
