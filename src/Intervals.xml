@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <chapter xml:id="Intervals">
     <title>Intervals</title>
+    <introduction>
+        <p>In order to prepare for the study of triads in the next chapter, we will focus primarily on major and minor seconds, thirds, and sixths, and perfect, diminished, and augmented fourths and fifths. We will leave discussion of augmented and diminished sixths and sevenths for the chapters on <xref ref="SeventhChords" text="custom">Seventh Chords</xref> and <xref ref="AugmentedSixthChords" text="custom">Augmented Sixth Chords</xref>. We will return to <xref ref="AugmentedAndDiminishedIntervals" text="type-global"/> at that time.</p>
+    </introduction>
     <section xml:id="IntervalsIntroduction">
         <title>Introduction to Intervals</title>
         <introduction>
@@ -186,7 +189,7 @@
                 </sidebyside>
             </statement>
             <answer>
-                <p>1. m6, 2. M3, 3. M2, 4. P5, 5. m7, 6. +4</p>
+                <p>1. M6, 2. M3, 3. M2, 4. P5, 5. P8, 6. +4</p>
             </answer>
         </exercise>
         <exercise>
@@ -197,7 +200,7 @@
                 </sidebyside>
             </statement>
             <answer>
-                <p>Upper notes: 1. <n pc="D" acc="flat"/>, 2.  <n pc="G" acc="flat"/>, 3. <n pc="A" acc="sharp"/>, 4. <n pc="B" acc="sharp"/>, 5. <n pc="F" acc="flat"/>, 6. <n pc="F" acc="flat"/></p>
+                <p>Upper notes: 1. <n pc="D" acc="flat"/>, 2.  <n pc="G" acc="flat"/>, 3. <n pc="A" acc="sharp"/>, 4. <n pc="B"/>, 5. <n pc="A"/>, 6. <n pc="F" acc="flat"/></p>
             </answer>
         </exercise>
         <exercise>
@@ -208,7 +211,7 @@
                 </sidebyside>
             </statement>
             <answer>
-                <p>Lower notes: 1. <n pc="G" acc="sharp"/>, 2.  <n pc="A" acc="sharp"/>, 3. <n pc="F"/>, 4. <n pc="G" acc="flat"/>, 5. <n pc="F" acc="sharp"/>, 6. <n pc="B" acc="flat"/></p>
+                <p>Lower notes: 1. <n pc="G" acc="sharp"/>, 2.  <n pc="E"/>, 3. <n pc="F"/>, 4. <n pc="G" acc="flat"/>, 5. <n pc="F" acc="sharp"/>, 6. <n pc="B"/></p>
             </answer>
         </exercise>
         <conclusion>

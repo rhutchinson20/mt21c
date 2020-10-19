@@ -37,7 +37,7 @@
                 </sidebyside>
             </sbsgroup>
         </figure>
-        <p>This circle (the circle of fifths <em>for harmonic progression</em>) is different than the circle of fifths for key signatures because this circle of fifths for <em>harmonic progression</em> contains diatonic notes only. (The circle of fifths for key signatures (<xref ref="circle-of-fifths-major" text="type-global"/>) contained all 12 notes of the chromatic scale.)</p>
+        <p>This circle (the circle of fifths <em>for harmonic progression</em>) is different than the circle of fifths for key signatures because this circle of fifths for <em>harmonic progression</em> contains diatonic notes only. The circle of fifths for key signatures (<xref ref="circle-of-fifths-major" text="type-global"/>) contained all 12 notes of the chromatic scale.</p>
         <figure>
             <caption>Circle of Fifths for Harmonic Progression</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>diagram</h></idx>
@@ -54,7 +54,7 @@
         </figure>
         <p>The circle of fifths progression has been used regularly since the Baroque era.</p>
         <figure xml:id="mozart-k545-st">
-            <caption>Mozart, Piano Sonata in C, K. 545, I (1780s)</caption>
+            <caption>W.A. Mozart, Piano Sonata in C, K. 545, I (1780s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Mozart)</h></idx>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 545, I., secondary theme</h></idx>
             <sbsgroup>
@@ -69,7 +69,7 @@
             </sbsgroup>
         </figure>
         <figure xml:id="wagner-meistersinger">
-            <caption>Wagner, <pubtitle>Die Meistersinger</pubtitle>, Act II, Scene 6 (1860s)</caption>
+            <caption>Richard Wagner, <pubtitle>Die Meistersinger</pubtitle>, Act II, Scene 6 (1860s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Wagner)</h></idx>
             <idx><h>Wagner, Richard</h><h><pubtitle>Die Meistersinger</pubtitle>, Act II, Scene 6</h></idx>
             <sbsgroup>
@@ -84,7 +84,7 @@
             </sbsgroup>
         </figure>
         <figure xml:id="fly-me-to-the-moon">
-            <caption>Howard, <q>Fly Me to the Moon</q> (chords only) (1950s)</caption>
+            <caption>Bart Howard, <q>Fly Me to the Moon</q> (chords only) (1950s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Fly Me to the Moon)</h></idx>
             <idx><h>songs (popular)</h><h><q>Fly Me to the Moon</q></h></idx>
             <sbsgroup>
@@ -99,7 +99,7 @@
             </sbsgroup>
         </figure>
         <figure xml:id="i-will-survive">
-            <caption>Perren and Fekaris, <q>I Will Survive</q> (chords only) (1970s)</caption>
+            <caption>Freddie Perren and Dino Fekaris, <q>I Will Survive</q> (chords only) (1970s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (I Will Survive)</h></idx>
             <idx><h>songs (popular)</h><h><q>I Will Survive</q></h></idx>
             <sbsgroup>
@@ -114,8 +114,8 @@
             </sbsgroup>
         </figure>
         <figure xml:id="i-love-you-like-a-love-song">
-            <caption>Armato and James, I <q>Love You Like A Love Song</q> (2010s) (bass and chords only)</caption>
-            <idx><h>circle of fifths (harmonic progression)</h><h>example (I Love You Like a Love Song)</h></idx>
+            <caption>Antonina Armato, Tim James, Adam Schmalholz, <q>Love You Like A Love Song</q> (2010s) (bass and chords only)</caption>
+            <idx><h>circle of fifths (harmonic progression)</h><h>example (Love You Like a Love Song)</h></idx>
             <idx><h>songs (popular)</h><h><q>Love You Like A Love Song</q></h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -145,11 +145,11 @@
                 <description>Opening of Mozart's 40th Symphony</description>
             </image>
         </figure>
-        <p>Now look again at the bass line in <q>I Love You Like A Love Song</q> and notice how it can be thought of a two-note idea treated as a descending sequence.</p>
+        <p>Now look again at the bass line in <q>Love You Like A Love Song</q> and notice how it can be thought of a two-note idea treated as a descending sequence.</p>
         <figure>
-            <caption><q>I Love You Like A Love Song</q> bass line sequence in groups of two notes</caption>
+            <caption><q>Love You Like A Love Song</q> bass line sequence in groups of two notes</caption>
             <image source="images/unit2/harmony-circle-bassline-sequence">
-                <description>“I Love You Like A Love Song” bass line as a sequence</description>
+                <description>“Love You Like A Love Song” bass line as a sequence</description>
             </image>
         </figure>
         <p>Sometimes we will hear a circle of fifths sequence where some of the chords are not in root position, as in the <xref ref="handel-passacaglia" text="custom">Handel</xref> and <xref ref="mozart-k545-st" text="custom">Mozart</xref> examples. In these two examples, we are hearing the sequence of the roots, even though they are not clearly presented in the bass.</p>
@@ -170,10 +170,10 @@
     </section>
     <section xml:id="HarmonicRhythm">
         <title>Harmonic Rhythm</title>
-        <p>You will find that all of the progressions we discuss can have different harmonic rhythm. <term>Harmonic rhythm</term><idx><h>harmonic rhythm</h><h>definition of</h></idx> is a term for how long each chord lasts. For example, in <q>Fly Me To The Moon</q> (<xref ref="fly-me-to-the-moon" text="type-global"/>), <q>I Will Survive</q> (<xref ref="i-will-survive" text="type-global"/>), and <q>I Love You Like A Love Song</q> (<xref ref="i-love-you-like-a-love-song" text="type-global"/>), each chord lasts for four beats and has whole-note harmonic rhythm. In the Mozart (<xref ref="mozart-k545-st" text="type-global"/>) and Wagner examples (<xref ref="wagner-meistersinger" text="type-global"/>), on the other hand, each chord lasted for two beats, and so had a faster harmonic rhythm.</p>
+        <p>You will find that all of the progressions we discuss can have different harmonic rhythm. <term>Harmonic rhythm</term><idx><h>harmonic rhythm</h><h>definition of</h></idx> is a term for how long each chord lasts. For example, in <q>Fly Me To The Moon</q> (<xref ref="fly-me-to-the-moon" text="type-global"/>), <q>I Will Survive</q> (<xref ref="i-will-survive" text="type-global"/>), and <q>Love You Like A Love Song</q> (<xref ref="i-love-you-like-a-love-song" text="type-global"/>), each chord lasts for four beats and has whole-note harmonic rhythm. In the Mozart (<xref ref="mozart-k545-st" text="type-global"/>) and Wagner examples (<xref ref="wagner-meistersinger" text="type-global"/>), on the other hand, each chord lasted for two beats, and so had a faster harmonic rhythm.</p>
         <p>Listen to the following example to hear four-beat harmonic rhythm change to two-beat harmonic rhythm.</p>
         <figure>
-            <caption>Bastille, <q>Pompeii</q></caption>
+            <caption>Dan Smith, <q>Pompeii</q></caption>
             <idx><h>songs (popular)</h><h><q>Pompeii</q> (Bastille)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -194,7 +194,7 @@
             <title>II-V-I</title>
             <p>The <q><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/></q> progression can be found in many pieces of music in all styles<mdash/>classical, popular, but especially jazz, since the Great American Songbook (popular songs from the 1930s, 40’s, and 50’s) on which jazz repertoire is built contains many examples of this progression.</p>
             <figure>
-                <caption>Ellington, <q>Take the ‘A’ Train</q></caption>
+                <caption>Duke Ellington, <q>Take the ‘A’ Train</q></caption>
                 <idx><h>Ellington, Duke</h><h><q>Take the ‘A’ Train</q></h></idx>
                 <idx><h>songs (popular)</h><h><q>Take the ‘A’ Train</q></h></idx>
                 <sbsgroup>
@@ -209,7 +209,7 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Davis, <q>Tune-Up</q></caption>
+                <caption>Miles Davis, <q>Tune-Up</q></caption>
                 <idx><h>Davis, Miles</h><h><q>Tune-Up</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -223,7 +223,7 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Hupfeld, <q>As Time Goes By</q></caption>
+                <caption>Herman Hupfeld, <q>As Time Goes By</q> (1931)</caption>
                 <idx><h>songs (popular)</h><h><q>As Time Goes By</q> (from the motion picture <pubtitle>Casablanca</pubtitle>)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -261,7 +261,7 @@
                 <p>The <chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/> progression contains the last four chords of the circle of fifths progression.</p>
                 
                 <figure>
-                    <caption>Kern, <q>All the Things You Are</q></caption>
+                    <caption>Jerome Kern, <q>All the Things You Are</q></caption>
                     <idx><h>songs (popular)</h><h><q>All the Things You Are</q></h></idx>
                     <sbsgroup>
                         <sidebyside>
@@ -276,7 +276,7 @@
                 </figure>
                 <p>Here is another example from more recent popular music.</p>
                 <figure>
-                    <caption>Rasted, Norreen, Diff, and Nystr&#x00F8;m, <q>Barbie Girl</q> (chords only)</caption>
+                    <caption>S&#x00F8;ren Rasted, Claus Norreen, Ren&#x00E9; Diff, and Lene Nystr&#x00F8;m, <q>Barbie Girl</q> (chords only)</caption>
                     <idx><h>songs (popular)</h><h><q>Barbie Girl</q> (Aqua)</h></idx>
                     <sbsgroup>
                         <sidebyside>
@@ -294,7 +294,7 @@
                 <title>I-vi-ii-V</title>
                 <p>Here are examples of the <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/> progression, sometimes called the <xref ref="I-vi-IV-V" text="custom">1950s progression</xref> because of its prevalence during that decade, although this progression was also widely used in the 1930s and '40s.</p>
                 <figure>
-                    <caption>Rodgers, <q>Blue Moon</q> (1930s)</caption>
+                    <caption>Richard Rodgers, <q>Blue Moon</q> (1934)</caption>
                     <idx><h>songs (popular)</h><h><q>Blue Moon</q></h></idx>
                     <sbsgroup>
                         <sidebyside>
@@ -308,7 +308,7 @@
                     </sbsgroup>
                 </figure>
                 <figure>
-                    <caption>Lawrence and Trenet, <q>Beyond The Sea</q> (1940s)</caption>
+                    <caption>Charles Trenet and Albert Lasry, <q>Beyond The Sea</q> (1945)</caption>
                     <idx><h>songs (popular)</h><h><q>Beyond The Sea</q></h></idx>
                     <sbsgroup>
                         <sidebyside>
@@ -323,7 +323,7 @@
                 </figure>
                 <p>Listen for this bass line in the next recording.</p>
                 <figure>
-                    <caption>Lymon, Santiago, Merchant, <q>Why Do Fools Fall in Love</q> (1950s)</caption>
+                    <caption>Frankie Lymon, Herman Santiago, Jimmy Merchant, <q>Why Do Fools Fall in Love</q> (1955)</caption>
                     <idx><h>songs (popular)</h><h><q>Why Do Fools Fall in Love</q> </h></idx>
                     <sbsgroup>
                         <sidebyside>
@@ -341,7 +341,7 @@
                 <title>ii-V-I-vi</title>
                 <p>Below is an example of the <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/> progression. In this example, the <chord root="vi"/> chord acts as a link between the <chord root="V"/><ndash/><chord root="I"/> cadence in the middle of the phrase and the <chord root="ii"/> chord at the beginning of the next phrase. This harmonic activity after the arrival on the <chord root="I"/> chord is like a <q>turnaround</q> in jazz. We <xref ref="turnaround-progression" text="custom">discuss turnarounds more in a later chapter on jazz harmony</xref>.</p>
                 <figure>
-                    <caption>Wright, Forrest, Borodin, <q>Stranger in Paradise</q></caption>
+                    <caption>Robert Wright, George Forrest, Alexander Borodin, <q>Stranger in Paradise</q> (1953)</caption>
                     <idx><h>songs (popular)</h><h><q>Stranger in Paradise</q></h></idx>
                     <sbsgroup>
                         <sidebyside>
@@ -361,7 +361,7 @@
             <title>III-VI-II-V</title>
             <p>The <chord root="iii"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/> circle of fifths segment is sometimes repeated (or looped) within a song.</p>
             <figure>
-                <caption>Masser and Creed, <q>Greatest Love of All</q></caption>
+                <caption>Michael Masser and Linda Creed, <q>Greatest Love of All</q> (1977)</caption>
                 <idx><h>songs (popular)</h><h><q>Greatest Love of All</q> (Whitney Houston)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -376,7 +376,7 @@
             </figure>
             <p>Sometimes, this progression is rotated to <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/>, as in <q>September,</q> the well known song by Earth, Wind, and Fire.</p>
             <figure xml:id="september">
-                <caption>White, McKay, Willis, <q>September</q></caption>
+                <caption>Maurice White, Al McKay, Allee Willis, <q>September</q> (1978)</caption>
                 <idx><h>songs (popular)</h><h><q>September</q> (Earth, Wind, and Fire)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -391,7 +391,7 @@
             </figure>
             <p>This <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/> progression is also seen in the following song.</p>
             <figure>
-                <caption>Stock, Aitken, and Waterman, <q>Never Gonna Give You Up</q></caption>
+                <caption>Mike Stock, Matt Aitken, and Pete Waterman, <q>Never Gonna Give You Up</q> (1987)</caption>
                 <idx><h>songs (popular)</h><h><q>Never Gonna Give You Up</q> (Rick Astley)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -451,7 +451,7 @@
             <title>Tonic-Dominant-Tonic Progression</title>
             <p>This is the most elemental progression in music, often realized with <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="I"/>.</p>
             <figure>
-                <caption>Mozart, Piano Sonata, K. 283, I.</caption>
+                <caption>W.A. Mozart, Piano Sonata, K. 283, I.</caption>
                 <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 283, I.</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -465,7 +465,7 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Beethoven, Piano Sonata in C major, Op. 2, No. 3, I.</caption>
+                <caption>Ludwig van Beethoven, Piano Sonata in C major, Op. 2, No. 3, I.</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata Op. 2, No. 3, I.</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -479,7 +479,7 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Verdi, <pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q></caption>
+                <caption>Giuseppe Verdi, <pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q></caption>
                 <idx><h>Verdi</h><h><pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -507,7 +507,7 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>S. Shafer and L. Shafer, <q>All My Ex’s Live in Texas</q></caption>
+                <caption>Sanger D. Shafer and Linda J. Shafer, <q>All My Ex’s Live in Texas</q> (1986)</caption>
                 <idx><h>songs (popular)</h><h><q>All My Ex’s Live in Texas</q> (George Strait)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -535,7 +535,7 @@
             </p>
             <p>Here are examples with <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>.</p>
             <figure>
-                <caption>Bach, J.S., <pubtitle>Well-Tempered Clavier, Book I</pubtitle>, Prelude 1 in C major BWV 846</caption>
+                <caption>J.S. Bach, <pubtitle>Well-Tempered Clavier, Book I</pubtitle>, Prelude 1 in C major BWV 846</caption>
                 <idx><h>Bach, J.S.</h><h><pubtitle>Well-Tempered Clavier, Book I</pubtitle></h><h>Prelude 1 in C major</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -549,7 +549,7 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Mozart, Symphony No. 40 in G minor, K. 550, I. (textural reduction)</caption>
+                <caption>W.A. Mozart, Symphony No. 40 in G minor, K. 550, I. (textural reduction)</caption>
                 <idx><h>Mozart, W.A.</h><h>Symphony No. 40, K. 550, I.</h><h>harmonic function in primary theme</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -563,8 +563,8 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Kander and Ebb, <q>New York, New York</q></caption>
-                <idx><h>songs (popular)</h><h><q>New York, New York</q> (Liza Minnelli)</h></idx>
+                <caption>John Kander and Fred Ebb, <q>Theme from <pubtitle>New York, New York</pubtitle></q> (1977)</caption>
+                <idx><h>songs (popular)</h><h><q>Theme from <pubtitle>New York, New York</pubtitle></q> (Liza Minnelli)</h></idx>
                 <sbsgroup>
                     <sidebyside>
                         <image source="images/unit2/harmony-T-P-D-T-new-york">
@@ -577,7 +577,7 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Trainor and Kadish, <q>All About That Bass</q> (bass line and chord symbols only)</caption>
+                <caption>Meghan Trainor and Kevin Kadish, <q>All About That Bass</q> (bass line and chord symbols only) (2014)</caption>
                 <idx><h>songs (popular)</h><h><q>All About That Bass</q> (Meghan Trainor)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -606,7 +606,7 @@
                 </sbsgroup>
             </figure>
             <figure>
-                <caption>Crane, Kauffman, Skloff, Willis, Solem, Wilde, <q>I'll Be There For You</q> (bass line and chords only)</caption>
+                <caption>David Crane, Marta Kauffman, Michael Skloff, Allee Willis, Phil Solem, Danny Wilde, <q>I'll Be There For You</q> (bass line and chords only) (1995)</caption>
                 <idx><h>songs (popular)</h><h><q>I'll Be There For You</q> (The Rembrandts)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -633,7 +633,7 @@
                 </figure>
                 <p>Here is a musical example with <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="ii" bass="3rd"/><ndash/><chord root="V"/>.</p>
                 <figure>
-                    <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, I</caption>
+                    <caption>Ludwig van Beethoven, Path&#x00E9;tique Sonata, Op. 13, I</caption>
                     <idx><h>Beethoven</h><h>Path&#x00E9;tique Sonata, Op. 13, I, closing theme</h></idx>
                     <sbsgroup>
                         <sidebyside>
@@ -656,30 +656,61 @@
                 </figure>
                 <p>
                     <ul>
-                        <li><p>Carmichael and Loesser, <q>Heart and Soul</q> (in C major)
-                        <url href="https://youtu.be/pNjpTOB4ksY?t=19s">(YouTube)</url>
-                        <idx><h>songs (popular)</h><h><q>Heart and Soul</q></h></idx></p></li>
-                        <li><p>Williams, Belvin, Hodge, <q>Earth Angel</q> (in A-flat major)
-                        <url href="https://youtu.be/VJcGi4-n_Yw">(YouTube)</url>
-                        <idx><h>songs (popular)</h><h><q>Earth Angel</q> (The Penguins)</h></idx></p></li>
-                        <li><p>Parton, <q>I Will Always Love You</q> (in A major)
-                        <url href="https://youtu.be/3JWTaaS7LdU?t=1m46s">(YouTube)</url><idx><h>songs (popular)</h><h><q>I Will Always Love You</q> (Whitney Houston)</h></idx></p></li>
-                        <li><p>Johnny Ramone, Dee Dee Ramone, Joey Ramone, <q>Rock ‘n’ Roll High School</q> (in C major)
-                        <url href="https://youtu.be/vSkQEoZngyc?t=50s">(YouTube)</url>
-                        <idx><h>songs (popular)</h><h><q>Rock ‘n’ Roll High School</q> (The Ramones)</h></idx></p></li>
+                        <li>
+                            <p>
+                                Hoagy Carmichael and Frank Loesser, <q>Heart and Soul</q> (in C major)
+                                <sidebyside margins="37%">
+                                    <video youtube="pNjpTOB4ksY" start="19" end="35" play-at="select" preview="generic"/>
+                                </sidebyside>
+                                <idx><h>songs (popular)</h><h><q>Heart and Soul</q></h></idx>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Curtis Williams, Jesse Belvin, Gaynel Hodge, <q>Earth Angel</q> (in A-flat major) (1954)
+                                <sidebyside margins="37%">
+                                    <video youtube="VJcGi4-n_Yw" start="0" end="20" play-at="select" preview="generic"/>
+                                </sidebyside>
+                                <idx><h>songs (popular)</h><h><q>Earth Angel</q> (The Penguins)</h></idx>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Dolly Parton, <q>I Will Always Love You</q> (in A major) (1974)
+                                <sidebyside margins="37%">
+                                    <video youtube="3JWTaaS7LdU" start="106" end="129" play-at="select" preview="generic"/>
+                                </sidebyside>
+                                <idx><h>songs (popular)</h><h><q>I Will Always Love You</q> (Whitney Houston)</h></idx>
+                            </p>
+                        </li>
+                        <li>
+                            <p>
+                                Johnny Ramone, Dee Dee Ramone, Joey Ramone, <q>Rock ‘n’ Roll High School</q> (in C major)
+                                <sidebyside margins="37%">
+                                    <video youtube="vSkQEoZngyc" start="50" end="57" play-at="select" preview="generic"/>
+                                </sidebyside>
+                                <idx><h>songs (popular)</h><h><q>Rock ‘n’ Roll High School</q> (The Ramones)</h></idx>
+                            </p>
+                        </li>
                     </ul>
                 </p>
                 <p>
                     In the above examples, the chords have have half-note <xref ref="HarmonicRhythm" text="custom">harmonic rhythm</xref>. In the following example, the chords have whole-note harmonic rhythm (4 beats per chord).
                     <ul>
-                        <li><p>Stephens and Gad, <q>All of Me</q> (in A-flat major)
-                        <url href="https://youtu.be/450p7goxZqg?t=1m2s">(YouTube)</url>
-                        <idx><h>songs (popular)</h><h><q>All of Me</q> (John Legend)</h></idx></p></li>
+                        <li>
+                            <p>
+                                John Stephens and Toby Gad, <q>All of Me</q> (in A-flat major) (2013)
+                                <sidebyside margins="37%">
+                                    <video youtube="450p7goxZqg" start="62" end="80" play-at="select" preview="generic"/>
+                                </sidebyside>
+                                <idx><h>songs (popular)</h><h><q>All of Me</q> (John Legend)</h></idx>
+                            </p>
+                        </li>
                     </ul>
                 </p>
                 <p>The <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/> progression can also be rotated to <chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/><ndash/><chord root="vi"/>, as in the following example.</p>
                 <figure>
-                    <caption>Atwey, Messinger, Pellizzer, Spivak, Tanas, <q>Rude</q> (bass line and chords only)</caption>
+                    <caption>Nasri Atwey, Adam Messinger, Mark Pellizzer, Ben Spivak, Alex Tanas, <q>Rude</q> (bass line and chords only) (2014)</caption>
                     <idx><h>songs (popular)</h><h><q>Rude</q> (by MAGIC!)</h></idx>
                     <sbsgroup>
                         <sidebyside>
@@ -712,7 +743,7 @@
         <title>Exceptions Created by Harmonic Sequences</title>
         <p>Exceptions to the harmonic flowchart often can be explained by harmonic sequences.</p>
         <figure>
-            <caption>Forsey, Moroder, Cara, <q>Flashdance... What A Feeling</q></caption>
+            <caption>Keith Forsey, Giorgio Moroder, Irene Cara, <q>Flashdance... What A Feeling</q> (1983)</caption>
             <idx><h>songs (popular)</h><h><q>Flashdance... What A Feeling</q> (Irene Cara)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -732,7 +763,7 @@
         </figure>
         <p>There are unusual chord resolutions in the verse of <q>Hotel California,</q> in the example below.</p>
         <figure>
-            <caption>Felder, Henley, Frey, <q>Hotel California</q></caption>
+            <caption>Don Felder, Don Henley, Glenn Frey, <q>Hotel California</q> (1977)</caption>
             <idx><h>songs (popular)</h><h><q>Hotel California</q> (The Eagles)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -763,7 +794,7 @@
         <p>Notice also that movement from <chord root="IV"/><ndash/><chord root="I"/> (from the plagal cadence) is common in the following examples from popular music.</p>
         <p>Here are examples ending with <flat/><chord root="VII"/><ndash/><chord root="IV"/><ndash/><chord root="I"/>, where <chord root="IV"/> progresses to <chord root="I"/> (a plagal cadence) and is preceded by <flat/><chord root="VII"/>.</p>
         <figure>
-            <caption>Lennon-McCartney, <q>Hey Jude</q> (bass line and chords only)</caption>
+            <caption>Lennon-McCartney, <q>Hey Jude</q> (bass line and chords only) (1968)</caption>
             <idx><h>songs (popular)</h><h><q>Hey Jude</q> (Beatles)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -779,7 +810,7 @@
         <p>Consider the following questions: When a phrase ends on the <chord root="IV"/> chord, does it have dominant function (i.e, is it a half cadence)? Does <chord root="IV"/> have dominant function in popular music when it progresses to <chord root="I"/>? If so, does <flat/><chord root="VII"/> have pre-dominant function in the above progression?</p>
         <p>Notice that <flat/><chord root="VII"/> begins the phrase in the following example, and proceeds to a <chord root="IV"/><ndash/><chord root="I"/> conclusion.</p>
         <figure>
-            <caption>U2, <q>Desire</q> (bass line and chords)</caption>
+            <caption>U2, <q>Desire</q> (bass line and chords) (1988)</caption>
             <idx><h>songs (popular)</h><h><q>Desire</q> (U2)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -794,7 +825,7 @@
         </figure>
         <p>The following example has <flat/><chord root="VII"/> preceding <em>and following</em> the <chord root="IV"/> chord. Does the <flat/><chord root="VII"/> chord have tonic prolongation as labeled, or is it <q>pre pre-dominant</q> in function?</p>
         <figure>
-            <caption>Forsey and Schiff, <q>Don’t You (Forget About Me)</q> (bass line and chords)</caption>
+            <caption>Keith Forsey and Steve Schiff, <q>Don’t You (Forget About Me)</q> (bass line and chords) (1985)</caption>
             <idx><h>songs (popular)</h><h><q>Don’t You (Forget About Me)</q> (Simple Minds)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -809,7 +840,7 @@
         </figure>
         <p>Here is an example with <flat/><chord root="VII"/> cadencing to the <chord root="I"/> chord in the first four bars then progressing to the <chord root="vi"/> chord in a deceptive cadence in the second four bars.</p>
         <figure>
-            <caption>Becker and Fagen, <q>Reelin’ in the Years</q> (bass line and chords)</caption>
+            <caption>Walter Becker and Donald Fagen, <q>Reelin’ in the Years</q> (bass line and chords)</caption>
             <idx><h>songs (popular)</h><h><q>Reelin’ in the Years</q> (Steely Dan)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -833,7 +864,7 @@
         Wikipedia page</url>, and has been <url href="http://www.newyorker.com/books/page-turner/the-bestseller-code-tells-us-what-we-already-know">mentioned in a New Yorker article</url> about bestselling novels  (see the third paragraph from the end of the article). The music group Axis of Awesome made <url href="https://youtu.be/oOlDewpCfZQ">a compilation of several songs</url> with the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression that makes for an entertaining summary (warning: there is some language after the 5-minute mark).</p>
         <p>Here is a written-out example that includes the <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression.</p>
         <figure>
-            <caption>Adkins and Wilson, <q>Someone Like You</q></caption>
+            <caption>Adele Adkins and Dan Wilson, <q>Someone Like You</q> (2011)</caption>
             <idx><h>songs (popular)</h><h><q>Someone Like You</q> (Adele)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -853,7 +884,7 @@
         </figure>
         <p>Here is an example with the <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> progression.</p>
         <figure>
-            <caption>Adkins and Kursten, <q>Hello</q></caption>
+            <caption>Adele Adkins and Greg Kursten, <q>Hello</q> (2015)</caption>
             <idx><h>songs (popular)</h><h><q>Hello</q> (Adele)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -874,7 +905,7 @@
         <p>Whether you hear this progression in major or minor depends on whether you hear the first chord as the tonic or if you hear the third and fourth chord as tonic and dominant.</p>
         <p>Here is an example with the <chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/> progression.</p>
         <figure>
-            <caption>Stewart, Nash, Harrell, Carter, <q>Umbrella</q></caption>
+            <caption>Christopher Stewart, Terius Nash, Kuk Harrell, Shawn Carter, <q>Umbrella</q> (2007)</caption>
             <idx><h>songs (popular)</h><h><q>Umbrella</q> (Rihanna)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -894,7 +925,7 @@
         <ndash/><flat/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg> bass line of the <q>Andalusian progression</q> (<chord root="A" mode="m"/><ndash/><chord root="G"/><ndash/><chord root="F"/><ndash/><chord root="E"/>) in flamenco music, with the exception of the last bass note or chord.</p>
         <p>Here are examples of the <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression.</p>
         <figure>
-            <caption>Page and Plant, <q>Stairway to Heaven</q> (chords and bass line only)</caption>
+            <caption>Jimmy Page and Robert Plant, <q>Stairway to Heaven</q> (chords and bass line only) (1970)</caption>
             <idx><h>songs (popular)</h><h><q>Stairway to Heaven</q> (Led Zeppelin)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -908,7 +939,7 @@
             </sbsgroup>
         </figure>
         <figure>
-            <caption>Adkins and Epworth, <q>Rolling In The Deep</q> (chords and bass line only)</caption>
+            <caption>Adele Adkins and Paul Epworth, <q>Rolling In The Deep</q> (chords and bass line only) (2010)</caption>
             <idx><h>songs (popular)</h><h><q>Rolling In The Deep</q> (Adele)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -928,7 +959,7 @@
         </figure>
         <p>In some cases, the fourth chord is eliminated. In that case, <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/> becomes <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="i"/>, as in the following examples.</p>
         <figure>
-            <caption>Bridges, Broadus, J. Mollings, L. Mollings, Roberts II, <q>All I Do Is Win</q> (chords and bass line)</caption>
+            <caption>Christopher Bridges, Calvin Broadus, Johnny Mollings, Lenny Mollings, William Roberts II, <q>All I Do Is Win</q> (chords and bass line) (2010)</caption>
             <idx><h>songs (popular)</h><h><q>All I Do Is Win</q> (DJ Khaled)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -942,7 +973,7 @@
             </sbsgroup>
         </figure>
         <figure>
-            <caption>Glass, Metamorphosis Two</caption>
+            <caption>Philip Glass, Metamorphosis Two (1989)</caption>
             <idx><h>Glass, Philip</h><h>Metamorphosis Two</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -960,7 +991,7 @@
             <caption>The same progression viewed from minor and relative major</caption>
             <image source="images/unit2/harmony-i-VII-VI-min-and-rel-maj"/>
         </figure>
-        <p>There are several more common harmonic progressions to explore in future chapters dealing with topics like secondary chords, mode mixture, the Neapolitan chord, augmented sixth chords, and jazz harmony.</p><!--make links someday--><!--<m>{6\atop 8}</m>-->
+        <p>There are several more common harmonic progressions to explore in future chapters dealing with topics like <xref ref="ExamplesWithSecondaryDominants" text="custom">secondary chords</xref>, <xref ref="ModeMixtureSection" text="custom">mode mixture</xref>, <xref ref="ExamplesOfTheNeapolitanChord" text="custom">the Neapolitan chord</xref>, <xref ref="ExamplesWithAugmentedSixthChords" text="custom">augmented sixth chords</xref>, and <xref ref="StandardChordProgressions" text="custom">jazz harmony</xref>.</p>
     </section>
     <exercises xml:id="HarmonicProgressionExercises">
         <title>Practice Exercises</title>
@@ -1033,7 +1064,7 @@
                 <answer>
                     <p>1. 4 flats in key signature, iv, B<flat/>-D<flat/>-F</p>
                     <p>2. 3 sharps in key signature, IV, D-F<sharp/>-A</p>
-                    <p>3. 3 flats in key signature, iiº, F-A<flat/>-D</p>
+                    <p>3. 3 flats in key signature, iiº/3rd, F-A<flat/>-D</p>
                     <p>4. 4 sharps in key signature, vi, C<sharp/>-E-G<sharp/></p>
                     <p>5. 2 flats in signature, viiº7, F<sharp/>-A-C-E<flat/></p>
                     <p>6. 5 sharps in key signature, V7/5th, C<sharp/>-E-F<sharp/>-A<sharp/></p>

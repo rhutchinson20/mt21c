@@ -9,7 +9,7 @@
         <p>A <term>motive</term><idx><h>motive</h><h>definition of</h></idx> (or motif) is the smallest identifiable melodic idea in music. However, we will find times when it will be necessary to discuss a smaller fragment (called a <q>germ</q> by some authors) from a motive.</p>
         <p>In the following example from the first movement of Beethoven’s Symphony No. 1, we find four motives within the first four measures of the primary theme.</p>
         <figure>
-            <caption>Beethoven, Symphony No. 1, Op. 21, I, Motives in Primary Theme</caption>
+            <caption>Ludwig van Beethoven, Symphony No. 1, Op. 21, I, Motives in Primary Theme (1800)</caption>
             <idx><h>Beethoven</h><h>Symphony No. 1, Op. 21, I</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -89,7 +89,7 @@
             <p><term>Inversion</term><idx><h>inversion</h></idx> as applied to music means an idea is exactly upside-down or <q>mirrored</q> across a horizontal plane, like mountains reflected in a lake.</p>
             <p>First, listen to the following example.</p>
             <figure>
-                <caption>Bach, Invention No. 1 in C Major, BWV 772</caption>
+                <caption>Bach, Invention No. 1 in C Major, BWV 772 (1723)</caption>
                 <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -115,7 +115,7 @@
             <title>Intervallic Change</title>
             <p>Intervallic change is less exact than inversion. With <term>intervallic change</term><idx><h>intervallic change</h></idx>, the rhythm is generally intact and the motive relates to a previous iteration, but some of the intervals are different.</p>
             <figure>
-                <caption>Noble, <q>The Very Thought of You</q></caption>
+                <caption>Ray Noble, <q>The Very Thought of You</q> (1934)</caption>
                 <idx><h>songs (popular)</h><h><q>The Very Thought of You</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -130,7 +130,7 @@
             </figure>
             <p>The next example has two intervals changed, one of which includes a change in contour.</p>
             <figure>
-                <caption>Stewart and Gouldman, <q>I’m Not In Love</q></caption>
+                <caption>Eric Stewart and Graham Gouldman, <q>I’m Not In Love</q> (1975)</caption>
                 <idx><h>songs (popular)</h><h><q>I’m Not In Love</q> (10cc)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -164,7 +164,7 @@
             <p>We will discuss extension and fragmentation of motives later in this chapter.</p> 
             <p><term>Diminution</term><idx><h>diminution</h></idx> is the opposite of augmentation and usually refers to the exact halving of the duration of every rhythmic value in a motive or phrase. However, diminution can also refer to the use of shorter rhythmic values, as in the following example.</p>
             <figure>
-                <caption>Diminution of the first four notes in <q>Uranus</q> from <pubtitle>The Planets</pubtitle> by Holst</caption>
+                <caption>Diminution of the first four notes in <q>Uranus</q> from <pubtitle>The Planets</pubtitle>, Op. 32, by Gustav Holst (1916)</caption>
                 <idx><h>Holst, Gustav</h><h><pubtitle>The Planets</pubtitle>, <q>Uranus</q></h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -182,7 +182,7 @@
             <title>Rhythmic Change</title>
             <p>Similar to the inexact nature of intervallic change, label a motive as having <term>rhythmic change</term><idx><h>rhythmic change</h></idx> when some but not all rhythmic values of the motive are varied.</p>
             <figure>
-                <caption>Azor and Davies, <q>Push It</q></caption>
+                <caption>Hurby Azor and Ray Davies, <q>Push It</q> (1987)</caption>
                 <idx><h>songs (popular)</h><h><q>Push It</q> (Salt-n-Pepa)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -198,7 +198,7 @@
             <p>Imagine the effect if there had been no rhythmic change and the first measure was merely repeated.</p>
             <p>In the next example, from Beethoven’s <q>Path&#x00E9;tique</q> sonata, motive 1 has dotted rhythms during the introduction of the piece.</p>
             <figure>
-                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, I, Introduction</caption>
+                <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, I, Introduction (1799)</caption>
                 <idx><h>Beethoven</h><h>Path&#x00E9;tique Sonata, Op. 13, I, Introduction</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -231,7 +231,7 @@
             <p><term>Ornamentation</term><idx><h>ornamentation</h></idx> means the notes in a motive can be ornamented or embellished with passing tones, neighbor tones, and the other non-chords tones we studied in the previous chapter.</p>
             <p>Here is an example of the ornamentation of a 4-note motive.</p>
             <figure xml:id="SirDukeExample">
-                <caption>Wonder, <q>Sir Duke</q></caption>
+                <caption>Stevie Wonder, <q>Sir Duke</q> (1976)</caption>
                 <idx><h>songs (popular)</h><h><q>Sir Duke</q> (Stevie Wonder)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -254,7 +254,7 @@
             <title>Retrograde</title>
             <p>While rare in tonal music, it is worth mentioning <term>retrograde</term><idx><h>retrograde</h></idx>, which is an exact reversing of the order of notes, as can be seen in the following example from popular music.</p>
             <figure>
-                <caption>Melodic Retrograde in <q>Toxic</q> by Dennis, Karlsson, Winnberg, Jonback </caption>
+                <caption>Melodic Retrograde in <q>Toxic</q> by Cathy Dennis, Christian Karlsson, Pontus Winnberg, Henrik Jonback (2003)</caption>
                 <idx><h>songs (popular)</h><h><q>Toxic</q> (Britney Spears)</h></idx>
                 <sbsgroup>
                     <sidebyside>
@@ -318,7 +318,7 @@
         <p>To generalize (or perhaps over-generalize), most of the phrases you encounter will be four measures in length and will end with one of <xref ref="cadences" text="custom">the four cadence types</xref> (authentic cadence, half cadence, deceptive cadence, and, less commonly, the plagal cadence). While four- and eight-measure phrases are the most common, you will also encounter phrases that are five, six, and seven measures in length. Less commonly, you will encounter three-measure phrases.</p>
         <p>Here are examples of four-measure phrases. Notice that these phrases have a sense of completion even though they do not end with cadences.</p>
         <figure>
-            <caption>Robinson and White, <q>My Girl</q></caption>
+            <caption>Smokey Robinson and Ronald White, <q>My Girl</q>(1964)</caption>
             <idx><h>songs (popular)</h><h><q>My Girl</q> (The Temptations)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -332,7 +332,7 @@
             </sbsgroup> 
         </figure>
         <figure>
-            <caption>Ashford and Simpson, <q>I’m Every Woman</q></caption>
+            <caption>Nickolas Ashford and Valerie Simpson, <q>I’m Every Woman</q> (1978)</caption>
             <idx><h>songs (popular)</h><h><q>I’m Every Woman</q> (Chaka Khan)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -347,7 +347,7 @@
         </figure>
         <p>Here is an example of a five-measure phrase. Notice that the final chord (a minor iv chord, which will be discussed in the chapter on mode mixture) is part of a half cadence or deceptive cadence, yet the phrase has a feeling of completion, especially considering its relation to the phrases before and after it.</p>
         <figure>
-            <caption>Smith, Eriksen, Hermansen, Lind, Bj&#x00F8;rklund, Knowles, <q>Irreplaceable</q></caption>
+            <caption>Shaffer Smith, Mikkel Eriksen, Tor Erik Hermansen, Espen Lind, Beyonc&#x00E9; Knowles, <q>Irreplaceable</q> (2006)</caption>
             <idx><h>songs (popular)</h><h><q>Irreplaceable</q> (Beyonc&#x00E9;)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -362,7 +362,7 @@
         </figure>
         <p>Here is an example of a six-measure phrase that ends with a <chord root="V" bps="7"/>-<chord root="i"/> cadence in <n pc="G"/> minor.</p>
         <figure>
-            <caption>Mozart, Symphony No. 40, K. 550, III</caption>
+            <caption>W.A. Mozart, Symphony No. 40, K. 550, III (1788)</caption>
             <idx><h>Mozart, W.A.</h><h>Symphony No. 40, K. 550, III</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -377,7 +377,7 @@
         </figure>
         <p>Here is an example of an 8-measure phrase.</p>
         <figure>
-            <caption>Mozart, Piano Sonata in C Major, K. 545, II</caption>
+            <caption>W.A. Mozart, Piano Sonata in C Major, K. 545, II</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata in C Major, K. 545, II</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -399,7 +399,7 @@
         <p>We are including analysis of subphrases in this text because many compositions have melodic units that are two measures long. Analyzing subphrases helps us understand the construction of melodies.</p>
         <p>In the following example, notice that subphrases <em>a</em> and <em>a’</em> have the same first six notes (<n pc="G" acc="sharp"/><ndash/><n pc="F" acc="sharp"/><ndash/><n pc="B"/><ndash/><n pc="C" acc="sharp"/><ndash/><n pc="E"/><ndash/><n pc="E"/>).</p>
         <figure>
-            <caption>C. McVie, <q>Don’t Stop</q></caption>
+            <caption>Christine McVie, <q>Don’t Stop</q> (1977)</caption>
             <idx><h>songs (popular)</h><h><q>Don’t Stop</q> (Fleetwood Mac)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -414,7 +414,7 @@
         </figure>
         <p>Here is an example of a four-measure phrase with subphrases <em>a</em> and <em>b</em>.</p>
         <figure>
-            <caption>Stefan Gordy and Skyler Gordy, <q>Party Rock Anthem</q></caption>
+            <caption>Stefan Gordy and Skyler Gordy, <q>Party Rock Anthem</q> (2011)</caption>
             <idx><h>songs (popular)</h><h><q>Party Rock Anthem</q> (LMFAO)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -430,7 +430,7 @@
         <p>Notice that we are not looking at the motives within these subphrases. This is because we are looking for melodic segments that are repeated. For some compositions it is more informative to look at subphrases and less informative to identify motives if motives are not extracted and developed.</p>
         <p>There will be times when you will notice important melodic ideas happening at three levels of analysis (motive, subphrase, and phrase), as in the following example.</p>
         <figure>
-            <caption>Perry, Cain, Schon, <q>Don’t Stop Believin’</q></caption>
+            <caption>Steve Perry, Jonathan Cain, Neil Schon, <q>Don’t Stop Believin’</q> (1981)</caption>
             <idx><h>songs (popular)</h><h><q>Don’t Stop Believin’</q> (Journey)</h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -445,7 +445,7 @@
         </figure>
         <p>There is ambiguity between motive and subphrase. Reconsider the following example from the section on intervallic change:</p>
         <figure>
-            <caption>Noble, <q>The Very Thought of You</q></caption>
+            <caption>Ray Noble, <q>The Very Thought of You</q> (1934)</caption>
             <idx><h>songs (popular)</h><h><q>The Very Thought of You</q></h></idx>
             <sbsgroup>
                 <sidebyside>
@@ -476,7 +476,7 @@
                     </ul>
                     <p>(Note: Even though there are 11 blanks for motives, there are only six motives in this example due to motivic alteration.)</p>
                     <figure>
-                        <caption>Franks, Puth, Thomaz, <q>See You Again</q></caption>
+                        <caption>Charlie Puth, Cameron Thomaz, Andrew Cedar, Justin Franks, <q>See You Again</q> (2015)</caption>
                         <idx><h>songs (popular)</h><h><q>See You Again (Wiz Khalifa ft. Charlie Puth)</q></h></idx>
                         <sbsgroup>
                             <sidebyside>

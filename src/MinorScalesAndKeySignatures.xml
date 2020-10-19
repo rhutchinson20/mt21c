@@ -34,7 +34,7 @@
                 <description>Adding 3 flats or subtracting 3 sharps to get to the parallel minor key signature from the major key</description>
             </image>
         </sidebyside>
-        <p>Note on uppercase versus lowercase: When writing below the five-line staff to designate keys, we will use the shorthand of upper case for major (<chord root="C"/>) and lowercase for minor (<chord root="c"/>). When writing prose, we will use uppercase: <n pc="C"/> major and <n pc="C"/> minor.</p>
+        <p>Note on uppercase versus lowercase: When writing below the five-line staff to designate keys, we will use the shorthand of upper case for major (<chord root="C"/>) and lowercase for minor (<chord root="c"/>). When writing prose, we will use uppercase: C major and C minor.</p>
         <p>We use the term <term>relative minor</term><idx><h>relative minor</h></idx><idx><h>minor</h><h>relative</h></idx> when referring to a minor key that <em>has the same key signature</em> as a major key. For example, the relative minor of <n pc="E" acc="flat"/> major is <n pc="C"/> minor because both have three flats in the key signature. Conversely, one could say the relative major of <n pc="C"/> minor is <n pc="E" acc="flat"/> major. The relative major is three half steps <em>above</em> the relative minor.</p>
         <sidebyside margins="30%">
             <image source="images/unit1/half-steps-between-rel-maj-rel-min">

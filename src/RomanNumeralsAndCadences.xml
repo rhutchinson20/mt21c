@@ -352,7 +352,7 @@
                 </sidebyside>
             </statement>
             <answer>
-                <p>1. <chord root="F sharp" mode="m"/>, <chord root="ii"/>; 2. <chord root="D sharp" mode="diminished" bass="F sharp"/>, <chord root="ii" mode="diminished" bass="3rd"/>; 3. <chord root="A"/>, <chord root="VII"/>; 4. <chord root="G"/>, <chord root="V"/>; 5. <chord root="B" mode="m" bass="F sharp"/>, <chord root="ii" bass="5th"/></p>
+                <p>1. <chord root="F sharp" mode="m"/>, <chord root="ii"/>; 2. <chord root="D sharp" mode="diminished" bass="F sharp"/>, <chord root="vii" mode="diminished" bass="3rd"/>; 3. <chord root="A"/>, <chord root="VII"/>; 4. <chord root="G"/>, <chord root="V"/>; 5. <chord root="B" mode="m" bass="F sharp"/>, <chord root="ii" bass="5th"/></p>
             </answer>
         </exercise>
         <exercise>

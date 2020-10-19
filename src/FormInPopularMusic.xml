@@ -7,7 +7,7 @@
         <title>Verse-Chorus Form</title>
         <p>The <term>Verse-Chorus form</term><idx><h>Verse-Chorus form</h></idx> is arguably the most common musical form of present day popular music and is probably familiar to most readers of this text. In Verse-Chorus form, the chorus contains the <q>hook</q><mdash/>the memorable refrain<mdash/>while the verse typically contains less memorable melodic material. A clear example can be found in the 1985 song <q>We Are the World.</q></p>
         <table>
-            <title>Jackson and Richie, <q>We Are The World</q></title>
+            <title>Michael Jackson and Lionel Richie, <q>We Are The World</q> (1985)</title>
             <idx><h>songs (popular)</h><h><q>We Are The World</q></h></idx>
             <!--inbetween table and tabular would be a sidebyside with left margin = 0 look for margins attribute-->
             <tabular>
@@ -76,7 +76,7 @@
         </sidebyside>
         <p>Common additions to the Verse-Chorus form, beside the bridge, are the pre-chorus and post-chorus.</p>
         <table>
-            <title>Cobain, Novoselic, and Grohl, <q>Smells Like Teen Spirit</q></title>
+            <title>Kurt Cobain, Krist Novoselic, and Dave Grohl, <q>Smells Like Teen Spirit</q> (1991)</title>
             <idx><h>songs (popular)</h><h><q>Smells Like Teen Spirit</q> (Nirvana)</h></idx>
             <tabular>
                 <col/>
@@ -165,7 +165,7 @@
         <title>AABA Form</title>
         <p>The AABA form is associated with the hits from Broadway musicals in the 1930s and remained one of the most popular forms of popular music until the 1950s, when Rock ‘n’ Roll became popular. Each section (A or B) is typically 8 measures long. The A sections contain the primary melody we associate with the song while the B section provides contrast and is often called the <q>bridge</q> or <q>middle eight.</q></p>
         <table>
-            <title>Gershwin, <q>I Got Rhythm</q></title>
+            <title>George Gershwin, <q>I Got Rhythm</q> (1930)</title>
             <idx><h>songs (popular)</h><h><q>I Got Rhythm</q> (Gershwin)</h></idx>
             <tabular>
                 <col/>
@@ -249,7 +249,7 @@
         <p>Many popular songs from the 1930s<ndash/>1950s were in the 32-bar ABAC form. Well-known examples include <q><url href="https://youtu.be/w9QLn7gM-hY">White Christmas</url><idx><h>songs (popular)</h><h><q>White Christmas</q></h></idx>,</q>  <q><url href="https://youtu.be/fWN9UfUV9eE?t=38s">Someday My Prince Will Come</url><idx><h>songs (popular)</h><h><q>Someday My Prince Will Come</q></h></idx>,</q> and <q><url href="https://youtu.be/xV0MBh-_BDI">When I Fall In Love</url><idx><h>songs (popular)</h><h><q>When I Fall In Love</q></h></idx>.</q></p>
         <p><q>Star Dust</q> is an example of an ABAC form that is usually performed with a verse preceding the refrain.</p>
         <table>
-            <title>Carmichael, <q>Star Dust</q></title>
+            <title>Hoagy Carmichael, <q>Star Dust</q> (1927)</title>
             <idx><h>songs (popular)</h><h><q>Star Dust</q> (Hoagy Carmichael)</h></idx>
             <tabular>
                 <col/>
@@ -301,7 +301,7 @@
         <title>The 12-Bar Blues</title>
         <p>Associated with the Blues genre, which originated in the early 1900s, the 12-bar blues was also popular during the Swing Era of the 1930s and 1940s, (examples include <q>In The Mood</q> and <q>One O’Clock Jump</q>), as well as during the early years of Rock ‘n’ Roll in the 1950s (<q>Johnny B. Goode,</q> <q>Hound Dog,</q> <q>Rock around the Clock</q>). The basic 12-bar blues progression is shown below.</p>
         <table>
-            <title>Berry, <q>Johnny B. Goode</q></title>
+            <title>Chuck Berry, <q>Johnny B. Goode</q> (1958)</title>
             <idx><h>songs (popular)</h><h><q>Johnny B. Goode</q> (Chuck Berry)</h></idx>
             <tabular>
                 <col right="minor"/>
@@ -368,7 +368,7 @@
                         <idx><h>songs (popular)</h><h><q>She's Out of My Life</q> (Michael Jackson)</h></idx>
                         <sidebyside>
                             <table>
-                                <title>Tom Bahler, <q>She's Out of My Life</q></title>
+                                <title>Tom Bahler, <q>She's Out of My Life</q> (1980)</title>
                                 <tabular>
                                     <col/>
                                     <col/>
@@ -413,7 +413,7 @@
                     </li>
                     <li>
                         <sbsgroup>
-                            <idx><h>songs (popular)</h><h><q>Penny Lane</q> (Beatles)</h></idx>
+                            <idx><h>songs (popular)</h><h><q>Penny Lane</q> (Beatles) (1967)</h></idx>
                             <sidebyside>
                                 <table>
                                     <title>Lennon-McCartney, <q>Penny Lane</q></title>

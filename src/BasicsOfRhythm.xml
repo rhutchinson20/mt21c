@@ -174,40 +174,43 @@
     <exercises xml:id="BasicsOfRhythmPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>
-            <statement><!--needs indexing-->
+            <statement>
                 <p>After listening to each example, specify the meter (e.g., <q>compound triple</q>).</p>
                 <p>
-                    (a) Sousa, <q>Washington Post March</q>
+                    (a) Lin-Manuel Miranda, <q>First Burn</q><idx><h>Miranda, Lin-Manuel</h><h><q>First Burn</q></h></idx>
                     <sidebyside margins="37%">
-                        <video youtube="Mxrh1CrMmTY" start="45" end="65" play-at="select" preview="generic"/>
+                        <video youtube="r2ys-AimNbE" start="45" end="65" play-at="select" preview="generic"/>
                     </sidebyside>
                 </p>
                 <p>
-                    (b) The Beatles, <q>Eleanor Rigby</q>
+                    (b) Al Green, Willie Mitchell, Al Jackson Jr., <q>Let's Stay Together</q>
+                    <idx><h>songs (popular)</h><h><q>Let's Stay Together (Al Green)</q></h></idx>
                     <sidebyside margins="37%">
-                        <video youtube="HuS5NuXRb5Y" start="0" end="20" play-at="select" preview="generic"/>
+                        <video youtube="uSu6tcbMOu0" start="0" end="30" play-at="select" preview="generic"/>
                     </sidebyside>
                 </p>
                 <p>
-                    (c) Verdi, <q>La donna &#x00E8; mobile</q>
+                    (c) Kenny Kirkland, <q>Dienda</q>
+                    <idx><h>Kirkland, Kenny</h><h>Dienda</h></idx>
                     <sidebyside margins="37%">
-                        <video youtube="4iUwkJuRdiY" start="0" end="20" play-at="select" preview="generic"/>
+                        <video youtube="ko1gUVP461A" start="65" end="95" play-at="select" preview="generic"/>
                     </sidebyside>
                 </p>
                 <p>
-                    (d) Third Day, <q>Morning Has Broken</q>
+                    (d) Traditional Scottish Gaelic tune, text by Eleanor Farjeon, <q>Morning Has Broken</q>
                     <sidebyside margins="37%">
                         <video youtube="qH0iFkxQba4" start="9" end="29" play-at="select" preview="generic"/>
                     </sidebyside>
                 </p>
                 <p>
-                    (e) Latch featuring Sam Smith, <q>Disclosure</q>
+                    (e) Guy Lawrence, Howard Lawrence, James Napier, and Sam Smith, <q>Disclosure</q>
+                    <idx><h>songs (popular)</h><h><q>Disclosure</q> (Latch featuring Sam Smith)</h></idx>
                     <sidebyside margins="37%">
                         <video youtube="93ASUImTedo" start="126" end="146" play-at="select" preview="generic"/>
                     </sidebyside>
                 </p>
 
-                    <!--
+                    <!--old coding and old rep
                     <ol>
                         <li><p><url href="https://youtu.be/Mxrh1CrMmTY?t=45s">Sousa, <q>Washington Post March</q></url></p></li>
 
@@ -227,7 +230,7 @@
                     <ol>
                         <li><p>Compound Duple (or Compound Quadruple)</p></li>
                         <li><p>Simple Quadruple (or Simple Duple)</p></li>
-                        <li><p>Compound Duple (or a fast Simple Triple)</p></li>
+                        <li><p>Simple Triple</p></li>
                         <li><p>Compound Triple</p></li>
                         <li><p>Compound Duple (or Compound Quadruple</p></li>
                     </ol>
@@ -275,6 +278,30 @@
                 <p>4. Half note</p>
             </answer>
         </exercise>
+
+        <exercise>
+            <statement>
+                <p>Specify the meter of each time signature.</p>
+                    <ol>
+                        <li><p>The meter of <timesignature top="4" bottom="2"/> is: <fillin characters="30"/></p></li>
+                        <li><p>The meter of <timesignature top="9" bottom="16"/> is: <fillin characters="30"/></p></li>
+                        <li><p>The meter of <timesignature top="3" bottom="4"/> is: <fillin characters="30"/></p></li>
+                    </ol>
+                
+            </statement>
+            <answer>
+                <p>
+                    <ol>
+                        <li><p>The meter of <timesignature top="4" bottom="2"/> is <em>simple quadruple</em></p></li>
+                        <li><p>The meter of <timesignature top="9" bottom="16"/> is <em>compound triple</em></p></li>
+                        <li><p>The meter of <timesignature top="3" bottom="4"/> is <em>simple triple</em></p></li>
+                    </ol>
+                </p>
+            </answer>
+        </exercise>
+
+
+
         <exercise>
             <statement>
                 <p>Correct the incorrect rhythmic notation in each example in order to show the beats. The subdivisions grouped into beats are shown in parentheses above the rhythms to be corrected.</p>
