@@ -10,95 +10,57 @@
         <figure>
             <caption>Paul McCartney, <q>Yesterday</q> (1965)</caption>
             <idx><h>songs (popular)</h><h><q>Yesterday</q> (The Beatles)</h></idx>
-            <sidebyside>
-                <image source="images/unit4/sec-dom-yesterday">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dom-yesterday">
+                <description/>
+            </image>
         </figure>
         <figure>
             <caption>Jesse Harris, <q>Don't Know Why</q> (2002)</caption>
             <idx><h>songs (popular)</h><h><q>Don't Know Why</q> (Norah Jones)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-dont-know-why">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="tO4dxvguQDk" start="15" end="22" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+                <image source="images/unit4/sec-dom-dont-know-why">
+                    <description/>
+                </image>
+                <video youtube="tO4dxvguQDk" start="15" end="22" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Rick Nielson, <q>I Want You to Want Me</q> (1977)</caption>
             <idx><h>songs (popular)</h><h><q>I Want You to Want Me</q> (Cheap Trick)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-cheap-trick">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="-qgpewMCVjs" start="61" end="66" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+                <image source="images/unit4/sec-dom-cheap-trick">
+                    <description/>
+                </image>
+                <video youtube="-qgpewMCVjs" start="61" end="66" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Robert William Lamm, <q>Saturday in the Park</q> (1972)</caption>
             <idx><h>songs (popular)</h><h><q>Saturday in the Park</q> (Chicago)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-saturday-in-the-park">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="vL7Op9ZQ3E0" start="15" end="26" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-saturday-in-the-park">
+                <description/>
+            </image>
+            <video youtube="vL7Op9ZQ3E0" start="15" end="26" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Bruno Mars, CeeLo Green, Philip Lawrence, and Ari Levine, <q>Forget You</q> (2010)</caption>
             <idx><h>songs (popular)</h><h><q>Forget You</q> (CeeLo Green)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-forget-you">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="awVi2QXC0ZE" start="0" end="9" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-forget-you">
+                <description/>
+            </image>
+            <video youtube="awVi2QXC0ZE" start="0" end="9" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Verdi, <pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q> (1851)</caption>
             <idx><h>Verdi</h><h><pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-la-donna">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="8uMb3CnP6L8" start="32" end="38" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-la-donna">
+                <description/>
+            </image>
+            <video youtube="8uMb3CnP6L8" start="32" end="38" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Tchaikovsky, <pubtitle>The Nutcracker</pubtitle>, <q>Miniature Overture</q> (1892)</caption>
             <idx><h>Tchaikovsky</h><h><pubtitle>The Nutcracker</pubtitle></h><h><q>Miniature Overture</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-nutcracker-overture">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="JRXIDEpquCg" start="0" end="6" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-nutcracker-overture">
+                <description/>
+            </image>
+            <video youtube="JRXIDEpquCg" start="0" end="6" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="Tonicization">
@@ -121,24 +83,18 @@
         <p>You may find that you want to analyze the <chord root="D" bps="7" bass="F sharp"/> in the example above as a <chord root="II" bps="6 5"/> instead of a <chord root="V" bps="6 5" bass="V"/> (which we pronounce as <q><chord root="V" bps="6 5"/> <em>of</em> <chord root="V"/></q>), and the <chord root="E" bps="7" bass="G sharp"/> as a <chord root="III" bps="6 5"/> instead of <chord root="V" bps="6 5" bass="vi"/> (<q><chord root="V" bps="6 5"/> <em>of</em> <chord root="vi"/></q>). Notice, however, that a <chord root="ii"/> chord is typically minor in a major key and diminished in a minor key (<chord root="ii" mode="diminished"/>), making uppercase <chord root="II"/> a chromatic harmony for which the proper label is <chord root="V" bass="V"/>.</p>
         <figure>
             <caption/>
-            <sidebyside>
-                <image source="images/unit4/sec-dom-II7-vs-V7-of-V">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dom-II7-vs-V7-of-V">
+                <description/>
+            </image>
         </figure>
         <p>While labeling <chord root="D" bps="7"/> as <chord root="II" bps="7"/> in C major makes the root clear, it does not communicate the function of the <chord root="D" bps="7"/>, which is to progress to a G major chord (the <chord root="V"/> chord, or the dominant in C major).</p>
-        <p>Also, notice that the <chord root="vii" mode="diminished"/> is not tonicized with its secondary dominant in the example above. Listen to the following example to understand why diminished chords such as <chord root="vii" mode="diminished"/> and <chord root="ii" mode="diminished"/> in minor are not tonicized.</p>
+        <p>Also, notice that <chord root="vii" mode="diminished"/> is not tonicized with its secondary dominant in the example above. Listen to the following example to understand why diminished chords such as <chord root="vii" mode="diminished"/> and <chord root="ii" mode="diminished"/> in minor are not tonicized.</p>
         <figure>
             <caption/>
-            <sidebyside margins="18%">
-                <image source="images/unit4/sec-dom-tonicizing-diminished-chords">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside margins="18%">
-                <audio source="images/unit4/sec-of-vii-resolution.mp3"/>
-            </sidebyside>
+            <image source="images/unit4/sec-dom-tonicizing-diminished-chords" width="60%">
+                <description/>
+            </image>
+            <audio source="images/unit4/sec-of-vii-resolution.mp3" width="60%"/>
         </figure>
     </section>
     <section xml:id="SecondaryDominantsInMajorAndMinor">
@@ -146,37 +102,29 @@
         <p>Both major triads and major<ndash/>minor seventh chords can be secondary dominant chords.</p>
         <figure>
             <caption>Secondary Dominant Triads in Major</caption>
-            <sidebyside>
-                <image source="images/unit4/sec-dom-triads-in-major">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dom-triads-in-major">
+                <description/>
+            </image>
         </figure>
         <figure>
             <caption>Secondary Dominant Seventh Chords in Major</caption>
-            <sidebyside>
-                <image source="images/unit4/sec-dom-dom7ths-in-major">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dom-dom7ths-in-major">
+                <description/>
+            </image>
         </figure>
         <p>Notice the chromaticisms in the example above. The raised notes generally act as the leading<ndash/>tone to the root of the chord being tonicized. In the major mode, the only secondary dominant with a lowered chromaticism is <chord root="V" bps="7" bass="IV"/>. The lowered note in <chord root="V" bps="7" bass="IV"/> acts as <scaledeg>4</scaledeg> of the chord being tonicized in the same way the last flat of a key signature is <scaledeg>4</scaledeg>.</p>
         <p>Below are all secondary dominant chords (triads and major-minor seventh chords) in the minor mode.</p>
         <figure>
             <caption>Secondary Dominant Triads in Minor</caption>
-            <sidebyside>
-                <image source="images/unit4/sec-dom-triads-in-minor">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dom-triads-in-minor">
+                <description/>
+            </image>
         </figure>
         <figure>
             <caption>Secondary Dominant Seventh Chords in Minor</caption>
-            <sidebyside>
-                <image source="images/unit4/sec-dom-dom7ths-in-minor">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dom-dom7ths-in-minor">
+                <description/>
+            </image>
         </figure>
         <p>Remember that both <chord root="vii" mode="diminished"/> (on raised <scaledeg>7</scaledeg>) and the <xref ref="subtonic-triad-vs-leading-tone-triad" text="custom">subtonic <chord root="VII"/></xref> (on the lowered <scaledeg>7</scaledeg>) occur in the minor mode. The subtonic <chord root="VII"/><idx><h>subtonic triad</h><h>tonicization of</h></idx> can be tonicized with <chord root="V" bps="7" bass="VII"/>, while <chord root="vii" mode="diminished"/>, being diminished, cannot.</p>
         <p>Notice that an F major chord in C minor can be <chord root="V" bass="VII"/> or <chord root="IV"/>, depending on how it functions or progresses. If the F major chord progresses to a B<flat/> chord, label the F chord as <chord root="V" bass="VII"/>. If the F major chord has <xref ref="PreDominantFunction" text="custom">pre<ndash/>dominant function</xref> and progresses to a G major chord (in any inversion) or <chord root="B" mode="diminished"/>, label the F chord as <chord root="IV"/>.</p>
@@ -188,20 +136,16 @@
         <ol>
             <li>
                 <p>Stack the chord in thirds to determine the root and quality. If the chord quality is major (if a triad) or a major<ndash/>minor seventh chord, go on to step 2. If the chord quality is not major or major<ndash/>minor seventh, the chord is not a secondary dominant.</p>
-                <sidebyside margins="20%">
-                    <image source="images/unit4/sec-dom-analyzing-stack-in-thirds">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/sec-dom-analyzing-stack-in-thirds" width="60%">
+                    <description/>
+                </image>
                 <p>The chord in question is an F<sharp/> major triad in first inversion.</p>
             </li>
             <li>
                 <p>Determine the note that would be a perfect 5th below the <em>root</em> of the chord you are analyzing. If this note would be the root of a diatonic chord, the chord you are analyzing is a secondary dominant.</p>
-                <sidebyside margins="20%">
-                    <image source="images/unit4/sec-dom-analyzing-root-down-P5">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/sec-dom-analyzing-root-down-P5" width="60%">
+                    <description/>
+                </image>
                 <p>Since B is <scaledeg>5</scaledeg>, the F<sharp/> major chord in first inversion is tonicizing <chord root="V"/>. Therefore the chord is <chord root="V" bps="6" bass="V"/>.</p>
             </li>
         </ol>
@@ -212,11 +156,9 @@
         <ol>
             <li>
                 <p>First determine the note that is the root of the chord being tonicized (the chord to the right of the slash).</p>
-                <sidebyside margins="20%">
-                    <image source="images/unit4/sec-dom-writing-determine-tonicized-scale-degree">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/sec-dom-writing-determine-tonicized-scale-degree" width="60%">
+                    <description/>
+                </image>
             </li>
             <li>
                 <p>Determine the root of the <chord root="V" bps="7"/> in the key of B<flat/> (the Roman numeral <em>after</em> the slash): <em>F</em></p>
@@ -226,11 +168,9 @@
             </li>
             <li>
                 <p>Invert the chord accordingly. <chord bps="4 3"/> inversion means the fifth of the chord is in the bass.</p>
-                <sidebyside margins="25%">
-                    <image source="images/unit4/sec-dom-writing-invert-answer">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/sec-dom-writing-invert-answer" width="50%">
+                    <description/>
+                </image>
             </li>
         </ol>
     </section>
@@ -240,101 +180,63 @@
         <figure>
             <caption>Paul McCartney, <q>Yesterday</q> (1965)</caption>
             <idx><h>songs (popular)</h><h><q>Yesterday</q> (The Beatles)</h></idx>
-            <sidebyside>
-                <image source="images/unit4/sec-dom-yesterday-with-RN">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dom-yesterday-with-RN">
+                <description/>
+            </image>
         </figure>
         <p>In <q>Yesterday,</q> the <chord root="V" bass="V"/> resolves not to <chord root="V"/> but to <chord root="IV"/>, which sometimes acts as a substitute for the <chord root="V"/> chord (the dominant) in popular music.</p>
         <p>This progression also happens in <q>Forget You,</q> where a <chord root="V" bps="7" bass="V"/> resolves to a <chord root="IV"/> chord.</p>
         <figure>
             <caption>Bruno Mars, CeeLo Green, Philip Lawrence, and Ari Levine, <q>Forget You</q> (2010)</caption>
             <idx><h>songs (popular)</h><h><q>Forget You</q> (CeeLo Green)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-forget-you-with-RN">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="awVi2QXC0ZE" start="0" end="9" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-forget-you-with-RN">
+                <description/>
+            </image>
+            <video youtube="awVi2QXC0ZE" start="0" end="9" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In <q>I Want You to Want Me</q> by Cheap Trick, the <chord root="V" bass="V"/> chord resolves to a subtonic <flat/><chord root="VII"/> chord in A major.</p>
         <figure>
             <caption>Rick Nielson, <q>I Want You to Want Me</q> (1977)</caption>
             <idx><h>songs (popular)</h><h><q>I Want You to Want Me</q> (Cheap Trick)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-cheap-trick-with-RN">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="-qgpewMCVjs" start="61" end="66" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-cheap-trick-with-RN">
+                <description/>
+            </image>
+            <video youtube="-qgpewMCVjs" start="61" end="66" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Remember, however, that the subtonic <flat/><chord root="VII"/> in major can act as a substitute for the dominant (see the <xref ref="SubtonicVIIFlowchart" text="custom">Harmonic Flowchart for Popular Music with Subtonic <chord root="VII"/> chord in Major </xref>).</p>
         <p>In <q>Baby Love</q> by the Supremes, a <chord root="C" bps="7" bass="B flat"/> in C major (<chord root="V" bps="4 2" bass="IV"/>) resolves to an <chord root="A" bps="7"/> chord (<chord root="V" bps="7" bass="ii"/>), which then resolves to <chord root="ii"/> (<chord root="Dm"/>). In this example, notice that the B<flat/> in the <chord root="C" bps="7" bass="B flat"/> is a lowered chromatic note that wants to resolve downward by half step to A. Instead of this A being the third of the <chord root="IV"/> chord (an F major chord), which is the traditional and expected resolution, it is the root of an <chord root="A" bps="7"/> chord (<chord root="V" bps="7" bass="ii"/>).</p>
         <figure>
             <caption>Lamont Dozier, Brian Holland, and Eddie Holland, <q>Baby Love</q> (1964)</caption>
             <idx><h>songs (popular)</h><h><q>Baby Love</q> (The Supremes)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-baby-love">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="9_y6nFjoVp4" start="7" end="16" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-baby-love">
+                <description/>
+            </image>
+            <video youtube="9_y6nFjoVp4" start="7" end="16" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Finally, a rather common deceptive resolution of a secondary dominant is <chord root="V" bps="7" bass="vi"/> to <chord root="IV"/>, which can be seen in the following three examples.</p>
         <figure>
             <caption>Steve Cropper and Otis Redding, <q>(Sittin’ On) The Dock of the Bay</q> (1967)</caption>
             <idx><h>songs (popular)</h><h><q>(Sittin’ On) The Dock of the Bay</q> (Otis Redding)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-sitting-on-the-dock">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="rTVjnBo96Ug" start="57" end="68" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-sitting-on-the-dock">
+                <description/>
+            </image>
+            <video youtube="rTVjnBo96Ug" start="57" end="68" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>John Lennon, <q>Imagine</q> (1971)</caption>
             <idx><h>songs (popular)</h><h><q>Imagine</q> (John Lennon)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-imagine">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="rAn-AWXtHv0" start="90" end="102" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-imagine">
+                <description/>
+            </image>
+            <video youtube="rAn-AWXtHv0" start="90" end="102" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Beethoven, Piano Sonata Op. 53, I (1804)</caption>
             <idx><h>Beethoven</h><h>Piano Sonata Op. 53, I</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dom-waldstein-ST">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="lbblMw6k1cU" start="52" end="56" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dom-waldstein-ST">
+                <description/>
+            </image>
+            <video youtube="lbblMw6k1cU" start="52" end="56" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>There are two ways to conceptualize this progression. The first is that the progression of <chord root="iii"/> to <chord root="IV"/> (Em to F in C major) is not unusual, so E to F, which appears to be <chord root="III"/> to <chord root="IV"/> but is in fact <chord root="V" bass="vi"/> to <chord root="IV"/>, is a chromatic modification of <chord root="iii"/> to <chord root="IV"/>. The other way to think of <chord root="V" bass="vi"/> to <chord root="IV"/> is as <chord root="V" bass="vi"/> to <chord root="VI" bass="vi"/>, a deceptive progression within the submediant area.</p>
         <p>We can conclude that secondary chords do not always resolve strictly to the chords they appear to be tonicizing.</p>
@@ -345,11 +247,9 @@
         <p>Secondary dominants generally retain the same function as their non<ndash/>chromatic versions.</p>
         <figure>
             <caption>Harmonic Function of Secondary Chords</caption>
-            <sidebyside>
                 <image source="images/unit4/sec-dom-harmonic-function">
                     <description/>
                 </image>
-            </sidebyside>
         </figure>
     </section>
     -->
@@ -362,52 +262,36 @@
             <exercise>
                 <statement>
                     <p>Approach each chord with its secondary dominant seventh chord (whose root lies a perfect 5th above the root of the chord of resolution). Label chords with Roman numerals below and lead<ndash/>sheet symbols above.</p>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-approaching-exer"/>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-approaching-exer2"/>
-                    </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-approaching-exer"/>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-approaching-exer2"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-approaching-exer-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-approaching-exer-ANSWER">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
             <exercise>
                 <statement>
                     <p>Analyze the following secondary dominants. Include lead-sheet symbols above.</p>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-analyzing"/>
-                    </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-analyzing"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-analyzing-ANSWER">
-                            <description/>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-analyzing-ANSWER">
+                        <description/>
                         </image>
-                    </sidebyside>
                 </answer>
             </exercise>
             <exercise>
                 <statement>
                     <p>On the empty staff below, copy the notes from the upper staff to the lower staff while adding the specified <xref ref="NonChordTonesIntroduction" text="custom">non<ndash/>chord tones</xref>. (Note: LNT = lower neighbor tone; UNT = upper neighbor tone.)  Realize the lead<ndash/>sheet symbols using <xref ref="QuarterNoteChords" text="custom">quarter<ndash/>note accompanimental texture</xref>. Below the lower staff, analyze the chords using Roman numerals with figured bass inversion symbols. </p>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-NCT-realization"/>
-                    </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-NCT-realization"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-NCT-realization-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="18%">
-                        <audio source="images/unit4/PRAC-EXER-sec-dom-realization-audio.mp3"/>
-                    </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-NCT-realization-ANSWER">
+                        <description/>
+                    </image>
+                    <audio source="images/unit4/PRAC-EXER-sec-dom-realization-audio.mp3" width="60%"/>
                 </answer>
             </exercise>
         </exercisegroup>
@@ -418,34 +302,24 @@
             <exercise>
                 <statement>
                     <p>Write the following secondary dominants. Include lead-sheet symbols above. Include key signatures.</p>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-writing"/>
-                    </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-writing"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-writing-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-writing-ANSWER">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
             <exercise>
                 <statement>
                     <p>For the following example, alter the given motives as specified. Add an accompanimental texture of <xref ref="AfterbeatsOffbeats" text="custom">afterbeats</xref>. Analyze the Roman numerals with figured bass inversion symbols below the staff.</p>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-motivic-completion"/>
-                    </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-motivic-completion"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-sec-dom-motivic-completion-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="18%">
-                        <audio source="images/unit4/PRAC-EXER-sec-dom-motivic-realization-audio.mp3"/>
-                    </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-sec-dom-motivic-completion-ANSWER">
+                        <description/>
+                    </image>
+                    <audio source="images/unit4/PRAC-EXER-sec-dom-motivic-realization-audio.mp3" width="60%"/>
                 </answer>                
             </exercise>
         </exercisegroup>

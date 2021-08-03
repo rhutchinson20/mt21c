@@ -13,65 +13,41 @@
         <figure>
             <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, II.</caption>
             <idx><h>Beethoven</h><h>Path&#x00E9;tique Sonata, Op. 13, II</h></idx>
-            <sbsgroup>
-                <sidebyside>
                     <image source="images/unit8/voiceleading-7ths-pathetique-A">
                         <description/>
                     </image>
-                </sidebyside>
-                <sidebyside>
                     <image source="images/unit8/voiceleading-7ths-pathetique-B">
                         <description/>
                     </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="SrcOcKYQX3c" start="586" end="597" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+                    <video youtube="SrcOcKYQX3c" start="586" end="597" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Schubert, <pubtitle>Winterreise</pubtitle>, D. 911, <q>Fr&#x00FC;hlingstraum</q> (1823)</caption>
             <idx><h>Schubert</h><h><pubtitle>Winterreise</pubtitle>, D. 911</h><h><q>Fr&#x00FC;hlingstraum</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit8/voiceleading-7ths-fruhlingstraum-A">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit8/voiceleading-7ths-fruhlingstraum-B">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="2GGPY3mhqLc" start="9" end="18" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit8/voiceleading-7ths-fruhlingstraum-A">
+                <description/>
+            </image>
+            <image source="images/unit8/voiceleading-7ths-fruhlingstraum-B">
+                <description/>
+            </image>
+            <video youtube="2GGPY3mhqLc" start="9" end="18" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The one exception to this is in the progression <chord root="I"/><ndash/><chord root="V" bps="4 3"/><ndash/><chord root="I" bps="6"/>, which closes the theme of the first movement of Mozart’s Piano Sonata K. 331.</p>
         <figure>
             <caption>Mozart, Piano Sonata K. 331, I</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 331, I</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit8/voiceleading-7ths-K331-A">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="vp_h649sZ9A" start="45" end="51
-                        " play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit8/voiceleading-7ths-K331-A">
+                <description/>
+            </image>
+            <video youtube="vp_h649sZ9A" start="45" end="51
+                " play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the example below, one can see that the 7th resolves up by step.</p>
         <figure>
             <caption>The <chord root="I"/><ndash/><chord root="V" bps="4 3"/><ndash/><chord root="I" bps="6"/> progression with acceptable parallel fifths</caption>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-7ths-K331-B">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-7ths-K331-B">
+                <description/>
+            </image>
         </figure>
         <p>Notice that parallel fifths occur in this progression because of the upward resolution of the 7th. These parallel fifths may have been deemed less objectionable because they consist of <term>unequal fifths</term><idx><h>unequal fifths</h><h>definition of</h></idx> (where one of the fifths is in a case of parallel fifths is diminished).</p>
     </section>
@@ -81,21 +57,13 @@
         <figure>
             <caption>Vivaldi, Concerto for Two Violins and Cello in D minor, RV 565, V.</caption>
             <idx><h>Vivaldi</h><h>Concerto for Two Violins and Cello in D minor, RV 565, V.</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit8/voiceleading-7ths-vivaldi-A">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit8/voiceleading-7ths-vivaldi-B">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="qgJwavKDKgY" start="11" end="19" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit8/voiceleading-7ths-vivaldi-A">
+                <description/>
+            </image>
+            <image source="images/unit8/voiceleading-7ths-vivaldi-B">
+                <description/>
+            </image>
+            <video youtube="qgJwavKDKgY" start="11" end="19" play-at="select" preview="generic" width="25%"/>
         </figure>
         <principle xml:id="successive-seventh-chords-principle">
             <title>Voice Leading Successive Root Position 7th chords</title>
@@ -106,19 +74,15 @@
         <p>If, on the other hand, you are asked to voice lead a circle of fifths progression involving inverted seventh chords, always resolve the seventh of each chord down by step and move the other voices smoothly. You will see the following pattern: two voices will remain on common tones (shown with ties) while the other two voices resolve downward by step.</p>
         <figure>
             <caption>Circle of fifths progression with inverted 7th chords (alternating <chord bps="6 5"/> and <chord bps="4 2"/>)</caption>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-7ths-circle-65-42">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-7ths-circle-65-42">
+                <description/>
+            </image>
         </figure>
         <figure>
             <caption>Circle of fifths progression with alternating <chord bps="7"/> and <chord bps="4 3"/> chords</caption>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-7ths-circle-43-7">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-7ths-circle-43-7">
+                <description/>
+            </image>
         </figure>
     </section>
     <section xml:id="V7toIVoiceLeading">
@@ -130,20 +94,20 @@
                     <p><q>Strict</q> resolution:</p>
                     <ol>
                         <li>
-                            <p>Complete <chord root="V" bps="7"/> to incomplete I: resolve <scaledeg>7</scaledeg> up and <scaledeg>4</scaledeg> and <scaledeg>2</scaledeg> down. This means resolving the 3rd of the <chord root="V" bps="7"/> chord (<scaledeg>7</scaledeg>) up and the 7th and 5th of the <chord root="V" bps="7"/> chord down. For the sake of consistency in terminology, the examples below label <scaledeg>7</scaledeg>, <scaledeg>2</scaledeg>, and the 7th of the chord. The incomplete I chord will have a tripled root and one 3rd.
-                            <sidebyside>
+                            <p>
+                                Complete <chord root="V" bps="7"/> to incomplete I: resolve <scaledeg>7</scaledeg> up and <scaledeg>4</scaledeg> and <scaledeg>2</scaledeg> down. This means resolving the 3rd of the <chord root="V" bps="7"/> chord (<scaledeg>7</scaledeg>) up and the 7th and 5th of the <chord root="V" bps="7"/> chord down. For the sake of consistency in terminology, the examples below label <scaledeg>7</scaledeg>, <scaledeg>2</scaledeg>, and the 7th of the chord. The incomplete I chord will have a tripled root and one 3rd.
                                 <image source="images/unit8/voiceleading-7ths-V7-I-Com-Inc">
                                     <description/>
                                 </image>
-                            </sidebyside></p>
+                            </p>
                         </li>
                         <li>
-                            <p>Incomplete <chord root="V" bps="7"/> (no fifth) to complete I.
-                            <sidebyside>
+                            <p>
+                                Incomplete <chord root="V" bps="7"/> (no fifth) to complete I.
                                 <image source="images/unit8/voiceleading-7ths-V7-I-Inc-Com">
                                     <description/>
                                 </image>
-                            </sidebyside></p>
+                            </p>
                         </li>
                     </ol>
                 </li>
@@ -152,12 +116,10 @@
                     <ol>
                         <li>
                             <p>If <scaledeg>7</scaledeg> is not in the soprano part, you can resolve it down by the interval of a third to <scaledeg>5</scaledeg>.
-                                <sidebyside>
-                                    <image source="images/unit8/voiceleading-7ths-V7-I-Com-Com">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
-                            </p>
+                            <image source="images/unit8/voiceleading-7ths-V7-I-Com-Com">
+                                <description/>
+                            </image>
+                        </p>
                         </li>
                     </ol>
                 </li>
@@ -166,26 +128,18 @@
             <figure>
                 <caption>Giuseppe Giordani, <pubtitle>Caro mio ben</pubtitle> (1783)</caption>
                 <idx><h>Giordani, Giuseppe</h><h><pubtitle>Caro mio ben</pubtitle></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit8/voiceleading-7ths-V7-I-caro-mio-ben">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="-Hlk8EDA02M" start="88" end="98" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit8/voiceleading-7ths-V7-I-caro-mio-ben">
+                    <description/>
+                </image>
+                <video youtube="-Hlk8EDA02M" start="88" end="98" play-at="select" preview="generic" width="25%"/>
             </figure>
         </introduction>
         <subsection xml:id="I64-V">
             <title>Voice Leading <chord root="I" bps="6 4"/> to <chord root="V" bps="7"/></title>
             <p>When <chord root="I" bps="6 4"/> resolves to <chord root="V" bps="7"/>, beware of parallel fifths if the fifth is above the root in the <chord root="I" bps="6 4"/> chord. If it is, move all upper voices upward to the closest notes of the <chord root="V" bps="7"/> chord, or to an incomplete <chord root="V" bps="7"/> (no 5th).</p>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-7ths-I64-to-V7">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-7ths-I64-to-V7">
+                <description/>
+            </image>
         </subsection>
     </section>
     <section xml:id="SpecialResolutionOfVII7">
@@ -199,11 +153,9 @@
         </principle>
         <figure>
             <caption>Resolving <chord root="vii" mode="halfdiminished" bps="7"/></caption>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-7ths-special-res-of-vii7">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-7ths-special-res-of-vii7">
+                <description/>
+            </image>
         </figure>
         <p>The third measure above shows that revoicing the chord is another solution, since parallel 4ths are not objectionable in this situation.</p>
         <p>If the 7th of the chord is voiced <em>below</em> the 3rd of the chord, resolve all tendency tones normally.</p>
@@ -214,16 +166,10 @@
         <figure>
             <caption>J.S. Bach, Chorale 342, <q>Lobt Gott, ihr Christen, allzugleich </q>, BWV 376</caption>
             <idx><h>Bach, J.S.</h><h>Chorale 342, <q>Lobt Gott, ihr Christen, allzugleich </q>, BWV 376</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit8/voiceleading-7ths-use-at-cadence-bach-342">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="2dxuAKSxgw0" start="36" end="45" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit8/voiceleading-7ths-use-at-cadence-bach-342">
+                <description/>
+            </image>
+            <video youtube="2dxuAKSxgw0" start="36" end="45" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <exercises xml:id="VoiceLeading7thChordsPracticeExercises">
@@ -231,52 +177,40 @@
         <exercise>
             <statement>
                 <p>Voice lead each <chord root="V" bps="7"/> chord to the tonic using either <q>strict</q> or <q>free</q> resolution as indicated by the terms incomplete (<q>inc.</q>) and complete (<q>comp.</q>). Include key signatures.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-7ths-V7-I">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-7ths-V7-I">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-7ths-V7-I-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-7ths-V7-I-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Voice lead this circle of fifths progression involving root position seventh chords. Include the key signature and analyze the figured bass symbols in order to place Roman numerals in the blanks below the staff.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-7ths-circ-in-b">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-7ths-circ-in-b">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-7ths-circ-in-b-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-7ths-circ-in-b-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Voice lead this circle of fifths progression involving inverted seventh chords.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-7ths-circ-in-G-inverted">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-7ths-circ-in-G-inverted">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-7ths-circ-in-G-inverted-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-7ths-circ-in-G-inverted-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <conclusion>

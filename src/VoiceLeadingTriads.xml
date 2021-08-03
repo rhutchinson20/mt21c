@@ -7,20 +7,16 @@
         <p><q>SATB</q> voice leading refers to four-part chords scored for soprano (S), alto (A), tenor (T), and bass (B) voices. Three-part chords are often specified as SAB (soprano, alto, bass) but could be scored for any combination of the three voice types. SATB voice leading will also be referred to as <q>chorale-style</q> voice leading.</p>
         <figure>
             <caption>Soprano, Alto, Tenor, and Bass voices on the grand staff in <q>chorale-style</q> voice leading</caption>
-            <sidebyside margins="25%">
-                <image source="images/unit8/voiceleading-satb-example">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-satb-example" width="50%">
+                <description/>
+            </image>
         </figure>
         <p><q>Piano-style</q> voice leading means the three upper parts are in the upper staff (the right hand part) and the bass is the only voice in bass clef (the left hand part).</p>
         <figure>
             <caption><q>Piano-style</q> voice leading</caption>
-            <sidebyside margins="25%">
-                <image source="images/unit8/voiceleading-piano-style-example">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-piano-style-example" width="50%">
+                <description/>
+            </image>
         </figure>
     </section>
     <section xml:id="TypesOfMotion">
@@ -34,11 +30,9 @@
         </ul>
         <figure>
             <caption>The four types of motion</caption>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-types-of-motion">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-types-of-motion">
+                <description/>
+            </image>
         </figure>
     </section>
     <section xml:id="ObjectionableParallels">
@@ -46,11 +40,9 @@
         <p>When writing in three or four parts, avoid having any two voices move in parallel fifths or parallel octaves (and their octave equivalents<mdash/>parallel twelfths and parallel unisons). In the Renaissance, Baroque, Classical, and Romantic eras, these objectional parallels were thought to destroy the independence of the voices. Parallel 3rds, 4ths, and 6ths were considered acceptable. Parallel 2nds and 7ths generally were not used.</p>
         <figure>
             <caption>Objectionable parallel fifths and parallel octaves</caption>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-objectionable-parallels">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-objectionable-parallels">
+                <description/>
+            </image>
         </figure>
     </section>
     <section xml:id="VoiceRanges">
@@ -58,11 +50,9 @@
         <p>For the purpose of music theory class, we will set out restrictions for voice ranges that are likely more limited than those found among vocalists in the class. These voice ranges are based on those most commonly found in J.S. Bach’s <pubtitle>371 Chorales</pubtitle>.</p>
         <figure>
             <caption>Voice ranges for  soprano, alto, tenor, and bass voices</caption>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-voice-ranges">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-voice-ranges">
+                <description/>
+            </image>
         </figure>
     </section>
     <section xml:id="RulesOfMelody">
@@ -77,11 +67,9 @@
         <p>The following example demonstrates how difficult a melody can be to sing when these rules are broken</p>
         <figure>
             <caption/>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-rules-of-melody-broken">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-rules-of-melody-broken">
+                <description/>
+            </image>
         </figure>
     </section>
 
@@ -90,29 +78,23 @@
         <p>Generally, the upper three voice parts (soprano, alto, and tenor) are kept close together. The general rule of spacing is to keep the distance between soprano and alto as well as the distance between alto to tenor within an octave of each other. Allowing a distance greater than an octave between soprano and alto (or between alto and tenor) is considered <term>spacing error</term><idx><h>spacing error</h></idx>. The distance from the bass to the tenor can be greater than an octave.</p>
         <figure>
             <caption/>
-            <sidebyside margins="25%">
-                <image source="images/unit8/voiceleading-spacing-guidelines">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-spacing-guidelines" width="50%">
+                <description/>
+            </image>
         </figure>
         <p>In terms of spacing chords, one should consider the spacing that occurs in the <term>overtone series</term><idx><h>overtone series</h></idx>.</p>
         <figure>
             <caption>Overtone series starting on C2</caption>
-            <sidebyside margins="15%">
-                <image source="images/unit8/voiceleading-overtone-series">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-overtone-series" width="70%">
+                <description/>
+            </image>
         </figure>
         <p>Larger spaces between notes occur lower in the overtone series. Consider the voicings of the following chords. Some <q>ring</q> or resonate better than others. Notice that all of the notes fall within the voice ranges specified <xref ref="VoiceRanges" text="custom">above</xref>.</p>
         <figure>
             <caption/>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-many-chord-spacings">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-many-chord-spacings">
+                <description/>
+            </image>
         </figure>
     </section>
     <section xml:id="VoiceLeadingFourPartsRootPosition">
@@ -132,29 +114,27 @@
             <p>In the upper three parts (soprano, alto, and tenor): retain the two common tones and move the other voice by step</p>
             <figure>
                 <caption/>
-                <sidebyside>
-                    <image source="images/unit8/voice-leading-3rd-or-6th-in-bass">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/voice-leading-3rd-or-6th-in-bass">
+                    <description/>
+                </image>
             </figure>
         </subsection>
         <subsection xml:id="root-position-triads-4th-or-5th">
             <title>Bass movement of the interval of a 4th or 5th</title>
             <p>In the upper three parts, do one of the following:</p>
             <ol>
-                <li><p>Retain the common tone and move the other two voices by step</p>
-                <sidebyside>
+                <li>
+                    <p>Retain the common tone and move the other two voices by step</p>
                     <image source="images/unit8/voiceleading-4th-or-5th-in-bass">
                         <description/>
                     </image>
-                </sidebyside></li>
-                <li><p>Move all of the upper voices in the same direction (each upper voice will move by a 2nd or 3rd to the nearest chord member in the second chord)</p>
-                <sidebyside>
+                </li>
+                <li>
+                    <p>Move all of the upper voices in the same direction (each upper voice will move by a 2nd or 3rd to the nearest chord member in the second chord)</p>
                     <image source="images/unit8/voiceleading-4th-or-5th-part-2">
                         <description/>
                     </image>
-                </sidebyside></li>
+                </li>
             </ol>
         </subsection>
         <subsection xml:id="root-position-triads-2nd">
@@ -162,37 +142,29 @@
             <p>Move the three upper parts in contrary motion to the bass line.</p>
             <figure>
                 <caption/>
-                <sidebyside margins="25%">
-                    <image source="images/unit8/voiceleading-2nd-in-bass">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/voiceleading-2nd-in-bass" width="50%">
+                    <description/>
+                </image>
             </figure>
             <p xml:id="voice-leading-deceptive-cadence"><em>Exception</em>: When the bass moves by the interval of a 2nd in the deceptive progression in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass. In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice-leading solution if <scaledeg>7</scaledeg>  is in the soprano voice (because it is a <xref ref="TendencyTones" text="custom">tendency tone</xref>).</p>
             <figure>
                 <caption>Voice leading the deceptive progression in minor</caption>
-                <sidebyside>
-                    <image source="images/unit8/voice-leading-deceptive-cadence-minor">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/voice-leading-deceptive-cadence-minor">
+                    <description/>
+                </image>
             </figure>
             <p>The following two examples demonstrate the two possible ways to deal with the deceptive progression in the major mode.</p>
             <figure>
                 <caption><scaledeg>7</scaledeg> in the soprano voice in the deceptive progression in major</caption>
-                <sidebyside margins="25%">
-                    <image source="images/unit8/voice-leading-deceptive-cadence-A">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/voice-leading-deceptive-cadence-A" width="50%">
+                    <description/>
+                </image>
             </figure>
             <figure>
                 <caption><scaledeg>7</scaledeg> in an inner voice in the deceptive progression in major</caption>
-                <sidebyside margins="25%">
-                    <image source="images/unit8/voice-leading-deceptive-cadence-B">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/voice-leading-deceptive-cadence-B" width="50%">
+                    <description/>
+                </image>
             </figure>
         </subsection>
         <subsection xml:id="voiceleading-repetition-of-bass-note">
@@ -200,11 +172,9 @@
             <p>Repeat the upper three notes or arpeggiate the upper notes to different chord members while maintaining the voicing of a doubled the root, one 3rd and one 5th.</p>
             <figure>
                 <caption>Repeated notes in the bass line</caption>
-                <sidebyside>
-                    <image source="images/unit8/voice-leading-repeated-roots-in-bass">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/voice-leading-repeated-roots-in-bass">
+                    <description/>
+                </image>
             </figure>
         </subsection>
     </section>
@@ -219,30 +189,18 @@
             <figure>
                 <caption>J.S. Bach, Chorale 237, <q>Gott lebel noch</q>, BWV 320</caption>
                 <idx><h>Bach, J.S.</h><h>Chorale 237, <q>Gott lebel noch</q>, BWV 320</h></idx>
-                <sbsgroup>
-                    <sidebyside margins="15%">
-                        <image source="images/unit8/voiceleading-1st-inv-bach-gott-lebel">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="8ZKxI8d4VbM" start="108" end="116" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit8/voiceleading-1st-inv-bach-gott-lebel" width="70%">
+                    <description/>
+                </image>
+                <video youtube="8ZKxI8d4VbM" start="108" end="116" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>J.S. Bach, Chorale 153, <q>Alle Menschen m&#x00FC;ssen sterben</q>, BWV 262</caption>
                 <idx><h>Bach, J.S.</h><h>Chorale 153, <q>Alle Menschen m&#x00FC;ssen sterben</q>, BWV 262</h></idx>
-                <sbsgroup>
-                    <sidebyside margins="18%">
-                        <image source="images/unit8/voiceleading-1st-inv-bach-alle-menschen">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="3B9KD9CJ3tA" start="0" end="7" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit8/voiceleading-1st-inv-bach-alle-menschen" width="60%">
+                    <description/>
+                </image>
+                <video youtube="3B9KD9CJ3tA" start="0" end="7" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>If the 3rd of a first inversion <em>is</em> doubled, it will be in one of the following situations:</p>
             <ol>
@@ -251,16 +209,10 @@
                     <figure>
                         <caption>J.S. Bach, Chorale 103, <q>Nun ruhen alle W&#x00E4;lder</q>, BWV 392</caption>
                         <idx><h>Bach, J.S.</h><h>Chorale 103, <q>Nun ruhen alle W&#x00E4;lder</q>, BWV 392</h></idx>
-                        <sbsgroup>
-                            <sidebyside margins="10%">
-                                <image source="images/unit8/voiceleading-1st-inv-dim-doubling">
-                                    <description/>
-                                </image>
-                            </sidebyside>
-                            <sidebyside margins="37%">
-                                <video youtube="Lul-S82JIeM" start="6" end="13" play-at="select" preview="generic"/>
-                            </sidebyside>
-                        </sbsgroup>
+                        <image source="images/unit8/voiceleading-1st-inv-dim-doubling" width="80%">
+                            <description/>
+                        </image>
+                        <video youtube="Lul-S82JIeM" start="6" end="13" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </li>
                 <li>
@@ -268,32 +220,20 @@
                     <figure>
                         <caption>J.S. Bach, Chorale 106, <q>Jesu Leiden, Pein und Tod</q>, BWV 245</caption>
                         <idx><h>Bach, J.S.</h><h>Chorale 106, <q>Jesu Leiden, Pein und Tod</q>, BWV 245/28</h></idx>
-                        <sbsgroup>
-                            <sidebyside margins="10%">
-                                <image source="images/unit8/voiceleading-1st-inv-consec-rule">
-                                    <description/>
-                                </image>
-                            </sidebyside>
-                            <sidebyside margins="37%">
-                                <video youtube="QSv7SkXmhFI" start="4391" end="4396" play-at="select" preview="generic"/>
-                            </sidebyside>
-                        </sbsgroup>
+                        <image source="images/unit8/voiceleading-1st-inv-consec-rule" width="80%">
+                            <description/>
+                        </image>
+                        <video youtube="QSv7SkXmhFI" start="4391" end="4396" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </li>
                 <li>
                     <p>Approached in opposite direction in both parts</p>
                     <figure>
                         <caption>Palestrina, <pubtitle>Missa Aeterna Christi Munera</pubtitle>, Sanctus</caption>
-                        <sbsgroup>
-                            <sidebyside margins="10%">
-                                <image source="images/unit8/voiceleading-1st-inv-doubled-3rd-thru-contrary-mot">
-                                    <description/>
-                                </image>
-                            </sidebyside>
-                            <sidebyside margins="37%">
-                                <video youtube="7OQrWJvezT4" start="26" end="34" play-at="select" preview="generic"/>
-                            </sidebyside>
-                        </sbsgroup>
+                        <image source="images/unit8/voiceleading-1st-inv-doubled-3rd-thru-contrary-mot" width="80%">
+                            <description/>
+                        </image>
+                        <video youtube="7OQrWJvezT4" start="26" end="34" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </li>
             </ol>
@@ -306,16 +246,10 @@
         <figure>
             <caption>J.S. Bach, Chorale 204, <q>Wer wei&#x00DF;, wie nahe mir</q>, BWV 166</caption>
             <idx><h>Bach, J.S.</h><h>Chorale 204, <q>Wer wei&#x00DF;, wie nahe mir</q>, BWV 166</h></idx>
-            <sbsgroup>
-                <sidebyside margins="10%">
-                    <image source="images/unit8/voiceleading-2nd-inv-doubling">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="ivm4RACsrBU" start="37" end="44" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit8/voiceleading-2nd-inv-doubling" width="80%">
+                <description/>
+            </image>
+            <video youtube="ivm4RACsrBU" start="37" end="44" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="SpecialSituations">
@@ -327,19 +261,15 @@
         </ol>
         <figure>
             <caption>Parallel fifths when <em>roots</em> are a 2nd apart</caption>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-2nd-betw-roots-bad">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-2nd-betw-roots-bad">
+                <description/>
+            </image>
         </figure>
         <figure>
             <caption>Parallel fourths as a corrective when roots are a 2nd apart</caption>
-            <sidebyside>
-                <image source="images/unit8/voiceleading-2nd-betw-roots-good">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-2nd-betw-roots-good">
+                <description/>
+            </image>
         </figure>
         <p>In any such situation where the roots are a second apart (even if the chords are inverted), revoice each chord so the 5th of the chord is <em>below</em> the root of the chord in the upper voices</p>
     </section>
@@ -354,20 +284,16 @@
         <p>The pedal <chord bps="6 4"/> typically occurs in the patterns I<ndash/>IV<chord bps="6 4"/><ndash/>I or V<ndash/>I<chord bps="6 4"/><ndash/>V.</p>
         <figure>
             <caption>Examples with the Pedal Six-Four</caption>
-            <sidebyside margins="15%">
-                <image source="images/unit8/voiceleading-pedal-six-four-examples">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-pedal-six-four-examples" width="70%">
+                <description/>
+            </image>
         </figure>
         <p>The passing <chord bps="6 4"/> typically occurs in the patterns I<ndash/>V<chord bps="6 4"/><ndash/>I<chord bps="6"/> (or its <xref ref="RetrogradeSection" text="custom">retrograde</xref>) and IV<ndash/>I<chord bps="6 4"/><ndash/>IV<chord bps="6"/> (or its retrograde).</p>
         <figure>
             <caption>Examples with the Passing Six-Four</caption>
-            <sidebyside margins="15%">
-                <image source="images/unit8/voiceleading-passing-six-four-examples">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit8/voiceleading-passing-six-four-examples" width="70%">
+                <description/>
+            </image>
         </figure>
         <p>In an earlier section we discussed the <xref ref="TheCadentialSixFourChord" text="custom">Cadential <chord bps="6 4"/> chord</xref>. Please refer to that section to review the cadential <chord bps="6 4"/> chord.</p>
     </section>
@@ -394,35 +320,27 @@
         <exercise>
             <statement>
                 <p>For bass movement of a 3rd or 6th, in the upper voices hold two common tones and move the other voice by step. For bass movement of a 2nd, move the upper voices in contrary motion to the bass with the exception of the deceptive progression, which has special rules. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths-ANSWER">
-                        <description/>
+                <image source="images/unit8/PRAC-EXER-voiceleading-3rds-6ths-ANSWER">
+                    <description/>
                     </image>
-                </sidebyside>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>For bass movement of a 4th, either (1) hold one common tone and move the two voices by step, or (2) move the upper voices in the same direction. Keep track of doubling by specifying which voice has the root, third, or fifth for each chord.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-4ths">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-4ths">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-4ths-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-4ths-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
     </exercisegroup>
@@ -433,35 +351,27 @@
         <exercise>
             <statement>
                 <p>Given the bass line and figured bass symbols, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>chorale-style,</q> following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the number of times the bass moves by the interval of a 2nd.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-day-2-dmin-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Given the bass line, analyze the Roman numerals below the staff and add soprano, alto, and tenor parts in <q>keyboard-style</q> (all three upper voices in the treble clef), following rules of good voice leading. Choose the beginning register for each upper part carefully, considering the direction of the bass line.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-voiceleading-day-2-Gmaj-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
     </exercisegroup>
@@ -472,52 +382,40 @@
         <exercise>
             <statement>
                 <p>Analyze the Roman numerals in the blanks below the staff and the doublings of the chords in the squares<mdash/>specifying Root, 3rd, or 5th<mdash/>for J.S. Bach's Chorale 367, <pubtitle>Befiehl du deine Wege</pubtitle>.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-analyze-1st-inv-voicings">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-analyze-1st-inv-voicings">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-analyze-1st-inv-voicings-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-analyze-1st-inv-voicings-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Given the bass line and <xref ref="FiguredBassInversionSymbols" text="custom"> figured bass symbols</xref>, analyze the Roman numerals and add soprano, alto, and tenor parts in chorale style. Review the special rule for doubling in diminished triads in first inversion. You may wish to review <xref ref="FiguredBassWithChromaticAlterations" text="custom">figured bass with chromatic alterations</xref>.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-1st-inv-w-fig-bass">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-1st-inv-w-fig-bass">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-1st-inv-w-fig-bass-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-1st-inv-w-fig-bass-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Harmonize the melody making sure your progression follows the <xref ref="HarmonicFlowchart" text="custom">Harmonic Flowchart</xref> (analyze the <xref ref="HarmonicFunction" text="custom">harmonic function</xref> of each chord, abbreviated as <q>HF</q>), then add alto, tenor, and bass parts in chorale style following rules of good voice leading. Use first-inversion chords to make a smoother bass line.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-1st-inv-harmonize-mel">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-1st-inv-harmonize-mel">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-1st-inv-harmonize-mel-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-1st-inv-harmonize-mel-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
     </exercisegroup>
@@ -528,35 +426,27 @@
         <exercise>
             <statement>
                 <p>Analyze the figured bass symbols to specify Roman numerals with inversion symbols below the staff. Add soprano, alto, and tenor parts in keyboard style. Specify root, third, and fifth for every chord. Additionally, specify the six-four chord type (pedal, passing, or cadential).</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-2nd-inv-fig-bass">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-2nd-inv-fig-bass">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-2nd-inv-fig-bass-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-2nd-inv-fig-bass-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>For the given Roman numeral progression, provide soprano, alto, tenor, and bass voices in chorale style. Be careful not to exceed any voice’s range. Specify root, third, and fifth for every chord. Additionally, specify the six-four chord type.</p>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-2nd-inv-Rom-num">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-2nd-inv-Rom-num">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit8/PRAC-EXER-2nd-inv-Rom-num-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit8/PRAC-EXER-2nd-inv-Rom-num-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
     </exercisegroup>

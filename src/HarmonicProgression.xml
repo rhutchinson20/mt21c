@@ -11,31 +11,19 @@
             <caption>J.S. Bach, Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</caption>
             <idx><h>Bach, J.S.</h><h>Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</h></idx>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Bach)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-circle-brandenburg2">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="dHrvGOd6G20" start="76" end="86" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-circle-brandenburg2">
+                <description/>
+            </image>
+            <video youtube="dHrvGOd6G20" start="76" end="86" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure xml:id="handel-passacaglia">
             <caption>George Frideric Handel, Suite in G minor, Passacaglia</caption>
             <idx><h>Handel, George Frideric</h><h>Suite in G minor, Passacaglia</h></idx>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Handel)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-circle-handel">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="f6jvsEb-Usk" start="0" end="17" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-circle-handel">
+                <description/>
+            </image>
+            <video youtube="f6jvsEb-Usk" start="0" end="17" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>This circle (the circle of fifths <em>for harmonic progression</em>) is different than the circle of fifths for key signatures because this circle of fifths for <em>harmonic progression</em> contains diatonic notes only. The circle of fifths for key signatures (<xref ref="circle-of-fifths-major" text="type-global"/>) contained all 12 notes of the chromatic scale.</p>
         <figure>
@@ -57,76 +45,46 @@
             <caption>W.A. Mozart, Piano Sonata in C, K. 545, I (1780s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Mozart)</h></idx>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 545, I., secondary theme</h></idx>
-            <sbsgroup>
-                <sidebyside>
                     <image source="images/unit2/harmony-circle-mozart">
                         <description>Circle of 5ths progression diagram in Mozart's K. 545, I</description>
                     </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="5NkzTTkqTB4" start="34" end="43" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+                    <video youtube="5NkzTTkqTB4" start="34" end="43" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure xml:id="wagner-meistersinger">
             <caption>Richard Wagner, <pubtitle>Die Meistersinger</pubtitle>, Act II, Scene 6 (1860s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Wagner)</h></idx>
             <idx><h>Wagner, Richard</h><h><pubtitle>Die Meistersinger</pubtitle>, Act II, Scene 6</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-circle-wagner">
-                        <description>Circle of 5ths progression in Die Meistersinger by Wagner</description>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="PiIblkOtm3g" start="109" end="116" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-circle-wagner">
+                <description>Circle of 5ths progression in Die Meistersinger by Wagner</description>
+            </image>
+            <video youtube="PiIblkOtm3g" start="109" end="116" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure xml:id="fly-me-to-the-moon">
             <caption>Bart Howard, <q>Fly Me to the Moon</q> (chords only) (1950s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Fly Me to the Moon)</h></idx>
             <idx><h>songs (popular)</h><h><q>Fly Me to the Moon</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-circle-fly-me">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="K8wE58PTIkw" start="7" end="24" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-circle-fly-me">
+                <description/>
+            </image>
+            <video youtube="K8wE58PTIkw" start="7" end="24" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure xml:id="i-will-survive">
             <caption>Freddie Perren and Dino Fekaris, <q>I Will Survive</q> (chords only) (1970s)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (I Will Survive)</h></idx>
             <idx><h>songs (popular)</h><h><q>I Will Survive</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-circle-i-will-survive">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="FHhZPp08s74" start="22" end="39" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-circle-i-will-survive">
+                <description/>
+            </image>
+            <video youtube="FHhZPp08s74" start="22" end="39" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure xml:id="i-love-you-like-a-love-song">
             <caption>Antonina Armato, Tim James, Adam Schmalholz, <q>Love You Like A Love Song</q> (2010s) (bass and chords only)</caption>
             <idx><h>circle of fifths (harmonic progression)</h><h>example (Love You Like a Love Song)</h></idx>
             <idx><h>songs (popular)</h><h><q>Love You Like A Love Song</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-circle-love-song">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="EgT_us6AsDg" start="57" end="74" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-circle-love-song">
+                <description/>
+            </image>
+            <video youtube="EgT_us6AsDg" start="57" end="74" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The circle of fifths progression has a feeling of inevitability about it because it consists of <term>harmonic sequences</term><idx><h>harmonic sequence</h></idx>. To understand harmonic sequence we will first look at melodic sequences, since the bass line is the <q>melody</q> in a harmonic sequence. Ask yourself what happens after this melodic idea:</p>
         <figure>
@@ -155,16 +113,10 @@
         <p>Sometimes we will hear a circle of fifths sequence where some of the chords are not in root position, as in the <xref ref="handel-passacaglia" text="custom">Handel</xref> and <xref ref="mozart-k545-st" text="custom">Mozart</xref> examples. In these two examples, we are hearing the sequence of the roots, even though they are not clearly presented in the bass.</p>
         <figure>
             <caption>Handel Passacaglia with roots as open note heads</caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-circle-roots-inverted-handel">
-                        <description>Circle of 5ths progression with roots as open note heads</description>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="f6jvsEb-Usk" start="0" end="17" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-circle-roots-inverted-handel">
+                <description>Circle of 5ths progression with roots as open note heads</description>
+            </image>
+            <video youtube="f6jvsEb-Usk" start="0" end="17" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>We will return to the idea of harmonic sequence later in this chapter.</p>
     </section>
@@ -175,16 +127,10 @@
         <figure>
             <caption>Dan Smith, <q>Pompeii</q></caption>
             <idx><h>songs (popular)</h><h><q>Pompeii</q> (Bastille)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-acceleration-harmonic-rhythm">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="F90Cw4l-8NY" start="71" end="87" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-acceleration-harmonic-rhythm">
+                <description/>
+            </image>
+            <video youtube="F90Cw4l-8NY" start="71" end="87" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In some music, harmonic rhythm will remain consistent, while in other pieces there will be an infinite variety to the length of harmonies. Throughout this text, we will be examining harmonic rhythm and the placement of harmonies within the phrase.</p>
     </section>
@@ -197,44 +143,26 @@
                 <caption>Duke Ellington, <q>Take the ‘A’ Train</q></caption>
                 <idx><h>Ellington, Duke</h><h><q>Take the ‘A’ Train</q></h></idx>
                 <idx><h>songs (popular)</h><h><q>Take the ‘A’ Train</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-ii-V-I-A-train">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="MENQyu4D7Ig" start="11" end="18" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-ii-V-I-A-train">
+                    <description/>
+                </image>
+                <video youtube="MENQyu4D7Ig" start="11" end="18" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Miles Davis, <q>Tune-Up</q></caption>
                 <idx><h>Davis, Miles</h><h><q>Tune-Up</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-ii-V-I-tune-up">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="sUg1Dpsd6fw" start="3" end="7" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-ii-V-I-tune-up">
+                    <description/>
+                </image>
+                <video youtube="sUg1Dpsd6fw" start="3" end="7" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Herman Hupfeld, <q>As Time Goes By</q> (1931)</caption>
                 <idx><h>songs (popular)</h><h><q>As Time Goes By</q> (from the motion picture <pubtitle>Casablanca</pubtitle>)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-ii-V-I-as-time-goes-by">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="d22CiKMPpaY" start="10" end="24" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-ii-V-I-as-time-goes-by">
+                    <description/>
+                </image>
+                <video youtube="d22CiKMPpaY" start="10" end="24" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection xml:id="VI-II-V-I">
@@ -263,31 +191,19 @@
                 <figure>
                     <caption>Jerome Kern, <q>All the Things You Are</q></caption>
                     <idx><h>songs (popular)</h><h><q>All the Things You Are</q></h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit2/harmony-vi-ii-V-I-all-the-things">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="OPapxr8GvGA" start="18" end="26" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit2/harmony-vi-ii-V-I-all-the-things">
+                        <description/>
+                    </image>
+                    <video youtube="OPapxr8GvGA" start="18" end="26" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 <p>Here is another example from more recent popular music.</p>
                 <figure>
                     <caption>S&#x00F8;ren Rasted, Claus Norreen, Ren&#x00E9; Diff, and Lene Nystr&#x00F8;m, <q>Barbie Girl</q> (chords only)</caption>
                     <idx><h>songs (popular)</h><h><q>Barbie Girl</q> (Aqua)</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit2/harmony-vi-ii-V-I-barbie-girl">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="ZyhrYis509A" start="15" end="23" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit2/harmony-vi-ii-V-I-barbie-girl">
+                        <description/>
+                    </image>
+                    <video youtube="ZyhrYis509A" start="15" end="23" play-at="select" preview="generic" width="25%"/>
                 </figure>
             </subsubsection>
             <subsubsection xml:id="I-vi-ii-V">
@@ -296,45 +212,27 @@
                 <figure>
                     <caption>Richard Rodgers, <q>Blue Moon</q> (1934)</caption>
                     <idx><h>songs (popular)</h><h><q>Blue Moon</q></h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit2/harmony-vi-ii-V-I-blue-moon">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="WTj7DvlptAc" start="8" end="19" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit2/harmony-vi-ii-V-I-blue-moon">
+                        <description/>
+                    </image>
+                    <video youtube="WTj7DvlptAc" start="8" end="19" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 <figure>
                     <caption>Charles Trenet and Albert Lasry, <q>Beyond The Sea</q> (1945)</caption>
                     <idx><h>songs (popular)</h><h><q>Beyond The Sea</q></h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit2/harmony-vi-ii-V-I-beyond-the-sea">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="_R8HhlaMvko" start="6" end="15" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit2/harmony-vi-ii-V-I-beyond-the-sea">
+                        <description/>
+                    </image>
+                    <video youtube="_R8HhlaMvko" start="6" end="15" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 <p>Listen for this bass line in the next recording.</p>
                 <figure>
                     <caption>Frankie Lymon, Herman Santiago, Jimmy Merchant, <q>Why Do Fools Fall in Love</q> (1955)</caption>
                     <idx><h>songs (popular)</h><h><q>Why Do Fools Fall in Love</q> </h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit2/harmony-vi-ii-V-I-why-do-fools">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="mEHcTciiXQY" start="0" end="16" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit2/harmony-vi-ii-V-I-why-do-fools">
+                        <description/>
+                    </image>
+                    <video youtube="mEHcTciiXQY" start="0" end="16" play-at="select" preview="generic" width="25%"/>
                 </figure>
             </subsubsection>
             <subsubsection xml:id="ii-V-I-vi">
@@ -343,16 +241,10 @@
                 <figure>
                     <caption>Robert Wright, George Forrest, Alexander Borodin, <q>Stranger in Paradise</q> (1953)</caption>
                     <idx><h>songs (popular)</h><h><q>Stranger in Paradise</q></h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit2/harmony-vi-ii-V-I-stranger-in-paradise">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="WFrUsa5SUv0" start="13" end="27" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit2/harmony-vi-ii-V-I-stranger-in-paradise">
+                        <description/>
+                    </image>
+                    <video youtube="WFrUsa5SUv0" start="13" end="27" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 <p>If you view this video on YouTube, you will briefly see the double bass part, which has lead-sheet symbols on it.</p>
             </subsubsection>
@@ -363,46 +255,28 @@
             <figure>
                 <caption>Michael Masser and Linda Creed, <q>Greatest Love of All</q> (1977)</caption>
                 <idx><h>songs (popular)</h><h><q>Greatest Love of All</q> (Whitney Houston)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-iii-vi-ii-V-greatest-love">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="IYzlVDlE72w" start="93" end="110" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-iii-vi-ii-V-greatest-love">
+                    <description/>
+                </image>
+                <video youtube="IYzlVDlE72w" start="93" end="110" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>Sometimes, this progression is rotated to <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/>, as in <q>September,</q> the well known song by Earth, Wind, and Fire.</p>
             <figure xml:id="september">
                 <caption>Maurice White, Al McKay, Allee Willis, <q>September</q> (1978)</caption>
                 <idx><h>songs (popular)</h><h><q>September</q> (Earth, Wind, and Fire)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-iii-vi-ii-V-september">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="Gs069dndIYk" start="51" end="59" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-iii-vi-ii-V-september">
+                    <description/>
+                </image>
+                <video youtube="Gs069dndIYk" start="51" end="59" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>This <chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/> progression is also seen in the following song.</p>
             <figure>
                 <caption>Mike Stock, Matt Aitken, and Pete Waterman, <q>Never Gonna Give You Up</q> (1987)</caption>
                 <idx><h>songs (popular)</h><h><q>Never Gonna Give You Up</q> (Rick Astley)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-iii-vi-ii-V-never-gonna">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="dQw4w9WgXcQ" start="0" end="10" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-iii-vi-ii-V-never-gonna">
+                    <description/>
+                </image>
+                <video youtube="dQw4w9WgXcQ" start="0" end="10" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
     </section>
@@ -453,72 +327,42 @@
             <figure>
                 <caption>W.A. Mozart, Piano Sonata, K. 283, I.</caption>
                 <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 283, I.</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-T-D-T-k283">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="OmQQoohTW80" start="0" end="07" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-T-D-T-k283">
+                    <description/>
+                </image>
+                <video youtube="OmQQoohTW80" start="0" end="07" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Ludwig van Beethoven, Piano Sonata in C major, Op. 2, No. 3, I.</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata Op. 2, No. 3, I.</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-T-D-T-op2no3">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="o1iUR3GG4DQ" start="0" end="07" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-T-D-T-op2no3">
+                    <description/>
+                </image>
+                <video youtube="o1iUR3GG4DQ" start="0" end="07" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Giuseppe Verdi, <pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q></caption>
                 <idx><h>Verdi</h><h><pubtitle>Rigoletto</pubtitle>, <q>La donna &#x00E8; mobile</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-T-D-T-la-donna">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="4iUwkJuRdiY" start="12" end="19" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-T-D-T-la-donna">
+                    <description/>
+                </image>
+                <video youtube="4iUwkJuRdiY" start="12" end="19" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Lennon-McCartney, <q>Hey Jude</q></caption>
                 <idx><h>songs (popular)</h><h><q>Hey Jude</q> (Beatles)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-T-D-T-hey-jude">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="A_MjCqQoLLA" start="55" end="70" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-T-D-T-hey-jude">
+                    <description/>
+                </image>
+                <video youtube="A_MjCqQoLLA" start="55" end="70" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Sanger D. Shafer and Linda J. Shafer, <q>All My Ex’s Live in Texas</q> (1986)</caption>
                 <idx><h>songs (popular)</h><h><q>All My Ex’s Live in Texas</q> (George Strait)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-T-D-T-george-strait">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="Jk7uXaNuWNE" start="89" end="104" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-T-D-T-george-strait">
+                    <description/>
+                </image>
+                <video youtube="Jk7uXaNuWNE" start="89" end="104" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>The principle of <q>Tonic-Dominant-Tonic</q> could also be represented with <chord root="I"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>. Even though we learned that <q>dominant</q> means <q><scaledeg>5</scaledeg></q> (and also <q><chord root="V"/></q>) in <xref ref="ScaleDegreeNames" text="custom">earlier sections</xref>, <q>dominant <em>function</em></q> in terms of harmony means <q>a chord that <em>progresses to</em> the tonic chord.</q> We will revisit this concept and other possibilities for <q>dominant function</q> later.</p>
         </subsection>
@@ -537,87 +381,51 @@
             <figure>
                 <caption>J.S. Bach, <pubtitle>Well-Tempered Clavier, Book I</pubtitle>, Prelude 1 in C major BWV 846</caption>
                 <idx><h>Bach, J.S.</h><h><pubtitle>Well-Tempered Clavier, Book I</pubtitle></h><h>Prelude 1 in C major</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-T-P-D-T-WTC-prel-1">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="vqM4tCZ7RV8" start="0" end="14" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-T-P-D-T-WTC-prel-1">
+                    <description/>
+                </image>
+                <video youtube="vqM4tCZ7RV8" start="0" end="14" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>W.A. Mozart, Symphony No. 40 in G minor, K. 550, I. (textural reduction)</caption>
                 <idx><h>Mozart, W.A.</h><h>Symphony No. 40, K. 550, I.</h><h>harmonic function in primary theme</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-T-P-D-T-k550">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="O0PChj-uQPo" start="0" end="10" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-T-P-D-T-k550">
+                    <description/>
+                </image>
+                <video youtube="O0PChj-uQPo" start="0" end="10" play-at="select" preview="generic"/>
             </figure>
             <figure>
                 <caption>John Kander and Fred Ebb, <q>Theme from <pubtitle>New York, New York</pubtitle></q> (1977)</caption>
                 <idx><h>songs (popular)</h><h><q>Theme from <pubtitle>New York, New York</pubtitle></q> (Liza Minnelli)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-T-P-D-T-new-york">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="5-pyc_z7WbY" start="16" end="28" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-T-P-D-T-new-york">
+                    <description/>
+                </image>
+                <video youtube="5-pyc_z7WbY" start="16" end="28" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Meghan Trainor and Kevin Kadish, <q>All About That Bass</q> (bass line and chord symbols only) (2014)</caption>
                 <idx><h>songs (popular)</h><h><q>All About That Bass</q> (Meghan Trainor)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-T-P-D-T-trainor">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="7PCkvCPvDXk" start="0" end="16" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-T-P-D-T-trainor">
+                    <description/>
+                </image>
+                <video youtube="7PCkvCPvDXk" start="0" end="16" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>Here are examples with <chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="V"/><ndash/><chord root="I"/> realizing the Ton-PreDom-Dom-Ton progression.</p>
             <figure>
                 <caption>Fr&#x00E9;d&#x00E9;ric Chopin, Waltz in A-flat major, Op. 34 No. 1</caption>
                 <idx><h>Chopin, Fr&#x00E9;d&#x00E9;ric</h><h>Waltz in A-flat major, Op. 34 No. 1</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-I-IV-V-I-chopin">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="pceSX1hceOI" start="11" end="16" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-I-IV-V-I-chopin">
+                    <description/>
+                </image>
+                <video youtube="pceSX1hceOI" start="11" end="16" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>David Crane, Marta Kauffman, Michael Skloff, Allee Willis, Phil Solem, Danny Wilde, <q>I'll Be There For You</q> (bass line and chords only) (1995)</caption>
                 <idx><h>songs (popular)</h><h><q>I'll Be There For You</q> (The Rembrandts)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/harmony-I-IV-V-rembrandts">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="CXnEgbDcITo" start="31" end="37" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/harmony-I-IV-V-rembrandts">
+                    <description/>
+                </image>
+                <video youtube="CXnEgbDcITo" start="31" end="37" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>Progressions using <chord root="vii" mode="diminished"/> (<chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/> and <chord root="I"/><ndash/><chord root="ii"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="I"/>) are less common because of the instability of diminished chords.</p>
         </subsection>
@@ -635,16 +443,10 @@
                 <figure>
                     <caption>Ludwig van Beethoven, Path&#x00E9;tique Sonata, Op. 13, I</caption>
                     <idx><h>Beethoven</h><h>Path&#x00E9;tique Sonata, Op. 13, I, closing theme</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit2/harmony-I-vi-ii6-V-pathetique">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="SSeveT_9ZxE" start="197" end="205" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit2/harmony-I-vi-ii6-V-pathetique">
+                        <description/>
+                    </image>
+                    <video youtube="SSeveT_9ZxE" start="197" end="205" play-at="select" preview="generic" width="25%"/>
                 </figure>
             </introduction>
             <subsubsection xml:id="I-vi-IV-V">
@@ -659,36 +461,28 @@
                         <li>
                             <p>
                                 Hoagy Carmichael and Frank Loesser, <q>Heart and Soul</q> (in C major)
-                                <sidebyside margins="37%">
-                                    <video youtube="pNjpTOB4ksY" start="19" end="35" play-at="select" preview="generic"/>
-                                </sidebyside>
+                                <video youtube="pNjpTOB4ksY" start="19" end="35" play-at="select" preview="generic" width="25%"/>
                                 <idx><h>songs (popular)</h><h><q>Heart and Soul</q></h></idx>
                             </p>
                         </li>
                         <li>
                             <p>
                                 Curtis Williams, Jesse Belvin, Gaynel Hodge, <q>Earth Angel</q> (in A-flat major) (1954)
-                                <sidebyside margins="37%">
-                                    <video youtube="VJcGi4-n_Yw" start="0" end="20" play-at="select" preview="generic"/>
-                                </sidebyside>
+                                <video youtube="VJcGi4-n_Yw" start="0" end="20" play-at="select" preview="generic" width="25%"/>
                                 <idx><h>songs (popular)</h><h><q>Earth Angel</q> (The Penguins)</h></idx>
                             </p>
                         </li>
                         <li>
                             <p>
                                 Dolly Parton, <q>I Will Always Love You</q> (in A major) (1974)
-                                <sidebyside margins="37%">
-                                    <video youtube="3JWTaaS7LdU" start="106" end="129" play-at="select" preview="generic"/>
-                                </sidebyside>
+                                <video youtube="3JWTaaS7LdU" start="106" end="129" play-at="select" preview="generic" width="25%"/>
                                 <idx><h>songs (popular)</h><h><q>I Will Always Love You</q> (Whitney Houston)</h></idx>
                             </p>
                         </li>
                         <li>
                             <p>
                                 Johnny Ramone, Dee Dee Ramone, Joey Ramone, <q>Rock ‘n’ Roll High School</q> (in C major)
-                                <sidebyside margins="37%">
-                                    <video youtube="vSkQEoZngyc" start="50" end="57" play-at="select" preview="generic"/>
-                                </sidebyside>
+                                <video youtube="vSkQEoZngyc" start="50" end="57" play-at="select" preview="generic" width="25%"/>
                                 <idx><h>songs (popular)</h><h><q>Rock ‘n’ Roll High School</q> (The Ramones)</h></idx>
                             </p>
                         </li>
@@ -700,9 +494,7 @@
                         <li>
                             <p>
                                 John Stephens and Toby Gad, <q>All of Me</q> (in A-flat major) (2013)
-                                <sidebyside margins="37%">
-                                    <video youtube="450p7goxZqg" start="62" end="80" play-at="select" preview="generic"/>
-                                </sidebyside>
+                                <video youtube="450p7goxZqg" start="62" end="80" play-at="select" preview="generic" width="25%"/>
                                 <idx><h>songs (popular)</h><h><q>All of Me</q> (John Legend)</h></idx>
                             </p>
                         </li>
@@ -712,16 +504,10 @@
                 <figure>
                     <caption>Nasri Atwey, Adam Messinger, Mark Pellizzer, Ben Spivak, Alex Tanas, <q>Rude</q> (bass line and chords only) (2014)</caption>
                     <idx><h>songs (popular)</h><h><q>Rude</q> (by MAGIC!)</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
                             <image source="images/unit2/harmony-I-vi-IV-V-rotated-rude">
                                 <description/>
                             </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="PIh2xe4jnpk" start="14" end="21" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                            <video youtube="PIh2xe4jnpk" start="14" end="21" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 <p>You will see more examples of Tonic-Tonic Prolongation-PreDominant-Dominant progressions, including the use of the <chord root="iii"/> chord, in the Practice Exercises and the Homework.</p>
                 <p>Remember, there are two exceptions in Harmonic Function: <chord root="IV"/> has tonic prolongation function when it progresses to <chord root="I"/>, and <chord root="I" bass="5th"/> has dominant function when it progresses to <chord root="V"/>.</p>
@@ -745,16 +531,10 @@
         <figure>
             <caption>Keith Forsey, Giorgio Moroder, Irene Cara, <q>Flashdance... What A Feeling</q> (1983)</caption>
             <idx><h>songs (popular)</h><h><q>Flashdance... What A Feeling</q> (Irene Cara)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-exceptions-flashdance">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="Q4TK82N1nEk" start="10" end="21" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-exceptions-flashdance">
+                <description/>
+            </image>
+            <video youtube="Q4TK82N1nEk" start="10" end="21" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The sequence is between the first two bars and the last two bars of the example.</p>
         <figure>
@@ -765,16 +545,10 @@
         <figure>
             <caption>Don Felder, Don Henley, Glenn Frey, <q>Hotel California</q> (1977)</caption>
             <idx><h>songs (popular)</h><h><q>Hotel California</q> (The Eagles)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-exceptions-hotel-cal">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="YW4dzWE1SUs" start="12" end="39" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-exceptions-hotel-cal">
+                <description/>
+            </image>
+            <video youtube="YW4dzWE1SUs" start="12" end="39" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The example below shows how these exceptions come about through harmonic sequences.</p>
         <figure>
@@ -796,62 +570,38 @@
         <figure>
             <caption>Lennon-McCartney, <q>Hey Jude</q> (bass line and chords only) (1968)</caption>
             <idx><h>songs (popular)</h><h><q>Hey Jude</q> (Beatles)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-bVII-hey-jude">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="A_MjCqQoLLA" start="271" end="284" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-bVII-hey-jude">
+                <description/>
+            </image>
+            <video youtube="A_MjCqQoLLA" start="271" end="284" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Consider the following questions: When a phrase ends on the <chord root="IV"/> chord, does it have dominant function (i.e, is it a half cadence)? Does <chord root="IV"/> have dominant function in popular music when it progresses to <chord root="I"/>? If so, does <flat/><chord root="VII"/> have pre-dominant function in the above progression?</p>
         <p>Notice that <flat/><chord root="VII"/> begins the phrase in the following example, and proceeds to a <chord root="IV"/><ndash/><chord root="I"/> conclusion.</p>
         <figure>
             <caption>U2, <q>Desire</q> (bass line and chords) (1988)</caption>
             <idx><h>songs (popular)</h><h><q>Desire</q> (U2)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-bVII-U2-desire">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="z8rQ575DWD8" start="29" end="34" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-bVII-U2-desire">
+                <description/>
+            </image>
+            <video youtube="z8rQ575DWD8" start="29" end="34" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The following example has <flat/><chord root="VII"/> preceding <em>and following</em> the <chord root="IV"/> chord. Does the <flat/><chord root="VII"/> chord have tonic prolongation as labeled, or is it <q>pre pre-dominant</q> in function?</p>
         <figure>
             <caption>Keith Forsey and Steve Schiff, <q>Don’t You (Forget About Me)</q> (bass line and chords) (1985)</caption>
             <idx><h>songs (popular)</h><h><q>Don’t You (Forget About Me)</q> (Simple Minds)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-bVII-dont-you-forget">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="CdqoNKCCt7A" start="37" end="46" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-bVII-dont-you-forget">
+                <description/>
+            </image>
+            <video youtube="CdqoNKCCt7A" start="37" end="46" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example with <flat/><chord root="VII"/> cadencing to the <chord root="I"/> chord in the first four bars then progressing to the <chord root="vi"/> chord in a deceptive cadence in the second four bars.</p>
         <figure>
             <caption>Walter Becker and Donald Fagen, <q>Reelin’ in the Years</q> (bass line and chords)</caption>
             <idx><h>songs (popular)</h><h><q>Reelin’ in the Years</q> (Steely Dan)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-bVII-reelin-in-the-years">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="GaH25Sghoqc" start="58" end="73" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-bVII-reelin-in-the-years">
+                <description/>
+            </image>
+            <video youtube="GaH25Sghoqc" start="58" end="73" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="BestsellerProgression">
@@ -866,16 +616,10 @@
         <figure>
             <caption>Adele Adkins and Dan Wilson, <q>Someone Like You</q> (2011)</caption>
             <idx><h>songs (popular)</h><h><q>Someone Like You</q> (Adele)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-bestseller-someone-like-you">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="hLQl3WQQoQ0" start="73" end="81" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-bestseller-someone-like-you">
+                <description/>
+            </image>
+            <video youtube="hLQl3WQQoQ0" start="73" end="81" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The <chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/> progression can be rotated to become <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> and <chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/><ndash/><chord root="vi"/>.</p>
         <figure>
@@ -886,16 +630,10 @@
         <figure>
             <caption>Adele Adkins and Greg Kursten, <q>Hello</q> (2015)</caption>
             <idx><h>songs (popular)</h><h><q>Hello</q> (Adele)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-bestseller-hello">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="YQHsXMglC9A" start="141" end="154" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-bestseller-hello">
+                <description/>
+            </image>
+            <video youtube="YQHsXMglC9A" start="141" end="154" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The <chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="I"/><ndash/><chord root="V"/> progression can also be thought of as being in minor: <chord root="i"/><ndash/><chord root="VI"/><ndash/><chord root="III"/><ndash/><chord root="VII"/></p>
         <figure>
@@ -907,16 +645,10 @@
         <figure>
             <caption>Christopher Stewart, Terius Nash, Kuk Harrell, Shawn Carter, <q>Umbrella</q> (2007)</caption>
             <idx><h>songs (popular)</h><h><q>Umbrella</q> (Rihanna)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-bestseller-umbrella">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="CvBfHwUxHIk" start="66" end="78" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-bestseller-umbrella">
+                <description/>
+            </image>
+            <video youtube="CvBfHwUxHIk" start="66" end="78" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="i-VII-VI-VII">
@@ -927,30 +659,18 @@
         <figure>
             <caption>Jimmy Page and Robert Plant, <q>Stairway to Heaven</q> (chords and bass line only) (1970)</caption>
             <idx><h>songs (popular)</h><h><q>Stairway to Heaven</q> (Led Zeppelin)</h></idx>
-            <sbsgroup>
-                <sidebyside>
                     <image source="images/unit2/harmony-i-VII-VI-stairway">
                         <description/>
                     </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="iXQUu5Dti4g" start="403" end="414" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+                    <video youtube="iXQUu5Dti4g" start="403" end="414" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Adele Adkins and Paul Epworth, <q>Rolling In The Deep</q> (chords and bass line only) (2010)</caption>
             <idx><h>songs (popular)</h><h><q>Rolling In The Deep</q> (Adele)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-i-VII-VI-rolling-in-the">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="rYEDA3JcQqw" start="57" end="69" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-i-VII-VI-rolling-in-the">
+                <description/>
+            </image>
+            <video youtube="rYEDA3JcQqw" start="57" end="69" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression can also be rotated to become <chord root="VI"/><ndash/><chord root="VII"/><ndash/><chord root="i"/><ndash/><chord root="VII"/>.</p>
         <figure>
@@ -961,30 +681,18 @@
         <figure>
             <caption>Christopher Bridges, Calvin Broadus, Johnny Mollings, Lenny Mollings, William Roberts II, <q>All I Do Is Win</q> (chords and bass line) (2010)</caption>
             <idx><h>songs (popular)</h><h><q>All I Do Is Win</q> (DJ Khaled)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-i-VII-VI-all-i-do">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="4RYlgoQrshw" start="5" end="17" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-i-VII-VI-all-i-do">
+                <description/>
+            </image>
+            <video youtube="4RYlgoQrshw" start="5" end="17" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Philip Glass, Metamorphosis Two (1989)</caption>
             <idx><h>Glass, Philip</h><h>Metamorphosis Two</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/harmony-i-VII-VI-glass">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="F6AggxvVFRY" start="56" end="75" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/harmony-i-VII-VI-glass">
+                <description/>
+            </image>
+            <video youtube="F6AggxvVFRY" start="56" end="75" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The <chord root="i"/><ndash/><chord root="VII"/><ndash/><chord root="VI"/><ndash/><chord root="VII"/> progression can also be thought of as being in a major key: <chord root="vi"/><ndash/><chord root="V"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>.</p>
         <figure>
@@ -1007,17 +715,13 @@
                         <ol>
                             <li>
                                 <p>In F major:</p>
-                                <sidebyside>
-                                    <image source="images/unit2/PRAC-EXER-harmony-write-circle-F">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
+                                <image source="images/unit2/PRAC-EXER-harmony-write-circle-F">
+                                    <description/>
+                                </image>
                             </li>
                             <li>
                                 <p>In B minor:</p>
-                                <sidebyside>
-                                    <image source="images/unit2/PRAC-EXER-harmony-write-circle-b"/>
-                                </sidebyside>
+                                <image source="images/unit2/PRAC-EXER-harmony-write-circle-b"/>
                             </li>
                         </ol>
                     </p>
@@ -1046,9 +750,7 @@
             <exercise>
                 <statement>
                     <p>Review. Write the following intervals above the given note.</p>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-harmony-write-interval-review"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-harmony-write-interval-review"/>
                 </statement>
                 <answer>
                     <p>1. A<doubleflat/>, 2. A<sharp/>, 3. D, 4. C<sharp/>, 5. G, 6. G</p>
@@ -1057,9 +759,7 @@
             <exercise>
                 <statement>
                     <p>Review. Given the lead-sheet symbol and key, write the key signature, triad or seventh chord, and Roman numeral.</p>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-harmony-write-RN-review"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-harmony-write-RN-review"/>
                 </statement>
                 <answer>
                     <p>1. 4 flats in key signature, iv, B<flat/>-D<flat/>-F</p>
@@ -1075,14 +775,10 @@
             <exercise>
                 <statement>
                     <p>Review. Correct the rhythmic notation of the following example.</p>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-harmony-rhy-correct-review"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-harmony-rhy-correct-review"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-harmony-rhy-correct-review-ANSWER"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-harmony-rhy-correct-review-ANSWER"/>
                 </answer>
             </exercise>
         </exercisegroup>
@@ -1093,26 +789,24 @@
             <exercise>
                 <statement>
                     <p>For each cadence, label the chord(s) involved.</p>
-                    <sidebyside>
-                        <tabular halign="left">
-                            <row>
-                                <cell>Half Cadence =</cell>
-                                <cell><fillin characters="4"/></cell>
-                            </row>
-                            <row>
-                                <cell>Deceptive Cadence =</cell>
-                                <cell><fillin characters="4"/> <fillin characters="4"/></cell>
-                            </row>
-                            <row>
-                                <cell>Plagal Cadence =</cell>
-                                <cell><fillin characters="4"/> <fillin characters="4"/></cell>
-                            </row>
-                            <row>
-                                <cell>Authentic Cadence =</cell>
-                                <cell><fillin characters="4"/> <fillin characters="4"/></cell>
-                            </row>
-                        </tabular>
-                    </sidebyside>
+                    <tabular halign="left">
+                        <row>
+                            <cell>Half Cadence =</cell>
+                            <cell><fillin characters="4"/></cell>
+                        </row>
+                        <row>
+                            <cell>Deceptive Cadence =</cell>
+                            <cell><fillin characters="4"/> <fillin characters="4"/></cell>
+                        </row>
+                        <row>
+                            <cell>Plagal Cadence =</cell>
+                            <cell><fillin characters="4"/> <fillin characters="4"/></cell>
+                        </row>
+                        <row>
+                            <cell>Authentic Cadence =</cell>
+                            <cell><fillin characters="4"/> <fillin characters="4"/></cell>
+                        </row>
+                    </tabular>
                 </statement>
                 <answer>
                     <p>HC = V</p>
@@ -1124,35 +818,31 @@
             <exercise>
                 <statement>
                     <p>Analyze the following progressions with lead-sheet symbols above and Roman numerals below.</p>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-harmony-analyzing-four-chord-progs"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-harmony-analyzing-four-chord-progs"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <tabular halign="left">
-                            <row>
-                                <cell>In F major:</cell>
-                                <cell>In E major:</cell>
-                            </row>
-                            <row>
-                                <cell>1. F, I</cell>
-                                <cell>1. C<sharp/>m, vi</cell>
-                            </row>
-                            <row>
-                                <cell>2. Dm, vi</cell>
-                                <cell>2. A, IV</cell>
-                            </row>
-                            <row>
-                                <cell>3. Gm/B<flat/>, ii/3rd</cell>
-                                <cell>3. E, I</cell>
-                            </row>
-                            <row>
-                                <cell>4. C, V</cell>
-                                <cell>4. B, V</cell>
-                            </row>
-                        </tabular>
-                    </sidebyside>
+                    <tabular halign="left">
+                        <row>
+                            <cell>In F major:</cell>
+                            <cell>In E major:</cell>
+                        </row>
+                        <row>
+                            <cell>1. F, I</cell>
+                            <cell>1. C<sharp/>m, vi</cell>
+                        </row>
+                        <row>
+                            <cell>2. Dm, vi</cell>
+                            <cell>2. A, IV</cell>
+                        </row>
+                        <row>
+                            <cell>3. Gm/B<flat/>, ii/3rd</cell>
+                            <cell>3. E, I</cell>
+                        </row>
+                        <row>
+                            <cell>4. C, V</cell>
+                            <cell>4. B, V</cell>
+                        </row>
+                    </tabular>
                 </answer>
             </exercise>
             <exercise>
@@ -1164,14 +854,10 @@
                         <li><p>Analyze the harmonic function of each harmony using the abbreviations <q>ton.</q> for tonic function, <q>dom.</q> for dominant function, <q>pre-dom.</q> for pre-dominant function, and <q>ton. prol.</q> for tonic prolongation function</p></li>
                         <li><p>Specify the cadence that ends the progression</p></li>
                     </ol>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-harmony-write-analyze-progs"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-harmony-write-analyze-progs"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-harmony-D-maj-prog-answer"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-harmony-D-maj-prog-answer"/>
                 </answer>
             </exercise>
         </exercisegroup>

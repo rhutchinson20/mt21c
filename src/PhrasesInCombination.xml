@@ -10,11 +10,9 @@
             <li><p>Both chords in root position</p></li>
             <li><p>Tonic scale degree (<scaledeg>1</scaledeg>) in the highest voice of the tonic chord</p></li>
         </ol>
-        <sidebyside margins="20%">
-            <image source="images/unit3/phrases-PAC-example">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit3/phrases-PAC-example" width="60%">
+            <description/>
+        </image>
         <p>If at least one of these requirements is not met (one or both of the chords are inverted, tonic is not in the highest voice, or <chord root="vii" mode="diminished"/> occurs in place of <chord root="V"/>), the cadence is an <term>Imperfect Authentic Cadence</term><idx><h>imperfect authentic cadence</h><h>definition of</h></idx> (IAC).</p>
     </section>
     <section xml:id="SentenceStructure">
@@ -25,46 +23,28 @@
             <caption>Sentence Structure in Mozart, K. 331, I</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 331, I</h><h>sentence structure in</h></idx>
             <idx><h>sentence structure</h><h>example of</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/phrases-sentence-moz-k331i">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="vp_h649sZ9A" start="3" end="15" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/phrases-sentence-moz-k331i">
+                <description/>
+            </image>
+            <video youtube="vp_h649sZ9A" start="3" end="15" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the next example, Beethoven changes the intervals of subphrase a in measures 3<ndash/>4 to fit the dominant harmony. He extracts motive 2 from subphrases a and a’ in measures 5<ndash/>6. Measures 7<ndash/>8 lead to a half cadence.</p>
         <figure>
             <caption>Sentence Structure in Beethoven, Op. 2, No. 1, I</caption>
             <idx><h>Beethoven</h><h>Piano Sonata Op. 2, No. 1, I</h><h>sentence structure in</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/phrases-sentence-beeth-op2no1iC">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="G8yuCJGWS20" start="0" end="11" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/phrases-sentence-beeth-op2no1iC">
+                <description/>
+            </image>
+            <video youtube="G8yuCJGWS20" start="0" end="11" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the next example, unrelated material follows subphrase a and its repetition.</p>
         <figure>
             <caption>Sentence Structure in Mozart, K. 333, I (1783)</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata, K. 333, I</h><h>sentence structure in</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/phrases-sentence-moz-k333-st">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="PmO3Wlono6w" start="381" end="397" play-at="select" preview="generic"/> 
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/phrases-sentence-moz-k333-st">
+                <description/>
+            </image>
+            <video youtube="PmO3Wlono6w" start="381" end="397" play-at="select" preview="generic" width="25%"/> 
         </figure>
     </section>
     <section xml:id="PeriodForm">
@@ -75,24 +55,22 @@
         <subsection xml:id="ConclusivenessOfCadence">
             <title>Conclusiveness of Cadence</title>
             <p>Because period form involves <q>more conclusive</q> and <q>less conclusive</q> cadences, it is important to distinguish between inconclusive and conclusive cadences. Conclusive cadences end on the tonic chord, while inconclusive cadences do not.</p>
-            <sidebyside>
-                <tabular halign="center">
-                    <col right="minor"/>
-                    <col/>
-                    <row header="yes" bottom="major">
-                        <cell><em>Inconclusive Cadences</em></cell>
-                        <cell><em>Conclusive Cadences</em></cell>
-                    </row>
-                    <row>
-                        <cell>Deceptive Cadence (<chord root="V"/><ndash/><chord root="vi"/>)</cell>
-                        <cell>Authentic Cadence (<chord root="V"/><ndash/><chord root="I"/>)</cell>
-                    </row>
-                    <row>
-                        <cell>Half Cadence (ends on <chord root="V"/>)</cell>
-                        <cell>Plagal Cadence (<chord root="IV"/><ndash/><chord root="I"/>)</cell>
-                    </row>
-                </tabular>
-            </sidebyside>
+            <tabular halign="center">
+                <col right="minor"/>
+                <col/>
+                <row bottom="major">
+                    <cell><em>Inconclusive Cadences</em></cell>
+                    <cell><em>Conclusive Cadences</em></cell>
+                </row>
+                <row>
+                    <cell>Deceptive Cadence (<chord root="V"/><ndash/><chord root="vi"/>)</cell>
+                    <cell>Authentic Cadence (<chord root="V"/><ndash/><chord root="I"/>)</cell>
+                </row>
+                <row>
+                    <cell>Half Cadence (ends on <chord root="V"/>)</cell>
+                    <cell>Plagal Cadence (<chord root="IV"/><ndash/><chord root="I"/>)</cell>
+                </row>
+            </tabular>
             <p>In addition, the <xref ref="PerfectAuthenticCadence" text="custom">perfect authentic cadence</xref> (PAC) is more conclusive than the imperfect authentic cadence (IAC). While the plagal cadence (PC) occurs less frequently than the other three cadences listed in the table above, it will sometimes occur in root position at the end of a phrase after an inverted imperfect authentic cadence (IAC) has concluded a previous phrase, with the understanding that a root position PC could be considered more conclusive than an inverted IAC.</p>
             <p>Generally, a period will either contain a phrase ending in a half cadence (HC) followed by a phrase ending in an authentic cadence (IAC or PAC), or it will contain a phrase ending in an IAC following by a phrase ending in a PAC.</p>
         </subsection>
@@ -102,16 +80,10 @@
             <figure>
                 <caption>Mozart, Piano Sonata K. 331, I</caption>
                 <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 331, I</h><h>period form</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit3/phrases-period-K331">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="vp_h649sZ9A" start="3" end="25" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit3/phrases-period-K331">
+                    <description/>
+                </image>
+                <video youtube="vp_h649sZ9A" start="3" end="25" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>Here is a formal diagram of the above example.</p>
             <figure>
@@ -125,38 +97,24 @@
             <figure>
                 <caption>Joseph Haydn, Piano Sonata in F Major, Hob. XVI:9, III. Scherzo</caption>
                 <idx><h>Haydn, Joseph</h><h>Piano Sonata in F Major, Hob. XVI:9, III</h><h>period form</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit3/phrases-period-haydn-pno">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="hmu-6FJT5Bw" start="0" end="8" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit3/phrases-period-haydn-pno">
+                    <description/>
+                </image>
+                <video youtube="hmu-6FJT5Bw" start="0" end="8" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>In the next example, the first phrase ends with an IAC and is followed by a second phrase ending with a PAC.</p>
             <figure>
                 <caption>Beethoven, Bagatelle in A minor, WoO 59, <q>F&#x00FC;r Elise</q></caption>
                 <idx><h>Beethoven</h><h>Bagatelle in A minor, WoO 59, <q>F&#x00FC;r Elise</q></h><h>period form</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit3/phrases-period-fur-elise">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="GwcyH-aWUc8" start="0" end="13" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit3/phrases-period-fur-elise">
+                    <description/>
+                </image>
+                <video youtube="GwcyH-aWUc8" start="0" end="13" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>Another example with a less conclusive cadence followed by a more conclusive cadence is <q>Lean on Me</q> by Bill Withers.</p>
             <figure>
                 <caption><q>Lean on Me</q> (1972) by Bill Withers</caption>
-                <sidebyside margins="37%">
-                    <video youtube="fOZ-MySzAac" start="0" end="27" play-at="select" preview="generic"/>
-                </sidebyside>
+                <video youtube="fOZ-MySzAac" start="0" end="27" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection xml:id="AntecedentsAndConsequents">
@@ -165,16 +123,10 @@
             <figure>
                 <caption>Antecedent and Consequent in Mozart, Piano Sonata K. 331, I</caption>
                 <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 331, I</h><h>antecendent and consequent in</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit3/phrases-period-331-w-antecedent-consequent">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="vp_h649sZ9A" start="3" end="25" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit3/phrases-period-331-w-antecedent-consequent">
+                    <description/>
+                </image>
+                <video youtube="vp_h649sZ9A" start="3" end="25" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection xml:id="ParallelAndContrastingPeriods">
@@ -186,24 +138,16 @@
             <figure>
                 <caption>Beethoven, Piano Sonata in C minor, Op. 13, (Path&#x00E9;tique), II</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata in C minor, Op. 13, (Path&#x00E9;tique), II</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit3/phrases-period-contrasting-pathetique-ii">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="SrcOcKYQX3c" start="586" end="624" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit3/phrases-period-contrasting-pathetique-ii">
+                    <description/>
+                </image>
+                <video youtube="SrcOcKYQX3c" start="586" end="624" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Formal diagram of the example above (2nd movement of Beethoven Path&#x00E9;tique sonata)</caption>
-                <sidebyside>
-                    <image source="images/unit3/phrases-period-diagram-cont-HC-PAC">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit3/phrases-period-diagram-cont-HC-PAC">
+                    <description/>
+                </image>
             </figure>
         </subsection>
         <subsection xml:id="RepeatedPhrase">
@@ -212,24 +156,16 @@
             <figure>
                 <caption>Robert Schumann, Album for the Young, Op. 68, No. 17, <q>Little Morning Wanderer</q></caption>
                 <idx><h>Schumann, Robert</h><h>Album for the Young, Op. 68, No. 17, <q>Little Morning Wanderer</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
                         <image source="images/unit3/phrases-repeated-phrase-schumann">
                             <description/>
                         </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="Qy8NLd7d6VE" start="0" end="17" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                        <video youtube="Qy8NLd7d6VE" start="0" end="17" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Formal diagram of the example above (<q>Little Morning Wanderer</q>)</caption>
-                <sidebyside>
-                    <image source="images/unit3/phrases-repeated-phrase-diagram">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit3/phrases-repeated-phrase-diagram">
+                    <description/>
+                </image>
             </figure>
             <p>In following two sections, we will examine periods containing more than two phrases.</p>
         </subsection>
@@ -240,16 +176,10 @@
         <figure>
             <caption>Fr&#x00E9;d&#x00E9;ric Chopin, Prelude Op. 28, No. 20, in C minor</caption>
             <idx><h>Chopin, Fr&#x00E9;d&#x00E9;ric</h><h>Prelude Op. 28, No. 20, in C minor</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/phrases-asymmetrical-period-chopin-prelude">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="UPptFNwQppA" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/phrases-asymmetrical-period-chopin-prelude">
+                <description/>
+            </image>
+            <video youtube="UPptFNwQppA" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="DoublePeriodForm">
@@ -261,53 +191,32 @@
             <figure>
                 <caption>Beethoven, Piano Sonata Op. 10, No. 1, II</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata Op. 10, No. 1, II (double period)</h></idx>
-                <sbsgroup>
-                    <!--Original 4 system image <sidebyside>
-                        <image source="images/unit3/phrases-double-period-op-10-no-1-II">
-                            <description/>
-                        </image>
-                    </sidebyside>-->
-                    <sidebyside>
-                        <image source="images/unit3/phrases-double-period-op-10-no-1-II-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit3/phrases-double-period-op-10-no-1-II-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit3/phrases-double-period-op-10-no-1-II-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit3/phrases-double-period-op-10-no-1-II-D">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="VlfL9LWtCls" start="365" end="440" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit3/phrases-double-period-op-10-no-1-II-A">
+                    <description/>
+                </image>
+                <image source="images/unit3/phrases-double-period-op-10-no-1-II-B">
+                    <description/>
+                </image>
+                <image source="images/unit3/phrases-double-period-op-10-no-1-II-C">
+                    <description/>
+                </image>
+                <image source="images/unit3/phrases-double-period-op-10-no-1-II-D">
+                    <description/>
+                </image>
+                <video youtube="VlfL9LWtCls" start="365" end="440" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Formal diagram of a double period (Beethoven, Op. 10, No. 1, II)</caption>
-                <sidebyside>
-                    <image source="images/unit3/phrases-double-period-op-10-diagram">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit3/phrases-double-period-op-10-diagram">
+                    <description/>
+                </image>
             </figure>
             <p>A double period will typically have one of the following cadential schemes:</p>
             <figure>
                 <caption>Possible cadential schemes in a double period</caption>
-                <sidebyside>
-                    <image source="images/unit3/phrases-double-period-cadential-schemes-diagram">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit3/phrases-double-period-cadential-schemes-diagram">
+                    <description/>
+                </image>
             </figure>
             <p>Notice that the first two phrases of an antecedent group can consist of an IAC followed by a HC (<q>Scheme 3</q> in the above example). This may seem confusing if you are focused on analyzing phrases solely in groups of two instead considering how many phrases are in a section before analyzing the cadential scheme and the form.</p>
         </introduction>
@@ -317,33 +226,23 @@
             <figure>
                 <caption>Beethoven, Piano Sonata Op. 53, I</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata Op. 53, I (repeated period)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit3/phrases-repeated-period-waldstein">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="lbblMw6k1cU" start="52" end="80" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit3/phrases-repeated-period-waldstein">
+                    <description/>
+                </image>
+                <video youtube="lbblMw6k1cU" start="52" end="80" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>Examine the difference between these two formal diagrams, noting the cadence after the <em>second</em> phrase in each:</p>
             <figure>
                 <caption>Formal diagram of a repeated period (Beethoven, Op. 53, I)</caption>
-                <sidebyside>
-                    <image source="images/unit3/phrases-repeated-period-waldstein-diagram">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit3/phrases-repeated-period-waldstein-diagram">
+                    <description/>
+                </image>
             </figure>
             <figure>
                 <caption>Formal diagram of a double period (Beethoven, Op. 10, No. 1, II)</caption>
-                <sidebyside>
-                    <image source="images/unit3/phrases-double-period-op-10-diagram">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit3/phrases-double-period-op-10-diagram">
+                    <description/>
+                </image>
             </figure>
             <p>In the next section we will examine phrase combinations that are not periods.</p>
         </subsection>
@@ -354,31 +253,19 @@
         <figure>
             <caption>Fran&#x00E9;ois Couperin, 5 Pi&#x00E8;ces de Clavecin, 4. Le Petit-Rien (Ordre XIV, 8)</caption>
             <idx><h>Couperin, Fran&#x00E9;ois</h><h>5 Pi&#x00E8;ces de Clavecin, 4. Le Petit-Rien (Ordre XIV, 8) (phrase group)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/phrases-phrase-group-couperin">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="oh6ByhUep0s" start="31" end="39" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/phrases-phrase-group-couperin">
+                <description/>
+            </image>
+            <video youtube="oh6ByhUep0s" start="31" end="39" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>A <term>phrase chain</term><idx><h>phrase chain</h><h>definition of</h></idx> also ends in a half cadence and consists of at least two phrases with <em>contrasting</em> melodies.</p>
         <figure>
             <caption>Beethoven, Sonatina in F, Anh. 5 No. 2, II. Rondo</caption>
             <idx><h>Beethoven</h><h>Sonatina in F, Anh. 5 No. 2, II. Rondo (phrase chain)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/phrases-phrase-chain-beethoven-rondo">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="O93GspATPzs" start="57" end="70" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/phrases-phrase-chain-beethoven-rondo">
+                <description/>
+            </image>
+            <video youtube="O93GspATPzs" start="57" end="70" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="Elision">
@@ -387,16 +274,10 @@
         <figure>
             <caption>Mozart, <pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I.</caption>
             <idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I. (elision)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/phrases-elision-mozart">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="TpPuLwtDQrY" start="20" end="39" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/phrases-elision-mozart">
+                <description/>
+            </image>
+            <video youtube="TpPuLwtDQrY" start="20" end="39" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="SummaryOfPhrasesInCombination">
@@ -408,7 +289,7 @@
                 <col right="minor"/>
                 <col right="minor"/>
                 <col/>
-                <row valign="top" header="yes" bottom="medium">
+                <row valign="top" bottom="medium">
                     <cell><em>Number of Phrases</em></cell>
                     <cell><em>Form</em></cell>
                     <cell><em>Melodic Scheme</em></cell>
@@ -444,7 +325,7 @@
                     <cell><em>a b</em></cell>
                     <cell>Ends with HC</cell>
                 </row>
-                <row valign="top" header="yes" bottom="medium">
+                <row valign="top" bottom="medium">
                     <cell/>
                     <cell><xref ref="RepeatedPhrase" text="custom">Repeated Phrase</xref></cell>
                     <cell><em>a a</em></cell>
@@ -471,7 +352,7 @@
                     </cell>
                     <cell>Ends with HC</cell>
                 </row>
-                <row valign="top" header="yes" bottom="medium">
+                <row valign="top" bottom="medium">
                     <cell/>
                     <cell><xref ref="PhraseGroupsAndPhraseChains" text="custom">Phrase Chain</xref></cell>
                     <cell><em>a b c</em></cell>
@@ -482,16 +363,18 @@
                     <cell><xref ref="DoublePeriodForm" text="custom">Double Period</xref></cell>
                     <cell>
                         <line><em>a b a b'</em> or</line>
-                        <line><em>a a' a a"</em> or</line> 
+                        <line><em>a b a c</em> or</line> 
+                        <line><em>a a' a a"</em> or</line>
                         <line><em>a a' a b</em></line>
                     </cell>
                     <cell>
                         <line>HC<ndash/>HC<ndash/>HC<ndash/>AC or</line>
                         <line>IAC<ndash/>IAC<ndash/>IAC<ndash/>PAC or</line>
                         <line>IAC<ndash/>HC<ndash/>IAC<ndash/>PAC</line>
+                        <line></line>
                     </cell>
                 </row>
-                <row valign="top" header="yes" bottom="major">
+                <row valign="top" bottom="major">
                     <cell/>
                     <cell><xref ref="RepeatedPeriod" text="custom">Repeated period</xref></cell>
                     <cell>
@@ -527,21 +410,15 @@
                 <title>Mozart, <q>Ein M&#x00E4;dchen oder Weibchen,</q><pubtitle>The Magic Flute</pubtitle></title>
                 <idx><h>Mozart, W.A.</h><h><pubtitle>The Magic Flute</pubtitle>, <q>Ein M&#x00E4;dchen oder Weibchen</q></h></idx>
                 <statement>
-                    <sidebyside>
-                        <image source="images/unit3/PRAC-EXER-phrases-mozart-ein-madchenA">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit3/PRAC-EXER-phrases-mozart-ein-madchenB">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit3/PRAC-EXER-phrases-mozart-ein-madchenA">
+                        <description/>
+                    </image>
+                    <image source="images/unit3/PRAC-EXER-phrases-mozart-ein-madchenB">
+                        <description/>
+                    </image>
                     <figure>
                         <caption/>
-                        <sidebyside margins="37%">
-                            <video youtube="CI0hJLioGF0" start="0" end="15" play-at="select" preview="generic"/>
-                        </sidebyside>
+                        <video youtube="CI0hJLioGF0" start="0" end="15" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </statement>
                 <answer>
@@ -560,31 +437,21 @@
                 <title>Mozart, Piano Sonata K. 333, I</title>
                 <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 333, I</h></idx>
                 <statement>
-                    <sidebyside>
-                        <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-D">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-A">
+                        <description/>
+                    </image>
+                    <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-B">
+                        <description/>
+                    </image>
+                    <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-C">
+                        <description/>
+                    </image>
+                    <image source="images/unit3/PRAC-EXER-phrases-mozart-K333-ST1-D">
+                        <description/>
+                    </image>
                     <figure>
                         <caption/>
-                        <sidebyside margins="37%">
-                            <video youtube="PmO3Wlono6w" start="351" end="381" play-at="select" preview="generic"/>
-                        </sidebyside>
+                        <video youtube="PmO3Wlono6w" start="351" end="381" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </statement>
                 <answer>
@@ -603,26 +470,18 @@
                 <title>Edmond D&#x00E9;d&#x00E9;, <pubtitle>Chicago, Grande Valse &#x00E0; l'Am&#x00E9;ricaine</pubtitle></title>
                 <idx><h>D&#x00E9;d&#x00E9;, Edmond</h><h><pubtitle>Chicago, Grande Valse &#x00E0; l'Am&#x00E9;ricaine</pubtitle></h></idx>
                 <statement>
-                    <sidebyside>
-                        <image source="images/unit3/PRAC-EXER-phrases-dede-chicago-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit3/PRAC-EXER-phrases-dede-chicago-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit3/PRAC-EXER-phrases-dede-chicago-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit3/PRAC-EXER-phrases-dede-chicago-A">
+                        <description/>
+                    </image>
+                    <image source="images/unit3/PRAC-EXER-phrases-dede-chicago-B">
+                        <description/>
+                    </image>
+                    <image source="images/unit3/PRAC-EXER-phrases-dede-chicago-C">
+                        <description/>
+                    </image>
                     <figure>
                         <caption/>
-                        <sidebyside margins="37%">
-                            <video youtube="gBeigjxviQc" start="39" end="75" play-at="select" preview="generic"/>
-                        </sidebyside>
+                        <video youtube="gBeigjxviQc" start="39" end="75" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </statement>
                 <answer>

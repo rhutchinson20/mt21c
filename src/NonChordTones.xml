@@ -8,7 +8,7 @@
         <table>
             <title/>
             <tabular halign="left">
-                <row header="yes" bottom="major">
+                <row bottom="major">
                     <cell><em>Non-Chord Tone</em></cell>
                     <cell><em>Approached by</em></cell>
                     <cell><em>Left by</em></cell>
@@ -76,47 +76,29 @@
         <figure>
             <caption>Jason Desrouleaux, Ian Kirkpatrick, Samuel Denison Martin, Lindy Robbins, Mitch Allan, <q>Want to Want Me</q> (2015)</caption>
             <idx><h>songs (popular)</h><h><q>Want to Want Me</q> (Jason Derulo)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-pt-derulo">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="rClUOdS5Zyw" start="49" end="55" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-pt-derulo">
+                <description/>
+            </image>
+            <video youtube="rClUOdS5Zyw" start="49" end="55" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the first bar of the <q>Want to Want Me</q> example, the passing tone is unaccented. In the third bar, it is accented (on the beat). The non-chord tone in bar 2 is an <xref ref="Appoggiatura" text="custom">appoggiatura</xref>.</p>
         <p>There can be two consecutive diatonic passing tones in a descending scale segment from the root and fifth of a chord.</p>
         <figure>
             <caption>Herman Hupfeld, <q>As Time Goes By</q> (1931)</caption>
             <idx><h>songs (popular)</h><h><q>As Time Goes By</q> (from the motion picture <pubtitle>Casablanca</pubtitle>)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-pt-as-time-goes">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="d22CiKMPpaY" start="17" end="23" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-pt-as-time-goes">
+                <description/>
+            </image>
+            <video youtube="d22CiKMPpaY" start="17" end="23" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example with chromatic passing tones.</p>
         <figure>
             <caption>Thelonious Monk, <q>Blue Monk</q> (1954)</caption>
             <idx><h>Monk, Thelonious</h><h><q>Blue Monk</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-pt-blue-monk">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="_40V2lcxM7k" start="3" end="8" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-pt-blue-monk">
+                <description/>
+            </image>
+            <video youtube="_40V2lcxM7k" start="3" end="8" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the next section we discuss the neighbor tone.</p>
     </section>
@@ -126,16 +108,10 @@
         <figure>
             <caption>Ludwig van Beethoven, Minuet in G, WoO 10, No. 2</caption>
             <idx><h>Beethoven</h><h>Minuet in G, WoO 10, No. 2</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-nt-beethoven-minuet">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="frrGAqzuOlA" start="0" end="4" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-nt-beethoven-minuet">
+                <description/>
+            </image>
+            <video youtube="frrGAqzuOlA" start="0" end="4" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the next section we discuss the appoggiatura.</p>
     </section>
@@ -145,46 +121,28 @@
         <figure>
             <caption>James Horner and Will Jennings, <q>My Heart Will Go On</q> (1997)</caption>
             <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <pubtitle>Titanic</pubtitle>)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-app-celine-dion">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="WNIPqafd4As" start="214" end="223" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-app-celine-dion">
+                <description/>
+            </image>
+            <video youtube="WNIPqafd4As" start="214" end="223" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The example above also has an anticipation, which is discussed in a later section in this chapter.</p>
         <figure>
             <caption>Bruce Springsteen, <q>Born to Run</q> (1975)</caption>
             <idx><h>songs (popular)</h><h><q>Born to Run</q> (Springsteen)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-app-born-to-run">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="IxuThNgl3YA" start="15" end="30" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-app-born-to-run">
+                <description/>
+            </image>
+            <video youtube="IxuThNgl3YA" start="15" end="30" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Notice that both the appoggiaturas in the following example resolve up. Both the leap to and step away from any appoggiatura can be from any direction.</p>
         <figure>
             <caption>W.A. Mozart, Symphony No. 40, K. 550, II</caption>
             <idx><h>Mozart, W.A.</h><h>Symphony No. 40, K. 550, II</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-app-550-ii">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="Fcomfvmq28Q" start="18" end="26" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-app-550-ii">
+                <description/>
+            </image>
+            <video youtube="Fcomfvmq28Q" start="18" end="26" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the next section we discuss the escape tone.</p>
     </section>
@@ -194,46 +152,28 @@
         <figure>
             <caption>Francis Scott Key and John Smith, <q>Star-Spangled Banner</q> (1814)</caption>
             <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-esc-star-spangled">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="LGvW6jHUHiY" start="83" end="92" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-esc-star-spangled">
+                <description/>
+            </image>
+            <video youtube="LGvW6jHUHiY" start="83" end="92" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is another example, with escape tones used in a melodic sequence.</p>
         <figure>
             <caption>Joseph Haydn, Piano Sonata in C Major, Hob. XVI:35, III (1780)</caption>
             <idx><h>Haydn, Joseph</h><h>Piano Sonata in C Major, Hob. XVI:35, III</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-esc-haydn">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="A-Qfd7gpGfU" start="4" end="8" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-esc-haydn">
+                <description/>
+            </image>
+            <video youtube="A-Qfd7gpGfU" start="4" end="8" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example of an escape tone in popular music.</p>
         <figure>
             <caption>Paul McCartney and Linda McCartney, <q>Silly Love Songs</q> (1976)</caption>
             <idx><h>songs (popular)</h><h><q>Silly Love Songs</q> (Wings)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-esc-mccartney">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="ap87QgZKTNw" start="154" end="167" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-esc-mccartney">
+                <description/>
+            </image>
+            <video youtube="ap87QgZKTNw" start="154" end="167" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="DoubleNeighbor">
@@ -247,31 +187,19 @@
         <figure>
             <caption>Friedrich Kuhlau, Sonatina in C Major, Op. 55, No. 1, I (1823)</caption>
             <idx><h>Kuhlau, Friedrich</h><h>Sonatina in C Major, Op. 55, No. 1, I</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-dn-kuhlau">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="ep6rzB1Kx3U" start="42" end="48" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-dn-kuhlau">
+                <description/>
+            </image>
+            <video youtube="ep6rzB1Kx3U" start="42" end="48" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The double neighbor is sometimes confused with escape tones and appoggiaturas. Be sure to keep track of chord tones when analyzing non-chord tones. Look at the next example and ask yourself how you would analyze the harmony and non-chord tones on beat 4 of the first measure.</p>
         <figure>
             <caption>W.A. Mozart, Piano Sonata K. 333, I (1784)</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 333, I</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-dn-k333i">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="PmO3Wlono6w" start="282" end="286" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-dn-k333i">
+                <description/>
+            </image>
+            <video youtube="PmO3Wlono6w" start="282" end="286" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the next section we discuss the anticipation.</p>
     </section>
@@ -281,31 +209,19 @@
         <figure>
             <caption>George Frideric Handel, <pubtitle>Rinaldo</pubtitle>, <q>Lascia ch'io pianga</q> (1711)</caption>
             <idx><h>Handel, George Frideric</h><h><pubtitle>Rinaldo</pubtitle>, <q>Lascia ch'io pianga</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-ant-handel">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="E6lV3nKg-nc" start="38" end="51" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-ant-handel">
+                <description/>
+            </image>
+            <video youtube="E6lV3nKg-nc" start="38" end="51" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example of an anticipation in popular music.</p>
         <figure>
             <caption>Debbie Harry and Giorgio Moroder, <q>Call Me</q> (1980)</caption>
             <idx><h>songs (popular)</h><h><q>Call Me</q> (Blondie)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-ant-call-me">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="StKVS0eI85I" start="32" end="39" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-ant-call-me">
+                <description/>
+            </image>
+            <video youtube="StKVS0eI85I" start="32" end="39" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Sometimes <xref ref="syncopation-definition" text="custom">syncopation</xref> will lead to an anticipation of a note in a chord in the following measure, as occurs at the ends of bars 1, 2, and 3 of the <q>Call Me</q> example.</p>
     </section>
@@ -315,31 +231,19 @@
         <figure>
             <caption>Bach, J.S., <pubtitle>Well-Tempered Clavier, Book I</pubtitle>, Prelude 1 in C major BWV 846 (1722)</caption>
             <idx><h>Bach, J.S.</h><h><pubtitle>Well-Tempered Clavier, Book I</pubtitle></h><h>Prelude 1 in C major</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-ped-pt-WTC-prel-1">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="W4271Rm9TSU" start="117" end="137" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-ped-pt-WTC-prel-1">
+                <description/>
+            </image>
+            <video youtube="W4271Rm9TSU" start="117" end="137" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example from the Romantic era.</p>
         <figure>
             <caption>Clara Schumann, Op. 13, No. 2, <q>Sie liebten sich beide</q> (1844)</caption>
             <idx><h>Schumann, Clara</h><h>Op. 13, No. 2, <q>Sie liebten sich beide</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-ped-pt-cschumann">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="jYgW5PhsQOE" start="0" end="8" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-ped-pt-cschumann">
+                <description/>
+            </image>
+            <video youtube="jYgW5PhsQOE" start="0" end="8" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The Clara Schumann example above also has a suspension (<q>3-2 sus.</q>); suspensions are discussed in the next section.</p>
         <p>When a pedal point is in the bass, it is not necessary to specify the inversion of the chord because the bass pedal point obscures the inversion.</p>
@@ -364,46 +268,28 @@
         <figure>
             <caption>Samuel Barber, <pubtitle>Adagio for Strings</pubtitle> (1936)</caption>
             <idx><h>Barber, Samuel</h><h><pubtitle>Adagio for Strings</pubtitle></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-sus-4-3-barber">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="b8G9vRqq3RI" start="0" end="15" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-sus-4-3-barber">
+                <description/>
+            </image>
+            <video youtube="b8G9vRqq3RI" start="0" end="15" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example with 7-6 and 9-8 suspensions.</p>
         <figure>
             <caption>George Frideric Handel, Suite No. 2 in D Major, HWV 349: II. Alla Hornpipe (1717)</caption>
             <idx><h>Handel, George Frideric</h><h>Suite No. 2 in D Major, HWV 349: II. All Hornpipe</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-sus-7-6-hornpipe">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="HawWrnUGH_0" start="7" end="13" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-sus-7-6-hornpipe">
+                <description/>
+            </image>
+            <video youtube="HawWrnUGH_0" start="7" end="13" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The 2-3 suspension is the <q>bass suspension</q> and is measured against an upper voice. Again, you may encounter the literal intervals 10-9 but should label the suspension as 2-3.</p>
         <figure>
             <caption>Bach, J.S., Chorale 238, <q>Liebster Jesu, wir sind hier,</q> BWV 373</caption>
             <idx><h>Bach, J.S.</h><h>Chorale 328, <q>Liebster Jesu, wir sind hier,</q> BWV 373</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-sus-2-3-bach">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="VKNcvMcGlvI" start="0" end="8" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-sus-2-3-bach">
+                <description/>
+            </image>
+            <video youtube="VKNcvMcGlvI" start="0" end="8" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>When a chord is inverted, you will sometimes encounter non-standard suspension numbers like 5-4 or 3-2.</p>
         <figure>
@@ -415,16 +301,10 @@
         <figure>
             <caption>Bach, J.S., French Suite No. 1 in D Minor, BWV 812, Sarabande (1722)</caption>
             <idx><h>Bach, J.S.</h><h>French Suite No. 1 in D Minor, BWV 812, Sarabande</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-sus-decorated-bach">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="fTwkVsECg9w" start="13" end="25" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-sus-decorated-bach">
+                <description/>
+            </image>
+            <video youtube="fTwkVsECg9w" start="13" end="25" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The <q>ret.</q> in the tenor part in the second measure is a retardation, which is covered in the next section.</p>
     </section>
@@ -434,16 +314,10 @@
         <figure>
             <caption>W.A. Mozart, Piano Sonata in C major, K. 545, II (1788)</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 545, II</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-ret-k545ii">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="hSqwR_dsecg" start="37" end="44" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-ret-k545ii">
+                <description/>
+            </image>
+            <video youtube="hSqwR_dsecg" start="37" end="44" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Classical composers like Mozart often used retardations and suspensions at cadences in slow movements.</p>
     </section>
@@ -453,20 +327,14 @@
         <figure>
             <caption>Giacomo Puccini, <pubtitle>Gianni Schicchi</pubtitle>, <q>O mio babbino caro</q> (1918)</caption>
             <idx><h>Puccini, Giacomo</h><h><pubtitle>Gianni Schicchi</pubtitle>, <q>O mio babbino caro</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/NCT-inc-nt-o-mio">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="Sf-tjXevlyQ" start="21" end="31" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/NCT-inc-nt-o-mio">
+                <description/>
+            </image>
+            <video youtube="Sf-tjXevlyQ" start="21" end="31" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>You may also find incomplete double neighbor figures, especially in late Romantic music and jazz. Keep an open mind when analyzing music.</p>
     </section>
-    <section xml:id="AddingNonChordTones">
+    <!-- <section xml:id="AddingNonChordTones">
         <title>Adding Non-Chord Tones to a Chord Progression</title>
         <p>Here are ideas for how to add non-chord tones (or <q>embellishments</q>) to the melody or inner voice part of a chord progression:
         <ol>
@@ -495,15 +363,11 @@
             <li><p>Leaps of 4th or larger: do not embellish (for now)</p></li>
         </ol></p>
         <p>Here is a basic framework with all possibilities labeled.</p>
-        <sidebyside>
-            <image source="images/unit2/NCT-writing-bare-version"/>
-        </sidebyside>
+        <image source="images/unit2/NCT-writing-bare-version"/>
         <p>Here is one possible solution:</p>
-        <sidebyside>
-            <image source="images/unit2/NCT-writing-embellishing-version"/>
-        </sidebyside>
+        <image source="images/unit2/NCT-writing-embellishing-version"/>
         <p>Notice that, when non-chord tones are added to different voices on the same beat, consonant intervals (3rds, 5ths, 6ths, or 8ves) are made. If consonant intervals can't be made, the voices are staggered rhythmically (as occurs on beats 3 and 4 in measure one of the example above).</p>
-    </section>
+    </section> -->
     <exercises xml:id="NonChordTonesPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>
@@ -514,27 +378,27 @@
                     <col left="minor" right="minor"/>
                     <col right="minor"/>
                     <col right="minor"/>
-                    <row header="yes" top="minor" bottom="major">
+                    <row top="minor" bottom="major">
                         <cell><em>Non-Chord Tone Type</em></cell>
                         <cell><em>Approached by</em></cell>
                         <cell><em>Left by</em></cell>
                     </row>
-                    <row header="yes" bottom="minor">
+                    <row bottom="minor">
                         <cell></cell>
                         <cell>same tone</cell>
                         <cell>step up</cell>
                     </row>
-                    <row header="yes" bottom="minor">
+                    <row bottom="minor">
                         <cell></cell>
                         <cell></cell>
                         <cell>leap in opposite direction</cell>
                     </row>
-                    <row header="yes" bottom="minor">
+                    <row bottom="minor">
                         <cell></cell>
                         <cell>step</cell>
                         <cell>step in same direction</cell>
                     </row>
-                    <row header="yes" bottom="minor">
+                    <row bottom="minor">
                         <cell></cell>
                         <cell>leap</cell>
                         <cell></cell>
@@ -546,27 +410,27 @@
                     <col left="minor" right="minor"/>
                     <col right="minor"/>
                     <col right="minor"/>
-                    <row header="yes" top="minor" bottom="major">
+                    <row top="minor" bottom="major">
                         <cell><em>Non-Chord Tone Type</em></cell>
                         <cell><em>Approached by</em></cell>
                         <cell><em>Left by</em></cell>
                     </row>
-                    <row header="yes" bottom="minor">
+                    <row bottom="minor">
                         <cell><em>RETARDATION</em></cell>
                         <cell>same tone</cell>
                         <cell>step up</cell>
                     </row>
-                    <row header="yes" bottom="minor">
+                    <row bottom="minor">
                         <cell><em>ESCAPE TONE</em></cell>
                         <cell><em>STEP</em></cell>
                         <cell>leap in opposite direction</cell>
                     </row>
-                    <row header="yes" bottom="minor">
+                    <row bottom="minor">
                         <cell><em>PASSING TONE</em></cell>
                         <cell>step</cell>
                         <cell>step in same direction</cell>
                     </row>
-                    <row header="yes" bottom="minor">
+                    <row bottom="minor">
                         <cell><em>APPOGGIATURA</em></cell>
                         <cell>leap</cell>
                         <cell><em>STEP</em></cell>
@@ -574,19 +438,16 @@
                 </tabular>
             </answer>
         </exercise>
-        <exercise>
+        <!-- <exercise>
             <statement>
                 <p>Analyze the harmonies with lead-sheet symbols above the staff and Roman numerals below. Add the following non-chord tones: two suspensions, one passing tone, and one appoggiatura. Do not add non-chord tones to the bass.</p>
-                <sidebyside>
-                    <image source="images/unit2/PRAC-EXER-NCT-add-NCTs"/>
-                </sidebyside>
+                <image source="images/unit2/PRAC-EXER-NCT-add-NCTs"/>
             </statement>
             <answer>
                 <p>Lead-sheet: <n pc="B" acc="flat"/>, <n pc="D"/>m, <n pc="E" acc="flat"/>, <n pc="F"/></p>
                 <p>Rom. num.: I, iii, IV, V</p>
-                <!--add finale of answer-->
             </answer>
-        </exercise>
+        </exercise> -->
         <exercise>
             <statement>
                 <p>Analyze the harmonies with lead-sheet symbols above the staff and Roman numerals below, then analyze the non-chord tones.</p>
@@ -594,28 +455,15 @@
                     <li>
                         <p>
                             Brian Holland, Lamont Dozier, Eddie Holland, <q>Stop! In the Name of Love</q> (1965)<idx><h>songs (popular)</h><h><q>Stop! In the Name of Love</q> (The Supremes)</h></idx>
-                            <sbsgroup>
-                                <sidebyside>
-                                    <image source="images/unit2/PRAC-EXER-NCT-stop-in-the-name"/>
-                                </sidebyside>
-                                <sidebyside margins="37%">
-                                    <video youtube="tuei1XUAGRo" start="52" end="61" play-at="select" preview="generic"/>
-                                </sidebyside>
-                            </sbsgroup>
+                            <image source="images/unit2/PRAC-EXER-NCT-stop-in-the-name"/>
+                            <video youtube="tuei1XUAGRo" start="52" end="61" play-at="select" preview="generic" width="25%"/>
                         </p>
                     </li>
                     <li>
                     <p>
                         Robert Schumann, <pubtitle>Dichterliebe</pubtitle>, Op. 48, 1. <q>Im wundersch&#x00F6;nen Monat Mai</q> (1840)<idx><h>Schumann, Robert</h><h><pubtitle>Dichterliebe</pubtitle>, Op. 48</h><h><q>Im wundersch&#x00F6;nen Monat Mai</q></h></idx>
-
-                        <sbsgroup>
-                            <sidebyside>
-                                <image source="images/unit2/PRAC-EXER-NCT-im-wunderschonen"/>
-                            </sidebyside>
-                            <sidebyside margins="37%">
-                                <video youtube="L-Nkm8cBLgE" start="8" end="23" play-at="select" preview="generic"/>
-                            </sidebyside>
-                        </sbsgroup>
+                        <image source="images/unit2/PRAC-EXER-NCT-im-wunderschonen"/>
+                        <video youtube="L-Nkm8cBLgE" start="8" end="23" play-at="select" preview="generic" width="25%"/>
                     </p>
                 </li>
             </ol>

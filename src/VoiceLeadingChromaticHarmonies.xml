@@ -7,35 +7,27 @@
         <ol>
             <li>
                 <p>Resolve the 7th of a chord down by step.</p>
-                <sidebyside margins="25%">
-                    <image source="images/unit9/vl-secondary-resolve-7th">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit9/vl-secondary-resolve-7th" width="50%">
+                    <description/>
+                </image>
             </li>
             <li>
-                <p>Alternate complete voicings with incomplete voicings when voice leading <xref ref="successive-seventh-chords-principle" text="custom">successive root position seventh chords</xref> . Note that with secondary chords, the 3rd of the chord, typically a raised note, will resolve down by half step to the 7th of the chord, which is a diatonic note that cancels out the chromaticism of the previous note.</p>
-                <sidebyside>
-                    <image source="images/unit9/vl-secondary-consecutive-7th">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <p>Alternate complete voicings with incomplete voicings when voice leading <xref ref="successive-seventh-chords-principle" text="custom">successive root position seventh chords</xref> . Note that with secondary chords, the 3rd of the chord, typically a raised note, will resolve down by half step to the 7th of the next chord, which is a diatonic note that cancels out the chromaticism of the previous note.</p>
+                <image source="images/unit9/vl-secondary-consecutive-7th">
+                    <description/>
+                </image>
             </li>
             <li>
                 <p>Follow the <xref ref="SpecialResolutionOfVII7" text="custom">principle</xref> for resolving <chord root="vii" mode="diminished" bps="7"/> and <chord root="vii" mode="halfdiminished" bps="7"/> when dealing with secondary <chord root="vii" mode="diminished" bps="7"/> and <chord root="vii" mode="halfdiminished" bps="7"/> chords.</p>
-                <sidebyside margins="25%">
-                    <image source="images/unit9/vl-secondary-resolving-viio7">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit9/vl-secondary-resolving-viio7" width="50%">
+                    <description/>
+                </image>
                 <ol>
                     <li>
                         <p>An important exception occurs when <chord root="vii" mode="diminished" bps="7" bass="V"/> or <chord root="vii" mode="halfdiminished" bps="7" bass="V"/> resolves to V. If the melody requires the 7th of the chord to be voiced above the 3rd of the chord, solve the example by writing parallel (unequal) fifths instead of the doubling of the leading tone, which is considered less acceptable.</p>
-                        <sidebyside>
-                            <image source="images/unit9/vl-secondary-resolving-viio7-exception">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit9/vl-secondary-resolving-viio7-exception">
+                            <description/>
+                        </image>
                     </li>
                 </ol>
             </li>
@@ -52,11 +44,9 @@
         </principle>
         <figure>
             <caption>Resolving <flat/><scaledeg>6</scaledeg> down when voice leading borrowed chords</caption>
-            <sidebyside>
-                <image source="images/unit9/vl-mode-mix-flat-six-res-down">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit9/vl-mode-mix-flat-six-res-down">
+                <description/>
+            </image>
         </figure>
         <p>Another situation where you  may encounter a borrowed chord is the <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence, which should be handled exactly as the <xref ref="voice-leading-deceptive-cadence" text="custom">deceptive cadence in minor</xref> is handled<mdash/>resolve the 3rd of the <chord root="V"/> chord up by step and move the other two voices in contrary motion to the bass.</p>
         <p>There are no specific rules for other borrowed chords such as <flat/><chord root="III"/>, <flat/><chord root="VII"/>, <chord root="i"/>, and <chord root="v"/>; simply voice lead them as smoothly as possible while avoiding objectionable parallels.</p>
@@ -70,11 +60,9 @@
         </ol>
         <figure>
             <caption>Resolving <flat/><scaledeg>2</scaledeg> down when voice leading <chord root="N" bps="6"/></caption>
-            <sidebyside>
-                <image source="images/unit9/vl-N6-flat-two-res-down">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit9/vl-N6-flat-two-res-down">
+                <description/>
+            </image>
         </figure>
     </section>
     <section xml:id="VoiceLeadingAugmentedSixthChords">
@@ -83,38 +71,30 @@
         <p>The salient accidental in all three augmented sixth chords is <sharp/><scaledeg>4</scaledeg>, which almost always resolves upward to <scaledeg>5</scaledeg>.</p>
         <figure>
             <caption><sharp/><scaledeg>4</scaledeg> to <scaledeg>5</scaledeg> in resolution to V</caption>
-            <sidebyside>
-                <image source="images/unit9/vl-aug6-to-V">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit9/vl-aug6-to-V">
+                <description/>
+            </image>
         </figure>
         <p>The <sharp/><scaledeg>4</scaledeg> scale degree also resolves to <scaledeg>5</scaledeg> when an augmented sixth chord resolves to the Cadential <chord bps="6 4"/> chord.</p>
         <figure>
             <caption><sharp/><scaledeg>4</scaledeg> to <scaledeg>5</scaledeg> in resolution to Cadential <chord bps="6 4"/></caption>
-            <sidebyside>
-                <image source="images/unit9/vl-aug6-to-cad-64">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit9/vl-aug6-to-cad-64">
+                <description/>
+            </image>
         </figure>
         <p>With the enharmonic German augmented sixth chord (abbreviated <chord root="EnGer" bps="+6"/>, containing <flat/><scaledeg>6</scaledeg>, <scaledeg>1</scaledeg>, <sharp/><scaledeg>2</scaledeg>, and <sharp/><scaledeg>4</scaledeg>), <sharp/><scaledeg>2</scaledeg> and <sharp/><scaledeg>4</scaledeg> resolve upward to members of a major <chord root="I" bps="6 4"/> chord.</p>
         <figure>
             <caption><sharp/><scaledeg>2</scaledeg> to <sharp/><scaledeg>2</scaledeg> resolving upward when in an <chord root="EnGer" bps="+6"/></caption>
-            <sidebyside margins="33%">
-                <image source="images/unit9/vl-en-ger-aug6-to-cad-64">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit9/vl-en-ger-aug6-to-cad-64" width="35%">
+                <description/>
+            </image>
         </figure>
         <p>The exception to <sharp/><scaledeg>4</scaledeg> to <scaledeg>5</scaledeg> occurs when an augmented sixth chord resolves to <chord root="V" bps="7"/>, in which case <sharp/><scaledeg>4</scaledeg> resolves to <natural/><scaledeg>4</scaledeg>, which is the 7th of the <chord root="V" bps="7"/> chord. </p>
         <figure>
             <caption><sharp/><scaledeg>4</scaledeg> to <natural/><scaledeg>4</scaledeg> in resolution to <chord root="V" bps="7"/></caption>
-            <sidebyside margins="33%">
-                <image source="images/unit9/vl-Fr6-to-V7">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit9/vl-Fr6-to-V7" width="35%">
+                <description/>
+            </image>
         </figure>
         <p>If you voice lead an augmented sixth chord to something other than <chord root="V"/>, <chord root="V" bps="7"/>, or <chord root="i" bps="6 4"/>, move all of the voices smoothly while avoiding objectionable parallels and employing proper doublings.</p>
     </section>
@@ -127,35 +107,27 @@
             <exercise>
                 <statement>
                     <p>Analyze the figured bass to provide Roman numerals in the blanks below the staff, then voice lead the progression. Include the key signature.</p>
-                    <sidebyside>
-                        <image source="images/unit9/PRAC-EXER-vl-sec-fig-bass">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/PRAC-EXER-vl-sec-fig-bass">
+                        <description/>
+                    </image>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit9/PRAC-EXER-vl-sec-fig-bass-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/PRAC-EXER-vl-sec-fig-bass-ANSWER">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
             <exercise>
                 <statement>
                     <p>Voice lead the following Roman numeral progression. Include the key signature. Add the following non-chord tones: 1 suspension, 1 passing tone, 1 anticipation, and 3 neighbor tones.</p>
-                    <sidebyside>
-                        <image source="images/unit9/PRAC-EXER-vl-sec-rn">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/PRAC-EXER-vl-sec-rn">
+                        <description/>
+                    </image>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit9/PRAC-EXER-vl-sec-rn-ANSWER">
-                            <description/>
+                    <image source="images/unit9/PRAC-EXER-vl-sec-rn-ANSWER">
+                        <description/>
                         </image>
-                    </sidebyside>
                     <p>Notice that the chords on beats 5 and 6 are consecutive first inversion chords (even though one is a 7th chord), therefore the third is doubled on <chord root="I" bps="6"/> to avoid parallel fifths.</p>
                 </answer>
             </exercise>
@@ -167,18 +139,14 @@
             <exercise>
                 <statement>
                     <p>Analyze the figured bass to provide Roman numerals in the blanks below the staff, then voice lead the progressions in chorale style. Include the key signatures. Include one suspension in each measure.</p>
-                    <sidebyside>
-                        <image source="images/unit9/PRAC-EXER-mm-and-N6">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/PRAC-EXER-mm-and-N6">
+                        <description/>
+                    </image>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit9/PRAC-EXER-mm-and-N6-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/PRAC-EXER-mm-and-N6-ANSWER">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
         </exercisegroup>
@@ -189,18 +157,14 @@
             <exercise>
                 <statement>
                     <p>Analyze the figured bass to provide Roman numerals in the blanks below the staff. Voice lead the progressions in chorale style. Include the key signatures.</p>
-                    <sidebyside>
-                        <image source="images/unit9/PRAC-EXER-vl-aug-6">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/PRAC-EXER-vl-aug-6">
+                        <description/>
+                    </image>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit9/PRAC-EXER-vl-aug-6-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/PRAC-EXER-vl-aug-6-ANSWER">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
         </exercisegroup>
@@ -211,18 +175,14 @@
             <exercise>
                 <statement>
                     <p>Voice lead the following Roman numeral progression. Include the key signature. Add the following non-chord tones: an escape tone, a 4-3 suspension, an anticipation, and a passing tone.</p>
-                    <sidebyside>
-                        <image source="images/unit9/HW-vl-aug-6-A-flat-maj-rom-num">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/HW-vl-aug-6-A-flat-maj-rom-num">
+                        <description/>
+                    </image>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit9/HW-vl-aug-6-A-flat-maj-rom-num-ANSWER">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/HW-vl-aug-6-A-flat-maj-rom-num-ANSWER">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
         </exercisegroup>

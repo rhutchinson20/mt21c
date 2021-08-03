@@ -4,60 +4,50 @@
     <section xml:id="Pitch">
         <title>Pitch</title>
         <p><term>Pitch</term><idx><h>pitch</h></idx> has to do with notes. On the piano there are 88 notes. As you move to the right on a piano, the notes sound higher. Notes sound lower as you move to the left. Try it on a piano with a smaller range at <url href="http://www.musictheory.net/piano">the following website</url>.</p>
-        <sidebyside>
             <image source="images/unit1/pitch-keyboard-higher-lower"/>
-        </sidebyside>
     </section>
     <section xml:id="Notation">
         <title>Notation</title>
         <p>Notes are written on a five-line <term>staff</term><idx><h>staff</h></idx>. A <term>clef</term><idx><h>clef</h></idx> orients the lines to a reference point. For example, the G clef, when placed on a five-line staff, becomes the <term>treble clef</term><idx><h>treble clef</h></idx>, the most well known clef. In treble clef, the notes on the lines are <n pc="E"/><ndash/><n pc="G"/><ndash/><n pc="B"/><ndash/><n pc="D"/><ndash/><n pc="F"/> from lowest to highest, often remembered through the traditional mnenomic <q>Every Good Boy Does Fine.</q> The spaces are <n pc="F"/><ndash/><n pc="A"/><ndash/><n pc="C"/><ndash/><n pc="E"/> from lowest to highest. Staves (the plural of <q>staff</q> in musical terminology is <q>staves</q>) are extended by the <term>ledger lines</term><idx><h>ledger lines</h></idx>.</p>
-        <sidebyside>
-            <image source="images/unit1/treble-clef-EGBDF">
-                <description>Note names of lines and spaces in treble clef</description>
-            </image>
-        </sidebyside>
+        <image source="images/unit1/treble-clef-EGBDF">
+            <description>Note names of lines and spaces in treble clef</description>
+        </image>
         <p>The F clef, when placed on a five-line staff with the dots surrounding the second line from the top, creates the <term>bass clef</term><idx><h>bass clef</h></idx>. See the example for the names of lines and spaces, and for mnemonics to remember them.</p>
-        <sidebyside>
-            <image source="images/unit1/bass-clef-basics">
-                <description>Note names of lines and spaces in bass clef</description>
-            </image>
-        </sidebyside>
+        <image source="images/unit1/bass-clef-basics">
+            <description>Note names of lines and spaces in bass clef</description>
+        </image>
     </section>
     <section xml:id="OctaveRegisters">
         <title>Octave Registers</title>
         <p>The note names used in music are <n pc="A"/><n pc="B"/><n pc="C"/><n pc="D"/><n pc="E"/><n pc="F"/><n pc="G"/> (known as the <q>musical alphabet</q>). After <n pc="G"/>, the note <n pc="A"/> returns and <n pc="A"/><n pc="B"/><n pc="C"/><n pc="D"/><n pc="E"/><n pc="F"/><n pc="G"/> occurs again and again. The distance from the first <n pc="A"/> to the second <n pc="A"/> is an octave (which means the notes are eight steps apart.)</p>
-        <sidebyside>
-            <tabular>
-                <row>
-                    <cell><n pc="A"/></cell>
-                    <cell><n pc="B"/></cell>
-                    <cell><n pc="C"/></cell>
-                    <cell><n pc="D"/></cell>
-                    <cell><n pc="E"/></cell>
-                    <cell><n pc="F"/></cell>
-                    <cell><n pc="G"/></cell>
-                    <cell><n pc="A"/></cell>
-                </row>
-                <row>
-                    <cell><n pc="1"/></cell>
-                    <cell><n pc="2"/></cell>
-                    <cell><n pc="3"/></cell>
-                    <cell><n pc="4"/></cell>
-                    <cell><n pc="5"/></cell>
-                    <cell><n pc="6"/></cell>
-                    <cell><n pc="7"/></cell>
-                    <cell><n pc="8"/> (octave)</cell>
-                </row>
-            </tabular>
-        </sidebyside>
+        <tabular>
+            <row>
+                <cell><n pc="A"/></cell>
+                <cell><n pc="B"/></cell>
+                <cell><n pc="C"/></cell>
+                <cell><n pc="D"/></cell>
+                <cell><n pc="E"/></cell>
+                <cell><n pc="F"/></cell>
+                <cell><n pc="G"/></cell>
+                <cell><n pc="A"/></cell>
+            </row>
+            <row>
+                <cell><n pc="1"/></cell>
+                <cell><n pc="2"/></cell>
+                <cell><n pc="3"/></cell>
+                <cell><n pc="4"/></cell>
+                <cell><n pc="5"/></cell>
+                <cell><n pc="6"/></cell>
+                <cell><n pc="7"/></cell>
+                <cell><n pc="8"/> (octave)</cell>
+            </row>
+        </tabular>
         <p>The distance from any note to a note of the same name in the next register above or below is called an <term>octave</term><idx><h>octave</h></idx> (abbreviated <q><term>8ve</term></q><idx><h>8ve</h></idx>).</p>
         <p>How can the piano keyboard have 88 notes when there are only seven note names? The musical alphabet repeats 7 times (with an extra <n pc="A"/><n pc="B"/><n pc="C"/> at the top), which means we have at least seven octave registers. (There are also five chromatic notes in each register, which we will learn about when we discuss <xref ref="Accidentals" text="title"/>.) When learning about octave registers, we will focus on the note <n pc="C"/> for reasons that will soon become clear when we learn about the major scale.</p>
         <p>We use <term>octave registers</term><idx><h>octave registers</h></idx> (<n pc="C" octave="4"/>, <n pc="D" octave="5"/>, etc.) to specify the exact register of a note. The note  <n pc="C" octave="4"/> is known as <q><term>middle C</term></q><idx><h>middle <n pc="C"/></h></idx> and is an important reference point. See the keyboard in the example below.</p>
-        <sidebyside width="85%">
-            <image source="images/unit1/keyboard-octave-registers">
-                <description>Picture of keyboard with C1 through C8 identified</description>
+        <image source="images/unit1/keyboard-octave-registers" width="85%">
+            <description>Picture of keyboard with C1 through C8 identified</description>
             </image>
-        </sidebyside>
         <p>Note that <em>the register number changes after the note  </em><n pc="B"/> each time (<n pc="B" octave="4"/> is followed by <n pc="C" octave="5"/>).</p>
         <p>In treble clef, middle <n pc="C"/> is notated on the ledger line below the staff. In bass clef, middle <n pc="C"/> is notated on the ledger line above the staff.</p>
         <figure>
@@ -76,9 +66,7 @@
             </sidebyside>
         </figure>
         <p>The <term>grand staff</term><idx><h>grand staff</h></idx>, which is a treble and bass clef joined together by a bracket, is how piano music is written.</p>
-        <sidebyside>
-            <image source="images/unit1/grand-staff-basic"/>
-        </sidebyside>
+        <image source="images/unit1/grand-staff-basic"/>
         <p>Note that middle <n pc="C"/> is always clearly notated in either the upper or lower staff and never floats between the two staves.</p>
     </section>
     <section xml:id="Accidentals">
@@ -95,11 +83,9 @@
         </p>
         <figure>
             <caption/>
-            <sidebyside margins="20%">
-                <image source="images/unit1/accidentals-demo-on-staff">
-                    <description>Example showing G-flat, G-natural, and G-sharp on the staff and on the piano</description>
-                </image>
-            </sidebyside>
+            <image source="images/unit1/accidentals-demo-on-staff" width="60%">
+                <description>Example showing G-flat, G-natural, and G-sharp on the staff and on the piano</description>
+            </image>
         </figure>
     </section>
     <section xml:id="EnharmonicNotes">
@@ -107,11 +93,9 @@
         <p>Observe that <n pc="C" acc="sharp"/> and <n pc="D" acc="flat"/> are the same note on the piano but are written as different notes on the staff.</p>
         <figure>
             <caption/>
-            <sidebyside margins="20%">
-                <image source="images/unit1/enharmonic-C-sharp-and-D-flat">
-                    <description>Example showing D-flat and C-sharp on the staff and on the piano</description>
-                </image>
-            </sidebyside>
+            <image source="images/unit1/enharmonic-C-sharp-and-D-flat" width="60%">
+                <description>Example showing D-flat and C-sharp on the staff and on the piano</description>
+            </image>
         </figure>
         <p>This occurs with all the black keys on the piano (<n pc="C" acc="sharp"/>=<n pc="D" acc="flat"/>, <n pc="D" acc="sharp"/>=<n pc="E" acc="flat"/>, <n pc="F" acc="sharp"/>=<n pc="G" acc="flat"/>, <n pc="G" acc="sharp"/>=<n pc="A" acc="flat"/>, <n pc="A" acc="sharp"/>=<n pc="B" acc="flat"/>). When two notes <em>sound</em> the same but are written as two different notes on the staff, the written notes are said to be <term>enharmonic</term><idx><h>enharmonic</h></idx>. Notes on the white keys of the piano can be written enharmonically as well (<n pc="C"/>=<n pc="B" acc="sharp"/>, <n pc="E"/>=<n pc="F" acc="flat"/>, <n pc="D"/>=<n pc="C" acc="doublesharp"/>, etc.).</p>
     </section>
@@ -120,9 +104,7 @@
         <exercise>
             <statement>
                 <p>For each note on the piano keyboard, specify the note name and octave register.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-note-registers-section-1"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-note-registers-section-1"/>
             </statement>
             <answer>
                 <p>1. A0, 2. F1, 3. D2, 4. G2, 5. B3, 6. E4, 7. A4, 8. G5, 9. A6, 10. B7</p>
@@ -131,9 +113,7 @@
         <exercise>
             <statement>
                 <p>For each note on the staff, specify the note name and octave register.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-note-registers-section-2"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-note-registers-section-2"/>
             </statement>
             <answer>
                 <p>1. E5, 2. D6, 3. F4, 4. G3, 5. A4, 6. E4, 7. G3, 8. A2, 9. E4, 10. E4, 11. G3, 12. C4</p>
@@ -142,9 +122,7 @@
         <exercise>
             <statement>
                 <p>Provide two enharmically equivalent notes for each given note.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-writing-enharmonic-notes"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-writing-enharmonic-notes"/>
             </statement>
             <answer>
                 <p>1. <n pc="G" acc="doubleflat"/> and <n pc="E" acc="sharp"/>; 2. <n pc="D" acc="sharp"/> and <n pc="F" acc="doubleflat"/>; 3. <n pc="G" acc="doublesharp"/> and <n pc="B" acc="doubleflat"/>; 4. <n pc="G" acc="flat"/> and <n pc="E" acc="doublesharp"/></p>

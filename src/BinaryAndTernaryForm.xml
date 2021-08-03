@@ -4,776 +4,531 @@
     <section xml:id="BinaryAndTernaryIntroduction">
         <title>Binary and Ternary Form</title>
         <p>In this chapter we will compare the following:</p>
-        <sidebyside>
-            <tabular halign="center">
-                <row>
-                    <cell>Sectional versus Continuous</cell>
-                </row>
-                <row>
-                    <cell>Binary versus Ternary</cell>
-                </row>
-                <row>
-                    <cell>Rounded Binary versus Ternary</cell>
-                </row>
-            </tabular>
-        </sidebyside>
+        <tabular halign="center">
+            <row>
+                <cell>Sectional versus Continuous</cell>
+            </row>
+            <row>
+                <cell>Binary versus Ternary</cell>
+            </row>
+            <row>
+                <cell>Rounded Binary versus Ternary</cell>
+            </row>
+        </tabular>
     </section>
     <section xml:id="SectionalVersusContinuous">
         <title>Sectional versus Continuous</title>
         <p>We apply the descriptor <q><term>sectional</term></q><idx><h>sectional</h><h>definition of</h></idx> to a binary or ternary form when the first section (the A section) ends on the tonic. (Note: We use lowercase letters to refer to phrases and uppercase letters to refer to sections.)</p>
         <idx><h>Brahms, Johannes</h><h><pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49</h><h><q>Wiegenlied</q></h></idx>
-        <sidebyside>
-            <image source="images/unit7/bin-tern-section-brahms-wiegenlied-A">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <image source="images/unit7/bin-tern-section-brahms-wiegenlied-B">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <image source="images/unit7/bin-tern-section-brahms-wiegenlied-C">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <image source="images/unit7/bin-tern-section-brahms-wiegenlied-D">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit7/bin-tern-section-brahms-wiegenlied-A">
+            <description/>
+        </image>
+        <image source="images/unit7/bin-tern-section-brahms-wiegenlied-B">
+            <description/>
+        </image>
+        <image source="images/unit7/bin-tern-section-brahms-wiegenlied-C">
+            <description/>
+        </image>
+        <image source="images/unit7/bin-tern-section-brahms-wiegenlied-D">
+            <description/>
+        </image>
         <figure>
             <caption>Johannes Brahms, <pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49, No. 4 <q>Wiegenlied</q> (1868)</caption>
-            <sidebyside margins="37%">
-                <video youtube="6kh51bIA2q8" start="45" end="90" play-at="select" preview="generic"/>
-            </sidebyside>
+            <video youtube="6kh51bIA2q8" start="45" end="90" play-at="select" preview="generic" width="25%"/>
         </figure>
         <!-- this was the original 
         <figure>
             <caption>Brahms, <pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49, No. 4 <q>Wiegenlied</q> (1868)</caption>
             <idx><h>Brahms</h><h><pubtitle>F&#x00FC;nf Lieder</pubtitle>, Op. 49</h><h><q>Wiegenlied</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
                     <image source="images/unit7/bin-tern-section-brahms-wiegenlied-A">
                         <description/>
                     </image>
-                </sidebyside>
-                <sidebyside>
                     <image source="images/unit7/bin-tern-section-brahms-wiegenlied-B">
                         <description/>
                     </image>
-                </sidebyside>
-                <sidebyside>
                     <image source="images/unit7/bin-tern-section-brahms-wiegenlied-C">
                         <description/>
                     </image>
-                </sidebyside>
-                <sidebyside>
                     <image source="images/unit7/bin-tern-section-brahms-wiegenlied-D">
                         <description/>
                     </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="vKGonr3RDx4" start="0" end="54" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
-        </figure> 
-    -->
-    <p>The term <q><term>continuous</term></q><idx><h>continuous</h><h>definition of</h></idx> is used the first section of a binary or ternary form does <em>not</em> end on the tonic chord. While this often means the first section ends in a new key, it can also mean the first section ends on the dominant chord in a half cadence.</p>
-    <idx><h>Haydn, Joseph</h><h>Symphony No. 94 in G major, Hob. I:94, II</h></idx>
-    <sidebyside>
+                    <video youtube="vKGonr3RDx4" start="0" end="54" play-at="select" preview="generic" width="25%"/>
+        </figure> -->
+        <p>The term <q><term>continuous</term></q><idx><h>continuous</h><h>definition of</h></idx> is used the first section of a binary or ternary form does <em>not</em> end on the tonic chord. While this often means the first section ends in a new key, it can also mean the first section ends on the dominant chord in a half cadence.</p>
+        <idx><h>Haydn, Joseph</h><h>Symphony No. 94 in G major, Hob. I:94, II</h></idx>
         <image source="images/unit7/bin-tern-continuous-haydn-surprise-A">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-continuous-haydn-surprise-B">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-continuous-haydn-surprise-C">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-continuous-haydn-surprise-D">
             <description/>
         </image>
-    </sidebyside>
-    <figure>
-        <caption>Joseph Haydn, Symphony No. 94 in G major, Hob. I:94, II (1791)</caption>
-        <sidebyside margins="37%">
-            <video youtube="lLjwkamp3lI" start="0" end="52" play-at="select" preview="generic"/>
-        </sidebyside>
-    </figure>
-    <p>In naming any binary or ternary form, use the terms sectional or continuous before binary or ternary, for example <q><em>sectional</em> binary,</q> <q><em>continuous</em> binary,</q> <q><em>sectional</em> ternary,</q> or <q><em>continuous</em> ternary.</q></p>
-    <p>Other descriptors include <q><term>two-reprise</term>,</q><idx><h>two-reprise</h><h>definition of</h></idx> which means <em>both</em> the first section (the A section) and second section (the A’ or B section) are repeated, and <q>rounded,</q> used in conjunction with binary (<q>rounded binary</q><!--add link-->) to specify that the opening material returns after the contrasting section.</p>
-    <p>In the following sections we will discuss three types of binary forms:</p>
-    <ol>
-        <li><p>Balanced Binary</p></li>
-        <li><p>Rounded Binary</p></li>
-        <li><p><q>Simple</q> Binary (usually called <q>binary</q>)</p></li>
-    </ol>
-</section>
-<section xml:id="BalancedBinary">
-    <title>Balanced Binary</title>
-    <p>A <term>balanced binary</term><idx><h>binary</h><h>balanced</h></idx> form, according to Douglass Green in his book, <pubtitle>Form in Tonal Music</pubtitle>, features a binary form with a first section (the A section) ending in a new key, and the second section ending <em>with essentially the same cadence</em>, now transposed to the original key, as in the following piece by Bach.</p>
-    <idx><h>Bach, J.S.</h><h>Invention No. 8 in F major, BWV 779</h></idx>
-    <sidebyside>
+        <figure>
+            <caption>Joseph Haydn, Symphony No. 94 in G major, Hob. I:94, II (1791)</caption>
+            <video youtube="lLjwkamp3lI" start="0" end="52" play-at="select" preview="generic" width="25%"/>
+        </figure>
+        <p>In naming any binary or ternary form, use the terms sectional or continuous before binary or ternary, for example <q><em>sectional</em> binary,</q> <q><em>continuous</em> binary,</q> <q><em>sectional</em> ternary,</q> or <q><em>continuous</em> ternary.</q></p>
+        <p>Other descriptors include <q><term>two-reprise</term>,</q><idx><h>two-reprise</h><h>definition of</h></idx> which means <em>both</em> the first section (the A section) and second section (the A’ or B section) are repeated, and <q>rounded,</q> used in conjunction with binary (<q>rounded binary</q><!--add link-->) to specify that the opening material returns after the contrasting section.</p>
+        <p>In the following sections we will discuss three types of binary forms:</p>
+        <ol>
+            <li><p>Balanced Binary</p></li>
+            <li><p>Rounded Binary</p></li>
+            <li><p><q>Simple</q> Binary (usually called <q>binary</q>)</p></li>
+        </ol>
+    </section>
+    <section xml:id="BalancedBinary">
+        <title>Balanced Binary</title>
+        <p>A <term>balanced binary</term><idx><h>binary</h><h>balanced</h></idx> form, according to Douglass Green in his book, <pubtitle>Form in Tonal Music</pubtitle>, features a binary form with a first section (the A section) ending in a new key, and the second section ending <em>with essentially the same cadence</em>, now transposed to the original key, as in the following piece by Bach.</p>
+        <idx><h>Bach, J.S.</h><h>Invention No. 8 in F major, BWV 779</h></idx>
         <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-A">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-B">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-C">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-D">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-E">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-F">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-G">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-balanced-bin-f-maj-inv-H">
             <description/>
         </image>
-    </sidebyside>
-    <figure>
-        <caption>J.S. Bach, Invention No. 8 in F major, BWV 779</caption>
-        <sidebyside><!--no margins on this one-->
+        <figure>
+            <caption>J.S. Bach, Invention No. 8 in F major, BWV 779</caption>
             <video xml:id="bach-invention-8" youtube="HFeLqgVLxBM" start="831" end="890" play-at="select"/>
-        </sidebyside>
-    </figure>
-    <p>Because the first section of a balanced binary ends in a new key, it is inherently a <em>continuous</em> binary form.</p>
-    <p>Balanced binary form can be found in movements from the Baroque era, including dance suites by Bach, Handel, and others. The movement below shows the endings of the first and section sections of the Courante from J.S. Bach’s French Suite No. 6 in E major, BWV 817.</p>
-    <figure>
-        <caption>J.S. Bach, French Suite No 6 in E, BWV, 817 Courante, bars 15<ndash/>16</caption>
-        <sbsgroup>
-            <sidebyside width="70%">
-                <image source="images/unit7/bin-tern-balanced-bin-french-suite-A"/>
-            </sidebyside>
-            <sidebyside margins="37%">
-                <video youtube="jrHP6Fp1yUY" start="248" end="252" play-at="select" preview="generic"/>
-            </sidebyside>
-        </sbsgroup>
-    </figure>
-    <figure>
-        <caption>J.S. Bach, French Suite No 6 in E, BWV, 817 Courante, bars 31<ndash/>32</caption>
-        <sbsgroup>
-            <sidebyside width="70%">
-                <image source="images/unit7/bin-tern-balanced-bin-french-suite-B"/>
-            </sidebyside>
-            <sidebyside margins="37%">
-                <video youtube="jrHP6Fp1yUY" start="301" end="307" play-at="select" preview="generic"/>
-            </sidebyside>
-        </sbsgroup>
-    </figure>
-</section>
-<section xml:id="RoundedBinary">
-    <title>Rounded Binary</title>
-    <p>In a <term>rounded binary</term><idx><h>binary</h><h>rounded</h></idx> form, the material at the beginning of the first section returns, often shortened, after a contrasting phrase at the beginning of the second section. A generic phrase diagram of rounded binary form is shown below.</p>
-    <sidebyside>
+        </figure>
+        <p>Because the first section of a balanced binary ends in a new key, it is inherently a <em>continuous</em> binary form.</p>
+        <p>Balanced binary form can be found in movements from the Baroque era, including dance suites by Bach, Handel, and others. The movement below shows the endings of the first and section sections of the Courante from J.S. Bach’s French Suite No. 6 in E major, BWV 817.</p>
+        <figure>
+            <caption>J.S. Bach, French Suite No 6 in E, BWV, 817 Courante, bars 15<ndash/>16</caption>
+            <image source="images/unit7/bin-tern-balanced-bin-french-suite-A" width="70%"/>
+            <video youtube="jrHP6Fp1yUY" start="248" end="252" play-at="select" preview="generic" width="25%"/>
+        </figure>
+        <figure>
+            <caption>J.S. Bach, French Suite No 6 in E, BWV, 817 Courante, bars 31<ndash/>32</caption>
+            <image source="images/unit7/bin-tern-balanced-bin-french-suite-B" width="70%"/>
+            <video youtube="jrHP6Fp1yUY" start="301" end="307" play-at="select" preview="generic" width="25%"/>
+        </figure>
+    </section>
+    <section xml:id="RoundedBinary">
+        <title>Rounded Binary</title>
+        <p>In a <term>rounded binary</term><idx><h>binary</h><h>rounded</h></idx> form, the material at the beginning of the first section returns, often shortened, after a contrasting phrase at the beginning of the second section. A generic phrase diagram of rounded binary form is shown below.</p>
         <image source="images/unit7/bin-tern-rounded-bin-diagram"/>
-    </sidebyside>
-    <p>Below is an example of a rounded binary form.</p>
-    <idx><h>Mozart, W.A.</h><h>Piano Sonata in D major, K. 284, III.</h></idx>
-
-    <sidebyside>
+        <p>Below is an example of a rounded binary form.</p>
+        <idx><h>Mozart, W.A.</h><h>Piano Sonata in D major, K. 284, III.</h></idx>
         <image source="images/unit7/bin-tern-rounded-bin-k284-A">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-rounded-bin-k284-B">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-rounded-bin-k284-C">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-rounded-bin-k284-D">
             <description/>
         </image>
-    </sidebyside>
-    <figure>
-        <caption>Mozart, Piano Sonata in D major, K. 284, III.</caption>
-        <sidebyside margins="37%">
-            <video youtube="zHtXRBi91dA" start="0" end="68" play-at="select" preview="generic"/>
-        </sidebyside>
-    </figure>
-    <sidebyside>
+        <figure>
+            <caption>Mozart, Piano Sonata in D major, K. 284, III.</caption>
+            <video youtube="zHtXRBi91dA" start="0" end="68" play-at="select" preview="generic" width="25%"/>
+        </figure>
         <image source="images/unit7/bin-tern-rounded-bin-k284-DIAGRAM"/>
-    </sidebyside>
-    <p>Because both the first section (the A section) and second section (the B section) repeat in the example above, this form would be called <q>two-reprise continuous rounded binary form.</q></p>
-    <p>Another example of a rounded binary form is below.</p>
-    <idx><h>Schubert</h><h>20 Minuets, D. 41</h><h>No. 18 in F major</h></idx>
-    <sidebyside>
+        <p>Because both the first section (the A section) and second section (the B section) repeat in the example above, this form would be called <q>two-reprise continuous rounded binary form.</q></p>
+        <p>Another example of a rounded binary form is below.</p>
+        <idx><h>Schubert</h><h>20 Minuets, D. 41</h><h>No. 18 in F major</h></idx>
         <image source="images/unit7/bin-tern-rounded-bin-schubertD41-A">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-rounded-bin-schubertD41-B">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-rounded-bin-schubertD41-C">
             <description/>
         </image>
-    </sidebyside>
-    <figure>
-        <caption>Schubert, 20 Minuets, D. 41, No. 18 in F major</caption>
-        <sidebyside margins="37%">
-            <video youtube="2vs-CrxwOmE" start="819" end="865" play-at="select" preview="generic"/>
-        </sidebyside>
-    </figure>
-    <p>This form of the example above would be called <q>two-reprise continuous rounded binary form</q> because:</p>
-    <ul>
-        <li><p><q>Two-reprise</q> means both the first and second sections repeat</p></li>
-        <li><p><q>Continuous</q> means the first section does not end on the tonic chord</p></li>
-        <li><p>In a rounded binary form the opening melody returns after contrasting material</p></li>
-    </ul>
-    <p>Rounded binary form is often encountered in compositions during the Classical era (1750<ndash/>1825) <!--citation needed-->in music by Haydn, Mozart, and Beethoven, especially as the form of a theme from a theme and variations, and as the minuet and/or trio section in a Minuet and Trio.</p>
-</section>
-<section xml:id="SimpleBinary">
-    <title>Simple Binary</title>
-    <p><term><q>Simple</q> binary</term><idx><h>binary</h><h>simple</h></idx> is a term used to describe a binary form that does not have features like the similar endings of a balanced binary or the return of opening material like the rounded binary. You will encounter this type of binary form in music especially throughout the Baroque era, as well as in the early Classical era.<!--citation needed--></p>
-    <idx><h>Bach, J.S.</h><h>English Suite No 3 in G minor, BWV 808</h><h>Gavotte I.</h></idx>
-    <sidebyside>
+        <figure>
+            <caption>Schubert, 20 Minuets, D. 41, No. 18 in F major</caption>
+            <video youtube="2vs-CrxwOmE" start="819" end="865" play-at="select" preview="generic" width="25%"/>
+        </figure>
+        <p>This form of the example above would be called <q>two-reprise continuous rounded binary form</q> because:</p>
+        <ul>
+            <li><p><q>Two-reprise</q> means both the first and second sections repeat</p></li>
+            <li><p><q>Continuous</q> means the first section does not end on the tonic chord</p></li>
+            <li><p>In a rounded binary form the opening melody returns after contrasting material</p></li>
+        </ul>
+        <p>Rounded binary form is often encountered in compositions during the Classical era (1750<ndash/>1825) <!--citation needed-->in music by Haydn, Mozart, and Beethoven, especially as the form of a theme from a theme and variations, and as the minuet and/or trio section in a Minuet and Trio.</p>
+    </section>
+    <section xml:id="SimpleBinary">
+        <title>Simple Binary</title>
+        <p><term><q>Simple</q> binary</term><idx><h>binary</h><h>simple</h></idx> is a term used to describe a binary form that does not have features like the similar endings of a balanced binary or the return of opening material like the rounded binary. You will encounter this type of binary form in music especially throughout the Baroque era, as well as in the early Classical era.<!--citation needed--></p>
+        <idx><h>Bach, J.S.</h><h>English Suite No 3 in G minor, BWV 808</h><h>Gavotte I.</h></idx>
         <image source="images/unit7/bin-tern-simple-bin-gavotte-A">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-simple-bin-gavotte-B">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-simple-bin-gavotte-C">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-simple-bin-gavotte-D">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-simple-bin-gavotte-E">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-simple-bin-gavotte-F">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-simple-bin-gavotte-G">
             <description/>
         </image>
-    </sidebyside>
-    <sidebyside>
         <image source="images/unit7/bin-tern-simple-bin-gavotte-H">
             <description/>
         </image>
-    </sidebyside>
-    <figure>
-        <caption>J.S. Bach, English Suite No 3 in G minor, BWV 808, Gavotte I.</caption>
-        <sidebyside><!--no margins-->
+        <figure>
+            <caption>J.S. Bach, English Suite No 3 in G minor, BWV 808, Gavotte I.</caption>
             <video xml:id="BachEnglishSuiteGavotte1" youtube="KMrJxhYj3tc" start="808" end="873" play-at="select"/>
-        </sidebyside> 
-    </figure>
-    <p>Notice in the example above that the first section and second section can begin similarly in a binary form, resulting in the large-scale form AA’. The second section often features development of the primary idea from the first section. We will discuss development in the next chapter.</p>      
-</section>
-<section xml:id="BinaryPrinciple">
-    <title>Binary Principle</title>
-    <p><term>Binary principle</term><idx><h>binary principle</h></idx>, as defined by Peter Spencer and Peter Temko in their book <pubtitle>A Practical Approach to the Study of Form in Music</pubtitle>, states that the first section of a binary form modulates to a new key and the second section modulates back to the first key. We find this principal exemplified in a high percentage of binary forms in the Baroque era, and diagrammed in the example below.</p>
-    <figure>
-        <caption>Diagram illustrating Binary Principle</caption>
-        <image source="images/unit7/bin-tern-binary-principle-DIAGRAM">
-            <description/>
-        </image>
-    </figure>
-</section>
-<section xml:id="TernaryForm">
-    <title>Ternary Form</title>
-    <introduction>
-        <p><term>Ternary form</term><idx><h>ternary form</h></idx> is usually diagrammed as ABA and is described as <q>statement, digression, restatement.</q><fn>Green, Douglass M. <pubtitle>Form in Tonal Music: an Introduction to Analysis</pubtitle>. 2d ed., Holt, Rinehart and Winston, 1979, p. 84</fn> A piece in a rather simple and straightforward ternary is shown below.</p>
-        <idx><h>Mozart, W.A.</h><h>Andante in E-flat major, K. 15mm</h></idx>
-        <sidebyside>
+        </figure>
+        <p>Notice in the example above that the first section and second section can begin similarly in a binary form, resulting in the large-scale form AA’. The second section often features development of the primary idea from the first section. We will discuss development in the next chapter.</p>      
+    </section>
+    <section xml:id="BinaryPrinciple">
+        <title>Binary Principle</title>
+        <p><term>Binary principle</term><idx><h>binary principle</h></idx>, as defined by Peter Spencer and Peter Temko in their book <pubtitle>A Practical Approach to the Study of Form in Music</pubtitle>, states that the first section of a binary form modulates to a new key and the second section modulates back to the first key. We find this principal exemplified in a high percentage of binary forms in the Baroque era, and diagrammed in the example below.</p>
+        <figure>
+            <caption>Diagram illustrating Binary Principle</caption>
+            <image source="images/unit7/bin-tern-binary-principle-DIAGRAM">
+                <description/>
+            </image>
+        </figure>
+    </section>
+    <section xml:id="TernaryForm">
+        <title>Ternary Form</title>
+        <introduction>
+            <p><term>Ternary form</term><idx><h>ternary form</h></idx> is usually diagrammed as ABA and is described as <q>statement, digression, restatement.</q><fn>Green, Douglass M. <pubtitle>Form in Tonal Music: an Introduction to Analysis</pubtitle>. 2d ed., Holt, Rinehart and Winston, 1979, p. 84</fn> A piece in a rather simple and straightforward ternary is shown below.</p>
+            <idx><h>Mozart, W.A.</h><h>Andante in E-flat major, K. 15mm</h></idx>
             <image source="images/unit7/bin-tern-ternary-mozart-k15mm-A">
                 <description/>
             </image>
-        </sidebyside>
-        <sidebyside>
             <image source="images/unit7/bin-tern-ternary-mozart-k15mm-B">
                 <description/>
             </image>
-        </sidebyside>
-        <sidebyside>
             <image source="images/unit7/bin-tern-ternary-mozart-k15mm-C">
                 <description/>
             </image>
-        </sidebyside>
-        <sidebyside>
             <image source="images/unit7/bin-tern-ternary-mozart-k15mm-D">
                 <description/>
             </image>
-        </sidebyside>
-        <sidebyside>
             <image source="images/unit7/bin-tern-ternary-mozart-k15mm-E">
                 <description/>
             </image>
-        </sidebyside>
-        <sidebyside>
             <image source="images/unit7/bin-tern-ternary-mozart-k15mm-F">
                 <description/>
-            </image>
-        </sidebyside>
-        
-        <figure>
-            <caption>Mozart, Andante in E-flat major, K. 15mm</caption>
-            <sidebyside margins="37%">
-                <video youtube="BJviMnAB_jg" start="0" end="55" play-at="select" preview="generic"/>
-            </sidebyside>
-        </figure>
-        <p>Below is a diagram of K. 15mm by Mozart.</p>
-        <figure>
-            <caption>Diagram illustrating Binary Principle</caption>
-            <image source="images/unit7/bin-tern-ternary-mozart-k15mm-DIAGRAM">
-                <description/>
-            </image>
-        </figure>
-        <p>Character pieces from the Romantic era with titles such as <q>Nocturne,</q> <q>Intermezzo,</q> and <q>Song Without Words,</q> among others, by composers such as Schubert, Chopin, Mendelssohn, Schumann, and Brahms, are often in a larger ternary form where each section might be longer than eight bars.</p>
-        <p>Below are examples from a larger ternary piece, Rachmaninov's Prelude in C-sharp minor, Op.3 No.2.</p>
-        <figure>
-            <caption>Sergei Rachmaninoff, Prelude in C-sharp minor, Op. 3 No. 2, First A section bars 1<ndash/>13</caption>
-            <idx><h>Rachmaninoff, Sergei</h><h>Prelude in C-sharp minor, Op. 3 No. 2</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-ternary-Rachmaninoff-A1">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="sCtixpIWBto" start="0" end="84" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
-        </figure>
-        <figure>
-            <caption>Rachmaninov, Prelude in C-sharp minor, Op.3 No.2, B section bars 14<ndash/>42</caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-ternary-Rachmaninoff-B">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="sCtixpIWBto" start="84" end="129" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
-        </figure>
-        <figure>
-            <caption>Rachmaninov, Prelude in C-sharp minor, Op.3 No.2, Second A section bars 45<ndash/>61</caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit7/bin-tern-ternary-Rachmaninoff-A2">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="sCtixpIWBto" start="129" end="232" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
-        </figure>
-    </introduction>
-    <subsection xml:id="CompoundTernary">
-        <title>Compound Ternary</title>
-        <p>A <term>compound ternary</term><idx><h>ternary form</h><h>compound</h></idx> is a ternary form in which one of the sections (the A or the B) is itself a binary or ternary form. Examples can be found in the minuet and trio as well as the da capo aria.</p>
-    </subsection>
-    <conclusion><p>In the next section, we will examine the differences between rounded binary and ternary.</p></conclusion>
-</section>
-<section xml:id="DistinguishingBetweenRoundedBinaryAndTernary">
-    <title>Distinguishing between Rounded Binary and Ternary</title>
-    <introduction><p>In homework and on the test, you will encounter pieces that are five or six phrases long that could be rounded binary or ternary. While other authors have their own means to differentiate rounded binary from ternary, this text offers the following criteria to consider:</p>
-    <ol>
-        <li><p><em>Proportion</em>: consider the proportion of the contrasting section to the other sections. If the contrasting section is too small to stand alone, the form is more likely to be rounded binary.</p></li>
-        <li><p><em>Nature</em>: consider the nature of the contrasting section.
+            </image>        
+            <figure>
+                <caption>Mozart, Andante in E-flat major, K. 15mm</caption>
+                <video youtube="BJviMnAB_jg" start="0" end="55" play-at="select" preview="generic" width="25%"/>
+            </figure>
+            <p>Below is a diagram of K. 15mm by Mozart.</p>
+            <figure>
+                <caption>Diagram illustrating Binary Principle</caption>
+                <image source="images/unit7/bin-tern-ternary-mozart-k15mm-DIAGRAM">
+                    <description/>
+                </image>
+            </figure>
+            <p>Character pieces from the Romantic era with titles such as <q>Nocturne,</q> <q>Intermezzo,</q> and <q>Song Without Words,</q> among others, by composers such as Schubert, Chopin, Mendelssohn, Schumann, and Brahms, are often in a larger ternary form where each section might be longer than eight bars.</p>
+            <p>Below are examples from a larger ternary piece, Rachmaninov's Prelude in C-sharp minor, Op.3 No.2.</p>
+            <figure>
+                <caption>Sergei Rachmaninoff, Prelude in C-sharp minor, Op. 3 No. 2, First A section bars 1<ndash/>13</caption>
+                <idx><h>Rachmaninoff, Sergei</h><h>Prelude in C-sharp minor, Op. 3 No. 2</h></idx>
+                <image source="images/unit7/bin-tern-ternary-Rachmaninoff-A1">
+                    <description/>
+                </image>
+                <video youtube="sCtixpIWBto" start="0" end="84" play-at="select" preview="generic" width="25%"/>
+            </figure>
+            <figure>
+                <caption>Rachmaninov, Prelude in C-sharp minor, Op.3 No.2, B section bars 14<ndash/>42</caption>
+                <image source="images/unit7/bin-tern-ternary-Rachmaninoff-B">
+                    <description/>
+                </image>
+                <video youtube="sCtixpIWBto" start="84" end="129" play-at="select" preview="generic" width="25%"/>
+            </figure>
+            <figure>
+                <caption>Rachmaninov, Prelude in C-sharp minor, Op.3 No.2, Second A section bars 45<ndash/>61</caption>
+                <image source="images/unit7/bin-tern-ternary-Rachmaninoff-A2">
+                    <description/>
+                </image>
+                <video youtube="sCtixpIWBto" start="129" end="232" play-at="select" preview="generic" width="25%"/>
+            </figure>
+        </introduction>
+        <subsection xml:id="CompoundTernary">
+            <title>Compound Ternary</title>
+            <p>A <term>compound ternary</term><idx><h>ternary form</h><h>compound</h></idx> is a ternary form in which one of the sections (the A or the B) is itself a binary or ternary form. Examples can be found in the minuet and trio as well as the da capo aria.</p>
+        </subsection>
+        <conclusion><p>In the next section, we will examine the differences between rounded binary and ternary.</p></conclusion>
+    </section>
+    <section xml:id="DistinguishingBetweenRoundedBinaryAndTernary">
+        <title>Distinguishing between Rounded Binary and Ternary</title>
+        <introduction><p>In homework and on the test, you will encounter pieces that are five or six phrases long that could be rounded binary or ternary. While other authors have their own means to differentiate rounded binary from ternary, this text offers the following criteria to consider:</p>
         <ol>
-            <li><p>If the melody is built from motives from the first section, the form is likely to be a rounded binary. Ternary form will have a contrasting melody in the contrasting section.</p></li>
-            <li><p>If the harmony consists mostly of a dominant pedal, or a V chord alternating with a I or I<chord bps="6 4"/> chord, the form is likely to be a rounded binary.</p></li>
+            <li><p><em>Proportion</em>: consider the proportion of the contrasting section to the other sections. If the contrasting section is too small to stand alone, the form is more likely to be rounded binary.</p></li>
+            <li><p><em>Nature</em>: consider the nature of the contrasting section.
+            <ol>
+                <li><p>If the melody is built from motives from the first section, the form is likely to be a rounded binary. Ternary form will have a contrasting melody in the contrasting section.</p></li>
+                <li><p>If the harmony consists mostly of a dominant pedal, or a V chord alternating with a I or I<chord bps="6 4"/> chord, the form is likely to be a rounded binary.</p></li>
+            </ol></p></li>
+            <li><p><em>Era</em>: consider the era when the piece was written. A piece by a Baroque composer (J.S. Bach, Handel, Scarlatti, Couperin) or Classical composer (Haydn, Mozart, and Beethoven) is more likely to be in rounded binary form, whereas a piece by a Romantic era composer (Schubert, Schumann, Chopin, Mendelssohn, and Brahms, among others) is more likely to be in ternary form. Note that these are generalities. Baroque and Classical composers wrote compositions in ternary form and Romantic composers wrote pieces in rounded binary form.</p></li>
         </ol>
-    </p></li>
-    <li><p><em>Era</em>: consider the era when the piece was written. A piece by a Baroque composer (J.S. Bach, Handel, Scarlatti, Couperin) or Classical composer (Haydn, Mozart, and Beethoven) is more likely to be in rounded binary form, whereas a piece by a Romantic era composer (Schubert, Schumann, Chopin, Mendelssohn, and Brahms, among others) is more likely to be in ternary form. Note that these are generalities. Baroque and Classical composers wrote compositions in ternary form and Romantic composers wrote pieces in rounded binary form.</p></li>
-</ol>
-<p>Consider the following piece by Beethoven:</p>
-<idx><h>Beethoven</h><h>Eleven Bagatelles, Op. 119, No. 9</h></idx>
-<sidebyside>
-    <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-A">
-        <description/>
-    </image>
-</sidebyside>
-<sidebyside>
-    <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-B">
-        <description/>
-    </image>
-</sidebyside>
-<sidebyside>
-    <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-C">
-        <description/>
-    </image>
-</sidebyside>
-<sidebyside>
-    <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-D">
-        <description/>
-    </image>
-</sidebyside>
-<sidebyside>
-    <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-E">
-        <description/>
-    </image>
-</sidebyside>
-<sidebyside margins="37%">
-    <video youtube="hpQBbomOMj0" start="750" end="783" play-at="select" preview="generic"/>
-</sidebyside>
-<figure>
-    <caption>Beethoven, Eleven Bagatelles, Op. 119, No. 9</caption>
-</figure>
-<p>In terms of proportion, bars 9<ndash/>12 contain contrasting material to bars 1<ndash/>8. Because the contrasting material lasts for half as long as the open section, we consider the proportion as pointing toward rounded binary.</p>
-<p>In terms of the nature of the contrasting section, the melody is built from the contour of the first four notes of the first measure, and the harmony alternates between V and I<chord bps="6 4"/>. Both the harmony and melody point us in the direction of rounded binary.</p>
-<p>Finally, consider the era in which Beethoven lived. Is he considered a Classical or Romantic composer? This is a difficult question to answer, as Beethoven is a unique figure who is a bridge between the Classical and Romantic eras. However, it’s generally safe to consider Beethoven as belonging to the Classical era, and therefore as likely to write a rounded binary form.</p>
-<p>You will encounter examples on homework and the test where these three criteria are not unanimous and you will have to weigh the evidence to come to a conclusion.</p></introduction>
-<subsection>
-    <title>Written-Out Repeats</title>
-    <p>Occasionally you will encounter an example where the repeats are written out. When you encounter such a piece, put the repeats in your diagram even though there are not in the score.<!--need example--></p>
-</subsection>
-</section>
-<exercises xml:id="BinaryAndTernaryPracticeExercises">
-    <title>Practice Exercises</title>
-<!--More examples needed with the melody varied upon return
+        <p>Consider the following piece by Beethoven:</p>
+        <idx><h>Beethoven</h><h>Eleven Bagatelles, Op. 119, No. 9</h></idx>
+        <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-A">
+            <description/>
+        </image>
+        <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-B">
+            <description/>
+        </image>
+        <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-C">
+            <description/>
+        </image>
+        <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-D">
+            <description/>
+        </image>
+        <image source="images/unit7/bin-tern-criteria-beeth-bagatelle-E">
+            <description/>
+        </image>
+        <video youtube="hpQBbomOMj0" start="750" end="783" play-at="select" preview="generic" width="25%"/>
+        <figure>
+            <caption>Beethoven, Eleven Bagatelles, Op. 119, No. 9</caption>
+        </figure>
+        <p>In terms of proportion, bars 9<ndash/>12 contain contrasting material to bars 1<ndash/>8. Because the contrasting material lasts for half as long as the open section, we consider the proportion as pointing toward rounded binary.</p>
+        <p>In terms of the nature of the contrasting section, the melody is built from the contour of the first four notes of the first measure, and the harmony alternates between V and I<chord bps="6 4"/>. Both the harmony and melody point us in the direction of rounded binary.</p>
+        <p>Finally, consider the era in which Beethoven lived. Is he considered a Classical or Romantic composer? This is a difficult question to answer, as Beethoven is a unique figure who is a bridge between the Classical and Romantic eras. However, it’s generally safe to consider Beethoven as belonging to the Classical era, and therefore as likely to write a rounded binary form.</p>
+        <p>You will encounter examples on homework and the test where these three criteria are not unanimous and you will have to weigh the evidence to come to a conclusion.</p></introduction>
+        <subsection>
+            <title>Written-Out Repeats</title>
+            <p>Occasionally you will encounter an example where the repeats are written out. When you encounter such a piece, put the repeats in your diagram even though there are not in the score.<!--need example--></p>
+        </subsection>
+    </section>
 
-They need to do melodic analysis of subphrases and possibly motives on the homework examples
 
-There needs to be at least one example with written out repeats, like a Schumann album for the young example -->
-<exercisegroup>
-    <introduction>
-        <p>Day One</p>
-    </introduction>
-    <exercise>
-        <statement>
-            <p>For Handel's Gavotte, HWV 491, please fill in the blanks below the staves and diagram the form. Also, name the form. You will need to determine which notes are non-chord tones in order to determine Roman numerals.</p>
-            <idx><h>Handel, George Frideric</h><h>Gavotte, HWV 491</h></idx>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Handel-gavotte-A">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Handel-gavotte-B">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Handel-gavotte-C">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Handel-gavotte-D">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Handel-gavotte-E">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside margins="37%">
-                <video youtube="IHEwWbK2fBw" start="0" end="56" play-at="select" preview="generic"/>
-            </sidebyside>
-            <figure>
-                <caption>George Frideric Handel, Gavotte, HWV 491</caption>
-            </figure>
-            <p>For the piece above, complete the following diagram based on your analysis. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-handel-gavotte-DIAGRAM"/>
-            </sidebyside>
-            <p>Circle all of the terms that apply to the name of the form:</p>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
-            </sidebyside>
-        </statement>
-        <answer>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-handel-gavotte-DIAGRAM-KEY"/>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-bin-tern-Handel-terms-to-circle-KEY"/>
-            </sidebyside>
-        </answer>
-    </exercise>
-    <exercise>
-        <statement>
-            <p>For the theme from first movement of Mozart's Piano Sonata in A major, K. 331, please fill in the blanks below the staves and diagram the form. Also, name the form.</p>
-            <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 331, I</h></idx>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Mozart-K331-A">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Mozart-K331-B">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Mozart-K331-C">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Mozart-K331-D">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside margins="37%">
-                <video youtube="vp_h649sZ9A" start="3" end="51" play-at="select" preview="generic"/>
-            </sidebyside>
-            <figure>
-                <caption>Mozart, Piano Sonata K. 331, I</caption>
-            </figure>
-            <p>For the piece above, complete the following diagram based on your analysis. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-mozart-331-DIAGRAM"/>
-            </sidebyside>
-            <p>Circle all of the terms that apply to the name of the form:</p>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
-            </sidebyside>
-        </statement>
-        <answer>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-mozart-331-DIAGRAM-KEY"/>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-bin-tern-Mozart331-terms-to-circle-KEY"/>
-            </sidebyside>
-        </answer>
-    </exercise>
-</exercisegroup>
-<exercisegroup>
-    <introduction>
-        <p>Day Two</p>
-    </introduction>
-    <exercise>
-        <statement>
-            <p>For this Polonaise in F major by Mozart, please fill in the blanks below the staves and diagram the form. Also, name the form.</p>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Mozart-Polonaise-A">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Mozart-Polonaise-B">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Mozart-Polonaise-C">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Mozart-Polonaise-D">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside margins="37%">
-                <video youtube="6J2OpIjODTU" start="0" end="42" play-at="select" preview="generic"/>
-            </sidebyside>
-            <figure>
-                <caption>Mozart, Polonaise in F major</caption>
-            </figure>
-            <p>For the piece above, complete the following diagram based on your analysis. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-mozart-331-DIAGRAM"/>
-            </sidebyside>
-            <p>Circle all of the terms that apply to the name of the form:</p>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
-            </sidebyside>
-        </statement>
-        <answer>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-mozart-331-DIAGRAM-KEY"/>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-bin-tern-Mozart331-terms-to-circle-KEY"/>
-            </sidebyside>
-        </answer>
-    </exercise>
-    <exercise>
-        <statement>
-            <p>For this Allegro in B-flat major (K. 3) by Mozart, please fill in the blanks below the staves and diagram the form. Also, name the form.</p>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Moz-allegro-in-Bflat-A">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Moz-allegro-in-Bflat-B">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Moz-allegro-in-Bflat-C">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Moz-allegro-in-Bflat-D">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside margins="37%">
-                <video youtube="t5R0ORjKloE" start="2" end="49" play-at="select" preview="generic"/>
-            </sidebyside>
-            <figure>
-                <caption>Mozart, Allegro in B-flat major</caption>
-            </figure>
-            <p>On scratch paper, create a diagram of the form. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
-            <p>Circle all of the terms that apply to the name of the form:</p>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
-            </sidebyside>
-        </statement>
-        <answer>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-mozart-allegro-DIAGRAM-KEY"/>
-            </sidebyside>
-            <p>Two-Reprise Continuous Ternary, if looking at the proportion, or Two-Reprise Continuous Rounded Binary, if you interpret the first two notes in bar 13 as being built from the first two notes in bar 1<mdash/>and if you are considering that Mozart, as a Classical-era composer, is likely to compose a rounded binary. Two-Reprise Continuous Balanced Binary is a label that describes that the endings of the halves are the same, but doesn't take into account the return of the opening material in bar 21. </p>
-        </answer>
-    </exercise>
-</exercisegroup>
-<exercisegroup>
-    <introduction>
-        <p>Day Three</p>
-    </introduction>
-    <exercise>
-        <statement>
-            <p>Please fill in the blanks below the staves and diagram the form of <q>After the Ball</q> from Alexander Gretchaninoff's <pubtitle>Children’s Book</pubtitle>, Op.98. Also, name the form.</p>
-            <idx><h>Gretchaninoff, Alexander</h><h><pubtitle>Children’s Book</pubtitle>, Op.98</h><h>No. 13 <q>After the Ball</q></h></idx>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-gretchaninoff-A">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-gretchaninoff-B">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-gretchaninoff-C">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside margins="37%">
-                <video youtube="3AeFVFC1zy0" start="0" end="54" play-at="select" preview="generic"/>
-            </sidebyside>
-            <figure>
-                <caption>Gretchaninoff, <pubtitle>Children’s Book</pubtitle>, Op.98, No. 13, <q>After the Ball</q></caption>
-            </figure>
-            <p>On scratch paper, create a diagram of the form. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
-            <p>Circle all of the terms that apply to the name of the form:</p>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
-            </sidebyside>
-        </statement>
-        <answer>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-Gretchaninoff-DIAGRAM-KEY"/>
-            </sidebyside>
-            <p>Sectional Ternary</p>
-        </answer>
-    </exercise>
-    <exercise>
-        <statement>
-            <p>For the theme from Brahms's <pubtitle>Variations on a Theme of Haydn</pubtitle> Op. 56a (the theme is also known as <q>St. Anthony's Chorale</q>), please fill in the blanks below the staves and diagram the form. Also, name the form.</p>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Brahms-Haydn-A">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Brahms-Haydn-B">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Brahms-Haydn-C">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit7/HW-bin-tern-Brahms-Haydn-D">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside margins="37%">
-                <video youtube="3EbkqX94ng8" start="2" end="128" play-at="select" preview="generic"/>
-            </sidebyside>
-            <figure>
-                <caption>Brahms, <pubtitle>Variations on a Theme of Haydn</pubtitle>, Op. 56a</caption>
-            </figure>
-            <p>On scratch paper, create a diagram of the form. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
-            <p>Circle all of the terms that apply to the name of the form:</p>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
-            </sidebyside>
-        </statement>
-        <answer>
-            <sidebyside>
-                <image source="images/unit7/PRAC-EXER-Brahms-Haydn-var-DIAGRAM-KEY"/>
-            </sidebyside>
-            <p>Two-Reprise Sectional Rounded Binary (because the motives from the first section are used in the construction of the melody of the second section)</p>
-        </answer>
-    </exercise>
-</exercisegroup>
-<conclusion>
-    <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_33.pdf">here to download the first homework assignment for this chapter.</url></p>
-    <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_34.pdf">here to download the second homework assignment for this chapter.</url></p>
-    <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_35.pdf">here to download the third homework assignment for this chapter.</url></p>
-    <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_32.pdf">here to download the review sheet for material studied prior to this chapter.</url></p>
-    <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
-</conclusion>
-</exercises>
+    <exercises xml:id="BinaryAndTernaryPracticeExercises">
+        <title>Practice Exercises</title>
+        <!--More examples needed with the melody varied upon return-->
+
+        <!--They need to do melodic analysis of subphrases and possibly motives on the homework examples-->
+
+        <!--There needs to be at least one example with written out repeats, like a Schumann album for the young example -->
+
+        <exercisegroup>
+            <introduction>
+                <p>Day One</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>For Handel's Gavotte, HWV 491, please fill in the blanks below the staves and diagram the form. Also, name the form. You will need to determine which notes are non-chord tones in order to determine Roman numerals.</p>
+                    <idx><h>Handel, George Frideric</h><h>Gavotte, HWV 491</h></idx>
+                    <image source="images/unit7/HW-bin-tern-Handel-gavotte-A">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Handel-gavotte-B">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Handel-gavotte-C">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Handel-gavotte-D">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Handel-gavotte-E">
+                        <description/>
+                    </image>
+                    <video youtube="IHEwWbK2fBw" start="0" end="56" play-at="select" preview="generic" width="25%"/>
+                    <figure>
+                        <caption>George Frideric Handel, Gavotte, HWV 491</caption>
+                    </figure>
+                    <p>For the piece above, complete the following diagram based on your analysis. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
+                    <image source="images/unit7/PRAC-EXER-handel-gavotte-DIAGRAM"/>
+                    <p>Circle all of the terms that apply to the name of the form:</p>
+                    <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
+                </statement>
+                <answer>
+                    <image source="images/unit7/PRAC-EXER-handel-gavotte-DIAGRAM-KEY"/>
+                    <image source="images/unit7/PRAC-EXER-bin-tern-Handel-terms-to-circle-KEY"/>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>For the theme from first movement of Mozart's Piano Sonata in A major, K. 331, please fill in the blanks below the staves and diagram the form. Also, name the form.</p>
+                    <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 331, I</h></idx>
+                    <image source="images/unit7/HW-bin-tern-Mozart-K331-A">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Mozart-K331-B">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Mozart-K331-C">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Mozart-K331-D">
+                        <description/>
+                    </image>
+                    <video youtube="vp_h649sZ9A" start="3" end="51" play-at="select" preview="generic" width="25%"/>
+                    <figure>
+                        <caption>Mozart, Piano Sonata K. 331, I</caption>
+                    </figure>
+                    <p>For the piece above, complete the following diagram based on your analysis. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
+                    <image source="images/unit7/PRAC-EXER-mozart-331-DIAGRAM"/>
+                    <p>Circle all of the terms that apply to the name of the form:</p>
+                    <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
+                </statement>
+                <answer>
+                    <image source="images/unit7/PRAC-EXER-mozart-331-DIAGRAM-KEY"/>
+                    <image source="images/unit7/PRAC-EXER-bin-tern-Mozart331-terms-to-circle-KEY"/>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Two</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>For this Polonaise in F major by Mozart, please fill in the blanks below the staves and diagram the form. Also, name the form.</p>
+                    <image source="images/unit7/HW-bin-tern-Mozart-Polonaise-A">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Mozart-Polonaise-B">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Mozart-Polonaise-C">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Mozart-Polonaise-D">
+                        <description/>
+                    </image>
+                    <video youtube="6J2OpIjODTU" start="0" end="42" play-at="select" preview="generic" width="25%"/>
+                    <figure>
+                        <caption>Mozart, Polonaise in F major</caption>
+                    </figure>
+                    <p>For the piece above, complete the following diagram based on your analysis. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
+                    <image source="images/unit7/PRAC-EXER-mozart-331-DIAGRAM"/>
+                    <p>Circle all of the terms that apply to the name of the form:</p>
+                    <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
+                </statement>
+                <answer>
+                    <image source="images/unit7/PRAC-EXER-mozart-331-DIAGRAM-KEY"/>
+                    <image source="images/unit7/PRAC-EXER-bin-tern-Mozart331-terms-to-circle-KEY"/>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>For this Allegro in B-flat major (K. 3) by Mozart, please fill in the blanks below the staves and diagram the form. Also, name the form.</p>
+                    <image source="images/unit7/HW-bin-tern-Moz-allegro-in-Bflat-A">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Moz-allegro-in-Bflat-B">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Moz-allegro-in-Bflat-C">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Moz-allegro-in-Bflat-D">
+                        <description/>
+                    </image>
+                    <video youtube="t5R0ORjKloE" start="2" end="49" play-at="select" preview="generic" width="25%"/>
+                    <figure>
+                        <caption>Mozart, Allegro in B-flat major</caption>
+                    </figure>
+                    <p>On scratch paper, create a diagram of the form. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
+                    <p>Circle all of the terms that apply to the name of the form:</p>
+                    <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
+                </statement>
+                <answer>
+                    <image source="images/unit7/PRAC-EXER-mozart-allegro-DIAGRAM-KEY"/>
+                    <p>Two-Reprise Continuous Ternary, if looking at the proportion, or Two-Reprise Continuous Rounded Binary, if you interpret the first two notes in bar 13 as being built from the first two notes in bar 1<mdash/>and if you are considering that Mozart, as a Classical-era composer, is likely to compose a rounded binary. Two-Reprise Continuous Balanced Binary is a label that describes that the endings of the halves are the same, but doesn't take into account the return of the opening material in bar 21. </p>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <exercisegroup>
+            <introduction>
+                <p>Day Three</p>
+            </introduction>
+            <exercise>
+                <statement>
+                    <p>Please fill in the blanks below the staves and diagram the form of <q>After the Ball</q> from Alexander Gretchaninoff's <pubtitle>Children’s Book</pubtitle>, Op.98. Also, name the form.</p>
+                    <idx><h>Gretchaninoff, Alexander</h><h><pubtitle>Children’s Book</pubtitle>, Op.98</h><h>No. 13 <q>After the Ball</q></h></idx>
+                    <image source="images/unit7/HW-bin-tern-gretchaninoff-A">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-gretchaninoff-B">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-gretchaninoff-C">
+                        <description/>
+                    </image>
+                    <video youtube="3AeFVFC1zy0" start="0" end="54" play-at="select" preview="generic" width="25%"/>
+                    <figure>
+                        <caption>Gretchaninoff, <pubtitle>Children’s Book</pubtitle>, Op.98, No. 13, <q>After the Ball</q></caption>
+                    </figure>
+                    <p>On scratch paper, create a diagram of the form. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
+                    <p>Circle all of the terms that apply to the name of the form:</p>
+                    <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
+                </statement>
+                <answer>
+                    <image source="images/unit7/PRAC-EXER-Gretchaninoff-DIAGRAM-KEY"/>
+                    <p>Sectional Ternary</p>
+                </answer>
+            </exercise>
+            <exercise>
+                <statement>
+                    <p>For the theme from Brahms's <pubtitle>Variations on a Theme of Haydn</pubtitle> Op. 56a (the theme is also known as <q>St. Anthony's Chorale</q>), please fill in the blanks below the staves and diagram the form. Also, name the form.</p>
+                    <image source="images/unit7/HW-bin-tern-Brahms-Haydn-A">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Brahms-Haydn-B">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Brahms-Haydn-C">
+                        <description/>
+                    </image>
+                    <image source="images/unit7/HW-bin-tern-Brahms-Haydn-D">
+                        <description/>
+                    </image>
+                    <video youtube="3EbkqX94ng8" start="2" end="128" play-at="select" preview="generic" width="25%"/>
+                    <figure>
+                        <caption>Brahms, <pubtitle>Variations on a Theme of Haydn</pubtitle>, Op. 56a</caption>
+                    </figure>
+                    <p>On scratch paper, create a diagram of the form. Include section labels using uppercase letters, phrase labels using lowercase letters, and cadences using the abbreviations PAC, IAC, HC, DC, PC.</p>
+                    <p>Circle all of the terms that apply to the name of the form:</p>
+                    <image source="images/unit7/PRAC-EXER-bin-tern-terms-to-circle"/>
+                </statement>
+                <answer>
+                    <image source="images/unit7/PRAC-EXER-Brahms-Haydn-var-DIAGRAM-KEY"/>
+                    <p>Two-Reprise Sectional Rounded Binary (because the motives from the first section are used in the construction of the melody of the second section)</p>
+                </answer>
+            </exercise>
+        </exercisegroup>
+        <conclusion>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_33.pdf">here to download the first homework assignment for this chapter.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_34.pdf">here to download the second homework assignment for this chapter.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_35.pdf">here to download the third homework assignment for this chapter.</url></p>
+            <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_32.pdf">here to download the review sheet for material studied prior to this chapter.</url></p>
+            <p>PDF versions of the textbook, homework exercises, and practice exercises can be found at <url href="http://musictheory.pugetsound.edu"><c>musictheory.pugetsound.edu</c></url></p>
+        </conclusion>
+    </exercises>
 </chapter>

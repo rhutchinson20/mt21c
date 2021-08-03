@@ -11,73 +11,43 @@
         <figure>
             <caption>Ludwig van Beethoven, Symphony No. 1, Op. 21, I, Motives in Primary Theme (1800)</caption>
             <idx><h>Beethoven</h><h>Symphony No. 1, Op. 21, I</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/motive-beethoven-sym-1-motives">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="tFafjC-180E" start="75" end="83" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/motive-beethoven-sym-1-motives">
+                <description/>
+            </image>
+            <video youtube="I1rA68yF4tM" start="93" end="100" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Later in the movement we find Beethoven extracting motives from this four-measure phrase in order to develop them through <xref ref="sequence-definition" text="custom">sequences</xref>.</p>
         <p>Here is development of motive 1.</p>
         <figure>
             <caption>Beethoven, Symphony No. 1, I, development of motive 1</caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/motive-devt-of-mot1-beeth">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="tFafjC-180E" start="426" end="439" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/motive-devt-of-mot1-beeth">
+                <description/>
+            </image>
+            <video youtube="I1rA68yF4tM" start="440" end="452" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is development of motive 2</p>
         <figure>
             <caption>Beethoven, Symphony No. 1, I, development of motive 2</caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/motive-devt-of-mot2-beethoven">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="tFafjC-180E" start="369" end="384" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/motive-devt-of-mot2-beethoven">
+                <description/>
+            </image>
+            <video youtube="I1rA68yF4tM" start="383" end="395" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is development of motives 2 and 3 together.</p>
         <figure>
             <caption>Beethoven, Symphony No. 1, I, development of motives 2 and 3</caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/motive-devt-of-mot3-beethoven">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="tFafjC-180E" start="327" end="343" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/motive-devt-of-mot3-beethoven">
+                <description/>
+            </image>
+            <video youtube="I1rA68yF4tM" start="341" end="352" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The previous excerpt leads directly into the next, which features development of motive 4.</p>
         <figure>
             <caption>Beethoven, Symphony No. 1, I, development of motive 4</caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/motive-devt-of-mot4-beethoven">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="tFafjC-180E" start="342" end="355" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/motive-devt-of-mot4-beethoven">
+                <description/>
+            </image>
+            <video youtube="I1rA68yF4tM" start="356" end="367" play-at="select" preview="generic" width="25%"/>
             <p>In the next section, we will look at some of the various ways one can alter a melody</p>
         </figure>
     </section>
@@ -91,16 +61,10 @@
             <figure>
                 <caption>Bach, Invention No. 1 in C Major, BWV 772 (1723)</caption>
                 <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-bach-invention1-expo">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="E8EvUmq0Zao" start="0" end="17" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/motive-bach-invention1-expo">
+                    <description/>
+                </image>
+                <video youtube="E8EvUmq0Zao" start="0" end="17" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>The first seven notes in measure 1 are inverted in measure 3, shown in the following example.</p>
             <figure>
@@ -117,31 +81,19 @@
             <figure>
                 <caption>Ray Noble, <q>The Very Thought of You</q> (1934)</caption>
                 <idx><h>songs (popular)</h><h><q>The Very Thought of You</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-intervallic-change-the-very-thought">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="v9V98ECtsfY" start="15" end="25" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/motive-intervallic-change-the-very-thought">
+                    <description/>
+                </image>
+                <video youtube="v9V98ECtsfY" start="15" end="25" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>The next example has two intervals changed, one of which includes a change in contour.</p>
             <figure>
                 <caption>Eric Stewart and Graham Gouldman, <q>I’m Not In Love</q> (1975)</caption>
                 <idx><h>songs (popular)</h><h><q>I’m Not In Love</q> (10cc)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-intervallic-change-im-not-in-love">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="STugQ0X1NoI" start="14" end="22" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/motive-intervallic-change-im-not-in-love">
+                    <description/>
+                </image>
+                <video youtube="STugQ0X1NoI" start="14" end="22" play-at="select" preview="generic" width="25%"/>
             </figure> 
         </subsection>
         <subsection xml:id="AugmentationAndDiminution">
@@ -150,32 +102,20 @@
             <figure xml:id="invention1-aug-and-ext">
                 <caption>Augmentation of fragment <q>a</q> in Invention No. 1 by J.S. Bach</caption>
                 <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-augmentation-invention1">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="E8EvUmq0Zao" start="9" end="17" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/motive-augmentation-invention1">
+                    <description/>
+                </image>
+                <video youtube="E8EvUmq0Zao" start="9" end="17" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>We will discuss extension and fragmentation of motives later in this chapter.</p> 
             <p><term>Diminution</term><idx><h>diminution</h></idx> is the opposite of augmentation and usually refers to the exact halving of the duration of every rhythmic value in a motive or phrase. However, diminution can also refer to the use of shorter rhythmic values, as in the following example.</p>
             <figure>
                 <caption>Diminution of the first four notes in <q>Uranus</q> from <pubtitle>The Planets</pubtitle>, Op. 32, by Gustav Holst (1916)</caption>
                 <idx><h>Holst, Gustav</h><h><pubtitle>The Planets</pubtitle>, <q>Uranus</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-diminution-uranus">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="aDFGmiXnLjU" start="7" end="30" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/motive-diminution-uranus">
+                    <description/>
+                </image>
+                <video youtube="aDFGmiXnLjU" start="7" end="30" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection xml:id="RhythmicChange">
@@ -184,46 +124,28 @@
             <figure>
                 <caption>Hurby Azor and Ray Davies, <q>Push It</q> (1987)</caption>
                 <idx><h>songs (popular)</h><h><q>Push It</q> (Salt-n-Pepa)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-rhythmic-change-push-it">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="vCadcBR95oU" start="174" end="182" play-at="select" preview="generic"/>
-                    </sidebyside> 
-                </sbsgroup>
+                <image source="images/unit2/motive-rhythmic-change-push-it">
+                    <description/>
+                </image>
+                <video youtube="vCadcBR95oU" start="174" end="182" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>Imagine the effect if there had been no rhythmic change and the first measure was merely repeated.</p>
             <p>In the next example, from Beethoven’s <q>Path&#x00E9;tique</q> sonata, motive 1 has dotted rhythms during the introduction of the piece.</p>
             <figure>
                 <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, I, Introduction (1799)</caption>
                 <idx><h>Beethoven</h><h>Path&#x00E9;tique Sonata, Op. 13, I, Introduction</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-rhythm-change-pathetique1">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="SrcOcKYQX3c" start="19" end="41" play-at="select" preview="generic"/>
-                    </sidebyside> 
-                </sbsgroup>
+                <image source="images/unit2/motive-rhythm-change-pathetique1">
+                    <description/>
+                </image>
+                <video youtube="SrcOcKYQX3c" start="19" end="41" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>In the development section, Beethoven changes the rhythm of motive 1 then abbreviates it in the following measure when it is sequenced up a step.</p>
             <figure>
                 <caption>Beethoven, Path&#x00E9;tique Sonata, Op. 13, I, development section</caption>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-rhythm-change-pathetique2">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="SrcOcKYQX3c" start="385" end="395" play-at="select" preview="generic"/>
-                    </sidebyside> 
-                </sbsgroup>
+                <image source="images/unit2/motive-rhythm-change-pathetique2">
+                    <description/>
+                </image>
+                <video youtube="SrcOcKYQX3c" start="385" end="395" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection xml:id="OrnamentationSection">
@@ -233,16 +155,10 @@
             <figure xml:id="SirDukeExample">
                 <caption>Stevie Wonder, <q>Sir Duke</q> (1976)</caption>
                 <idx><h>songs (popular)</h><h><q>Sir Duke</q> (Stevie Wonder)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-ornamentation-sir-duke">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="s6fPN5aQVDI" start="0" end="8" play-at="select" preview="generic"/>
-                    </sidebyside> 
-                </sbsgroup> 
+                <image source="images/unit2/motive-ornamentation-sir-duke">
+                    <description/>
+                </image>
+                <video youtube="s6fPN5aQVDI" start="0" end="8" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection xml:id="ExtensionSection">
@@ -256,16 +172,10 @@
             <figure>
                 <caption>Melodic Retrograde in <q>Toxic</q> by Cathy Dennis, Christian Karlsson, Pontus Winnberg, Henrik Jonback (2003)</caption>
                 <idx><h>songs (popular)</h><h><q>Toxic</q> (Britney Spears)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/motive-retrograde-example-toxic">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="ECVbVwEzY2E" start="82" end="98" play-at="select" preview="generic"/>
-                    </sidebyside> 
-                </sbsgroup> 
+                <image source="images/unit2/motive-retrograde-example-toxic">
+                    <description/>
+                </image>
+                <video youtube="ECVbVwEzY2E" start="82" end="98" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>We will not consider <xref ref="RomanNumeralChordSymbols" text="custom">transposition</xref> of a motive (also known as a <xref ref="sequence-definition" text="custom">sequence</xref>) to be a motivic alteration worth labeling since it is so common.</p>
         </subsection>
@@ -284,31 +194,19 @@
         <figure>
             <caption>Development of fragment <q>a</q> in Invention 1</caption>
             <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/motive-augmentation-invention1">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="E8EvUmq0Zao" start="9" end="17" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/motive-augmentation-invention1">
+                <description/>
+            </image>
+            <video youtube="E8EvUmq0Zao" start="9" end="17" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the following example Bach develops an inversion of fragment <q>b</q> leading into a cadence in G major.</p>
         <figure>
             <caption>Development of fragment <q>b</q> in Invention 1</caption>
             <idx><h>Bach, J.S.</h><h>Invention No. 1 in C Major, BWV 772</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/motive-fragment-inv1-fragb">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="E8EvUmq0Zao" start="18" end="25" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/motive-fragment-inv1-fragb">
+                <description/>
+            </image>
+            <video youtube="E8EvUmq0Zao" start="18" end="25" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="PhraseSection">
@@ -320,75 +218,45 @@
         <figure>
             <caption>Smokey Robinson and Ronald White, <q>My Girl</q>(1964)</caption>
             <idx><h>songs (popular)</h><h><q>My Girl</q> (The Temptations)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/phrase-4bar-my-girl">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="nz80onuEhHE" start="9" end="19" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup> 
+            <image source="images/unit2/phrase-4bar-my-girl">
+                <description/>
+            </image>
+            <video youtube="nz80onuEhHE" start="9" end="19" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Nickolas Ashford and Valerie Simpson, <q>I’m Every Woman</q> (1978)</caption>
             <idx><h>songs (popular)</h><h><q>I’m Every Woman</q> (Chaka Khan)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/phrase-4bar-im-every-woman">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="vNAq7Cv34l4" start="17" end="26" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup> 
+            <image source="images/unit2/phrase-4bar-im-every-woman">
+                <description/>
+            </image>
+            <video youtube="vNAq7Cv34l4" start="17" end="26" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example of a five-measure phrase. Notice that the final chord (a minor iv chord, which will be discussed in the chapter on mode mixture) is part of a half cadence or deceptive cadence, yet the phrase has a feeling of completion, especially considering its relation to the phrases before and after it.</p>
         <figure>
             <caption>Shaffer Smith, Mikkel Eriksen, Tor Erik Hermansen, Espen Lind, Beyonc&#x00E9; Knowles, <q>Irreplaceable</q> (2006)</caption>
             <idx><h>songs (popular)</h><h><q>Irreplaceable</q> (Beyonc&#x00E9;)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/phrase-5bar-irreplaceable">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="2EwViQxSJJQ" start="73" end="88" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>  
+            <image source="images/unit2/phrase-5bar-irreplaceable">
+                <description/>
+            </image>
+            <video youtube="2EwViQxSJJQ" start="73" end="88" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example of a six-measure phrase that ends with a <chord root="V" bps="7"/>-<chord root="i"/> cadence in <n pc="G"/> minor.</p>
         <figure>
             <caption>W.A. Mozart, Symphony No. 40, K. 550, III (1788)</caption>
             <idx><h>Mozart, W.A.</h><h>Symphony No. 40, K. 550, III</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/phrase-6bar-k550iii">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="PbwJhFGUiFc" start="43" end="49" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>  
+            <image source="images/unit2/phrase-6bar-k550iii">
+                <description/>
+            </image>
+            <video youtube="PbwJhFGUiFc" start="43" end="49" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example of an 8-measure phrase.</p>
         <figure>
             <caption>W.A. Mozart, Piano Sonata in C Major, K. 545, II</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata in C Major, K. 545, II</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/phrase-8bar-k545ii">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="1vDxlnJVvW8" start="180" end="206" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>  
+            <image source="images/unit2/phrase-8bar-k545ii">
+                <description/>
+            </image>
+            <video youtube="1vDxlnJVvW8" start="180" end="206" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Examples of seven-measure phrases are rare and often involve <xref ref="Elision" text="custom">elisions</xref>, which will be covered in a later <xref ref="PhrasesInCombination" text="custom">chapter</xref> when we discuss how phrases are combined to create small forms like <xref ref="PeriodForm" text="custom">periods</xref> and <xref ref="PhraseGroupsAndPhraseChains" text="custom">phrase groups</xref>.</p>
     </section>
@@ -401,62 +269,38 @@
         <figure>
             <caption>Christine McVie, <q>Don’t Stop</q> (1977)</caption>
             <idx><h>songs (popular)</h><h><q>Don’t Stop</q> (Fleetwood Mac)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/phrase-subphrase-dont-stop-thinking-about">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="OvSbZEYlfnM" start="73" end="81" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup> 
+            <image source="images/unit2/phrase-subphrase-dont-stop-thinking-about">
+                <description/>
+            </image>
+            <video youtube="OvSbZEYlfnM" start="73" end="81" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is an example of a four-measure phrase with subphrases <em>a</em> and <em>b</em>.</p>
         <figure>
             <caption>Stefan Gordy and Skyler Gordy, <q>Party Rock Anthem</q> (2011)</caption>
             <idx><h>songs (popular)</h><h><q>Party Rock Anthem</q> (LMFAO)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/phrase-subphrase-party-rock">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="KQ6zr6kCPj8" start="114" end="122" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup> 
+            <image source="images/unit2/phrase-subphrase-party-rock">
+                <description/>
+            </image>
+            <video youtube="KQ6zr6kCPj8" start="114" end="122" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Notice that we are not looking at the motives within these subphrases. This is because we are looking for melodic segments that are repeated. For some compositions it is more informative to look at subphrases and less informative to identify motives if motives are not extracted and developed.</p>
         <p>There will be times when you will notice important melodic ideas happening at three levels of analysis (motive, subphrase, and phrase), as in the following example.</p>
         <figure>
             <caption>Steve Perry, Jonathan Cain, Neil Schon, <q>Don’t Stop Believin’</q> (1981)</caption>
             <idx><h>songs (popular)</h><h><q>Don’t Stop Believin’</q> (Journey)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/phrase-subphrase-dont-stop-believing">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="1k8craCGpgs" start="82" end="91" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/phrase-subphrase-dont-stop-believing">
+                <description/>
+            </image>
+            <video youtube="1k8craCGpgs" start="82" end="91" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>There is ambiguity between motive and subphrase. Reconsider the following example from the section on intervallic change:</p>
         <figure>
             <caption>Ray Noble, <q>The Very Thought of You</q> (1934)</caption>
             <idx><h>songs (popular)</h><h><q>The Very Thought of You</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit2/motive-intervallic-change-the-very-thought">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="v9V98ECtsfY" start="15" end="25" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit2/motive-intervallic-change-the-very-thought">
+                <description/>
+            </image>
+            <video youtube="v9V98ECtsfY" start="15" end="25" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>When you listen to the music of <q>The Very Thought of You</q> you will hear that each motive lasts for two measures. The difference is that motives are typically short<mdash/>two to seven notes<mdash/>whereas subphrases will usually contain six or more notes and occupy two measures (half of a four-measure phrase).</p>
     </section>
@@ -478,25 +322,17 @@
                     <figure>
                         <caption>Charlie Puth, Cameron Thomaz, Andrew Cedar, Justin Franks, <q>See You Again</q> (2015)</caption>
                         <idx><h>songs (popular)</h><h><q>See You Again (Wiz Khalifa ft. Charlie Puth)</q></h></idx>
-                        <sbsgroup>
-                            <sidebyside>
-                                <image source="images/unit2/PRAC-EXER-motive-see-you-again">
-                                    <description/>
-                                </image>
-                            </sidebyside>
-                            <sidebyside margins="37%">
-                                <video youtube="RgKAFK5djSk" start="200" end="225" play-at="select" preview="generic"/>
-                            </sidebyside> 
-                        </sbsgroup>
+                        <image source="images/unit2/PRAC-EXER-motive-see-you-again">
+                            <description/>
+                        </image>
+                        <video youtube="RgKAFK5djSk" start="200" end="225" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </statement>
             </exercise>
             <exercise>
                 <statement>
                     <p>For the following example, alter the given motives as specified. Also, provide lead-sheet symbols and Roman numerals and analyze non-chord tones.</p>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-phrase-motive-composing-1"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-phrase-motive-composing-1"/>
                 </statement>
             </exercise>
             <exercise>
@@ -509,9 +345,7 @@
                         <li><p>Alter the given motives as specified to fit the harmony</p></li>
                         <li><p>Specify the cadence</p></li>
                     </ul>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-phrase-motive-composing-2"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-phrase-motive-composing-2"/>
                 </statement>
             </exercise>
         </exercisegroup>
@@ -531,16 +365,10 @@
                     <figure>
                         <caption>Robert Schumann, <pubtitle>Album for the Young</pubtitle>, Op. 68, No. 16, <q>First Loss</q></caption>
                         <idx><h>Schumann, Robert</h><h><pubtitle>Album for the Young</pubtitle>, Op. 68, No. 16, <q>First Loss</q></h></idx>
-                        <sbsgroup>
-                            <sidebyside>
-                                <image source="images/unit2/PRAC-EXER-phrase-subphrase-schumann">
-                                    <description/>
-                                </image>
-                            </sidebyside>
-                            <sidebyside margins="37%">
-                                <video youtube="Dbb_VGJXaSU" start="0" end="11" play-at="select" preview="generic"/>
-                            </sidebyside>
-                        </sbsgroup>  
+                        <image source="images/unit2/PRAC-EXER-phrase-subphrase-schumann">
+                            <description/>
+                        </image>
+                        <video youtube="Dbb_VGJXaSU" start="0" end="11" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </statement>
             </exercise>
@@ -551,16 +379,10 @@
                     <figure>
                         <caption>Handel, <pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></caption>
                         <idx><h>Handel</h><h><pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></h></idx>
-                        <sbsgroup>
-                            <sidebyside>
                                 <image source="images/unit2/PRAC-EXER-phrase-handel-ombra-mai-fu">
                                     <description/>
                                 </image>
-                            </sidebyside>
-                            <sidebyside margins="37%">
-                                <video youtube="X9yTjXM6m50" start="0" end="45" play-at="select" preview="generic"/>
-                            </sidebyside> 
-                        </sbsgroup>
+                                <video youtube="X9yTjXM6m50" start="0" end="45" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </statement>
             </exercise>

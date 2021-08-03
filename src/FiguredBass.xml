@@ -7,33 +7,23 @@
         (also known as <term>thoroughbass</term><idx><h>thoroughbass</h><see>figured bass</see></idx>) consists of a bass line notated on a staff accompanied by numbers representing intervals to be played above the bass note within the key signature. (These figured-bass numbers are traditionally notated below the bass line.)</p>
         <figure>
             <caption>George Frideric Handel's handwritten manuscript of Recorder Sonata in A minor, HWV 362, I. Larghetto</caption>
-            <sidebyside>
-                <image source="images/unit4/figured-bass-handel-flute-sonata-manuscript">
-                    <description>Handel's handwritten manuscript with figured bass numbers</description>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/figured-bass-handel-flute-sonata-manuscript">
+                <description>Handel's handwritten manuscript with figured bass numbers</description>
+            </image>
         </figure>
         <figure>
             <caption>George Frideric Handel, Recorder Sonata in A minor, HWV 362, I. Larghetto, without figured bass realization</caption>
-            <sidebyside>
-                <image source="images/unit4/figured-bass-handel-flute-sonata-figures">
-                    <description>An edition with figured bass numbers but without the chords realized</description>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/figured-bass-handel-flute-sonata-figures">
+                <description>An edition with figured bass numbers but without the chords realized</description>
+            </image>
         </figure>
         <figure>
             <caption>George Frideric Handel, Recorder Sonata in A minor, HWV 362, I. Larghetto, with figured bass realization</caption>
             <idx><h>Handel, George Frideric</h><h>Recorder Sonata in A minor, HWV 362, I. Larghetto</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/figured-bass-handel-flute-sonata-realized">
-                        <description>An edition where the chords have been realized</description>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="ljj6URbK8Xg" start="0" end="13" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/figured-bass-handel-flute-sonata-realized">
+                <description>An edition where the chords have been realized</description>
+            </image>
+            <video youtube="ljj6URbK8Xg" start="0" end="13" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Like lead-sheet symbols, figured bass allowed a keyboardist or guitarist freedom in choosing chord voicings. While some early music specialists perform from scores with the original notation, editions of Baroque compositions by composers like J.S. Bach and Handel that were originally notated with figured bass have been <q>realized</q> or written out in modern editions.</p>
         <p>In the present day, figured bass is taught in music theory courses primarily as a shorthand for chord inversion symbols (although many music programs also endeavor to teach students to perform at the piano music written with figured bass notation).</p>
@@ -44,11 +34,9 @@
         <figure>
             <caption>Figured Bass Inversion Symbols for Triads</caption>
             <idx><h>figured bass</h><h>for triads</h></idx>
-            <sidebyside margins="10%">
-                <image source="images/unit4/figured-bass-for-triads">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/figured-bass-for-triads" width="80%">
+                <description/>
+            </image>
         </figure>
         <!--Hide for now
         <table>
@@ -86,11 +74,9 @@
         <figure>
             <caption>Figured Bass Inversion Symbols for Seventh Chords</caption>
             <idx><h>figured bass</h><h>for seventh chords</h></idx>
-            <sidebyside margins="10%">
-                <image source="images/unit4/figured-bass-for-seventh-chords">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/figured-bass-for-seventh-chords" width="80%">
+                <description/>
+            </image>
         </figure>
         <!--hide this
 <table>
@@ -189,62 +175,43 @@
         <p>Compare figured bass symbols to the modified slash notation we have been using in previous chapters.</p>
         <figure>
             <caption>Roman Numerals with Figured Bass versus Roman Numerals with Modifed Slash Notation</caption>
-            <sidebyside>
-                <image source="images/unit4/figured-bass-vs-modified-slash">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/figured-bass-vs-modified-slash">
+                <description/>
+            </image>
         </figure>
         <p>Because the figures <chord bps="6 5"/>, <chord bps="4 3"/>, and <chord bps="4 2"/> are only used for seventh chords, the <q>7</q> is omitted when labeling inverted seventh chords.</p>
         <figure>
             <caption><q>7</q> is not included when 7th chords are inverted</caption>
-            <sidebyside margins="34%">
-                <image source="images/unit4/figured-bass-dont-use-7-with-inversion">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/figured-bass-dont-use-7-with-inversion" width="30%">
+                <description/>
+            </image>
         </figure>
         <p>Notice that it is essential with seventh chords to include symbols like <q>M</q> (for a major seventh chord) and <chord mode="diminished"/> and <chord mode="halfdiminished"/> <em>before</em> the figured bass numbers and <em>after</em> the Roman numeral.</p>
         <figure>
             <caption/>
-            <sidebyside>
-                <image source="images/unit4/figured-bass-7ths-in-staff">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/figured-bass-7ths-in-staff">
+                <description/>
+            </image>
         </figure>
     </section>
-
     <section xml:id="TheCadentialSixFourChord">
         <title>The Cadential Six-Four Chord</title>
         <p>A common term in music theory<mdash/>the <q><term>cadential six-four</term></q><idx><h>cadential six-four (cadential <chord bps="6 4"/>)</h></idx> (or cadential <chord bps="6 4"/>)<mdash/>is used to refer to the <chord root="I" bps="6 4"/> that regularly proceeds the <chord root="V"/> chord in cadences.</p>
         <figure> 
             <caption>Mozart, Piano Sonata K. 331, I</caption>
             <idx><h>Mozart, W.A.</h><h>Piano Sonata K. 331, I</h><h>period form</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/figured-bass-cadential-64-k331-i">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="vp_h649sZ9A" start="14" end="25" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/figured-bass-cadential-64-k331-i">
+                <description/>
+            </image>
+            <video youtube="vp_h649sZ9A" start="14" end="25" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Francis Scott Key and John Stafford Smith, <q>The Star-Spangled Banner</q></caption>
             <idx><h>Star-Spangled Banner</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/figured-bass-cadential-64-star-spangled">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="LGvW6jHUHiY" start="77" end="93" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/figured-bass-cadential-64-star-spangled">
+                <description/>
+            </image>
+            <video youtube="LGvW6jHUHiY" start="77" end="93" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>It is worth remembering that the cadential <chord bps="6 4"/> (or <chord root="I" bps="6 4"/>) has <xref ref="DominantFunction" text="custom">dominant function</xref>, just like the <chord root="V"/> chord that usually follows it. Previously, we have called this chord <q><chord root="I" bass="5th"/>.</q></p>
         <p>We will use the term <q>cadential six-four</q> throughout the rest of this text, now that figured bass has been introduced.</p>
@@ -255,40 +222,34 @@
         <ol>
             <li><p>Cadential six-four (discussed in the previous section)</p></li>
             <li><p>Passing six-four<idx><h>passing six-four</h></idx>: the bass line will look like a passing-tone figure, with three stepwise ascending or descending notes, and the middle chord will be a <chord bps="6 4"/> chord</p>
-            <sidebyside margins="20%">
-                <image source="images/unit4/figured-bass-passing-64">
-                    <description/>
-                </image>
-            </sidebyside></li>
+            <image source="images/unit4/figured-bass-passing-64" width="60%">
+                <description/>
+            </image>
+            </li>
             <li><p>Pedal six-four<idx><h>pedal six-four</h></idx>: the bassline will consist of three repeated notes, and the middle chord will be a <chord bps="6 4"/> chord.</p>
-            <sidebyside margins="20%">
-                <image source="images/unit4/figured-bass-pedal-64">
-                    <description/>
-                </image>
-            </sidebyside></li>
+            <image source="images/unit4/figured-bass-pedal-64" width="60%">
+                <description/>
+            </image>
+            </li>
             <li><p>Melodic bass six-four<idx><h>melodic bass six-four</h></idx>: in this situation, the bass voice has the melody; when the fifth of the chord occurs in this bass voice melody, the result will be a <chord bps="6 4"/> chord.</p></li>
         </ol>
     </section>
     <section xml:id="FiguredBassAdditionalInformation">
         <title>Additional Information</title>
-        <p>Though we will not use them in our harmonic analyses, you will sometimes encounter figured bass symbols containing all of the intervals above the bass note in Baroque music containing figured bass. The common figured bass inversion symbols in the sections above are abbreviations of the figures given in the examples below.</p>
+        <p>Although we will not use them in our harmonic analyses, you will sometimes encounter figured bass symbols containing all of the intervals above the bass note in Baroque music containing figured bass. The common figured bass inversion symbols in the sections above are abbreviations of the figures given in the examples below.</p>
         <figure>
             <caption><q>Full</q> Figured Bass symbols showing <em>every</em> interval above the lowest note</caption>
-            <sidebyside>
-                <image source="images/unit4/figured-bass-full-figures-on-staff">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/figured-bass-full-figures-on-staff">
+                <description/>
+            </image>
         </figure>
         <p>Additionally, you may notice that figured bass numbers in actual music (but not in Roman numeral labeling) <em>may be altered chromatically</em> with the following symbols.</p>
         <figure xml:id="FiguredBassWithChromaticAlterations">
             <caption>Figured Bass with Chromatic Alterations</caption>
             <idx><h>figured bass</h><h>chromatic alterations to</h></idx>
-            <sidebyside>
-                <image source="images/unit4/figured-bass-chromatic-alterations">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/figured-bass-chromatic-alterations">
+                <description/>
+            </image>
         </figure>
     </section>
     <exercises xml:id="FiguredBassPracticeExercises">
@@ -296,11 +257,9 @@
         <exercise>
             <statement>
                 <p>Analyze the triads with lead-sheet symbols above and Roman numerals with figured bass inversion symbols below the staff.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze-triads-in-treb">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-figured-bass-analyze-triads-in-treb">
+                    <description/>
+                </image>
             </statement>
             <answer>
                 <ul>
@@ -312,11 +271,9 @@
         <exercise>
             <statement>
                 <p>Analyze the seventh chords with lead-sheet symbols above and Roman numerals with figured bass inversion symbols below the staff.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze-sevenths-in-treb">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-figured-bass-analyze-sevenths-in-treb">
+                    <description/>
+                </image>
             </statement>
             <answer>
                 <ul>
@@ -328,11 +285,9 @@
         <exercise>
             <statement>
                 <p>Label the given chords using lead-sheet symbols above and Roman numerals with figured bass inversion symbols below.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-figured-bass-analyze">
+                    <description/>
+                </image>
             </statement>
             <answer>
                 <ul>
@@ -344,18 +299,14 @@
         <exercise>
             <statement>
                 <p>Write the specified chords. Analyze the chords with lead-sheet symbols. Include key signatures.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-figured-bass-writing">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-figured-bass-writing">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-figured-bass-analyze-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
@@ -363,22 +314,16 @@
                 <p>Analyze the excerpt using Roman numerals with figured bass inversion symbols below and lead-sheet symbols above. Analyze non-chord tones.</p>
                 <figure>
                     <caption>J.S. Bach, Chorale 175, <q>Jesus, meine Zuversicht</q></caption>
-                    <sidebyside>
-                        <image source="images/unit4/PRAC-EXER-figured-bass-bach-chorale-analysis">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                    <video youtube="8QZ0WkwZ5Uc" start="21" end="32" play-at="select" preview="generic"/>
-                </sidebyside>
+                    <image source="images/unit4/PRAC-EXER-figured-bass-bach-chorale-analysis">
+                        <description/>
+                    </image>
+                    <video youtube="8QZ0WkwZ5Uc" start="21" end="32" play-at="select" preview="generic" width="25%"/>
                 </figure>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-figured-bass-analyze-bach-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-figured-bass-analyze-bach-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <conclusion>

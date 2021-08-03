@@ -52,16 +52,10 @@
 		<p>Let us examine the elements of music in the first section (the A section).</p>
 		<figure>
             <title>A Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></title>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/contrast-eine-3-a-idea">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="o1FSN8_pp_o" start="482" end="497" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/contrast-eine-3-a-idea">
+                <description/>
+            </image>
+            <video youtube="o1FSN8_pp_o" start="482" end="497" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Notice how Mozart expresses the various musical elements:</p>
         <table>
@@ -98,16 +92,10 @@
         <p>Here is the beginning of the second section (the B section):</p>
         <figure>
             <caption>B Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/contrast-eine-3-b-idea">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="o1FSN8_pp_o" start="594" end="613" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/contrast-eine-3-b-idea">
+                <description/>
+            </image>
+            <video youtube="o1FSN8_pp_o" start="594" end="613" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here are the most noticeable differences:</p>
         <table>
@@ -132,16 +120,10 @@
         <p>Now, look at the beginning of the next contrasting section (the C section):</p>
         <figure>
             <caption>C Section, Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/contrast-eine-3-c-idea">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="o1FSN8_pp_o" start="680" end="693" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/contrast-eine-3-c-idea">
+                <description/>
+            </image>
+            <video youtube="o1FSN8_pp_o" start="680" end="693" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The following elements are noticeably changed:</p>
         <table>
@@ -170,89 +152,59 @@
         <p>Listen to how Mozart puts the entire form together, including transitional material to smooth out the changes from one section to another.</p>
         <figure>
             <caption>Formal Diagram of Second Movement, <pubtitle>Eine kleine Nachtmusik</pubtitle></caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/contrast-eine-ABACA-diagram">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="o1FSN8_pp_o" start="482" end="814" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/contrast-eine-ABACA-diagram">
+                <description/>
+            </image>
+            <video youtube="o1FSN8_pp_o" start="482" end="814" play-at="select" preview="generic" width="25%"/>
         </figure>
 	</section>
     <section>
         <title><q>Rude</q> by MAGIC!</title>
         <p>Now we will examine contrast in recent popular music. Here is the musical example of the texture from the reggae section of this song, as seen in the previous chapter.</p>
-        <sidebyside>
-            <image source="images/unit3/texture-reggae-rude">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit3/texture-reggae-rude">
+            <description/>
+        </image>
         <p>In Verse 1 there is no bass drum, snare drum, or electric bass. All we hear are the voice part and the two guitar parts from the top two staves in the example above. There are fewer voices occurring on the vertical plane, creating a light texture.</p>
         <figure>
             <caption>Verse 1 of <q>Rude</q></caption>
-                <sidebyside margins="37%">
-                    <video youtube="PIh2xe4jnpk" start="0" end="8" play-at="select" preview="generic"/>
-                </sidebyside>
+            <video youtube="PIh2xe4jnpk" start="0" end="8" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The bass guitar and drum groove enter in Verse 2, thickening the texture and adding the backbeat of the snare drum.</p>
         <figure>
             <caption>Verse 2 of <q>Rude</q></caption>
-                <sidebyside margins="37%">
-                    <video youtube="PIh2xe4jnpk" start="14" end="22" play-at="select" preview="generic"/>
-                </sidebyside>
+            <video youtube="PIh2xe4jnpk" start="14" end="22" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the pre-chorus, the guitars and bass have legato half notes and quarter notes while the drummer plays cross-stick eighth notes (if one is counting in a slow <timesignature top="4" bottom="4"/>). Without the snare drum backbeat, the texture lightens.</p>
         <figure>
             <caption>Pre-Chorus of <q>Rude</q></caption>
-                <sidebyside margins="37%">
-                    <video youtube="PIh2xe4jnpk" start="27" end="34" play-at="select" preview="generic"/>
-                </sidebyside>
+            <video youtube="PIh2xe4jnpk" start="27" end="34" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The chorus has approximately the same accompaniment as Verse 2 but the voice parts are in a higher register, repeating a 2-measure subphrase containing the <q>hook.</q></p>
         <figure>
             <caption>Chorus of <q>Rude</q></caption>
-                <sidebyside margins="37%">
-                    <video youtube="PIh2xe4jnpk" start="41" end="52" play-at="select" preview="generic"/>
-                </sidebyside>
+            <video youtube="PIh2xe4jnpk" start="41" end="52" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The post-chorus emphasizes a (3+3+2)+(3+3+2) rhythm on all instruments (guitars, bass, and the bass drum, snare drum, and hi-hat of the drum set).</p>
         <figure>
             <caption>Post-Chorus of <q>Rude</q></caption>
-            <sbsgroup>
-                <sidebyside width="55%">
-                    <image source="images/unit3/contrast-3-3-2-in-8ths">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="PIh2xe4jnpk" start="54" end="62" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/contrast-3-3-2-in-8ths" width="55%">
+                <description/>
+            </image>
+            <video youtube="PIh2xe4jnpk" start="54" end="62" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Below is a formal diagram of the first five sections of <q>Rude.</q></p>
         <figure>
             <caption>First 5 Sections of <q>Rude</q></caption>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit3/contrast-rude-diagram">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="PIh2xe4jnpk" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit3/contrast-rude-diagram">
+                <description/>
+            </image>
+            <video youtube="PIh2xe4jnpk" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>This five-section unit repeats again with Verse 3, Verse 4, the Pre-Chorus, Chorus, and Post-Chorus.</p>
         <p>When you listen to the entire piece, you hear how the musicians designate the form using the elements of articulation, rhythm, texture, and dynamics. One element that changes very little during entire song is the chord progression, which we examined in the chapter on harmonic progression, and is a rotation of the 50s progression.</p>
-        <sidebyside>
-            <image source="images/unit2/harmony-I-vi-IV-V-rotated-rude">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit2/harmony-I-vi-IV-V-rotated-rude">
+            <description/>
+        </image>
         <p>While you are likely aware of successful songs in the which very few musical elements change, it is worth considering how you can articulate the form of your compositions and arrangements using the elements of music.</p>
     </section>
 </chapter>

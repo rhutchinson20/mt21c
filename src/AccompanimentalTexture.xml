@@ -9,31 +9,19 @@
 		<figure>
 			<caption>Samuel Barber, <pubtitle>Adagio for Strings</pubtitle> (1936)</caption>
 			<idx><h>Barber, Samuel</h><h><pubtitle>Adagio for Strings</pubtitle></h></idx>
-			<sbsgroup>
-				<sidebyside>
-					<image source="images/unit3/texture-barber-adagio">
-						<description/>
-					</image>
-				</sidebyside>
-				<sidebyside margins="37%">
-					<video youtube="b8G9vRqq3RI" start="0" end="15" play-at="select" preview="generic"/>
-				</sidebyside>
-			</sbsgroup>
+			<image source="images/unit3/texture-barber-adagio">
+				<description/>
+			</image>
+			<video youtube="b8G9vRqq3RI" start="0" end="15" play-at="select" preview="generic" width="25%"/>
 		</figure>
 		<p>Our second example is an excerpt for four instruments<mdash/>a string quartet. While this a four-voice texture, it is full of rhythmic activity. The most common rhythmic value is the sixteenth note, and the syncopated figures in measures 3<ndash/>4 of the Violin I part and measures 5<ndash/>6 of the Viola part add to the textural complexity.</p>
 		<figure>
 			<caption>Mozart, String Quartet K. 428, IV (1783)</caption>
 			<idx><h>Mozart, W.A.</h><h>String Quartet K. 428, IV</h></idx>
-			<sbsgroup>
-				<sidebyside>
-					<image source="images/unit3/texture-mozart-k428">
-						<description/>
-					</image>
-				</sidebyside>
-				<sidebyside margins="37%">
-					<video youtube="rLLYRLqUl68" start="103" end="110" play-at="select" preview="generic"/>
-				</sidebyside>
-			</sbsgroup>
+			<image source="images/unit3/texture-mozart-k428">
+				<description/>
+			</image>
+			<video youtube="rLLYRLqUl68" start="103" end="110" play-at="select" preview="generic" width="25%"/>
 		</figure>
 		<p>In the following sections, we will examine fairly straightforward melody-and-accompaniment textures in classical and popular music. In later chapters we will explore more complex textures.</p>
 	</section>
@@ -43,46 +31,28 @@
 		<figure>
 			<caption>Francis Scott Key and John Stafford Smith, <q>The Star-Spangled Banner</q> (1814)</caption>
 			<idx><h>Star-Spangled Banner</h></idx>
-			<sbsgroup>
-				<sidebyside>
-					<image source="images/unit3/textures-chorale-star-spangled">
-						<description/>
-					</image>
-				</sidebyside>
-				<sidebyside margins="37%">
-					<video youtube="uBS-F944zYc" start="0" end="8" play-at="select" preview="generic"/>
-				</sidebyside>
-			</sbsgroup>
+			<image source="images/unit3/textures-chorale-star-spangled">
+				<description/>
+			</image>
+			<video youtube="uBS-F944zYc" start="0" end="8" play-at="select" preview="generic" width="25%"/>
 		</figure>
 		<p>In the following example by Schubert, the melody at times moves in a slightly different rhythm that the chords below.</p>
 		<figure>
 			<caption>Franz Schubert, <pubtitle>Winterreise</pubtitle>, D.911, <q>Die Nebensonnen</q> (1828)</caption>
 			<idx><h>Schubert</h><h><pubtitle>Winterreise</pubtitle>, D. 911</h><h><q>Die Nebensonnen</q></h></idx>
-			<sbsgroup>
-				<sidebyside>
-					<image source="images/unit3/texture-chorale-nebensonnen">
-						<description/>
-					</image>
-				</sidebyside>
-				<sidebyside margins="37%">
-					<video youtube="2n2YIxXJXac" start="0" end="17" play-at="select" preview="generic"/>
-				</sidebyside>
-			</sbsgroup>
+			<image source="images/unit3/texture-chorale-nebensonnen">
+				<description/>
+			</image>
+			<video youtube="2n2YIxXJXac" start="0" end="17" play-at="select" preview="generic" width="25%"/>
 		</figure>
 		<p>Chorale textures are also described as <q>homorhythmic</q> because all of the parts move in the same rhythm.</p>
 		<figure>
 			<caption>Jeff Bhasker, Nate Ruess, Andrew Dost, Jack Antonoff, <q>Some Nights</q> (2011)</caption>
 			<idx><h>songs (popular)</h><h><q>Some Nights</q> (fun.)</h></idx>
-			<sbsgroup>
-				<sidebyside>
-					<image source="images/unit3/texture-chorale-some-nights">
-						<description/>
-					</image>
-				</sidebyside>
-				<sidebyside margins="37%">
-					<video youtube="Z0WDRq0xNtQ" start="0" end="8" play-at="select" preview="generic"/>
-				</sidebyside>
-			</sbsgroup>
+			<image source="images/unit3/texture-chorale-some-nights">
+				<description/>
+			</image>
+			<video youtube="Z0WDRq0xNtQ" start="0" end="8" play-at="select" preview="generic" width="25%"/>
 		</figure>
 		<p>In the next section we will examine arpeggiated accompaniments.</p>
 	</section>
@@ -94,106 +64,64 @@
 			<figure>
 				<caption>Ludwig van Beethoven, <pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, I (1802)</caption>
 				<idx><h>Beethoven</h><h><pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, I</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-arpeggios-moonlight">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="4Tr0otuiQuU" start="0" end="23" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-arpeggios-moonlight">
+					<description/>
+				</image>
+				<video youtube="4Tr0otuiQuU" start="0" end="23" play-at="select" preview="generic"/>
 			</figure>
 			<p>The next example has descending arpeggios.</p>
 			<figure>
 				<caption>Alicia Keys, <q>If I Ain't Got You</q> (2004)</caption>
 				<idx><h>songs (popular)</h><h><q>If I Ain't Got You</q> (Alicia Keys)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-arpeggios-alicia-keys">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="Ju8Hr50Ckwk" start="0" end="23" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-arpeggios-alicia-keys">
+					<description/>
+				</image>
+				<video youtube="Ju8Hr50Ckwk" start="0" end="23" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>Notice that in both the Beethoven and Alicia Keys examples there is the harmonious interval of a tenth (an octave plus a third) between the bass (lowest) voice and the soprano (highest) voice.</p>
 			<p>The following examples have arpeggios that ascend and descend through a chord.</p>
 			<figure>
 				<caption>James Pankow, <q>Colour My World</q> (1970)</caption>
 				<idx><h>songs (popular)</h><h><q>Colour My World</q> (Chicago)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-arpeggios-colour">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="cWkXmx-0phc" start="4" end="14" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-arpeggios-colour">
+					<description/>
+				</image>
+				<video youtube="cWkXmx-0phc" start="4" end="14" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Fred Ball, Joseph Angel, and Robyn Fenty, <q>Love on the Brain</q> (2016)</caption>
 				<idx><h>songs (popular)</h><h><q>Love on the Brain</q> (Rihanna)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-arpeggios-rihanna">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="zA-upjFaHvw" start="31" end="42" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-arpeggios-rihanna">
+					<description/>
+				</image>
+				<video youtube="zA-upjFaHvw" start="31" end="42" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>Notice in the above example that there is also an organ playing block chords to create a sense of legato in the texture.</p>
 			<p>The next two examples are from more recent popular music.</p>
 			<figure>
 				<caption>Adele Adkins and Dan Wilson, <q>Someone Like You</q> (2011)</caption>
 				<idx><h>songs (popular)</h><h><q>Someone Like You</q> (Adele)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/textures-alberti-adele">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="hLQl3WQQoQ0" start="73" end="81" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/textures-alberti-adele">
+					<description/>
+				</image>
+				<video youtube="hLQl3WQQoQ0" start="73" end="81" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Ryan Tedder, <q>Secrets</q> (2009)</caption>
 				<idx><h>songs (popular)</h><h><q>Secrets</q> (One Republic)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-alberti-one-republic">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="qHm9MG9xw1o" start="8" end="24" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-alberti-one-republic">
+					<description/>
+				</image>
+				<video youtube="qHm9MG9xw1o" start="8" end="24" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>Below is an example in <timesignature top="4" bottom="4"/> with arpeggios in sixteenth notes.</p>
 			<figure>
 				<caption>Kevin Briggs, Kandi Burress, Tameka Cottle, Lisa Lopes, <q>No Scrubs</q> (1999)</caption>
 				<idx><h>songs (popular)</h><h><q>No Scrubs</q> (TLC)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-arpeggios-no-scrubs">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="FrLequ6dUdM" start="8" end="19" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-arpeggios-no-scrubs">
+					<description/>
+				</image>
+				<video youtube="FrLequ6dUdM" start="8" end="19" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</subsection>
 		<subsection xml:id="AlbertiBass">
@@ -202,31 +130,19 @@
 			<figure>
 				<caption>Mozart, Piano Sonata K. 545, I (1788)</caption>
 				<idx><h>Mozart, W.A.</h><h>Piano Sonata K. 545, I</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-alberti-k545">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="5NkzTTkqTB4" start="0" end="08" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-alberti-k545">
+					<description/>
+				</image>
+				<video youtube="5NkzTTkqTB4" start="0" end="08" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>The next example uses the same Alberti pattern as in the Mozart example above, but transposed to E minor and in a lower register.</p>
 			<figure>
 				<caption>Brian Carman and Bob Spickard, <q>Pipeline</q> (1962)</caption>
 				<idx><h>songs (popular)</h><h><q>Pipeline</q> (The Chantays)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-alberti-pipeline">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="L6zR7qJ9frA" start="13" end="21" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-alberti-pipeline">
+					<description/>
+				</image>
+				<video youtube="L6zR7qJ9frA" start="13" end="21" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</subsection>
 	</section>
@@ -247,133 +163,79 @@
 			<figure>
 				<caption>Marvin Gaye and Ed Townsend, <q>Let's Get It On</q> (1973)</caption>
 				<idx><h>songs (popular)</h><h><q>Let's Get It On</q> (Marvin Gaye)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-marvin-gaye">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="x6QZn9xiuOE" start="0" end="16" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-marvin-gaye">
+					<description/>
+				</image>
+				<video youtube="x6QZn9xiuOE" start="0" end="16" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>You will find a similar rhythm and bass line in the next example.</p>
 			<figure>
 				<caption>Ed Sheeran, <q>Thinking Out Loud</q> (2014)</caption>
 				<idx><h>songs (popular)</h><h><q>Thinking Out Loud</q> (Ed Sheeran)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-sheeran">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="fdz_cabS9BU" start="24" end="37" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-sheeran">
+					<description/>
+				</image>
+				<video youtube="fdz_cabS9BU" start="24" end="37" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>The <q>1 (2) &amp;</q> rhythm is also found in <q>Don’t You (Forget About Me),</q> a song associated with the film <pubtitle>The Breakfast Club</pubtitle>.</p>
 			<figure>
 				<caption>Keith Forsey and Steve Schiff, <q>Don’t You (Forget About Me)</q> (1985)</caption>
 				<idx><h>songs (popular)</h><h><q>Don’t You (Forget About Me)</q> (Simple Minds)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-dont-you">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="CdqoNKCCt7A" start="6" end="14" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-dont-you">
+					<description/>
+				</image>
+				<video youtube="CdqoNKCCt7A" start="6" end="14" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>Below are five more examples of block chord accompaniment in the <q>1 (2) &amp;</q> rhythm.</p>
 			<figure>
 				<caption>Holly Knight, Gene Bloch, Ann Wilson, and Nancy Wilson, <q>Never</q> (1985)</caption>
 				<idx><h>songs (popular)</h><h><q>Never</q> (Heart)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-heart-never">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="zWzy5q_M5Ho" start="72" end="85" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-heart-never">
+					<description/>
+				</image>
+				<video youtube="zWzy5q_M5Ho" start="72" end="85" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Kesha Sebert, Lukasz Gottwald, Benny Blanco, <q>Tik Tok</q> (2009)</caption>
 				<idx><h>songs (popular)</h><h><q>Tik Tok</q> (Kesha)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-kesha">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="iP6XpLQM2Cs" start="24" end="34" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-kesha">
+					<description/>
+				</image>
+				<video youtube="iP6XpLQM2Cs" start="24" end="34" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Bruno Mars, Philip Lawrence, Christopher Brown, James Fauntleroy, Johnathan Yip, Ray Romulus, Jeremy Reeves, Ray McCullough II, <q>That's What I Like</q> (2017)</caption>
 				<idx><h>songs (popular)</h><h><q>That's What I Like</q> (Bruno Mars)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-bruno-mars">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="PMivT7MJ41M" start="51" end="64" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-bruno-mars">
+					<description/>
+				</image>
+				<video youtube="PMivT7MJ41M" start="51" end="64" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>Notice that the example above (<q>That's What I Like</q>) has the same progression as <xref ref="september" text="custom"><q>September</q></xref> by Earth, Wind, and Fire.</p>
 			<figure>
 				<caption>Charlie Puth, Cameron Thomaz, Andrew Cedar, Justin Franks, Dann Hume, Josh Hardy, and Phoebe Cockburn, <q>See You Again</q> (2015)</caption>
 				<idx><h>songs (popular)</h><h><q>See You Again</q> (Wiz Khalifa ft. Charlie Puth)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-see-you-again">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="RgKAFK5djSk" start="11" end="23" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-see-you-again">
+					<description/>
+				</image>
+				<video youtube="RgKAFK5djSk" start="11" end="23" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>James Arthur, Neil Ormandy, Steve Solomon, <q>Say You Won't Let Go</q> (2016)</caption>
 				<idx><h>songs (popular)</h><h><q>Say You Won't Let Go</q> (James Arthur)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-say-you-wont-let-go">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="0yW7w8F2TVA" start="71" end="82" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-say-you-wont-let-go">
+					<description/>
+				</image>
+				<video youtube="0yW7w8F2TVA" start="71" end="82" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>The example below has the <q>1 (2) &amp;</q> rhythm in dimininution.</p>
 			<figure>
 				<caption>Justin Bieber, Benny Blanco, and Ed Sheeran, <q>Love Yourself</q> (2015)</caption>
 				<idx><h>songs (popular)</h><h><q>Love Yourself</q> (Justin Bieber)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-bieber">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="oyEuk8j8imI" start="10" end="20" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-bieber">
+					<description/>
+				</image>
+				<video youtube="oyEuk8j8imI" start="10" end="20" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</subsection>
 		<subsection xml:id="WalkingOnSunshineRhythm">
@@ -382,87 +244,51 @@
 			<figure>
 				<caption>Fred Fassert, <q>Barbara Ann</q> (1961)</caption>
 				<idx><h>songs (popular)</h><h><q>Barbara Ann</q> (Beach Boys)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-walking-barbara-ann">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="-bSnI-a0BSc" start="0" end="21" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-walking-barbara-ann">
+					<description/>
+				</image>
+				<video youtube="-bSnI-a0BSc" start="0" end="21" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Brian Holland, Lamont Dozier, Eddie Holland, <q>You Can't Hurry Love</q> (1966)</caption>
 				<idx><h>songs (popular)</h><h><q>You Can't Hurry Love</q> (The Supremes)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-walking-cant-hurry-love">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="w6MQrdfj638" start="0" end="20" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-walking-cant-hurry-love">
+					<description/>
+				</image>
+				<video youtube="w6MQrdfj638" start="0" end="20" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Sara Allen, Daryl Hall, and John Oates, <q>Maneater</q> (1982)</caption>
 				<idx><h>songs (popular)</h><h><q>Maneater</q> (Hall and Oates)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-walking-maneater">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="yRYFKcMa_Ek" start="0" end="22" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-walking-maneater">
+					<description/>
+				</image>
+				<video youtube="yRYFKcMa_Ek" start="0" end="22" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Kimberley Rew, <q>Walking On Sunshine</q> (1985)</caption>
 				<idx><h>songs (popular)</h><h><q>Walking On Sunshine</q> (Katrina and the Waves)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-walking-on-sunshine">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="iPUmE-tne5U" start="9" end="27" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-walking-on-sunshine">
+					<description/>
+				</image>
+				<video youtube="iPUmE-tne5U" start="9" end="27" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Nic Cester and Cameron Muncey, <q>Are You Gonna Be My Girl</q> (2003)</caption>
 				<idx><h>songs (popular)</h><h><q>Are You Gonna Be My Girl</q> (Jet)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-walking-jet">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="tuK6n2Lkza0" start="60" end="70" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-walking-jet">
+					<description/>
+				</image>
+				<video youtube="tuK6n2Lkza0" start="60" end="70" play-at="select" preview="generic" width="25%"/>
 			</figure><!--and iggy pop's lust for life, ranked 149 out of 500 best by rolling stone--><!--also, the vitamin string quartet cover of Pompeii has this rhythm in diminution https://youtu.be/AIcDIZGlr9U-->
 			<p>A slower version of this rhythm occurs in Deep Purple’s <q>Smoke on the Water.</q></p>
 			<figure>
 				<caption>Ritchie Blackmore, Ian Gillan, Roger Glover, Jon Lord, and Ian Paice, <q>Smoke on the Water</q> (1973)</caption>
 				<idx><h>songs (popular)</h><h><q>Smoke on the Water</q> (Deep Purple)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-walking-deep-purple">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="_zO6lWfvM0g" start="0" end="18" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-walking-deep-purple">
+					<description/>
+				</image>
+				<video youtube="_zO6lWfvM0g" start="0" end="18" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</subsection>
 		<subsection xml:id="EighthNoteChords">
@@ -471,89 +297,53 @@
 			<figure>
 				<caption>W.A. Mozart, Piano Sonata K. 310, I (1778)</caption>
 				<idx><h>Mozart, W.A.</h><h>Piano Sonata K. 310, I</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-8ths-k310">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="bZZqSZqJz4Y" start="11" end="19" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-8ths-k310">
+					<description/>
+				</image>
+				<video youtube="bZZqSZqJz4Y" start="11" end="19" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Franz Schubert, <pubtitle>Winterreise</pubtitle>, D. 911<q>Gute Nacht</q> (1828)</caption>
 				<idx><h>Schubert</h><h><pubtitle>Winterreise</pubtitle>, D. 911</h><h><q>Gute Nacht</q></h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-8ths-gute-nacht">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="5kaA3X2qSPU" start="0" end="20" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-8ths-gute-nacht">
+					<description/>
+				</image>
+				<video youtube="5kaA3X2qSPU" start="0" end="20" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Robert Schumann, <pubtitle>Dichterliebe</pubtitle>, <q>Ich grolle nicht</q> (1844)</caption>
 				<idx><h>Schumann, Robert</h><h><pubtitle>Dichterliebe</pubtitle>, Op. 48</h><h><q>Ich grolle nicht</q></h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-8ths-ich-grolle">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="lOdjXYp13-Y" start="0" end="8" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-8ths-ich-grolle">
+					<description/>
+				</image>
+				<video youtube="lOdjXYp13-Y" start="0" end="8" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>The next example is from the musical <pubtitle>Annie</pubtitle>. Note the <q>1 (2) &amp;</q> rhythm in the bass line.</p>
 			<figure>
 				<caption>Charles Strouse and Martin Charnin, <pubtitle>Annie</pubtitle>, <q>It's the Hard Knock Life</q> (1977)</caption>
 				<idx><h>songs (popular)</h><h><q>It's the Hard Knock Life</q> (from <pubtitle>Annie</pubtitle>)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-8ths-hard-knock">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="R5wAGQIt39E" start="7" end="21" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-8ths-hard-knock">
+					<description/>
+				</image>
+				<video youtube="R5wAGQIt39E" start="7" end="21" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>Repeated eighth notes are a standard accompanimental texture in rock.</p>
 			<figure>
 				<caption>Geoff Gill and Cliff Wade, <q>Heartbreaker</q> (1979)</caption>
 				<idx><h>songs (popular)</h><h><q>Heartbreaker</q> (Pat Benatar)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-8ths-heartbreaker">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="9JtlCuIqcrM" start="12" end="25" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-8ths-heartbreaker">
+					<description/>
+				</image>
+				<video youtube="9JtlCuIqcrM" start="12" end="25" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>The repeated eighth-note rhythm is also common in recent popular music. Note that the following example uses the 1950's progression (i.e., <chord root="I"/><ndash/><chord root="vi"/><ndash/><chord root="IV"/><ndash/><chord root="V"/>).</p>
 			<figure>
 				<caption>Nate Ruess, Andrew Dost, Jack Antonoff, and Jeff Bhasker, <q>We Are Young</q> (2011)</caption>
 				<idx><h>songs (popular)</h><h><q>We Are Young</q> (fun.)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-8ths-we-are-young">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="Sv6dMFF_yts" start="48" end="70" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-8ths-we-are-young">
+					<description/>
+				</image>
+				<video youtube="Sv6dMFF_yts" start="48" end="70" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</subsection>
 		<subsection xml:id="QuarterNoteChords">
@@ -562,100 +352,58 @@
 			<figure>
 				<caption>George Frideric Handel, <q>Ombra mai fu,</q> <pubtitle>Xerxes</pubtitle>, HWV 40 (1738)</caption>
 				<idx><h>Handel, George Frideric</h><h><pubtitle>Xerxes</pubtitle>, <q>Ombra mai fu</q></h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-quarters-ombra">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="X9yTjXM6m50" start="0" end="16" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+				<image source="images/unit3/texture-quarters-ombra">
+					<description/>
+				</image>
+				<video youtube="X9yTjXM6m50" start="0" end="16" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Joe Raposo, Jon Stone, and Bruce Hart, <q>Can You Tell Me How to Get to Sesame Street?</q> (1969)</caption>
 				<idx><h>songs (popular)</h><h><q>Can You Tell Me How to Get to Sesame Street?</q></h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-quarters-sesame-street">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="b2rBhpVDzO8" start="23" end="31" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+				<image source="images/unit3/texture-quarters-sesame-street">
+					<description/>
+				</image>
+				<video youtube="b2rBhpVDzO8" start="23" end="31" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Billy Joel, <q>She's Got a Way</q> (1971)</caption>
 				<idx><h>songs (popular)</h><h><q>She's Got a Way</q> (Billy Joel)</h></idx>
-				<sbsgroup>
-					<sidebyside>
 						<image source="images/unit3/texture-quarters-billy-joel">
 							<description/>
 						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="uuumirxhmAw" start="0" end="19" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+						<video youtube="uuumirxhmAw" start="0" end="19" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Lou Gramm and Mick Jones, <q>Cold As Ice</q> (1977)</caption>
 				<idx><h>songs (popular)</h><h><q>Cold As Ice</q> (Foreigner)</h></idx>
-				<sbsgroup>
-					<sidebyside>
 						<image source="images/unit3/texture-quarters-foreigner">
 							<description/>
 						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="mjwV5w0IrcA" start="8" end="24" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+						<video youtube="mjwV5w0IrcA" start="8" end="24" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Gordon Sumner, <q>Roxanne</q> (1978)</caption>
 				<idx><h>songs (popular)</h><h><q>Roxanne</q> (The Police)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-quarters-roxanne">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="3T1c7GkzRQQ" start="5" end="15" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+				<image source="images/unit3/texture-quarters-roxanne">
+					<description/>
+				</image>
+				<video youtube="3T1c7GkzRQQ" start="5" end="15" play-at="select" preview="generic"/>
 			</figure>
 			<figure>
 				<caption>Michael Bubl&#x00E9;, Alan Chang, and Amy Foster-Gillies, <q>Haven’t Met You Yet</q> (2009)</caption>
 				<idx><h>songs (popular)</h><h><q>Haven’t Met You Yet</q> (Michael Buble)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-quarters-buble">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="zS-_wGmn8jk" start="0" end="17" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+				<image source="images/unit3/texture-quarters-buble">
+					<description/>
+				</image>
+				<video youtube="zS-_wGmn8jk" start="0" end="17" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Sara Bareilles, <q>Love Song</q> (2007)</caption>
 				<idx><h>songs (popular)</h><h><q>Love Song</q> (Sara Bareilles)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-quarters-bareilles">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="qi7Yh16dA0w" start="7" end="24" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+				<image source="images/unit3/texture-quarters-bareilles">
+					<description/>
+				</image>
+				<video youtube="qi7Yh16dA0w" start="7" end="24" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>In the next section, we will examine accompanimental textures consisting of afterbeats and offbeats.</p>
 		</subsection>
@@ -669,31 +417,19 @@
 			<figure>
 				<caption>Ludwig van Beethoven, Piano Sonata Op. 2, No. 1, IV (1796)</caption>
 				<idx><h>Beethoven</h><h>Piano Sonata Op. 2, No. 1, IV</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-afterbeats-op2-no1-iv">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="pfwIAozfjoI" start="122" end="134" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+				<image source="images/unit3/texture-afterbeats-op2-no1-iv">
+					<description/>
+				</image>
+				<video youtube="pfwIAozfjoI" start="122" end="134" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>In the next example, the afterbeats are not repeated chords but instead are passing-tone figures harmonized in thirds.</p>
 			<figure>
 				<caption>W.A. Mozart, Piano Sonata K. 279, III (1775)</caption>
 				<idx><h>Mozart, W.A.</h><h>Piano Sonata K. 279, III</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-afterbeats-k279-iii">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="ZixdOZh7zo4" start="638" end="646" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+				<image source="images/unit3/texture-afterbeats-k279-iii">
+					<description/>
+				</image>
+				<video youtube="ZixdOZh7zo4" start="638" end="646" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</subsection>
 		<subsection xml:id="Offbeats">
@@ -707,16 +443,10 @@
 				<figure>
 					<caption>Jarom&#x00ED;r Vejvoda, <q>Beer Barrel Polka</q> (1927)</caption>
 					<idx><h>Vejvoda, Jarom&#x00ED;r</h><h><q>Beer Barrel Polka</q></h></idx>
-					<sbsgroup>
-						<sidebyside>
-							<image source="images/unit3/texture-offbeats-polka-beer-barrel">
-								<description/>
-							</image>
-						</sidebyside>
-						<sidebyside margins="37%">
-							<video youtube="jF-5zBjEIDM" start="89" end="107" play-at="select" preview="generic"/>
-						</sidebyside> 
-					</sbsgroup>
+					<image source="images/unit3/texture-offbeats-polka-beer-barrel">
+						<description/>
+					</image>
+					<video youtube="jF-5zBjEIDM" start="89" end="107" play-at="select" preview="generic" width="25%"/>
 				</figure>
 			</subsubsection>
 			<subsubsection xml:id="Reggae">
@@ -725,88 +455,52 @@
 				<figure>
 					<caption>Bob Marley, <q>Could You Be Loved</q> (1980)</caption>
 					<idx><h>songs (popular)</h><h><q>Could You Be Loved</q> (Bob Marley)</h></idx>
-					<sbsgroup>
-						<sidebyside>
-							<image source="images/unit3/texture-reggae-bob-marley">
-								<description/>
-							</image>
-						</sidebyside>
-						<sidebyside margins="37%">
-							<video youtube="g3t6YDnGXAc" start="14" end="33" play-at="select" preview="generic"/>
-						</sidebyside> 
-					</sbsgroup>
+					<image source="images/unit3/texture-reggae-bob-marley">
+						<description/>
+					</image>
+					<video youtube="g3t6YDnGXAc" start="14" end="33" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>By the late 1970s, British bands like The Police and UB40 were recording songs that used the reggae accompanimental style.</p>
 				<figure>
 					<caption>Gordon Sumner, <q>Walking on the Moon</q> (1979)</caption>
 					<idx><h>songs (popular)</h><h><q>Walking on the Moon</q> (The Police)</h></idx>
-					<sbsgroup>
-						<sidebyside>
-							<image source="images/unit3/texture-reggae-walking-on-the-moon">
-								<description/>
-							</image>
-						</sidebyside>
-						<sidebyside margins="37%">
-							<video youtube="mbv-LcdLY-Y" start="30" end="44" play-at="select" preview="generic"/>
-						</sidebyside> 
-					</sbsgroup>
+					<image source="images/unit3/texture-reggae-walking-on-the-moon">
+						<description/>
+					</image>
+					<video youtube="mbv-LcdLY-Y" start="30" end="44" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Neil Diamond, <q>Red Red Wine</q> (recorded in 1983 by UB40)</caption>
 					<idx><h>songs (popular)</h><h><q>Red Red Wine</q> (UB40)</h></idx>
-					<sbsgroup>
-						<sidebyside>
-							<image source="images/unit3/texture-reggae-ub40">
-								<description/>
-							</image>
-						</sidebyside>
-						<sidebyside margins="37%">
-							<video youtube="GVVZ_O0_vUc" start="45" end="54" play-at="select" preview="generic"/>
-						</sidebyside> 
-					</sbsgroup>
+					<image source="images/unit3/texture-reggae-ub40">
+						<description/>
+					</image>
+					<video youtube="GVVZ_O0_vUc" start="45" end="54" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>Reggae accompanimental texture is fairly common in the present day, as can be heard in the following examples.</p>
 				<figure>
 					<caption>Gwen Stefani and David Stewart, <q>Underneath It All</q> (2001)</caption>
 					<idx><h>songs (popular)</h><h><q>Underneath It All</q> (No Doubt)</h></idx>
-					<sbsgroup>
-						<sidebyside>
-							<image source="images/unit3/texture-reggae-no-doubt">
-								<description/>
-							</image>
-						</sidebyside>
-						<sidebyside margins="37%">
-							<video youtube="luzciaIHL04" start="08" end="23" play-at="select" preview="generic"/>
-						</sidebyside> 
-					</sbsgroup>
+					<image source="images/unit3/texture-reggae-no-doubt">
+						<description/>
+					</image>
+					<video youtube="luzciaIHL04" start="08" end="23" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Jason Mraz, <q>I'm Yours</q> (2007)</caption>
 					<idx><h>songs (popular)</h><h><q>I'm Yours</q> (Jason Mraz)</h></idx>
-					<sbsgroup>
-						<sidebyside>
-							<image source="images/unit3/texture-reggae-jason-mraz">
-								<description/>
-							</image>
-						</sidebyside>
-						<sidebyside margins="37%">
-							<video youtube="BFG0aiDrmUk" start="64" end="78" play-at="select" preview="generic"/>
-						</sidebyside> 
-					</sbsgroup>
+					<image source="images/unit3/texture-reggae-jason-mraz">
+						<description/>
+					</image>
+					<video youtube="BFG0aiDrmUk" start="64" end="78" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Nasri Atwey, Adam Messinger, Mark Pellizzer, Ben Spivak, Alex Tanas, <q>Rude</q> (2013)</caption>
 					<idx><h>songs (popular)</h><h><q>Rude</q> (by MAGIC!)</h></idx>
-					<sbsgroup>
-						<sidebyside>
 							<image source="images/unit3/texture-reggae-rude">
 								<description/>
 							</image>
-						</sidebyside>
-						<sidebyside margins="37%">
-							<video youtube="PIh2xe4jnpk" start="14" end="27" play-at="select" preview="generic"/>
-						</sidebyside> 
-					</sbsgroup>
+							<video youtube="PIh2xe4jnpk" start="14" end="27" play-at="select" preview="generic" width="25%"/>
 				</figure>
 			</subsubsection>
 		</subsection>
@@ -815,174 +509,124 @@
 		<title>The 3<ndash/>2 Son Clave</title>
 		<introduction>
 			<p>The 3<ndash/>2 son clave (and the 2<ndash/>3 son clave) <idx><h>3<ndash/>2 son clave</h></idx>are essential rhythmic elements in Afro-Cuban music. In this section we will see how cross rhythms implied by the 3<ndash/>2 son clave can be viewed as a possible source of cross rhythms in popular music. Here is a video demonstration of a 3<ndash/>2 son clave.</p>
-			<sidebyside margins="4%">
-				<video xml:id="ThreeTwoClaveVideo" youtube="dxVeiPQ1juo" start="3" end="20" play-at="select" preview="images/ThreeTwoClaveVideo.jpg"/>
-			</sidebyside>
+			<video xml:id="ThreeTwoClaveVideo" youtube="dxVeiPQ1juo" start="3" end="20" play-at="select" preview="images/ThreeTwoClaveVideo.jpg"/>
 			<p>Here is rhythmic notation of a 3<ndash/>2 son clave. Notice there are three attacks in the first measure and 2 attacks in the second bar.</p>
-			<sidebyside>
-				<image source="images/unit3/texture-3-2-clave-basic">
-					<description/>
-				</image>
-			</sidebyside>
+			<image source="images/unit3/texture-3-2-clave-basic">
+				<description/>
+			</image>
 			<p>The rhythm underlying the first bar is 3+3+2.</p>
-			<sidebyside>
-				<image source="images/unit3/texture-3-2-clave-3-3-2-rhythm">
-					<description/>
-				</image>
-			</sidebyside>
+			<image source="images/unit3/texture-3-2-clave-3-3-2-rhythm">
+				<description/>
+			</image>
 			<p>The 3<ndash/>2 son clave has also been called the <q>Bo Diddley Beat</q><idx><h>Bo Diddley beat</h></idx> because of its use by Bo Diddley in the 1950s. Look at the rhythms shown above as you listen to the following examples.</p>
 			<figure>
 				<caption>Willie Dixon, <q>Pretty Thing</q></caption>
 				<idx><h>songs (popular)</h><h><q>Pretty Thing</q> (Bo Diddley)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="9kAhqaPMsdQ" start="8" end="21" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="9kAhqaPMsdQ" start="8" end="21" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Bert Berns, Bob Feldman, Jerry Goldstein, and Richard Gottehrer, <q>I Want Candy</q></caption>
 				<idx><h>songs (popular)</h><h><q>I Want Candy</q> (The Strangeloves)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="5OOcnPVdKrs" start="0" end="19" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="5OOcnPVdKrs" start="0" end="19" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Russ Ballard, <q>New York Groove</q></caption>
 				<idx><h>songs (popular)</h><h><q>Back in the New York Groove</q> (Ace Frehley)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="LKdHy18rZcI" start="0" end="20" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="LKdHy18rZcI" start="0" end="20" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>George Michael, <q>Faith</q></caption>
 				<idx><h>songs (popular)</h><h><q>Faith</q> (George Michael)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="oOmUCbDofo4" start="59" end="80" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="oOmUCbDofo4" start="59" end="80" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>U2, <q>Desire</q></caption>
 				<idx><h>songs (popular)</h><h><q>Desire</q> (U2)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="z8rQ575DWD8" start="28" end="47" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="z8rQ575DWD8" start="28" end="47" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</introduction>
 		<subsection xml:id="ThreePlusThreePlusTwoRhythm">
 			<title>The 3+3+2 Rhythm</title>
 			<introduction>
 				<p>In the examples below, only the first bar of the 3<ndash/>2 son clave is used. Below, the 3+3+2 rhythm is shown in both eighth notes and sixteenth notes. The sixteenth-note version is known as <foreign>tresillo</foreign>.</p>
-				<sidebyside>
-					<image source="images/unit3/texture-3-3-2-in-8ths-and-16ths">
-						<description/>
-					</image>
-				</sidebyside>
+				<image source="images/unit3/texture-3-3-2-in-8ths-and-16ths">
+					<description/>
+				</image>
 				<p>The example below shows the sixteenth-note subdivisions in the 3+3+2 rhythm.</p>
-				<sidebyside>
-					<image source="images/unit3/texture-3-3-2-in-16ths">
-						<description/>
-					</image>
-				</sidebyside>
+				<image source="images/unit3/texture-3-3-2-in-16ths">
+					<description/>
+				</image>
 				<p>Below are different ways of notating the sixteenth<ndash/>note version 3+3+2 rhythm.</p>
-				<sidebyside>
-					<image source="images/unit3/texture-3-3-2-notations-of">
-						<description/>
-					</image>
-				</sidebyside>
+				<image source="images/unit3/texture-3-3-2-notations-of">
+					<description/>
+				</image>
 				<p>The first example, by the Rebirth Brass Band, uses a <q>second line</q> drumming pattern, which is associated with second line parades in New Orleans.</p>
 				<figure>
 					<caption>Reggie Calloway, <q>Casanova</q> (1987)</caption>
 					<idx><h>Calloway, Reggie, <q>Casanova</q></h></idx>
 					<idx><h>second line drumming</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="cczwRUBxNL8" start="67" end="79" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="cczwRUBxNL8" start="67" end="79" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>The well-known introduction to <q>Eye of the Tiger</q> uses the 3+3+2 rhythm.</p>
 				<figure>
 					<caption>Frankie Sullivan and Jim Peterik, <q>Eye of the Tiger</q> (1982)</caption>
 					<idx><h>songs (popular)</h><h><q>Eye of the Tiger</q> (Survivor)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="btPJPFnesV4" start="8" end="28" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="btPJPFnesV4" start="8" end="28" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>In the following example from Cyndi Lauper's <q>Girls Just Want to Have Fun,</q> the lead electric guitar riff emphasizes a 3+3+2 rhythm in 16th notes on each downbeat.</p>
 				<figure>
 					<caption>Robert Hazard, <q>Girls Just Want to Have Fun</q> (1983)</caption>
 					<idx><h>songs (popular)</h><h><q>Girls Just Want to Have Fun</q> (Cyndi Lauper)</h></idx>
-					<sbsgroup>
-						<sidebyside>
-							<image source="images/unit3/texture-3-3-2-girls-just">
-								<description/>
-							</image>
-						</sidebyside>
-						<sidebyside margins="37%">
-							<video youtube="PIb6AZdTr-A" start="7" end="16" play-at="select" preview="generic"/>
-						</sidebyside> 
-					</sbsgroup>
-				</figure>
-				<p>Below is an example showing the 3+3+2 rhythm (in 16th notes) immediately repeated. The rhythm is shown in two possible notations below.</p>
-				<sidebyside>
-					<image source="images/unit3/texture-3-3-2-plus-3-3-2">
+					<image source="images/unit3/texture-3-3-2-girls-just">
 						<description/>
 					</image>
-				</sidebyside>
+					<video youtube="PIb6AZdTr-A" start="7" end="16" play-at="select" preview="generic" width="25%"/>
+				</figure>
+				<p>Below is an example showing the 3+3+2 rhythm (in 16th notes) immediately repeated. The rhythm is shown in two possible notations below.</p>
+				<image source="images/unit3/texture-3-3-2-plus-3-3-2">
+					<description/>
+				</image>
 				<p>The following three examples all use the (3+3+2)+(3+3+2) rhythm as a rhythmic ostinato or groove.</p>
 				<figure>
 					<caption>John Stephens and Toby Gad, <q>All of Me</q> (2013)</caption>
 					<idx><h>songs (popular)</h><h><q>All of Me</q> (John Legend)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="450p7goxZqg" start="0" end="16" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="450p7goxZqg" start="0" end="16" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>Notice that this progression is from the <xref ref="BestsellerProgression" text="custom"> Best-Seller progression</xref>.</p>
 				<figure>
 					<caption>Shawn Mendes, Teddy Geiger, and Scott Harris, <q>Treat You Better</q> (2016)</caption>
 					<idx><h>songs (popular)</h><h><q>Treat You Better</q> (Shawn Mendes)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="lY2yjAdbvdQ" start="0" end="12" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="lY2yjAdbvdQ" start="0" end="12" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Ed Sheeran, Steve Mac, Johnny McDaid, Kandi Burruss, Tameka Cottle, and Kevin Briggs, <q>Shape of You</q> (2017)</caption>
 					<idx><h>songs (popular)</h><h><q>Shape of You</q> (Ed Sheeran)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="jVCxZlpj8dw" start="0" end="10" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="jVCxZlpj8dw" start="0" end="10" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>This rhythm also occurs in the following classical piece by Ligeti.</p>
 				<figure>
 					<caption>Gy&#x00F6;rgy Ligeti, Trio for Violin, Horn, and Piano, II (1982)</caption>
 					<idx><h>Ligeti, Gy&#x00F6;rgy</h><h>Trio for Violin, Horn, and Piano, II</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="W6HQ2Za75k0" start="4" end="14" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="W6HQ2Za75k0" start="4" end="14" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>The following examples have the (3+3+2)+(3+3+2) rhythm in 8th notes.</p>
-				<sidebyside>
-					<image source="images/unit3/texture-3-3-2-clocks-coldplay">
-						<description/>
-					</image>
-				</sidebyside>
+				<image source="images/unit3/texture-3-3-2-clocks-coldplay">
+					<description/>
+				</image>
 				<figure>
 					<caption>Guy Berryman, Jonny Buckland, Will Champion, and Chris Martin, <q>Clocks</q> (2003)</caption>
 					<idx><h>songs (popular)</h><h><q>Clocks</q> (Coldplay)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="d020hcWA_Wg" start="8" end="22" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="d020hcWA_Wg" start="8" end="22" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Grohl, Hawkins, Mendel, Shiflett, <q>Best of You</q> (2005)</caption>
 					<idx><h>songs (popular)</h><h><q>Best of You</q> (Foo Fighters)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="h_L4Rixya64" start="47" end="61" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="h_L4Rixya64" start="47" end="61" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Nasri Atwey, Adam Messinger, Mark Pellizzer, Ben Spivak, Alex Tanas, <q>Rude</q> (2013)</caption>
 					<idx><h>songs (popular)</h><h><q>Rude</q> (by MAGIC!)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="PIh2xe4jnpk" start="54" end="68" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="PIh2xe4jnpk" start="54" end="68" play-at="select" preview="generic" width="25%"/>
 				</figure>
 			</introduction>
 			<subsubsection xml:id="Habanera-and-Reggaeton">
@@ -991,72 +635,50 @@
 				<figure>
 					<caption>Georges Bizet, <pubtitle>Carmen</pubtitle>, Habanera (<q>L'amour est un oiseau rebelle</q>) (1870)</caption>
 					<idx><h>Bizet, Georges</h><h><pubtitle>Carmen</pubtitle>, Habanera (<q>L'amour est un oiseau rebelle</q>)</h></idx>
-					<sbsgroup>
-						<sidebyside>
-							<image source="images/unit3/texture-habanera">
-								<description/>
-							</image>
-						</sidebyside>
-						<sidebyside margins="37%">
-							<video youtube="iqlUlr2yzY8" start="0" end="15" play-at="select" preview="generic"/>
-						</sidebyside> 
-					</sbsgroup>
+					<image source="images/unit3/texture-habanera">
+						<description/>
+					</image>
+					<video youtube="iqlUlr2yzY8" start="0" end="15" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>Compare the habanera pattern above to the reggaeton beat below, notated for bass drum and snare drum.</p>
-				<sidebyside>
-					<image source="images/unit3/texture-reggaeton">
-						<description/>
-					</image>
-				</sidebyside>
+				<image source="images/unit3/texture-reggaeton">
+					<description/>
+				</image>
 				<p>Compare the <q>reggaeton</q> rhythm to the 3+3+2 of the first bar of a 3<ndash/>2 son clave (refer to the second measure in the example below).</p>
-				<sidebyside>
-					<image source="images/unit3/texture-3-3-2-in-8ths-and-16ths">
-						<description/>
-					</image>
-				</sidebyside>
+				<image source="images/unit3/texture-3-3-2-in-8ths-and-16ths">
+					<description/>
+				</image>
 				<p>Here are examples of songs with a reggaeton beat.</p>
 				<figure>
 					<caption>Wycliffe Johnson and Cleveland Browne, <q>Dem Bow</q> (1990)</caption>
 					<idx><h>songs (popular)</h><h><q>Dem Bow</q> (Shabba Ranks)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="VQqwea8ZSbk" start="0" end="22" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="VQqwea8ZSbk" start="0" end="22" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Aubrey Graham, Paul Jefferies, Noah Shebib, Ayodeji Balogun, Luke Reid, Errol Reid, Kyla Smith, Corey Johnson, <q>One Dance</q> (2016)</caption>
 					<idx><h>songs (popular)</h><h><q>One Dance</q> (Drake)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="6vjv9O4c1do" start="0" end="10" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="6vjv9O4c1do" start="0" end="10" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Luis Rodr&#x00ED;guez, Erika Ender, and Ram&#x00F3;n Ayala, <q>Despacito</q> (2017)</caption>
 					<idx><h>songs (popular)</h><h><q>Despacito</q> (Luis Fonsi featuring Daddy Yankee)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="kJQP7kiw5Fk" start="82" end="96" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="kJQP7kiw5Fk" start="82" end="96" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>Notice that the progression for <q>Despacito</q> comes from the <xref ref="BestsellerProgression" text="custom"> Best-Seller progression</xref>.</p>
 				<figure>
 					<caption>Bieber, Michaels, Tranter, Moore, and Tucker, <q>Sorry</q></caption>
 					<idx><h>songs (popular)</h><h><q>Sorry</q> (Justin Bieber)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="8ELbX5CMomE" start="148" end="158" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="8ELbX5CMomE" start="148" end="158" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Karen Marie &#x00D8;rsted, Jonnali Parmenius, and Uzoechi Emenike, <q>Final Song</q> (2016)</caption>
 					<idx><h>songs (popular)</h><h><q>Final Song</q> (M&#x00D8;)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="FjvxZO4BX38" start="49" end="61" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="FjvxZO4BX38" start="49" end="61" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<figure>
 					<caption>Adam Levine, John Ryan, Jacob Kasher Hindlin, Justin Tranter, and Phil Shaouy, <q>Cold</q> (2017)</caption>
 					<idx><h>songs (popular)</h><h><q>Cold</q> (Maroon 5)</h></idx>
-					<sidebyside margins="37%">
-						<video youtube="DCBmhs4dYzc" start="51" end="71" play-at="select" preview="generic"/>
-					</sidebyside>
+					<video youtube="DCBmhs4dYzc" start="51" end="71" play-at="select" preview="generic" width="25%"/>
 				</figure>
 				<p>In the next two sections, we will examine expansions of the 3+3+2 rhythm</p>
 			</subsubsection>
@@ -1064,70 +686,50 @@
 		<subsection xml:id="four-groups-of-three-plus-two-groups-of-two">
 			<title>3+3+3+3+2+2</title>
 			<p>In this section, we will see each number in the 3+3+2 pattern repeated, generating the 3+3+3+3+2+2 pattern.</p>
-			<sidebyside>
-				<image source="images/unit3/texture-3-3-3-3-2-2-basic">
-					<description/>
-				</image>
-			</sidebyside>
+			<image source="images/unit3/texture-3-3-3-3-2-2-basic">
+				<description/>
+			</image>
 			<p>Listen for the 3+3+3+3+2+2 rhythm in the following examples.</p>
 			<figure>
 				<caption>U2, <q>Beautiful Day</q> (2000)</caption>
 				<idx><h>songs (popular)</h><h><q>Beautiful Day</q> (U2)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="co6WMzDOh1o" start="98" end="114" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="co6WMzDOh1o" start="98" end="114" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Aluna Frances and George Reid, <q>You Know You Like It</q> (2012)</caption>
 				<idx><h>songs (popular)</h><h><q>You Know You Like It</q> (Aluna George, DJ Snake Remix)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="PKRuEY68BVA" start="4" end="25" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="PKRuEY68BVA" start="4" end="25" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Janee Bennett, Jessica Glynne, Jack Patterson, and Ina Wroldsen, <q>Hold My Hand</q> (2015)</caption>
 				<idx><h>songs (popular)</h><h><q>Hold My Hand</q> (Jess Glynne)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="cLyUcAUMmMY" start="5" end="26" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="cLyUcAUMmMY" start="5" end="26" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</subsection>
 		<subsection xml:id="Eight-Groups-of-Three-Plus-Four-Groups-of-Two">
 			<title>8 Groups of 3 Plus 4 Groups of 2</title>
 			<p>the 3+3+2 pattern can also be expanded to 8 groups of 3 sixteenth notes followed by 4 groups of 2 sixteenth notes, as shown in the example below.</p>
-			<sidebyside>
-				<image source="images/unit3/texture-3-times-8-basic">
-					<description/>
-				</image>
-			</sidebyside>
+			<image source="images/unit3/texture-3-times-8-basic">
+				<description/>
+			</image>
 			<p>Listen for this rhythm in the examples below.</p>
 			<figure>
 				<caption>Ray Parker, Jr., <q>Ghostbusters</q> (1984)</caption>
 				<idx><h>songs (popular)</h><h><q>Ghostbusters</q> (Ray Parker Jr.)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-3-times-8-ghostbusters">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="Fe93CLbHjxQ" start="45" end="63" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
+				<image source="images/unit3/texture-3-times-8-ghostbusters">
+					<description/>
+				</image>
+				<video youtube="Fe93CLbHjxQ" start="45" end="63" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Pink, Max Martin, Johan Schuster, <q>Raise Your Glass</q> (2010)</caption>
 				<idx><h>songs (popular)</h><h><q>Raise Your Glass</q> (Pink)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="XjVNlG5cZyQ" start="0" end="15" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="XjVNlG5cZyQ" start="0" end="15" play-at="select" preview="generic" width="25%"/>
 			</figure><!--also include an example that this has the 3_3_2 rhythm in 16ths in pre-chorus in 8th notes in chorus-->
 			<figure>
 				<caption>Too Many Zooz, <q>Warriors</q> (2016)</caption>
 				<idx><h>songs (popular)</h><h><q>Warriors</q> (Too Many Zooz)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="IIkqOLvuQNo" start="51" end="78" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="IIkqOLvuQNo" start="51" end="78" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</subsection>
 		<subsubsection xml:id="Other-Combinations-of-threes-and-twos">
@@ -1136,52 +738,34 @@
 			<figure>
 				<caption>Stefan Gordy, Skyler Gordy, David Listenbee, Peter Schroeder, <q>Party Rock Anthem</q> (2011)</caption>
 				<idx><h>songs (popular)</h><h><q>Party Rock Anthem</q> (LMFAO)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-3-3-2-party-rock-chords">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="KQ6zr6kCPj8" start="99" end="107" play-at="select" preview="generic"/>
-					</sidebyside> 
-				</sbsgroup>
-			</figure>
-			<p>Notice that this progression is from the <xref ref="i-VII-VI-VII" text="custom"> i<ndash/>VII<ndash/>VI<ndash/>VII progression</xref>. The rhythm in the above example is dissected below.</p>
-			<sidebyside>
-				<image source="images/unit3/texture-3-3-2-3-3-4-3-3-basic">
+				<image source="images/unit3/texture-3-3-2-party-rock-chords">
 					<description/>
 				</image>
-			</sidebyside>
+				<video youtube="KQ6zr6kCPj8" start="99" end="107" play-at="select" preview="generic" width="25%"/>
+			</figure>
+			<p>Notice that this progression is from the <xref ref="i-VII-VI-VII" text="custom"> i<ndash/>VII<ndash/>VI<ndash/>VII progression</xref>. The rhythm in the above example is dissected below.</p>
+			<image source="images/unit3/texture-3-3-2-3-3-4-3-3-basic">
+				<description/>
+			</image>
 			<p>Listen for the 3+3+4+3+3 rhythm in the following examples.</p>
 			<figure>
 				<caption>Onika Maraj, Nadir Khayat, Carl Falk, Rami Yacoub, Wayne Hector, and Bilal Hajji, <q>Starships</q> (2012)</caption>
 				<idx><h>songs (popular)</h><h><q>Starships</q> (Nicki Minaj)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="SeIJmciN8mo" start="39" end="48" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="SeIJmciN8mo" start="39" end="48" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Max Martin, Savan Kotecha, Ilya Salmanzadeh, Amethyst Kelly, Ariana Grande, <q>Problem</q> (2014)</caption>
 				<idx><h>songs (popular)</h><h><q>Problem</q> (Ariana Grande)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="iS1g8G_njx8" start="0" end="12" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="iS1g8G_njx8" start="0" end="12" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>One also finds the 3+3+4+3+3 pattern in the second bar of <q>Tik Tok,</q> an example from earlier in the chapter.</p>
 			<figure>
 				<caption>Kesha Sebert, Lukasz Gottwald, Benny Blanco, <q>Tik Tok</q> (2009)</caption>
 				<idx><h>songs (popular)</h><h><q>Tik Tok</q> (Kesha)</h></idx>
-				<sbsgroup>
-					<sidebyside>
-						<image source="images/unit3/texture-12and-kesha">
-							<description/>
-						</image>
-					</sidebyside>
-					<sidebyside margins="37%">
-						<video youtube="iP6XpLQM2Cs" start="24" end="34" play-at="select" preview="generic"/>
-					</sidebyside>
-				</sbsgroup>
+				<image source="images/unit3/texture-12and-kesha">
+					<description/>
+				</image>
+				<video youtube="iP6XpLQM2Cs" start="24" end="34" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>Notice that this progression comes from a rotation of the <xref ref="i-VII-VI-VII" text="custom"> i<ndash/>VII<ndash/>VI<ndash/>VII progression</xref>.</p>
 		</subsubsection>
@@ -1193,58 +777,42 @@
 			<figure>
 				<caption>Joseph Eastburn Winner, <q>Little Brown Jug</q> (1869)</caption>
 				<idx><h>songs (popular)</h><h><q>Little Brown Jug</q> (Glenn Miller)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="KjuF89RvfIA" start="0" end="23" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="KjuF89RvfIA" start="0" end="23" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Lennon-McCartney, <q>Day Tripper</q> (1965)</caption>
 				<idx><h>songs (popular)</h><h><q>Day Tripper</q> (Beatles)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="eeFpUDCyTUo" start="0" end="14" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="eeFpUDCyTUo" start="0" end="14" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Bernard Edwards and Nile Rodgers, <q>Good Times</q> (1979)</caption>
 				<idx><h>songs (popular)</h><h><q>Good Times</q> (Chic)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="Er9xGRolrT4" start="0" end="28" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="Er9xGRolrT4" start="0" end="28" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>John Deacon, <q>Another One Bites the Dust</q> (1980)</caption>
 				<idx><h>songs (popular)</h><h><q>Another One Bites the Dust</q> (Queen)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="rY0WxgSXdEE" start="4" end="15" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="rY0WxgSXdEE" start="4" end="15" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Rick James, <q>Superfreak</q> (1981)</caption>
 				<idx><h>songs (popular)</h><h><q>Superfreak</q> (Rick James)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="QYHxGBH6o4M" start="0" end="16" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="QYHxGBH6o4M" start="0" end="16" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>David Bowie, <q>Under Pressure</q> (1981)</caption>
 				<idx><h>songs (popular)</h><h><q>Under Pressure</q> (Queen and David Bowie)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="a01QQZyl-_I" start="5" end="15" play-at="select" preview="generic"/>
-				</sidebyside>
+					<video youtube="a01QQZyl-_I" start="5" end="15" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Amethyst Kelly, Charlotte Aitchison, George Astasio, Jason Pebworth, Christopher Shave, Kurtis McKenzie, <q>Fancy</q> (2014)</caption>
 				<idx><h>songs (popular)</h><h><q>Fancy</q> (Iggy Azalea featuring Charli XCX)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="JtpX8KBT768" start="0" end="10" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="JtpX8KBT768" start="0" end="10" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Ben Haggerty, Ryan Lewis, Jacob Dutton, Eric Nally, Joshua Karp, Joshua Rawlings, Darian Asplund, Evan Flory<ndash/>Barnes, Tim Haggerty, <q>Downtown</q> (2015)</caption>
 				<idx><h>songs (popular)</h><h><q>Downtown</q> (Macklemore and Ryan Lewis)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="a5qZOMQ1qys" start="15" end="27" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="a5qZOMQ1qys" start="15" end="27" play-at="select" preview="generic" width="25%"/>
 			</figure>
 		</introduction>
 		<subsection xml:id="DistinctiveGuitarRiffs">
@@ -1253,30 +821,22 @@
 			<figure>
 				<caption>Ray Davies, <q>You Really Got Me</q> (1964)</caption>
 				<idx><h>songs (popular)</h><h><q>You Really Got Me</q> (The Kinks)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="fTTsY-oz6Go" start="0" end="14" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="fTTsY-oz6Go" start="0" end="14" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Jimmy Page and Robert Plant, <q>Immigrant Song</q> (1970)</caption>
 				<idx><h>songs (popular)</h><h><q>Immigrant Song</q> (Led Zeppelin)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="y8OtzJtp-EM" start="1" end="19" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="y8OtzJtp-EM" start="1" end="19" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Steven Tyler and Joe Perry, <q>Walk This Way</q> (1975)</caption>
 				<idx><h>songs (popular)</h><h><q>Walk This Way</q> (Aerosmith)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="4c8O2n1Gfto" start="4" end="13" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="4c8O2n1Gfto" start="4" end="13" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<figure>
 				<caption>Angus Young, Malcolm Young, and Brian Johnson, <q>Back in Black</q> (1980)</caption>
 				<idx><h>songs (popular)</h><h><q>Back in Black</q> (AC/DC)</h></idx>
-				<sidebyside margins="37%">
-					<video youtube="pAgnJDJN4VA" start="04" end="27" play-at="select" preview="generic"/>
-				</sidebyside>
+				<video youtube="pAgnJDJN4VA" start="04" end="27" play-at="select" preview="generic" width="25%"/>
 			</figure>
 			<p>This chapter is meant to give you ideas about animating chords and chord progressions with accompanimental textures, including riffs. It is by no means meant to be exhaustive, but rather to encourage you to listen closely to texture and accompaniment.</p>
 		</subsection>

@@ -4,11 +4,9 @@
     <section xml:id="HalfStepsAndWholeSteps">
         <title>Half Steps and Whole Steps</title>
         <p>A half step on a piano keyboard is the distance from one note to the next nearest note. A whole step is made of two half steps.</p>
-        <sidebyside>
-            <image source="images/unit1/half-step-and-whole-step">
-                <description>Half step versus Whole Step on the piano</description>
-            </image>
-        </sidebyside>
+        <image source="images/unit1/half-step-and-whole-step">
+            <description>Half step versus Whole Step on the piano</description>
+        </image>
     </section>
     <section xml:id="TheMajorScale">
         <title>The Major Scale</title>
@@ -80,9 +78,7 @@
         <exercise>
             <statement>
                 <p>Using the WWHWWWH pattern, write the specified major scales without using key signatures.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-writing-major-scales"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-writing-major-scales"/>
             </statement>
             <answer>
                 <p>1. <n pc="D" acc="flat"/> <n pc="E" acc="flat"/> <n pc="F"/> <n pc="G" acc="flat"/> <n pc="A" acc="flat"/> <n pc="B" acc="flat"/> <n pc="C"/></p>
@@ -92,9 +88,7 @@
         <exercise>
             <statement>
                 <p>Given the key signature, specify the major key.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-ID-Maj-Key-Sig"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-ID-Maj-Key-Sig"/>
             </statement>
             <answer>
                 <p>1. <n pc="A" acc="flat"/>; 2. <n pc="A"/>; 3. <n pc="G"/>; 4. <n pc="E" acc="flat"/>; 5. <n pc="F"/>; 6. <n pc="D"/>; 7. <n pc="C" acc="sharp"/>;</p>
@@ -104,9 +98,7 @@
         <exercise>
             <statement>
                 <p>Write the major key signature for each key given. Be sure to use the correct order for sharps and flats.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-writing-maj-key-sigs"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-writing-maj-key-sigs"/>
             </statement>
         </exercise>
         <conclusion>

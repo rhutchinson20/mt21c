@@ -5,70 +5,54 @@
         <title>Introduction to Triads</title>
         <p>A <term>triad</term><idx><h>triad</h><h>definition of</h></idx> consists of three notes stacked in consecutive thirds. A triad is also called a <term>chord</term><idx><h>chord</h></idx> as well as a <term>harmony</term><idx><h>harmony</h></idx>. (Harmony also refers to chord progressions.)</p>
         <p>The lowest note of a triad when it is stacked in thirds is called the <term>root</term><idx><h>root</h></idx>. The middle note is the third and the highest note of the triad is the fifth. (We will discuss inversions of triads later.)</p>
-        <sidebyside>
-            <image source="images/unit1/basic-triads"/>
-        </sidebyside>
+        <image source="images/unit1/basic-triads"/>
         <p>There are four qualities of triads<mdash/><term>augmented</term><idx><h>triad</h><h>augmented</h></idx>, <term>major</term><idx><h>triad</h><h>major</h></idx>, <term>minor</term><idx><h>triad</h><h>minor</h></idx>, and <term>diminished</term><idx><h>triad</h><h>diminished</h></idx>.</p>
-        <sidebyside>
-            <image source="images/unit1/triads-the-4-types"/>
-        </sidebyside>
+        <image source="images/unit1/triads-the-4-types"/>
         <p>Major and minor triads are common, diminished triads are less common, and augmented triads are rare.</p>
     </section>
     <section xml:id="LeadSheetSymbols">
         <title>Lead-Sheet Symbols</title>
         <p><term>Lead-sheet symbols</term><idx><h>lead-sheet symbols</h></idx> (also known as <q>lead-sheet notation</q> and <q>lead-sheet chord symbols</q>) are often used as shorthand for chords in popular music and jazz. These symbols allow a guitarist or pianist to choose how to <q>voice</q> the chords, i.e., how they want to arrange the notes.</p>
-        <sidebyside>
-            <image source="images/unit1/triads-voicings-of-C-major-triad-B"/>
-        </sidebyside>
+        <image source="images/unit1/triads-voicings-of-C-major-triad-B"/>
         <p>Lead-sheet symbols for triads communicate the <em>root</em> and <em>quality</em> of a chord.</p>
-        <sidebyside>
-            <tabular halign="center">
-                <row header="yes" bottom="major">
-                    <cell><em>Lead-sheet Symbol</em></cell>
-                    <cell><em>Chord Quality</em></cell>
-                    <cell><em>Notes in the Chord</em></cell>
-                </row>
-                <row>
-                    <cell><chord root="F"/></cell>
-                    <cell>major</cell>
-                    <cell><n pc="F"/><ndash/><n pc="A"/><ndash/><n pc="C"/></cell>
-                </row>
-                <row>
-                    <cell><chord root="G" mode="m"/></cell>
-                    <cell>minor</cell>
-                    <cell><n pc="G"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D"/></cell>
-                </row>
-                <row>
-                    <cell><chord root="D" mode="diminished"/></cell>
-                    <cell>diminished</cell>
-                    <cell><n pc="D"/><ndash/><n pc="F"/><ndash/><n pc="A" acc="flat"/></cell>
-                </row>
-                <row>
-                    <cell><chord root="C" mode="augmented"/></cell>
-                    <cell>augmented</cell>
-                    <cell><n pc="C"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="sharp"/></cell>
-                </row>
-            </tabular>
-        </sidebyside>
+        <tabular halign="center">
+            <row bottom="major">
+                <cell><em>Lead-sheet Symbol</em></cell>
+                <cell><em>Chord Quality</em></cell>
+                <cell><em>Notes in the Chord</em></cell>
+            </row>
+            <row>
+                <cell><chord root="F"/></cell>
+                <cell>major</cell>
+                <cell><n pc="F"/><ndash/><n pc="A"/><ndash/><n pc="C"/></cell>
+            </row>
+            <row>
+                <cell><chord root="G" mode="m"/></cell>
+                <cell>minor</cell>
+                <cell><n pc="G"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D"/></cell>
+            </row>
+            <row>
+                <cell><chord root="D" mode="diminished"/></cell>
+                <cell>diminished</cell>
+                <cell><n pc="D"/><ndash/><n pc="F"/><ndash/><n pc="A" acc="flat"/></cell>
+            </row>
+            <row>
+                <cell><chord root="C" mode="augmented"/></cell>
+                <cell>augmented</cell>
+                <cell><n pc="C"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="sharp"/></cell>
+            </row>
+        </tabular>
         <p>Here is a musical example with lead-sheet symbols and guitar tablature.</p>
         <figure>
             <caption>Alicia Keys, Salaam Remi, Jeff Bhasker, Billy Squier, <q>Girl on Fire</q> (2012)</caption>
             <idx><h>songs (popular)</h><h><q>Girl on Fire</q> (Alicia Keys)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit1/leadsheet-girl-on-fire-A">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit1/leadsheet-girl-on-fire-B">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="J91ti_MpdHA" start="5" end="16" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit1/leadsheet-girl-on-fire-A">
+                <description/>
+            </image>
+            <image source="images/unit1/leadsheet-girl-on-fire-B">
+                <description/>
+            </image>
+            <video youtube="J91ti_MpdHA" start="5" end="16" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>As you can see in the example above, major triads are represented by an uppercase letter (<chord root="A"/>, <chord root="E"/>, and <chord root="D"/>) while minor triads are represented with the root in uppercase followed by a lowercase <q>m</q> (e.g., <chord root="F sharp" mode="m"/>). Diminished triads are represented by including the diminished symbol (<chord mode="diminished"/>) after the chord root (e.g., <chord root="C" mode="diminished"/>) while augmented triads are represented by including the augmented symbol after the root (<chord root="C" mode="augmented"/>).</p> 
     </section>
@@ -77,53 +61,46 @@
         <introduction>
             <p>An <term>inverted triad</term><idx><h>inverted triad</h></idx><idx><h>triad</h><h>inverted</h></idx><idx><h>inverted chord</h></idx> does not have the root as the lowest note. It is important to distinguish between <em>root</em> and <em>bass</em>. The root of a chord is the lowest note <em>when the notes are stacked in thirds</em>. The <em>bass</em> is the lowest note, which might be the root, third, or fifth.</p>
             <p>A triad is in <q><term>root position</term></q><idx><h>root position</h></idx> when the root is the lowest note, <q><term>first inversion</term></q><idx><h>first inversion</h></idx> when the third of the chord is the lowest note, and <q><term>second inversion</term></q><idx><h>second inversion</h></idx> when the fifth of the chord is the lowest note.</p>
-            <sidebyside>
-                <image source="images/unit1/triads-intro-to-inversion"/>
-            </sidebyside>
+            <image source="images/unit1/triads-intro-to-inversion"/>
         </introduction>
         <subsection xml:id="SlashChords">
             <title>"Slash" Chords</title>
             <p xml:id="slash-chord-paragraph">In lead-sheet notation, an inverted chord has the triad before the slash (/) and the bass note after it. <q><chord root="C" bass="E"/></q> means a <n pc="C"/> triad with an <n pc="E"/> as the lowest note.  Therefore, a <term>slash chord</term><idx><h>slash chord</h></idx> has a bass note that is not the root of the chord. In fact, it is possible to have slash chords where the bass note is not one of the chord tones (e.g., <chord root="C" bass="F sharp"/>).</p>
-            <sidebyside>
-                <image source="images/unit1/leadsheet-infograph-on-slash-chord"/>
-            </sidebyside>
+            <image source="images/unit1/leadsheet-infograph-on-slash-chord"/>
             <p>Remember, in a slash chord, <em>the first letter you see represents the root of the chord</em>. The letter <em>after</em> the slash is the <em>lowest</em> note (the bass).</p>
-            <sidebyside>
-                <tabular halign="center">
-                    <row header="yes" bottom="major">
-                        <cell><em>Lead-sheet Symbol</em></cell>
-                        <cell><em>Root of Chord</em></cell>
-                        <cell><em>Notes in the Chord</em></cell>
-                        <cell><em>Bass Note (Lowest Note)</em></cell>
-                    </row>
-                    <row>
-                        <cell><chord root="F" bass="A"/></cell>
-                        <cell><n pc="F"/></cell>
-                        <cell><n pc="F"/><ndash/><n pc="A"/><ndash/><n pc="C"/></cell>
-                        <cell><n pc="A"/></cell>
-                    </row>
-                    <row>
-                        <cell><chord root="D" mode="m" bass="A"/></cell>
-                        <cell><n pc="D"/></cell>
-                        <cell><n pc="D"/><ndash/><n pc="F"/><ndash/><n pc="A"/></cell>
-                        <cell><n pc="A"/></cell>
-                    </row>
-                    <row>
-                        <cell><chord root="G" mode="diminished" bass="D flat"/></cell>
-                        <cell><n pc="G"/></cell>
-                        <cell><n pc="G"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/></cell>
-                        <cell><n pc="D" acc="flat"/></cell>
-                    </row>
-                    <row>
-                        <cell><chord root="C" mode="augmented" bass="G sharp"/></cell>
-                        <cell><n pc="C"/></cell>
-                        <cell><n pc="C"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="sharp"/></cell>
-                        <cell><n pc="G" acc="sharp"/></cell>
-                    </row>
-                </tabular>
-            </sidebyside>
+            <tabular halign="center">
+                <row bottom="major">
+                    <cell><em>Lead-sheet Symbol</em></cell>
+                    <cell><em>Root of Chord</em></cell>
+                    <cell><em>Notes in the Chord</em></cell>
+                    <cell><em>Bass Note (Lowest Note)</em></cell>
+                </row>
+                <row>
+                    <cell><chord root="F" bass="A"/></cell>
+                    <cell><n pc="F"/></cell>
+                    <cell><n pc="F"/><ndash/><n pc="A"/><ndash/><n pc="C"/></cell>
+                    <cell><n pc="A"/></cell>
+                </row>
+                <row>
+                    <cell><chord root="D" mode="m" bass="A"/></cell>
+                    <cell><n pc="D"/></cell>
+                    <cell><n pc="D"/><ndash/><n pc="F"/><ndash/><n pc="A"/></cell>
+                    <cell><n pc="A"/></cell>
+                </row>
+                <row>
+                    <cell><chord root="G" mode="diminished" bass="D flat"/></cell>
+                    <cell><n pc="G"/></cell>
+                    <cell><n pc="G"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/></cell>
+                    <cell><n pc="D" acc="flat"/></cell>
+                </row>
+                <row>
+                    <cell><chord root="C" mode="augmented" bass="G sharp"/></cell>
+                    <cell><n pc="C"/></cell>
+                    <cell><n pc="C"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="sharp"/></cell>
+                    <cell><n pc="G" acc="sharp"/></cell>
+                </row>
+            </tabular>
         </subsection>
-        <!--another section is needed on analyzing inverted triads by stacking up the notes in thirds to determine the root-->
     </section>
     <section xml:id="AnalyzingChords">
         <title>Analyzing Chords</title>
@@ -134,13 +111,9 @@
             <li><p>What is the bass note (i.e., is the chord inverted)?</p></li>
         </ol>
         <p>To determine the root of the chord, write all the notes only on the lines of the staff in treble clef (you may need to use ledger lines).</p>
-        <sidebyside>
-            <image source="images/unit1/triads-analyzing-stacking-on-lines"/>
-        </sidebyside>
+        <image source="images/unit1/triads-analyzing-stacking-on-lines"/>
         <p>You could also choose to write all the notes only on the spaces in a staff.</p>
-        <sidebyside>
-            <image source="images/unit1/triads-analyzing-stacking-on-spaces"/>
-        </sidebyside>
+        <image source="images/unit1/triads-analyzing-stacking-on-spaces"/>
         <p>The bottom note is the root when the chord is stacked as a triad. In this case, the root is <n pc="D"/>.</p>
         <p>Next, determine the quality of the triad (major, minor, diminished, or augmented) by analyzing if there is a M3 or m3 from the root to the 3rd, and if there is a M3 or m3 from the 3rd to 5th.</p>
         <sidebyside widths="35% 35%" margins="10%">
@@ -150,154 +123,128 @@
         <p>Since there is a m3 (3 half steps) from <n pc="D"/> to <n pc="F"/> and a M3 (4 half steps) from <n pc="F"/> to <n pc="A"/>, the triad is minor.</p>
         <p>Finally, determine if the chord is inverted by checking to see if a note other than the root is the lowest note. Since the bass note (lowest note) is the root <n pc="D"/>, the chord is not inverted. The chord is in root position, so the lead-sheet symbol is <chord root="D" mode="m"/>.</p>
         <p>Now, try the process again.</p>
-        <sidebyside widths="33%" margins="33%">
-            <image source="images/unit1/triads-analyzing-2nd-chord-to-try"/>
-        </sidebyside>
+        <image source="images/unit1/triads-analyzing-2nd-chord-to-try" width="50%"/>
         <p>On scratch paper, stack the notes only on lines in the treble clef to determine the root.</p>
-        <sidebyside widths="33%" margins="33%">
-            <image source="images/unit1/triads-analyzing-2nd-chord-stacked"/>
-        </sidebyside>
+        <image source="images/unit1/triads-analyzing-2nd-chord-stacked" width="50%"/>
         <p>The root is <n pc="E"/>.</p>
         <p>Analyze the quality of the triad by measuring from <n pc="E"/> to <n pc="G"/> and from <n pc="G"/> to <n pc="B" acc="flat"/>.</p>
-        <sidebyside widths="33%" margins="33%">
-            <image source="images/unit1/triads-analyzing-2nd-chord-on-piano"/>
-        </sidebyside>
+        <image source="images/unit1/triads-analyzing-2nd-chord-on-piano" width="50%"/>
         <p>It is an <n pc="E"/> diminished triad (<chord root="E" mode="diminished"/>).</p>
         <p>Finally, determine if the chord is inverted. Is the root (<n pc="E"/>) the lowest note?</p>
-        <sidebyside widths="33%" margins="33%">
-            <image source="images/unit1/triads-analyzing-2nd-chord-to-try"/>
-        </sidebyside>
+        <image source="images/unit1/triads-analyzing-2nd-chord-to-try" width="50%"/>
         <p>Since the lowest note is <n pc="G"/>, the chord is inverted. Our lead-sheet symbol is <chord root="E" mode="diminished" bass="G"/>, which means we have an <chord root="E" mode="diminished"/> chord with a <n pc="G"/> in the bass.</p>
     </section>
     <section xml:id="SimpleSusChords">
         <title>Simple <q>Sus</q> Chords</title>
         <p>Common in popular music are <q>sus</q> chords, with <q>sus</q> being a shortening of <q>suspended,</q> a term we will study in the chapter on <xref ref="NonChordTones" text="custom">non-chord tones</xref>.</p>
         <p>The two basic sus chords are the sus4 and sus2 chords. In the <term>sus4</term><idx><h>sus4 chord</h></idx> chord (also labeled simply as <q>sus</q>), a perfect 4th replaces the 3rd of the chord. In the <term>sus2</term><idx><h>sus2 chord</h></idx><idx><h>sus9 chord</h></idx> chord (sometimes called <q>sus9</q>), a major 2nd replaces the 3rd of the chord. Both of these sus chords have a perfect 5th from the root to the fifth.</p>
-        <sidebyside>
-            <image source="images/unit1/lead-sheet-sus-chords"/>
-        </sidebyside>
+        <image source="images/unit1/lead-sheet-sus-chords"/>
         <p>Here is a musical example with a sus4 chord.</p>
         <figure>
             <caption>Peter Cetera and David Foster, <q>Hard to Say I'm Sorry</q></caption>
             <idx><h>songs (popular)</h><h><q>Hard to Say I'm Sorry</q> (Chicago)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit1/lead-sheet-sus4-hard-to-say-im-sorry-B">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="PLtKoLkxDSQ" start="0" end="13" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit1/lead-sheet-sus4-hard-to-say-im-sorry-B">
+                <description/>
+            </image>
+            <video youtube="PLtKoLkxDSQ" start="0" end="13" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Here is a musical example with a sus2 chord.</p>
         <figure>
             <caption>Sara Bareilles, <q>Love Song</q></caption>
             <idx><h>songs (popular)</h><h><q>Love Song</q> (Sara Bareilles)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit1/leadsheet-sus2-love-song">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="qi7Yh16dA0w" start="7" end="16" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit1/leadsheet-sus2-love-song">
+                <description/>
+            </image>
+            <video youtube="qi7Yh16dA0w" start="7" end="16" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>We will not invert sus chords in this text. In a later chapter, there is <xref ref="sus-chord-examples" text="custom">a section on more sophisticated sus chords</xref> like <chord root="C" bps="9" suspended="yes"/> and <chord root="C" bps="7" suspended="yes"><alteration><flat/>9</alteration></chord>.</p>
     </section>
     <section xml:id="SummaryOfTriadConstruction">
         <title>Summary</title>
         <p>Triad construction is summarized in the following table.</p>
-        <sidebyside>
-            <tabular halign="center">
-                <col top="none"/>
-                <col/>
-                <col/>
-                <row bottom="major">
-                    <cell right="none" bottom="none"></cell>
-                    <cell>Lower Interval</cell>
-                    <cell>Upper Interval</cell>
-                </row>
-                <row top="minor" right="minor">
-                    <cell halign="right" top="none">Augmented:</cell>
-                    <cell bottom="minor" >
-                        <line>M3</line>
-                        <line>(4 half steps)</line>
-                    </cell>
-                    <cell bottom="minor">
-                        <line>M3</line>
-                        <line>(4 half steps)</line>
-                    </cell>
-                </row>
-                <row right="minor">
-                    <cell halign="right">Major:</cell>
-                    <cell bottom="minor">
-                        <line>M3</line>
-                        <line>(4 half steps)</line>
-                    </cell>
-                    <cell bottom="minor">
-                        <line>m3</line>
-                        <line>(3 half steps)</line>
-                    </cell>
-                </row>
-                <row right="minor">
-                    <cell halign="right">Minor:</cell>
-                    <cell bottom="minor">
-                        <line>m3</line>
-                        <line>(3 half steps)</line>
-                    </cell>
-                    <cell bottom="minor">
-                        <line>M3</line>
-                        <line>(4 half steps)</line>
-                    </cell>
-                </row>
-                <row right="minor">
-                    <cell halign="right">Diminished:</cell>
-                    <cell bottom="minor">
-                        <line>m3</line>
-                        <line>(3 half steps)</line>
-                    </cell>
-                    <cell bottom="minor">
-                        <line>m3</line>
-                        <line>(3 half steps)</line>
-                    </cell>
-                </row>
-                <row right="minor">
-                    <cell halign="right">Sus2:</cell>
-                    <cell bottom="minor">
-                        <line>M2</line>
-                        <line>(2 half steps)</line>
-                    </cell>
-                    <cell bottom="minor">
-                        <line>P4</line>
-                        <line>(5 half steps)</line>
-                    </cell>
-                </row>
-                <row right="minor">
-                    <cell halign="right">Sus4:</cell>
-                    <cell bottom="minor">
-                        <line>P4</line>
-                        <line>(5 half steps)</line>
-                    </cell>
-                    <cell bottom="minor">
-                        <line>M2</line>
-                        <line>(2 half steps)</line>
-                    </cell>
-                </row>
-            </tabular>
-        </sidebyside>
+        <tabular halign="center">
+            <col top="none"/>
+            <col/>
+            <col/>
+            <row bottom="major">
+                <cell right="none" bottom="none"></cell>
+                <cell>Lower Interval</cell>
+                <cell>Upper Interval</cell>
+            </row>
+            <row top="minor" right="minor">
+                <cell halign="right" top="none">Augmented:</cell>
+                <cell bottom="minor" >
+                    <line>M3</line>
+                    <line>(4 half steps)</line>
+                </cell>
+                <cell bottom="minor">
+                    <line>M3</line>
+                    <line>(4 half steps)</line>
+                </cell>
+            </row>
+            <row right="minor">
+                <cell halign="right">Major:</cell>
+                <cell bottom="minor">
+                    <line>M3</line>
+                    <line>(4 half steps)</line>
+                </cell>
+                <cell bottom="minor">
+                    <line>m3</line>
+                    <line>(3 half steps)</line>
+                </cell>
+            </row>
+            <row right="minor">
+                <cell halign="right">Minor:</cell>
+                <cell bottom="minor">
+                    <line>m3</line>
+                    <line>(3 half steps)</line>
+                </cell>
+                <cell bottom="minor">
+                    <line>M3</line>
+                    <line>(4 half steps)</line>
+                </cell>
+            </row>
+            <row right="minor">
+                <cell halign="right">Diminished:</cell>
+                <cell bottom="minor">
+                    <line>m3</line>
+                    <line>(3 half steps)</line>
+                </cell>
+                <cell bottom="minor">
+                    <line>m3</line>
+                    <line>(3 half steps)</line>
+                </cell>
+            </row>
+            <row right="minor">
+                <cell halign="right">Sus2:</cell>
+                <cell bottom="minor">
+                    <line>M2</line>
+                    <line>(2 half steps)</line>
+                </cell>
+                <cell bottom="minor">
+                    <line>P4</line>
+                    <line>(5 half steps)</line>
+                </cell>
+            </row>
+            <row right="minor">
+                <cell halign="right">Sus4:</cell>
+                <cell bottom="minor">
+                    <line>P4</line>
+                    <line>(5 half steps)</line>
+                </cell>
+                <cell bottom="minor">
+                    <line>M2</line>
+                    <line>(2 half steps)</line>
+                </cell>
+            </row>
+        </tabular>
     </section>
     <exercises xml:id="TriadsPracticeExercises">
         <title>Practice Exercises</title>
         <exercise>
             <statement>
                 <p>Analyze the triad types (M, m, <chord mode="augmented"/>, <chord mode="diminished"/>) using lead-sheet symbols. Sus2 and sus4 chords are also included.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-Triad-ID"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-Triad-ID"/>
             </statement>
             <answer>
                 <p>1. <chord root="A sharp" mode="diminished"/>, 2. <n pc="F"/>sus4, 3. <chord root="B flat" mode="augmented"/>, 4. <chord root="D flat"/>, 5. <n pc="E"/>sus2</p>
@@ -306,9 +253,7 @@
         <exercise>
             <statement>
                 <p>Write the specified triads and sus chords.</p>
-                <sidebyside>
                     <image source="images/unit1/PRAC-EXER-Triad-writing"/>
-                </sidebyside>
             </statement>
             <answer>
                 <p>1. <n pc="B"/><n pc="D"/><n pc="F" acc="sharp"/>, 2. <n pc="E"/><n pc="G" acc="sharp"/><n pc="B" acc="sharp"/>, 3. <n pc="A" acc="flat"/><n pc="B" acc="flat"/><n pc="E" acc="flat"/>, 4. <n pc="C" acc="sharp"/><n pc="E" acc="sharp"/><n pc="G" acc="sharp"/>, 5. <n pc="D"/><n pc="G"/><n pc="A"/>, 6. <n pc="F"/><n pc="A" acc="flat"/><n pc="C" acc="flat"/></p>
@@ -317,9 +262,7 @@
         <exercise>
             <statement>
                 <p>Analyze the following inverted triads using slash notation.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-triad-inverted-ID"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-triad-inverted-ID"/>
             </statement>
             <answer>
                 <p>1. <chord root="D" mode="m" bass="F"/>, 2. <chord root="G" mode="m" bass="D"/>, 3. <chord root="A sharp" mode="diminished" bass="C sharp"/>, 4. <chord root="F" bass="A"/>, 5. <chord root="B flat" bass="F"/>, 6. <chord root="C" mode="m" bass="G"/></p>
@@ -328,9 +271,7 @@
         <exercise>
             <statement>
                 <p>Write the specified inverted triads.</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-Triad-Inverted-Writing"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-Triad-Inverted-Writing"/>
             </statement>
             <answer>
                 <p>(lowest to highest) 1. <n pc="D"/><n pc="G"/><n pc="B"/>, 2. <n pc="D"/><n pc="F" acc="sharp"/><n pc="B"/>, 3. <n pc="F"/><n pc="A" acc="flat"/><n pc="D" acc="flat"/>, 4. <n pc="B" acc="flat"/><n pc="E"/><n pc="G"/></p>
@@ -339,9 +280,7 @@
         <exercise>
             <statement>
                 <p>Correct the misspelled triads. Label your corrected spelling with lead-sheet notation. All of the examples are in root position (the lowest note is the root).</p>
-                <sidebyside>
-                    <image source="images/unit1/PRAC-EXER-Triads-misspelled"/>
-                </sidebyside>
+                <image source="images/unit1/PRAC-EXER-Triads-misspelled"/>
             </statement>
             <answer>
                 <p>1. <n pc="F" acc="sharp"/><n pc="A" acc="sharp"/><n pc="C" acc="sharp"/>, 2. <n pc="G"/><n pc="B" acc="flat"/><n pc="D" acc="flat"/>, 3. <n pc="A" acc="flat"/><n pc="C" acc="flat"/><n pc="E" acc="flat"/></p>

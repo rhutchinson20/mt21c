@@ -8,49 +8,35 @@
         <figure>
             <caption>Beyonc&#x00E9; Knowles, Terius Nash, and Shea Taylor, <q>Love on Top</q> (2011)</caption>
             <idx><h>songs (popular)</h><h><q>Love on Top</q> (Beyonc&#x00E9;)</h></idx>
-            <sidebyside margins="37%">
-                <video youtube="Ob7vObnFUJc" start="93" end="236" play-at="select" preview="generic"/>
-            </sidebyside>
+            <video youtube="Ob7vObnFUJc" start="93" end="236" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>James Horner and Will Jennings, <q>My Heart Will Go On</q> (1997)</caption>
             <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <pubtitle>Titanic</pubtitle>)</h></idx>
-            <sidebyside margins="37%">
-                <video youtube="Siz-xBfIqpg" start="193" end="213" play-at="select" preview="generic"/>
-            </sidebyside>
+            <video youtube="Siz-xBfIqpg" start="193" end="213" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Jon Bon Jovi, Richie Sambora, and Desmond Child, <q>Livin' on a Prayer</q> (1986)</caption>
             <idx><h>songs (popular)</h><h><q>Livin' on a Prayer</q> (Bon Jovi)</h></idx>
-            <sidebyside margins="37%">
-                <video youtube="lDK9QqIzhwk" start="195" end="212" play-at="select" preview="generic"/>
-            </sidebyside>
+            <video youtube="lDK9QqIzhwk" start="195" end="212" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="TonicizationVersusModulation">
         <title>Tonicization versus Modulation</title>
         <p>Studying modulation will require us to distinguish between <xref ref="Tonicization" text="custom">tonicization</xref>, which we studied recently, and modulation. Tonicization, involving secondary chords, can be as short as two chords (<chord root="V" bass="V"/> to <chord root="V"/>, for example) but can sometimes encompass several measures as in the following example.</p>
         <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Abschied</q></h></idx>
-        <sidebyside>
-            <image source="images/unit5/mod-ton-vs-mod-abschied-A">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <image source="images/unit5/mod-ton-vs-mod-abschied-B">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <image source="images/unit5/mod-ton-vs-mod-abschied-C">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit5/mod-ton-vs-mod-abschied-A">
+            <description/>
+        </image>
+        <image source="images/unit5/mod-ton-vs-mod-abschied-B">
+            <description/>
+        </image>
+        <image source="images/unit5/mod-ton-vs-mod-abschied-C">
+            <description/>
+        </image>
         <figure>
             <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Abschied</q> (1828)</caption>
-            <sidebyside margins="37%">
-                <video youtube="Wod-JellQ88" start="26" end="41" play-at="select" preview="generic"/>
-            </sidebyside> 
+            <video youtube="Wod-JellQ88" start="26" end="41" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Below is a reduction showing the underlying diatonic progression of the example above.</p>
         <figure>
@@ -63,7 +49,6 @@
         <p>A modulation to a new key requires an eventual cadence to confirm that new key. This cadence will often (though not always) have the following cadential formula:</p>
         <table>
             <title>Cadential Formula to Establish a Key</title>
-            <!--inbetween table and tabular would be a sidebyside with left margin = 0 look for margins attribute-->
             <tabular>
                 <row>
                     <cell><chord root="ii" bps="6"/></cell>
@@ -88,46 +73,28 @@
         <figure>
             <caption>J.S. Bach, English Suite No. 4 in F Major, BWV 809, Sarabande (ca. 1715)</caption>
             <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit5/mod-ton-vs-mod-bach-eng4-sarabande">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="9WQbN91tpWI" start="13" end="39" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit5/mod-ton-vs-mod-bach-eng4-sarabande">
+                <description/>
+            </image>
+            <video youtube="9WQbN91tpWI" start="13" end="39" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Notice that this cadential formula establishes a key more strongly than the simple <chord root="V"/><ndash/><chord root="I"/> of an <xref ref="AuthenticCadence" text="custom">authentic cadence</xref>. This means there will be ambiguity between a tonicization and a short modulation ending in an authentic cadence, especially in music with fast harmonic rhythm, like Bach chorales (usually in quarter-note <xref ref="HarmonicRhythm" text="custom">harmonic rhythm</xref>).</p>
         <figure>
             <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
             <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit5/mod-ton-vs-mod-ermuntre">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="tVJy904MiIY" start="0" end="7" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit5/mod-ton-vs-mod-ermuntre">
+                <description/>
+            </image>
+            <video youtube="tVJy904MiIY" start="0" end="7" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>To determine pivot chords and the new key, listen to the music to hear the cadence in the new key, then work backward from the cadence to see if the dominant in the new key was approached by pre-dominant chords (<chord root="ii"/> or <chord root="IV"/>) in the new key. Then, analyze from the beginning of the phrase until you reach the new key. Finally, look for a logical pivot point. Sometimes two successive chords could logically be pivot chords. If so, include two chords on either side of your pivot bracket.</p>
         <figure>
             <caption>Robert Schumann, Album for the Young, Op. 68, No. 17, <q>Little Morning Wanderer</q> (1848)</caption>
             <idx><h>Schumann, Robert</h><h>Album for the Young, Op. 68, No. 17, <q>Little Morning Wanderer</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit5/mod-ton-vs-mod-little-wanderer">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="Qy8NLd7d6VE" start="0" end="9" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit5/mod-ton-vs-mod-little-wanderer">
+                <description/>
+            </image>
+            <video youtube="Qy8NLd7d6VE" start="0" end="9" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Before we start analyzing and writing modulations, we will examine key relationships and pivot chords.</p>
     </section>
@@ -137,11 +104,9 @@
         <p><q><term>Closely related</term></q> keys<idx><h>closely related keys</h><h>definition of</h></idx> have key signatures one degree <q>sharper</q> or <q>flatter</q> than the starting key. For any major or minor key, there are five closely related keys, including the relative major or minor of the home key.</p>
         <figure>
             <caption>Closely Related Keys with A Major as Home Key</caption>
-                <sidebyside margins="20%">
-                    <image source="images/unit5/mod-closely-related-keysB">
-                        <description/>
-                    </image>
-                </sidebyside>
+            <image source="images/unit5/mod-closely-related-keysB" width="60%">
+                <description/>
+            </image>
         </figure>
         <p>Key signatures that are not closely related are said to be <q><term>foreign</term></q><idx><h>foreign keys</h></idx> or <q><term>distantly related</term><idx><h>distantly related keys</h></idx>.</q> We will see that some types of modulations from the Romantic era, like common-tone modulations, exploit foreign key relationships to dramatic effect.</p>
     </section>
@@ -152,16 +117,10 @@
         <figure>
             <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
             <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit5/mod-dia-cc-ermuntre">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="tVJy904MiIY" start="0" end="7" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit5/mod-dia-cc-ermuntre">
+                <description/>
+            </image>
+            <video youtube="tVJy904MiIY" start="0" end="7" play-at="select" preview="generic" width="25%"/>
         </figure>
     </introduction>
         <subsection xml:id="DeterminingDiatonicCommonChords">
@@ -169,20 +128,16 @@
             <p>In order to compose a diatonic common chord modulation, you need to determine which chords are diatonic<mdash/>having the same root <em>and quality</em><mdash/>in both keys.</p>
             <figure>
                 <caption>Diatonic Common Chords in G major and D major</caption>
-                <sidebyside margins="8%">
-                    <image source="images/unit5/mod-determining-cc-w-lead-sheet">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit5/mod-determining-cc-w-lead-sheet" width="84%">
+                    <description/>
+                </image>
             </figure>
             <p>We can repeat this process with Roman numerals, aligning the roots of the chords in the two keys.</p>
             <figure>
                 <caption>Roman Numerals for Diatonic Common Chords in G major and D major</caption>
-                <sidebyside margins="8%">
-                    <image source="images/unit5/mod-determining-cc-w-RN">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit5/mod-determining-cc-w-RN" width="84%">
+                    <description/>
+                </image>
             </figure>
             <p>If you are a composer wanting to write a diatonic common chord modulation, you need to determine the best place within a progression to pivot to the new key. To do this, you need to consider the harmonic function of the pivot chords.</p>
         </subsection>
@@ -193,46 +148,28 @@
             <figure>
                 <caption>J.S. Bach, <pubtitle>Christmas Oratorio</pubtitle>, BWV 248, <q>Ermuntre dich, mein schwacher Geist,</q> (Chorale) (1734)</caption>
                 <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-harm-func-of-pivots-ermuntre">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="tVJy904MiIY" start="0" end="7" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-harm-func-of-pivots-ermuntre">
+                    <description/>
+                </image>
+                <video youtube="tVJy904MiIY" start="0" end="7" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>The pivot chord in the first key, G, has tonic harmonic function, while in the second key, D major, the G chord has pre-dominant function.</p>
             <p>Observe the harmonic function of the pivot chords in the following examples from Bach chorales.</p>
             <figure> 
                 <caption>J.S. Bach, Chorale 4, <q>Es ist das Heil uns kommen her</q>, BWV 9</caption>
                 <idx><h>Bach, J.S.</h><h>Chorale 4, <q>Es ist das Heil uns kommen her</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-harm-func-of-pivots-es-ist-das-heil">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="gl4FNanCrbc" start="0" end="9" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-harm-func-of-pivots-es-ist-das-heil">
+                    <description/>
+                </image>
+                <video youtube="gl4FNanCrbc" start="0" end="9" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>J.S. Bach, Chorale 8, <q>Freuet euch, ihr Christen</q>, BWV 40</caption>
                 <idx><h>Bach, J.S.</h><h>Chorale 8, <q>Freuet euch, ihr Christen</q>, BWV 40</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-harm-func-of-pivots-freuet-euch">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="NE-uciPxYFE" start="0" end="12" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-harm-func-of-pivots-freuet-euch">
+                    <description/>
+                </image>
+                <video youtube="NE-uciPxYFE" start="0" end="12" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
     </section>
@@ -254,16 +191,10 @@
         <figure>
             <caption>J.S. Bach, English Suite No. 4 in F Major, BWV 809, Sarabande (ca. 1715)</caption>
             <idx><h>Bach, J.S.</h><h>English Suite No. 4 in F Major, BWV 809, Sarabande</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit5/mod-identifying-new-key">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="9WQbN91tpWI" start="0" end="39" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit5/mod-identifying-new-key">
+                <description/>
+            </image>
+            <video youtube="9WQbN91tpWI" start="0" end="39" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="ModulationsWithChromaticPivotChords">
@@ -275,16 +206,10 @@
             <figure>
                 <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Abschied</q> (1828)</caption>
                 <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Abschied</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-sec-cc-abschied">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="Wod-JellQ88" start="40" end="53" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-sec-cc-abschied">
+                    <description/>
+                </image>
+                <video youtube="Wod-JellQ88" start="40" end="53" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection>
@@ -294,16 +219,10 @@
             <figure>
                 <caption>Beethoven, Piano Sonata No. 31 in A<flat/> major, Op.110, I, (1821)</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata Op. 110, I</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-borrowed-cc-op-110">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="H3S8slvoHoU" start="204" end="227" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-borrowed-cc-op-110">
+                    <description/>
+                </image>
+                <video youtube="H3S8slvoHoU" start="204" end="227" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection>
@@ -312,16 +231,10 @@
             <figure>
                 <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Fr&#x00FC;hlingssehnsucht</q> (1828)</caption>
                 <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Fr&#x00FC;hlingssehnsucht</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-N6-cc-fruhlingssehnsucht">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="IvjZiYVZUIY" start="35" end="43" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-N6-cc-fruhlingssehnsucht">
+                    <description/>
+                </image>
+                <video youtube="IvjZiYVZUIY" start="35" end="43" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>In the example above, Schubert bridges the tonal distance between D minor and A<flat/> minor with  <chord root="N" bps="6 5"/> (note the dominant-seventh quality of the Neapolitan in this instance), which acts as a <chord root="V" bps="6 5"/> in A<flat/> minor, a tritone away from D minor.</p>
         </subsection>
@@ -346,51 +259,31 @@
             <figure>
                 <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Liebesbotschaft</q> (1828)</caption>
                 <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Liebesbotschaft</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-direct-schwanegesang-no-2-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/mod-direct-schwanegesang-no-2-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="uTWQRjGkprQ" start="33" end="45" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-direct-schwanegesang-no-2-A">
+                    <description/>
+                </image>
+                <image source="images/unit5/mod-direct-schwanegesang-no-2-B">
+                    <description/>
+                </image>
+                <video youtube="uTWQRjGkprQ" start="33" end="45" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>In the example below from the second song of the same song cycle as the example above, Schubert does not attempt to change gradually from C minor to A<flat/> major, but instead stops on a half cadence in C minor and begins on the tonic in A<flat/> major in the next bar.</p>
             <figure>
                 <caption>Schubert, <pubtitle>Schwanegesang</pubtitle>, D. 957, <q>Kriegers Ahnung</q> (1828)</caption>
                 <idx><h>Schubert</h><h><pubtitle>Schwanegesang</pubtitle>, D. 957</h><h><q>Kriegers Ahnung</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-direct-schwanegesang-no-2b">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="mLTyrvgKDUo" start="108" end="130" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-direct-schwanegesang-no-2b">
+                    <description/>
+                </image>
+                <video youtube="mLTyrvgKDUo" start="108" end="130" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>Direct modulation is the most common type of <q>modulation</q> found in popular music. At the beginning of this chapter we defined this type of modulation in popular music as <q>key change.</q></p>
             <figure>
                 <caption>James Horner and Will Jennings, <q>My Heart Will Go On</q> (1997)</caption>
                 <idx><h>songs (popular)</h><h><q>My Heart Will Go On</q> (from <pubtitle>Titanic</pubtitle>)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-direct-titanic">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="Siz-xBfIqpg" start="193" end="208" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-direct-titanic">
+                    <description/>
+                </image>
+                <video youtube="Siz-xBfIqpg" start="193" end="208" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>With direct modulation, composers do not make any attempt to connect two different keys through any pivot chords or common tones. In the next section, we examine how composers connect two keys through a common tone.</p>
         </subsection>
@@ -401,125 +294,79 @@
             <figure>
                 <caption>Beethoven, Symphony No. 2 in D major, Op. 36, I. (1801<ndash/>1802)</caption>
                 <idx><h>Beethoven</h><h>Symphony No. 2, Op. 36, I.</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-CT-beeth-2-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/mod-CT-beeth-2-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/mod-CT-beeth-2-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="bEiYmeeV6sI" start="404" end="419" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-CT-beeth-2-A">
+                    <description/>
+                </image>
+                <image source="images/unit5/mod-CT-beeth-2-B">
+                    <description/>
+                </image>
+                <image source="images/unit5/mod-CT-beeth-2-C">
+                    <description/>
+                </image>
+                <video youtube="bEiYmeeV6sI" start="404" end="419" play-at="select" preview="generic" width="25%"/>
             </figure>
             <conclusion><p>In the next example, the note A acts as a hinge between an A major chord (<chord root="V"/> in D minor) and an F major chord (<chord root="I"/> in F major).</p></conclusion>
             <figure xml:id="D898">
                 <caption>Schubert, Piano Trio No. 1 in B-flat major, D. 898, I. (1828)</caption>
                 <idx><h>Schubert</h><h>Piano Trio No. 1 in B-flat major, D. 898, I.</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-CT-schubert-898-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/mod-CT-schubert-898-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="qSRRbOvpaXg" start="107" end="126" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-CT-schubert-898-A">
+                    <description/>
+                </image>
+                <image source="images/unit5/mod-CT-schubert-898-B">
+                    <description/>
+                </image>
+                <video youtube="qSRRbOvpaXg" start="107" end="126" play-at="select" preview="generic" width="25%"/>
             </figure>
             <subsubsection xml:id="ChromaticMediants">
                 <title>Chromatic Mediants</title>
                 <introduction><p>In a common-tone modulation, the two chords connecting the two keys are typically in a chromatic mediant relationship. <term>Chromatic mediants</term><idx><h>chromatic mediants</h></idx> are chords with roots a third apart that share only one common tone and have the same quality (both are major or both are minor).</p></introduction>
                 <figure>
                     <caption>Chromatic mediant relationship in <xref ref="D898" text="type-global"/></caption>
-                    <sidebyside margins="15%">
-                        <image source="images/unit5/mod-CT-chrom-med-from-898">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit5/mod-CT-chrom-med-from-898" width="70%">
+                        <description/>
+                    </image>
                 </figure>
                 <p>Any major or minor triad will have four chromatic mediants, as shown in the example below.</p>
                 <figure xml:id="chromatic-mediants">
                     <caption>Chromatic mediants of the C major and C minor triads</caption>
-                    <sidebyside>
-                        <image source="images/unit5/mod-CT-chrom-med-all-mediants-of-c">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit5/mod-CT-chrom-med-all-mediants-of-c">
+                        <description/>
+                    </image>
                 </figure>
                 <p>Below are examples chromatic mediants that do not involve modulation. In fact, the progression in the following three examples are found in the last bar of <xref ref="chromatic-mediants" text="type-global"/>, the progression from <chord root="i"/> to <flat/><chord root="vi"/> (shown as Cm to A<flat/>m in the example above).</p>
                 <figure>
                     <caption>Richard Wagner, <pubtitle>Das Rheingold</pubtitle>, Scene 3 (1854)</caption>
                     <idx><h>Wagner, Richard</h><h><pubtitle>Das Rheingold</pubtitle>, Scene 3</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit5/mod-CT-chrom-med-tarnhelm">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="meGuEnjERxc" start="4276" end="4289" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit5/mod-CT-chrom-med-tarnhelm">
+                        <description/>
+                    </image>
+                    <video youtube="meGuEnjERxc" start="4276" end="4289" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 <figure>
                     <caption>John Williams, <pubtitle>Star Wars: Return of the Jedi</pubtitle>, <q>Main Title (The Story Continues)</q> (1983)</caption>
                     <idx><h>Williams, John</h><h><pubtitle>Star Wars: Return of the Jedi</pubtitle>, <q>Main Title (The Story Continues)</q></h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit5/mod-CT-chrom-med-vader">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="AL2N4Bfl4Ec" start="236" end="244" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit5/mod-CT-chrom-med-vader">
+                        <description/>
+                    </image>
+                    <video youtube="AL2N4Bfl4Ec" start="236" end="244" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 <!--
                 <figure>
                     <caption>John Williams, <pubtitle>Harry Potter and the Sorceror's Stone</pubtitle>, <q>The Face of Voldemort</q> (2001)</caption>
                     <idx><h>Williams, John</h><h><pubtitle>Harry Potter and the Sorceror's Stone</pubtitle>, <q>The Face of Voldemort</q></h></idx>
-                    <sbsgroup>
-                        <sidebyside>
                             <image source="images/unit5/mod-CT-chrom-med-voldemort">
                                 <description/>
                             </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="ydlzNv40yZM" start="238" end="245" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                            <video youtube="ydlzNv40yZM" start="238" end="245" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 -->
                 <figure>
                     <caption>John Williams, <pubtitle>The Phantom Menace</pubtitle>, <q>Duel of the Fates</q> (1999)</caption>
                     <idx><h>Williams, John</h><h><pubtitle>The Phantom Menace</pubtitle>, <q>Duel of the Fates</q></h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit5/mod-CT-chrom-med-duel-of-fates">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="ZTg6hg1miFg" start="81" end="89" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit5/mod-CT-chrom-med-duel-of-fates">
+                        <description/>
+                    </image>
+                    <video youtube="D_2bluVPsb0" start="81" end="89" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 <!--add walking dead gMs7gzFzoLU or https://youtu.be/gMs7gzFzoLU at 4:22 to 4:36-->
             </subsubsection>
@@ -530,61 +377,37 @@
             <figure>
                 <caption>Beethoven, Piano Sonata Op. 2, No. 1, III. (1795)</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata Op. 2, No. 1, III.</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-sequential-beethoven-op2-no1">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="M9SzCHQCNGY" start="0" end="8" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-sequential-beethoven-op2-no1">
+                    <description/>
+                </image>
+                <video youtube="M9SzCHQCNGY" start="0" end="8" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>In the following example, an idea in C major is repeated up a step in D major, then up another step in E minor before reaching an F<sharp/><chord mode="diminished"/> chord, a chord with dominant function in G major.</p>
             <figure>
                 <caption>Mozart, Oboe Concerto in C major, K. 314, III. (1777)</caption>
                 <idx><h>Mozart, W.A.</h><h>Oboe Concerto in C major, K. 314, III.</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-seq-K314-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/mod-seq-K314-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/mod-seq-K314-C">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="jD9_dShQbN8" start="81" end="92" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-seq-K314-A">
+                    <description/>
+                </image>
+                <image source="images/unit5/mod-seq-K314-B">
+                    <description/>
+                </image>
+                <image source="images/unit5/mod-seq-K314-C">
+                    <description/>
+                </image>
+                <video youtube="jD9_dShQbN8" start="81" end="92" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>In the next example, after a cadence in G minor, an idea in F minor is repeated down a whole step in E<flat/> minor to achieve the change of key to E<flat/> major, which is the starting key of this aria, as can be seen in the key signature.</p>
             <figure>
                 <caption>Mozart, <pubtitle>Don Giovanni</pubtitle>, K. 527, <q>Mi tradi quell'alma ingrata</q> (1787)</caption>
                 <idx><h>Mozart, W.A.</h><h><pubtitle>Don Giovanni</pubtitle>, K. 527, <q>Mi tradi quell'alma ingrata</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit5/mod-seq-mi-tradi-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/mod-seq-mi-tradi-B">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="VEmnmVXEqqM" start="274" end="285" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit5/mod-seq-mi-tradi-A">
+                    <description/>
+                </image>
+                <image source="images/unit5/mod-seq-mi-tradi-B">
+                    <description/>
+                </image>
+                <video youtube="VEmnmVXEqqM" start="274" end="285" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>While this is by no means an exhaustive list of modulatory techniques, it should give you a sense of some of the different means composers use to change keys.</p>
         </subsection>
@@ -615,26 +438,54 @@
             <exercise>
                 <statement>
                     <p>For each progression, analyze the Roman numerals with lead-sheet symbols and specify the second key.</p>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-find-pivot-key1"/>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-find-pivot-key2"/>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-find-pivot-key1"/>
+                    <image source="images/unit5/PRAC-EXER-find-pivot-key2"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-find-pivot-key1-KEY">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-find-pivot-key2-KEY">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-find-pivot-key1-KEY">
+                        <description/>
+                    </image>
+                    <image source="images/unit5/PRAC-EXER-find-pivot-key2-KEY">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
+
+
+            <exercise>
+                <statement>
+                    <p>
+                        For this excerpt from Beethoven's "Maigesang," do the following:</p>
+                        <ul>
+                            <li><p>Analyze the harmonies with Roman numerals below and lead-sheet symbols above</p></li>
+                            <li><p>Determine where the pivot chords occur and use a pivot bracket to show the Roman numerals in both keys (specify both keys)</p></li>
+                            <li><p>Label cadences</p></li>
+                            <li><p>Name the form of the excerpt</p></li>
+                        </ul>
+                        <image source="images/unit5/PRAC-EXER-mod-beethoven-mai-liedA">
+                            <description/>
+                        </image>
+                        <image source="images/unit5/PRAC-EXER-mod-beethoven-mai-liedB">
+                            <description/>
+                        </image>
+                        <figure>
+                            <caption>Beethoven, Eight Songs, Op. 52, No. 4, "Maigesang" (1805)</caption>
+                            <idx><h>Beethoven</h><h>8 Lieder Op. 52, No. 4 "Maigesang"</h></idx>
+                            <video youtube="7j4Y4Y0K5_Q" start="13" end="21" play-at="select" preview="generic" width="25%"/>
+                        </figure>    
+                    </statement>
+                    <answer>
+                        <image source="images/unit5/PRAC-EXER-mod-beethoven-mai-liedA-ANSWER">
+                            <description/>
+                        </image>
+                        <image source="images/unit5/PRAC-EXER-mod-beethoven-mai-liedB-ANSWER">
+                            <description/>
+                        </image>
+                    </answer>
+                </exercise>
+
+
+
         </exercisegroup>
         <exercisegroup>
             <introduction>
@@ -643,33 +494,25 @@
             <exercise>
                 <statement>
                     <p>Borrowed Chord Modulation. List the closely related keys to the starting major key, then specify the parallel minor key and its closely related keys.</p>
-                    <sidebyside margins="10%">
-                        <image source="images/unit5/PRAC-EXER-mod-par-minor-closely-related-keys">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-mod-par-minor-closely-related-keys" width="80%">
+                        <description/>
+                    </image>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-mod-par-minor-closely-related-keys-KEY">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-mod-par-minor-closely-related-keys-KEY" width="80%">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
             <exercise>
                 <statement>
                     <p>For each progression, analyze the Roman numerals with lead-sheet symbols and specify the second key.</p>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-mod-progs-w-chrom-pivots"/>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-mod-progs-w-chrom-pivots"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-mod-progs-w-chrom-pivots-KEY">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-mod-progs-w-chrom-pivots-KEY">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
         </exercisegroup>
@@ -680,31 +523,23 @@
             <exercise>
                 <statement>
                     <p>Determining Diatonic Common Chords. For each of the two keys in each example, list the diatonic chords as lead-sheet symbols and as Roman numerals then circle those diatonic to both keys</p>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-mod-finding-dia-common-chords"/>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-mod-finding-dia-common-chords"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-mod-finding-dia-common-chords-KEY">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-mod-finding-dia-common-chords-KEY">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
             <exercise>
                 <statement>
                     <p>Referring to the <xref ref="HarmonicFlowchart" text="custom">Harmonic Flowchart</xref>, fill in lead-sheet symbols, Roman numerals, and <xref ref="HarmonicFunction" text="custom">Harmonic Functions</xref> for the following example<mdash/>be sure to put some of the chords in first inversion for variety; create a melody by adding embellishments (<xref ref="NonChordTonesIntroduction" text="custom">non-chord tones</xref>) and try to create repeating <xref ref="MotiveSection" text="custom">motives</xref> and/or <xref ref="subphrase" text="custom">subphrases</xref>; LSS stands for lead-sheet symbols, RN stands for Roman numerals, and HF stands for Harmonic Function</p>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-mod-compose-mod-e-to-b-v2"/>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-mod-compose-mod-e-to-b-v2"/>
                 </statement>
                 <answer>
-                    <sidebyside>
-                        <image source="images/unit5/PRAC-EXER-mod-compose-mod-e-to-b-v2-KEY">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit5/PRAC-EXER-mod-compose-mod-e-to-b-v2-KEY">
+                        <description/>
+                    </image>
                 </answer>
             </exercise>
         </exercisegroup>
@@ -738,7 +573,7 @@
             </introduction>
             <exercise>
                 <statement>
-                    <p>Analyze lead-sheet symbols, motives (with numbers, noting melodic alteration when it occurs), Roman numerals, and harmonic function.</p>
+                    <p>Analyze with lead-sheet symbols, motives (with numbers, noting melodic alteration when it occurs), Roman numerals, and harmonic function.</p>
                     <figure>
                         <caption/>
                         <image source="images/unit5/HW-mod-compose-based-on-GKB"/>
@@ -746,12 +581,8 @@
                         <audio source="images/unit5/PRAC-EXER-gkb-example-audio.mp3" width="80%"/>
                     </figure>
                     <p>Compose an eight-measure example using the motivic structure and harmonic function in the example above. Create a new melody with new motives but the same sequence of motives. You may use a different time signature, mode, and accompanimental texture.</p>
-                    <sidebyside>
-                        <image source="images/unit5/HW-mod-compose-based-on-GKB-blank1"/>
-                    </sidebyside>
-                    <sidebyside>
-                        <image source="images/unit5/HW-mod-compose-based-on-GKB-blank2"/>
-                    </sidebyside>
+                    <image source="images/unit5/HW-mod-compose-based-on-GKB-blank1"/>
+                    <image source="images/unit5/HW-mod-compose-based-on-GKB-blank2"/>
                 </statement>
             </exercise>
         </exercisegroup>

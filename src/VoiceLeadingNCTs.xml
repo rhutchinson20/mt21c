@@ -7,30 +7,18 @@
         <figure>
             <caption>J.S. Bach, Chorale 323, <q>Wie sch&#x00F6;n leuchtet der Morgenstern</q>, BWV 172</caption>
             <idx><h>Bach, J.S.</h><h>Chorale 323, <q>Wie sch&#x00F6;n leuchtet der Morgenstern</q>, BWV 172</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit9/vl-nct-wie-schon-leuchtet">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="9m0RWQbSOWA" start="5" end="13" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit9/vl-nct-wie-schon-leuchtet">
+                <description/>
+            </image>
+            <video youtube="9m0RWQbSOWA" start="5" end="13" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>J.S. Bach, Chorale 326, <q>Allein Gott in der H&#x00F6;h' sei Erh', BWV 104</q>, BWV 172</caption>
             <idx><h>Bach, J.S.</h><h>Chorale 323, <q>Allein Gott in der H&#x00F6;h' sei Erh'</q>, BWV 104</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit9/vl-nct-Allein-Gott-in-der">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="t5rs2a0Cvr4" start="5" end="14" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit9/vl-nct-Allein-Gott-in-der">
+                <description/>
+            </image>
+            <video youtube="t5rs2a0Cvr4" start="5" end="14" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="AvoidingObjectionableParallels">
@@ -38,20 +26,16 @@
         <p>When adding non-chord tones, one must avoid creating <xref ref="ObjectionableParallels" text="custom">objectionable parallels</xref>. To avoid creating parallel 5ths and 8ves when adding non-chord tones, first identify intervals of 5ths and 8ves between voices in your original voice leading.</p>
         <figure>
             <caption>Progression with 8ves and 5ths identified</caption>
-            <sidebyside>
-                <image source="images/unit9/vl-nct-parallels-before">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit9/vl-nct-parallels-before">
+                <description/>
+            </image>
         </figure>
         <p>Avoid adding non-chord tones that move by step into notes separated by a 5th or 8ve.</p>
         <figure>
             <caption>Parallel 5ths and 8ves created by non-chord tones</caption>
-            <sidebyside>
-                <image source="images/unit9/vl-nct-parallels-after">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit9/vl-nct-parallels-after">
+                <description/>
+            </image>
         </figure>
         <p>It is best to avoid adding non-chord tones in two voices on the same beat unless they are moving in parallel 3rds or 6ths.</p>
     </section>
@@ -63,11 +47,9 @@
                 <p>Repeated note: add upper or lower neighbor</p>
                 <figure>
                     <caption/>
-                    <sidebyside margins="15%">
-                        <image source="images/unit9/vl-nct-adding-nct-repeated-note">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit9/vl-nct-adding-nct-repeated-note" width="70%">
+                        <description/>
+                    </image>
                 </figure>
             </li>
             <li><p>Step down:
@@ -76,55 +58,45 @@
                         <p>Add a <xref ref="sus-all-numbers" text="custom">suspension</xref> by delaying the resolution of the note</p>
                         <figure>
                             <caption/>
-                            <sidebyside margins="15%">
-                                <image source="images/unit9/vl-nct-adding-nct-step-down-sus">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit9/vl-nct-adding-nct-step-down-sus" width="70%">
+                                <description/>
+                            </image>
                         </figure>
                     </li>
                     <li>
                         <p>Add an escape tone by moving by step in the opposite direction of the original stepwise movement, then leap</p>
                         <figure>
                             <caption/>
-                            <sidebyside margins="23%">
-                                <image source="images/unit9/vl-nct-adding-nct-step-down-esc">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit9/vl-nct-adding-nct-step-down-esc" width="50%">
+                                <description/>
+                            </image>
                         </figure>
                     </li>
                     <li>
                         <p>Add a double neighbor</p>
                         <figure>
                             <caption/>
-                            <sidebyside margins="23%">
-                                <image source="images/unit9/vl-nct-adding-nct-step-down-dn">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit9/vl-nct-adding-nct-step-down-dn" width="50%">
+                                <description/>
+                            </image>
                         </figure>
                     </li>
                     <li>
                         <p>Add a chromatic passing tone</p>
                         <figure>
                             <caption/>
-                            <sidebyside margins="23%">
-                                <image source="images/unit9/vl-nct-adding-nct-step-down-chro-p">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit9/vl-nct-adding-nct-step-down-chro-p" width="50%">
+                                <description/>
+                            </image>
                         </figure>
                     </li>
                     <li>
                         <p>Add an anticipation</p>
                         <figure>
                             <caption/>
-                            <sidebyside margins="23%">
-                                <image source="images/unit9/vl-nct-adding-nct-step-down-ant">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit9/vl-nct-adding-nct-step-down-ant" width="50%">
+                                <description/>
+                            </image>
                         </figure>
                     </li>
                 </ol></p>
@@ -136,55 +108,45 @@
                             <p>Add a chromatic passing tone</p>
                             <figure>
                                 <caption/>
-                                <sidebyside margins="23%">
-                                    <image source="images/unit9/vl-nct-adding-nct-step-up-chro-p">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
+                                <image source="images/unit9/vl-nct-adding-nct-step-up-chro-p" width="50%">
+                                    <description/>
+                                </image>
                             </figure>
                         </li>
                         <li>
                             <p>Add an anticipation</p>
                             <figure>
                                 <caption/>
-                                <sidebyside margins="23%">
-                                    <image source="images/unit9/vl-nct-adding-nct-step-up-ant">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
+                                <image source="images/unit9/vl-nct-adding-nct-step-up-ant" width="25%">
+                                    <description/>
+                                </image>
                             </figure>
                         </li>
                         <li>
                             <p>Add an appoggiatura by leaping one step beyond the note of resolution, placing the appogiatura on the beat, displacing the note of resolution to occur after the beat</p>
                             <figure>
                                 <caption/>
-                                <sidebyside margins="23%">
-                                    <image source="images/unit9/vl-nct-adding-nct-step-up-app">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
+                                <image source="images/unit9/vl-nct-adding-nct-step-up-app" width="50%">
+                                    <description/>
+                                </image>
                             </figure>
                         </li>
                         <li>
                             <p>Add a double neighbor</p>
                             <figure>
                                 <caption/>
-                                <sidebyside margins="23%">
-                                    <image source="images/unit9/vl-nct-adding-nct-step-up-dn">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
+                                <image source="images/unit9/vl-nct-adding-nct-step-up-dn" width="50%">
+                                    <description/>
+                                </image>
                             </figure>
                         </li>
                         <li>
                             <p>Add retardation by delaying resolution of the note (rarely used)</p>
                             <figure>
                                 <caption/>
-                                <sidebyside margins="23%">
-                                    <image source="images/unit9/vl-nct-adding-nct-step-up-ret">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
+                                <image source="images/unit9/vl-nct-adding-nct-step-up-ret" width="50%">
+                                    <description/>
+                                </image>
                             </figure>
                         </li>
                     </ol>
@@ -197,22 +159,18 @@
                             <p>Fill in the 3rd with a passing tone</p>
                             <figure>
                                 <caption/>
-                                <sidebyside margins="23%">
-                                    <image source="images/unit9/vl-nct-adding-nct-3rd-down-p">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
+                                <image source="images/unit9/vl-nct-adding-nct-3rd-down-p" width="50%">
+                                    <description/>
+                                </image>
                             </figure>
                         </li>
                         <li>
                             <p>Add an appoggiatura by leaping one step beyond the note of resolution, placing the appogiatura on the beat, displacing the note of resolution to occur after the beat</p>
                             <figure>
                                 <caption/>
-                                <sidebyside margins="23%">
-                                    <image source="images/unit9/vl-nct-adding-nct-3rd-up-app">
-                                        <description/>
-                                    </image>
-                                </sidebyside>
+                                <image source="images/unit9/vl-nct-adding-nct-3rd-up-app" width="50%">
+                                    <description/>
+                                </image>
                             </figure>
                         </li>
                     </ol>
@@ -223,13 +181,9 @@
             </li>
         </ol>
         <p>Here is a basic framework with all possibilities labeled.</p>
-        <sidebyside>
-            <image source="images/unit2/NCT-writing-bare-version"/>
-        </sidebyside>
+        <image source="images/unit2/NCT-writing-bare-version"/>
         <p>Here is one possible solution:</p>
-        <sidebyside>
-            <image source="images/unit2/NCT-writing-embellishing-version"/>
-        </sidebyside>
+        <image source="images/unit2/NCT-writing-embellishing-version"/>
         <p>Notice that, when non-chord tones are added to different voices on the same beat, consonant intervals (3rds, 5ths, 6ths, or 8ves) are made. If consonant intervals can't be made, the voices are staggered rhythmically (as occurs on beats 3 and 4 in measure one of the example above).</p>
     </section>
     <exercises xml:id="VoiceLeadingNCTsPracticeExercises">
@@ -237,57 +191,43 @@
         <exercise>
             <statement>
                 <p>Analyze the chords with Roman numerals in the blanks below the staff, then add the specified non-chord tones, specifying suspensions with the appropriate interval numbers.</p>
-                <sidebyside>
-                    <image source="images/unit9/PRAC-EXER-vl-adding-ncts">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <image source="images/unit9/PRAC-EXER-vl-adding-ncts-BLANK">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit9/PRAC-EXER-vl-adding-ncts">
+                    <description/>
+                </image>
+                <image source="images/unit9/PRAC-EXER-vl-adding-ncts-BLANK">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit9/PRAC-EXER-vl-adding-ncts-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit9/PRAC-EXER-vl-adding-ncts-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Analyze the figured bass below to write Roman numerals in the blanks below the staff. Then add the following non-chord tones: (1) 3 suspensions, (2) one passing tone, (3) one neighbor tone, and (4) one anticipation.</p>
-                <sidebyside>
-                    <image source="images/unit9/PRAC-EXER-vl-fig-bass-add-ncts">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit9/PRAC-EXER-vl-fig-bass-add-ncts">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit9/PRAC-EXER-vl-fig-bass-add-ncts-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit9/PRAC-EXER-vl-fig-bass-add-ncts-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Voice lead the following Roman numeral progression then add the following non-chord tones: (1) a neighbor tone during beat one, (2) a neighbor tone during beat two, (3) an appoggiatura on beat 3, (4) a suspension on beat four, (5) a suspension on beat 5, (6) an anticipation during beat six, and (7) a suspension on beat 7.</p>
-                <sidebyside>
-                    <image source="images/unit9/PRAC-EXER-vl-rom-num-add-ncts">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit9/PRAC-EXER-vl-rom-num-add-ncts">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit9/PRAC-EXER-vl-rom-num-add-ncts-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit9/PRAC-EXER-vl-rom-num-add-ncts-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <conclusion>

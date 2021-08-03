@@ -9,16 +9,10 @@
         <figure>
             <caption>Beethoven, Symphony No. 7, Op. 92, I (1812)</caption>
             <idx><h>Beethoven</h><h>Symphony No. 7, Op. 92, I</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/neapolitan-beeth-7">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="-4788Tmz9Zo" start="747" end="764" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/neapolitan-beeth-7">
+                <description/>
+            </image>
+            <video youtube="-4788Tmz9Zo" start="747" end="764" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="ExamplesOfTheNeapolitanChord">
@@ -26,62 +20,38 @@
         <figure>
             <caption>Beethoven, <pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, I (1802)</caption>
             <idx><h>Beethoven</h><h><pubtitle>Moonlight Sonata</pubtitle>, Op. 27, No. 2, I</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/neapolitan-moonlight">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="bT6WmWVYPhI" start="22" end="48" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/neapolitan-moonlight">
+                <description/>
+            </image>
+            <video youtube="bT6WmWVYPhI" start="22" end="48" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>For comparison, play the example above from the <pubtitle>Moonlight Sonata</pubtitle> and try other pre<ndash/>dominant chords in its place, like <chord root="iv"/> (<chord root="F sharp" mode="m"/>)  or <chord root="ii" mode="diminished" bps="6"/>  (<chord root="D sharp" mode="diminished" bass="F sharp"/>), while noting the difference in effect.</p>
         <p>The next example is a well-known movie theme.</p>
         <figure>
             <caption>John Williams, <pubtitle>Raiders of the Lost Ark</pubtitle>, <q>Raiders March</q> (1981)</caption>
             <idx><h>Williams, John</h><h><pubtitle>Raiders of the Lost Ark</pubtitle>, <q>Raiders March</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/neapolitan-indiana-jones">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="ML-RqsAG09o" start="16" end="26" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/neapolitan-indiana-jones">
+                <description/>
+            </image>
+            <video youtube="ML-RqsAG09o" start="16" end="26" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>As with the example from the <pubtitle>Moonlight Sonata</pubtitle>, try other pre<ndash/>dominant chords (like <chord root="IV"/>, <chord root="iv"/>, or <chord root="ii" mode="halfdiminished" bps="6 5"/>) in place of the Neapolitan chord in the example above, and notice the difference in effect.</p>
         <p>The next example shows the harmonic progression from main theme of the recent <pubtitle>Star Trek</pubtitle> movies.</p>
         <figure>
             <caption>Michael Giacchino, <pubtitle>Star Trek</pubtitle>, <q>End Credits</q> (2009) (chords only)</caption>
             <idx><h>Giacchino, Michael</h><h><pubtitle>Star Trek</pubtitle>, <q>End Credits</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/neapolitan-star-trek">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="EO1FZEUbZJE" start="38" end="62" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/neapolitan-star-trek">
+                <description/>
+            </image>
+            <video youtube="EO1FZEUbZJE" start="38" end="62" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Hans Zimmer and Antonius Tom Holkenborg, <pubtitle>Batman v Superman: Dawn of Justice</pubtitle>, <q>The Red Capes are Coming</q> (2016) (chords only)</caption>
             <idx><h>Zimmer, Hans and Antonius Tom Holkenborg</h><h><pubtitle>Batman v Superman: Dawn of Justice</pubtitle>, <q>The Red Capes are Coming</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/neapolitan-lex-luthor">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="rD5wQROo_bs" start="87" end="105" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/neapolitan-lex-luthor">
+                <description/>
+            </image>
+            <video youtube="rD5wQROo_bs" start="87" end="105" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <exercises xml:id="NeapolitanPracticeExercises">
@@ -89,31 +59,23 @@
         <exercise>
             <statement>
                 <p>Analyze the following chords with lead<ndash/>sheet symbols above and Roman numerals with figured bass inversion symbols below. Remember to use <q><chord root="N"/></q> instead of <flat/><chord root="II"/>.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-neapolitan-analyzing"/>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-neapolitan-analyzing"/>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-neapolitan-analyzing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-neapolitan-analyzing-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Given the Roman numeral, please write the notes of the chord and lead<ndash/>sheet symbol. Include key signatures.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-neapolitan-writing"/>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-neapolitan-writing"/>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-neapolitan-writing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-neapolitan-writing-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <conclusion>

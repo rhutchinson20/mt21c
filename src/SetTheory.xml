@@ -10,59 +10,53 @@
             <title>Atonal Music</title>
             <p>Listen to the following example by Anton Webern.</p>
             <figure>
-                <sidebyside><!--no margins on this one-->
-                    <video xml:id="webern-atonal1" youtube="ELAKF8ZxDmg" start="334" end="342" play-at="select"/>
-                </sidebyside>
+                <video xml:id="webern-atonal1" youtube="ELAKF8ZxDmg" start="334" end="342" play-at="select"/>
                 <idx>
                     <h>Webern, Anton</h><h>5 movements for string quartet</h><h>No. 3. <foreign>Sehr bewegt</foreign></h>
                 </idx>
                 <caption>Webern, 5 movements for string quartet, No. 3. <foreign>Sehr bewegt</foreign></caption>
             </figure>
             <p>Gone are the triadic structures we have studied throughout this text. In this music, intervals are paramount. Let us examine the intervals we find.</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-ex-1">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-webern-op5no3-ex-1">
+                <description/>
+            </image>
             <p>Look at the intervallic structure of the first two chords,<fn>Some authors call atonal chords <q>sonorities</q> to differentiate them from chords in the traditional triadic sense; we will continue to use <q>chord</q> in this text.</fn> not including the C<sharp/> in the cello part. We see the interval of an augmented 5th below the interval of a minor 3rd in the first chord, and the interval of a minor sixth below the interval of a minor 3rd in the second chord. Notice that the names we use for intervals carry tonal implications. An augmented 5th would function differently than a minor 6th, but in atonal music, these intervals have the same sound, are separated by the same number of half steps, and have no tonal implications (they don’t have to resolve any particular way). Therefore, analysts like Allen Forte used integers to represent pitches and intervals to remove the tonal implications of staff notation.</p>
         </subsection>
         <subsection xml:id="IntegerNotationForPitches">
             <title>Integer Notation for Pitches</title>
             <p>One notable trait of set theory is that we will represent pitches with integers, as seen in the table below.</p>
-            <sidebyside>
-                <tabular halign="center">
-                    <row>
-                        <cell>Note name:</cell>
-                        <cell>C</cell>
-                        <cell>C<sharp/>/D<flat/></cell>
-                        <cell>D</cell>
-                        <cell>D<sharp/>/E<flat/></cell>
-                        <cell>E</cell>
-                        <cell>F</cell>
-                        <cell>F<sharp/>/G<flat/></cell>
-                        <cell>G</cell>
-                        <cell>G<sharp/>/A<flat/></cell>
-                        <cell>A</cell>
-                        <cell>A<sharp/>/B<flat/></cell>
-                        <cell>B</cell>
-                    </row>
-                    <row>
-                        <cell>Integer:</cell>
-                        <cell>0</cell>
-                        <cell>1</cell>
-                        <cell>2</cell>
-                        <cell>3</cell>
-                        <cell>4</cell>
-                        <cell>5</cell>
-                        <cell>6</cell>
-                        <cell>7</cell>
-                        <cell>8</cell>
-                        <cell>9</cell>
-                        <cell>10</cell>
-                        <cell>11</cell>
-                    </row>
-                </tabular>
-            </sidebyside>
+            <tabular halign="center">
+                <row>
+                    <cell>Note name:</cell>
+                    <cell>C</cell>
+                    <cell>C<sharp/>/D<flat/></cell>
+                    <cell>D</cell>
+                    <cell>D<sharp/>/E<flat/></cell>
+                    <cell>E</cell>
+                    <cell>F</cell>
+                    <cell>F<sharp/>/G<flat/></cell>
+                    <cell>G</cell>
+                    <cell>G<sharp/>/A<flat/></cell>
+                    <cell>A</cell>
+                    <cell>A<sharp/>/B<flat/></cell>
+                    <cell>B</cell>
+                </row>
+                <row>
+                    <cell>Integer:</cell>
+                    <cell>0</cell>
+                    <cell>1</cell>
+                    <cell>2</cell>
+                    <cell>3</cell>
+                    <cell>4</cell>
+                    <cell>5</cell>
+                    <cell>6</cell>
+                    <cell>7</cell>
+                    <cell>8</cell>
+                    <cell>9</cell>
+                    <cell>10</cell>
+                    <cell>11</cell>
+                </row>
+            </tabular>
             <p>It may be helpful to remember that the C major triad (C, E, and G) consists of integers 0, 4, and 7.</p>
             <p>Integer notation of pitches means we assume <term>enharmonic equivalence</term><idx><h>enharmonic equivalence</h></idx> of notes. For example, D, C<doublesharp/>, and E<doubleflat/> are all represented as pitch integer 2. We also assume <term>octave equivalence</term><idx><h>octave equivalence</h></idx>, which itself presumes the notion of <term>pitch class</term><idx><h>pitch class</h></idx>. When we say Beethoven’s first symphony is in C, we refer not to any specific C (<n pc="C" octave="1"/>, <n pc="C" octave="2"/>, <n pc="C" octave="3"/>, etc.), but to the concept of the pitch class C, which includes any and all Cs. Therefore, you would label the note C as pitch class 0, no matter the register in which it occurs.</p>
         </subsection>
@@ -124,18 +118,14 @@
         <subsection xml:id="PitchClassSets">
             <title>Pitch-Class Sets</title>
             <p>In atonal music we will analyze sets of pitch classes, hence the term <q>pitch-class set analysis.</q> Let us return to the example by Webern, this time with integers for pitches and for intervals.</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-ex-2">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-webern-op5no3-ex-2">
+                <description/>
+            </image>
             <p>The first chord consists of E<flat/>, B, and D, or pitch integers 3, 11, and 2. If we examine the intervallic distance, we find 8 semitones between pitch integers 3 and 11, and 3 semitones between 11 and 2. Note that we are working in a modulo 12 system, meaning we restart our numbering after 11 (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0, 1, 2, 3, etc.). We are used to modulo 12 thinking since we all deal with clocks. If a meeting ran from 11am to 2pm, it lasted 3 hours. Therefore, an interval from pitch integer 11 to pitch integer 2 spans 3 semitones. The second chord has the same intervallic construction.</p>
             <p>Now, let's look at the two chords in the second half of the third measure.</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-ex-3">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-webern-op5no3-ex-3">
+                <description/>
+            </image>
             <p>We see right away that the second of these chords has the same construction as the two chords we examined the in earlier examples (a minor 6th below a minor 3rd). However, the first chord in this example (G<sharp/>, C, A, or 8, 0, 9) appears to be different, with a diminished 4th from G<sharp/> to C (an interval spanning 4 semitones, enharmonically equivalent to a major 3rd) below the interval of a major 6th from C to A (spanning 9 semitones). To see the relationship of this chord to the others, we need to learn about normal form and prime form.</p>
         </subsection>
     </section>
@@ -146,41 +136,31 @@
         <ol>
             <li>
                 <p>Put the notes of a pitch-class set from a piece of music in ascending numeric order (like a scale). Eliminate any duplicate pitches.</p>
-                <sidebyside>
-                    <image source="images/unit12/set-theory-normal-form-unordered-set">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/set-theory-normal-form-unordered-set">
+                    <description/>
+                </image>
             </li>
             <li>
                 <p>Examine every possible ascending <q>scale</q> ordering of the notes until you find the most compact form<mdash/>that is, the one that spans the smallest interval from lowest to highest note.</p>
-                <sidebyside>
-                    <image source="images/unit12/set-theory-normal-form-reorderings">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/set-theory-normal-form-reorderings">
+                    <description/>
+                </image>
             </li>
             <li>
                 <p>In the event that two orderings have the same interval span from lowest to highest note, choose the set that has the smaller interval between the first and penultimate notes.<fn>The Forte method for determining prime form would have measured from first to second note to break the tie instead of first to penultimate note, which is method used Rahn's <pubtitle>Basic Atonal Theory</pubtitle>.</fn></p>
-                <sidebyside>
-                    <image source="images/unit12/set-theory-normal-form-tie-is-broken">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/set-theory-normal-form-tie-is-broken">
+                    <description/>
+                </image>
             </li>
             <li>
                 <p>In the event of an absolute tie, choose the set that begins on the smaller number. We will use a different set of pitches to demonstrate a complete tie. The normal form for the notes below is [2, 3, 8, 9].</p>
-                <sidebyside>
-                    <image source="images/unit12/set-theory-normal-form-absolute-tie">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/set-theory-normal-form-absolute-tie">
+                    <description/>
+                </image>
             </li>
             <li><p>Normal form is written in square brackets with commas. The normal form found in step 3 above was [11, 2, 3, 7].</p></li>
         </ol>
     </section>
-
-
     <section xml:id="PrimeForm">
         <title>Prime Form</title>
         <introduction>
@@ -189,19 +169,15 @@
             <ol>
                 <li>
                     <p>Transpose the normal form<mdash/>[11, 2, 3, 7] from the normal form example in the previous section<mdash/>so it starts on C (pitch integer 0): 0, 3, 4, 8</p>
-                    <sidebyside>
-                        <image source="images/unit12/set-theory-prime-form-trans-to-0">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit12/set-theory-prime-form-trans-to-0">
+                        <description/>
+                    </image>
                 </li>
                 <li>
                     <p>Invert the transposed normal form (what went up now goes down).</p>
-                    <sidebyside>
-                        <image source="images/unit12/set-theory-prime-form-inverting">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit12/set-theory-prime-form-inverting">
+                        <description/>
+                    </image>
                 </li>
                 <li>
                     <p>Write this inverted form in ascending form (4, 8, 9, 0), then do one of the following:</p>
@@ -211,21 +187,17 @@
                         </li>
                         <li>
                             <p>If there were ties, put this inverted version through every ascending <q>scale</q> ordering to determine which is the most compact form from first note to penultimate note. In the example below, we see that the second ordering (the <q>tie loser</q> from normal form) is the most compact of the reorderings of the inverted normal form.</p>
-                            <sidebyside>
-                                <image source="images/unit12/set-theory-prime-form-reordering">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit12/set-theory-prime-form-reordering">
+                                <description/>
+                            </image>
                         </li>
                     </ol>
                 </li>
                 <li>
                     <p>Compare the normal form (transposed to 0) to the most compact inverted form (transposed to 0). The most compact form is the prime form. Prime form is written in parentheses with no commas: (0148).</p>
-                    <sidebyside>
-                        <image source="images/unit12/set-theory-prime-form-comparing-inv-to-orig">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit12/set-theory-prime-form-comparing-inv-to-orig">
+                        <description/>
+                    </image>
                     <ol>
                         <li>
                             <p>In the event the prime form reaches pitch integers 10 or 11, use T for 10 and E for 11; for example (013568T)</p>
@@ -238,75 +210,53 @@
             <title>Application of Normal Form and Prime Form </title>
             <p>Let’s determine normal form and prime form of the first set from the Webern excerpt.</p>
             <p>The first chord contained E<flat/>, B, and D (3, 11, and 2).</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-NF-of-1st-set">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-webern-op5no3-NF-of-1st-set">
+                <description/>
+            </image>
             <p>The normal form is [11, 2, 3]. Below is the calculation to determine prime form.</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-inversion-of-1st-set">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-reordering-of-invNF-of-1st-set">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-comparing-NFs-of-1st-set">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-webern-op5no3-inversion-of-1st-set">
+                <description/>
+            </image>
+            <image source="images/unit12/set-theory-webern-op5no3-reordering-of-invNF-of-1st-set">
+                <description/>
+            </image>
+            <image source="images/unit12/set-theory-webern-op5no3-comparing-NFs-of-1st-set">
+                <description/>
+            </image>
             <p>The prime form is (014).</p>
             <p>Now let’s determine the normal form and prime form for the third set we encountered: G<sharp/>, C, and A, or 8, 0, and 9.</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-NF-of-2nd-set">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-webern-op5no3-NF-of-2nd-set">
+                <description/>
+            </image>
             <p>The normal form is [8, 9, 0].</p>
             <p>In the example below, we transpose the normal form to zero, then invert it.</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-INV-2nd-set">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-webern-op5no3-INV-2nd-set">
+                <description/>
+            </image>
             <p>In the following example, we put the inverted normal form through the reorderings to find the most compact form, then compare it to the normal form.</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-webern-op5no3-PF-2nd-set">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-webern-op5no3-PF-2nd-set">
+                <description/>
+            </image>
             <p>We see that the third set has the same prime form<mdash/>(014)<mdash/>as the other sets in the opening measures of Webern’s Op 5, No. 3. Prime form can allow us to see relationships that may not be apparent on the surface of the music.</p>
         </subsection>
         <subsection xml:id="Segmentation">
             <title>Segmentation</title>
             <p>What about the C<sharp/> in the cello part? Should it be included with the three notes from the chords? Will another similarity be revealed? <term>Segmentation</term><idx><h>segmentation</h><h>definition of</h></idx> is the term for <q>segmenting</q> or determining which notes to group together and analyze in a passage. Usually, segmentation is based on the music<mdash/>notes sounding together as a chord, or notes in a melodic line. However, analysts may look at every possible combination of notes to search for deeper layers of connection.</p>
             <p>Below, we examine the first two chords with the C<sharp/> included in each.</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-segmentation-1st-set">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit12/set-theory-segmentation-1st-set-B">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-segmentation-1st-set">
+                <description/>
+            </image>
+            <image source="images/unit12/set-theory-segmentation-1st-set-B">
+                <description/>
+            </image>
             <p>The prime form of the first set, when including the C<sharp/> from the cello, is (0124).</p>
             <p>Here is the second chord with the C<sharp/> added to it.</p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-segmentation-2nd-set">
-                    <description/>
-                </image>
-            </sidebyside>
-            <sidebyside>
-                <image source="images/unit12/set-theory-segmentation-2nd-set-B">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-segmentation-2nd-set">
+                <description/>
+            </image>
+            <image source="images/unit12/set-theory-segmentation-2nd-set-B">
+                <description/>
+            </image>
             <p>The prime form of the second set, when including the C<sharp/> from the cello, is (0236).</p>
             <p>We do not see any relationship between these first two sets after including the C<sharp/> with each three-note set. One doesn’t know this until one examines this new segmentation.</p>
         </subsection>
@@ -315,116 +265,102 @@
         <title>Interval Vector</title>
         <p>An <term>interval vector</term><idx><h>interval vector</h><h>definition of</h></idx> (also known as <q>Interval Class Content</q>) is a list of every possible interval occurring in a pitch-class set. Calculating an interval vector is rather straightforward. First, after determing normal form, measure from the first note to all the other notes. Second, measure from the second note to all higher notes (not back or down to the first note). Continue measuring from each successive note to the notes following and you will have completed the interval vector.</p>
         <p>Before demonstrating this, it is important to discuss the term <q>interval class.</q> An <term>interval class</term><idx><h>interval class</h><h>definition of</h></idx> (abbreviated <q>ic</q>) is the shortest distance between two notes measured in semitones. In the example below, C up to A is a major 6th. However, the shortest distance between C and A (measure downward) is a minor 3rd. Therefore, the largest interval class is 6 (the tritone), because any perfect 5th (for example, from C to G) has an interval class of 5 (a perfect 4th) because C <em>down</em> to G is a perfect 4th.</p>
-        <sidebyside>
-            <image source="images/unit12/set-theory-interval-class-demo">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit12/set-theory-interval-class-demo">
+            <description/>
+        </image>
         <p>With this in mind, let’s complete an interval vector of the a half-diminished 7th chord on G. First, arrange the notes in ascending order, then measure from the first note to the second, third, and fourth notes.</p>
-        <sidebyside margins="25%">
-            <image source="images/unit12/set-theory-vector-step1">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <tabular>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <row bottom="medium" right="minor" top="minor" left="minor" halign="center">
-                    <cell>Interval Class:</cell>
-                    <cell>1</cell>
-                    <cell>2</cell>
-                    <cell>3</cell>
-                    <cell>4</cell>
-                    <cell>5</cell>
-                    <cell>6</cell>
-                </row>
-                <row bottom="minor" left="minor" right="minor" halign="center">
-                    <cell>Occurrences</cell>
-                    <cell>0</cell>
-                    <cell>1</cell>
-                    <cell>1</cell>
-                    <cell>0</cell>
-                    <cell>0</cell>
-                    <cell>1</cell>
-                </row>
-            </tabular>
-        </sidebyside>
+        <image source="images/unit12/set-theory-vector-step1" width="50%">
+            <description/>
+        </image>
+        <tabular>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <row bottom="medium" right="minor" top="minor" left="minor" halign="center">
+                <cell>Interval Class:</cell>
+                <cell>1</cell>
+                <cell>2</cell>
+                <cell>3</cell>
+                <cell>4</cell>
+                <cell>5</cell>
+                <cell>6</cell>
+            </row>
+            <row bottom="minor" left="minor" right="minor" halign="center">
+                <cell>Occurrences</cell>
+                <cell>0</cell>
+                <cell>1</cell>
+                <cell>1</cell>
+                <cell>0</cell>
+                <cell>0</cell>
+                <cell>1</cell>
+            </row>
+        </tabular>
         <p>Second, measure from the second note to the third and fourth notes. We add one tally each for interval class (ic) 3 and 5.</p>
-        <sidebyside margins="25%">
-            <image source="images/unit12/set-theory-vector-step2">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <tabular>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <row bottom="medium" right="minor" top="minor" left="minor" halign="center">
-                    <cell>Interval Class:</cell>
-                    <cell>1</cell>
-                    <cell>2</cell>
-                    <cell>3</cell>
-                    <cell>4</cell>
-                    <cell>5</cell>
-                    <cell>6</cell>
-                </row>
-                <row bottom="minor" left="minor" right="minor" halign="center">
-                    <cell>Occurrences</cell>
-                    <cell>0</cell>
-                    <cell>1</cell>
-                    <cell>2</cell>
-                    <cell>0</cell>
-                    <cell>1</cell>
-                    <cell>1</cell>
-                </row>
-            </tabular>
-        </sidebyside>
+        <image source="images/unit12/set-theory-vector-step2" width="50%">
+            <description/>
+        </image>
+        <tabular>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <row bottom="medium" right="minor" top="minor" left="minor" halign="center">
+                <cell>Interval Class:</cell>
+                <cell>1</cell>
+                <cell>2</cell>
+                <cell>3</cell>
+                <cell>4</cell>
+                <cell>5</cell>
+                <cell>6</cell>
+            </row>
+            <row bottom="minor" left="minor" right="minor" halign="center">
+                <cell>Occurrences</cell>
+                <cell>0</cell>
+                <cell>1</cell>
+                <cell>2</cell>
+                <cell>0</cell>
+                <cell>1</cell>
+                <cell>1</cell>
+            </row>
+        </tabular>
         <p>Finally, measure from the third note to the fourth note, and the interval vector will be complete. We add one tally for ic4; the complete interval vector is 012011, which tells us a half-diminished chord has zero half steps, one major 2nd (shown in this voicing as a minor 7th), two minor 3rds, no major 3rds, one perfect 4th (shown in this voicing as perfect 5th), and one tritone.</p>
-        <sidebyside margins="25%">
-            <image source="images/unit12/set-theory-vector-step3">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <tabular>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <col top="minor" left="minor" right="minor"/>
-                <row bottom="medium" right="minor" top="minor" left="minor" halign="center">
-                    <cell>Interval Class:</cell>
-                    <cell>1</cell>
-                    <cell>2</cell>
-                    <cell>3</cell>
-                    <cell>4</cell>
-                    <cell>5</cell>
-                    <cell>6</cell>
-                </row>
-                <row bottom="minor" left="minor" right="minor" halign="center">
-                    <cell>Occurrences</cell>
-                    <cell>0</cell>
-                    <cell>1</cell>
-                    <cell>2</cell>
-                    <cell>1</cell>
-                    <cell>1</cell>
-                    <cell>1</cell>
-                </row>
-            </tabular>
-        </sidebyside>
+        <image source="images/unit12/set-theory-vector-step3" width="50%">
+            <description/>
+        </image>
+        <tabular>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <col top="minor" left="minor" right="minor"/>
+            <row bottom="medium" right="minor" top="minor" left="minor" halign="center">
+                <cell>Interval Class:</cell>
+                <cell>1</cell>
+                <cell>2</cell>
+                <cell>3</cell>
+                <cell>4</cell>
+                <cell>5</cell>
+                <cell>6</cell>
+            </row>
+            <row bottom="minor" left="minor" right="minor" halign="center">
+                <cell>Occurrences</cell>
+                <cell>0</cell>
+                <cell>1</cell>
+                <cell>2</cell>
+                <cell>1</cell>
+                <cell>1</cell>
+                <cell>1</cell>
+            </row>
+        </tabular>
         <p>An interval vector always contains 6 digits. When an interval class does not occur (the way the minor second did not occur in the G half-diminished seventh chord), place a zero in the column for that interval class.</p>
     </section>
     <section xml:id="ForteNumbers">
@@ -571,8 +507,6 @@
                 </row>
             </tabular>
         </table>
-
-
 
         <table>
             <title>List of Set Classes for 4<ndash/> and 8<ndash/>note sets (Tetrachords and Octachords)</title>
@@ -1522,12 +1456,10 @@
     <section xml:id="TranspositionTn">
         <title>Transposition (T<n octave="n"/>)</title>
         <p>Transposition is an operation performed as T<n octave="n"/>, where <em>n</em> is the number of semitones <em>up</em> a set is transposed. For example, [1, 2, 4, 6] at T<n octave="4"/> is [5, 6, 8, 10].</p>
-        <sidebyside>
-            <image source="images/unit12/set-theory-Tn-ex-1">
-                <description/>
-            </image>
-        </sidebyside>
-        <p>When working in a modulo 12 system, remember that numbers larger than 12 have to be reduced to a number smaller than 12 by subtracting 12 from the larger number. For example, 6, 8, 10, 11 at T<n octave="9"/> would result in 15, 17, 18, 20, which, after subtracting 12 from each number, results in 3, 5, 6, 8.</p>
+        <image source="images/unit12/set-theory-Tn-ex-1">
+            <description/>
+        </image>
+        <p>When working in a modulo 12 system, remember that numbers larger than 12 have to be reduced to a number smaller than 12 by subtracting 12 from the larger number. For example, 6, 8, 10, 11 at T<n octave="9"/> would result in 15, 17, 19, 20, which, after subtracting 12 from each number, results in 3, 5, 7, 8.</p>
         <table>
                 <title/>
                 <tabular halign="center">
@@ -1558,7 +1490,7 @@
                         <cell/>
                         <cell>15</cell>
                         <cell>17</cell>
-                        <cell>18</cell>
+                        <cell>19</cell>
                         <cell>20</cell>
                     </row>
                     <row>
@@ -1574,7 +1506,7 @@
                         <cell/>
                         <cell>3</cell>
                         <cell>5</cell>
-                        <cell>6</cell>
+                        <cell>7</cell>
                         <cell>8</cell>
                     </row>
                 </tabular>
@@ -1584,18 +1516,14 @@
         <title>Inversion (T<n octave="n"/>I)</title>
         <introduction>
             <p>Inverting a set using T<n octave="n"/>I is a compound operation. The first step is to invert each note below C using C as an axis. For example, E is a major 3rd above C, so E would invert to A<flat/>, a major third <em>below</em> C.</p>
-            <sidebyside margins="25%">
-                <image source="images/unit12/set-theory-TnI-ex-1">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-TnI-ex-1" width="50%">
+                <description/>
+            </image>
             <p>The second step of inversion is to apply the T<n octave="n"/> interval. So, to calculate T<n octave="3"/>I for the note E, one would first  invert E to A<flat/> (this is T<n octave="0"/>I), <em>then</em> transpose the A<flat/> up 3 semitones to B. (Theorist Joseph Straus simplifies the nomenclature to I<n octave="n"/> instead of T<n octave="n"/>I, but the outcome remains the same.)</p>
             <p>Let’s try inverting a pitch-class set, applying T<n octave="7"/>I to [2, 4, 5] (or D, E, and F). Inverting the notes to the opposite side of C using C as an axis yields pitch numbers 10, 8, and 7 (or B<flat/>, A<flat/>, and G), which in ascending order is 7, 8, and 10. Then transposing [7, 8, 10] at T<n octave="7"/> raises each note 7 semitones, resulting in [2, 3, 5] (or D, E<flat/>, and F). </p>
-            <sidebyside>
-                <image source="images/unit12/set-theory-TnI-ex-2">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/set-theory-TnI-ex-2">
+                <description/>
+            </image>
         </introduction>
         <subsection xml:id="IdentifyingInversionallyRelatedSets">
             <title>Identifying T<n octave="n"/>I for Inversionally-Related Sets</title>
@@ -1645,53 +1573,39 @@
                     <p>Put each set into normal form and prime form.</p>
                     <ol>
                         <li>
-                            <sidebyside margins="31%">
-                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-2">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-2" width="40%">
+                                <description/>
+                            </image>
                         </li>
                         <li>
-                            <sidebyside margins="42%">
-                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-3">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-3" width="20%">
+                                <description/>
+                            </image>
                         </li>
                         <li>
-                            <sidebyside margins="27%">
-                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-4">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-4" width="50%">
+                                <description/>
+                            </image>
                         </li>
                         <li>
-                            <sidebyside margins="27%">
-                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-5">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-5" width="50%">
+                                <description/>
+                            </image>
                         </li>
                         <li>
-                            <sidebyside margins="27%">
-                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-6">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-6" width="50%">
+                                <description/>
+                            </image>
                         </li>
                         <li>
-                            <sidebyside margins="27%">
-                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-7">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-7" width="50%">
+                                <description/>
+                            </image>
                         </li>
                         <li>
-                            <sidebyside margins="25%">
-                                <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-8">
-                                    <description/>
-                                </image>
-                            </sidebyside>
+                            <image source="images/unit12/PRAC-EXER-set-theory-NF-PF-8" width="50%">
+                                <description/>
+                            </image>
                         </li>
                     </ol>
                 </statement>
@@ -1735,11 +1649,9 @@
             <exercise>
                 <statement>
                     <p>For each of the six sets in the example below, determine the normal form, prime form, Forte number, and interval vector.</p>
-                    <sidebyside>
-                        <image source="images/unit12/PRAC-EXER-set-theory-day-2-A">
-                            <description/>
-                        </image>
-                    </sidebyside>
+                    <image source="images/unit12/PRAC-EXER-set-theory-day-2-A">
+                        <description/>
+                    </image>
                 </statement>
                 <answer>
                     <table>
@@ -1821,7 +1733,7 @@
                     <ol>
                         <li><p>[5, 8, 9]</p></li>
                         <li><p>[9, 11, 3, 4]</p></li>
-                        <li><p>[10, 11, 1, 4, 7]</p></li>
+                        <li><p>[10, 11, 1, 4, 5]</p></li>
                     </ol>
                 </answer>
             </exercise>

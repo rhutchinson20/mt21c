@@ -5,48 +5,34 @@
     <section xml:id="AdditiveMinimalism">
         <title>Additive Minimalism</title>
         <p>In Philip Glass’s version of additive minimalism as found at the beginning of his composition <pubtitle>Two Pages</pubtitle> (1969), he adds a repetition of a pattern but subtracts the final note in the repetition. Each addition to the pattern is another repetition with the final note of the previous repetition subtracted, as can be seen in the example below. (Note: The music notation below is a transcription and analysis meant to show the additive process and is not necessarily how the music is written in the score.)</p>
-        <sidebyside>
-            <image source="images/unit12/minimalism-two-pages-A">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <image source="images/unit12/minimalism-two-pages-B">
-                <description/>
-            </image>
-        </sidebyside>
-        <sidebyside>
-            <image source="images/unit12/minimalism-two-pages-C">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit12/minimalism-two-pages-A">
+            <description/>
+        </image>
+        <image source="images/unit12/minimalism-two-pages-B">
+            <description/>
+        </image>
+        <image source="images/unit12/minimalism-two-pages-C">
+            <description/>
+        </image>
         <figure>
             <caption>Glass, <pubtitle>Two Pages</pubtitle> (1969)</caption>
             <idx><h>Glass, Philip</h><h><pubtitle>Two Pages</pubtitle></h></idx>
-            <sidebyside margins="37%">
-                <video youtube="emeykTooD9c" start="0" end="97" play-at="select" preview="generic"/>
-            </sidebyside>
+            <video youtube="emeykTooD9c" start="0" end="97" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The following example from <pubtitle>Music in Fifths</pubtitle> (1969) clearly displays additive process on its own, but is just one of dozens of steps in an additive process.</p>
-        <sidebyside>
-            <image source="images/unit12/minimalism-music-in-fifths">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit12/minimalism-music-in-fifths">
+            <description/>
+        </image>
         <figure>
             <caption>Glass, <pubtitle>Music in Fifths</pubtitle> (1969)</caption>
             <idx><h>Glass, Philip</h><h><pubtitle>Music in Fifths</pubtitle></h></idx>
-            <sidebyside margins="37%">
-                <video youtube="6V1hokSS4TU" start="193" end="221" play-at="select" preview="generic"/>
-            </sidebyside>
+            <video youtube="6V1hokSS4TU" start="193" end="221" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>To hear additive process in Glass’s well-known <pubtitle>Einstein on the Beach</pubtitle>, listen to the following minute of music from Act 1, Scene 1, <q>Train.</q> Each chord in a five<ndash/>chord cadential progression is gradually lengthened by adding to the number of subdivisions given to each chord. </p>
         <figure>
             <caption>Glass, <pubtitle>Einstein on the Beach</pubtitle></caption>
             <idx><h>Glass, Philip</h><h><pubtitle>Einstein on the Beach</pubtitle></h><h>Act 1, Scene 1, <q>Train</q></h></idx>
-            <sidebyside margins="37%">
-                <video youtube="pRerJeYmUgY" start="454" end="516" play-at="select" preview="generic"/>
-            </sidebyside>
+            <video youtube="pRerJeYmUgY" start="454" end="516" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="PhaseShifting">
@@ -55,56 +41,38 @@
         <figure>
             <caption>Reich, <pubtitle>Clapping Music</pubtitle> (1972)</caption>
             <idx><h>Reich, Steve</h><h><pubtitle>Clapping Music</pubtitle></h></idx>
-            <sbsgroup>
-                <sidebyside margins="27%">
-                    <image source="images/unit12/phase-clapping-music-example">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <video xml:id="reich-clapping-music" youtube="lzkOFJMI5i8" start="20" end="234" play-at="embed"/><!--no preview-->
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit12/phase-clapping-music-example" width="50%">
+                <description/>
+            </image>
+            <video xml:id="reich-clapping-music" youtube="lzkOFJMI5i8" start="20" end="234" play-at="embed" width="25%"/><!--no preview-->
         </figure>
         <p>Below is the basic twelve<ndash/>note pattern of <pubtitle>Piano Phase</pubtitle> along with a video demonstrating the phase<ndash/>shifting.</p>
         <figure>
             <caption>Reich, <pubtitle>Piano Phase</pubtitle> (1967)</caption>
             <idx><h>Reich, Steve</h><h><pubtitle>Piano Phase</pubtitle></h></idx>
-            <sbsgroup>
-                <sidebyside margins="25%">
-                    <image source="images/unit12/phase-piano-phase-example">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside>
-                    <video xml:id="reich-piano-phase" youtube="57TuvksMR70" start="0" end="386" play-at="embed"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit12/phase-piano-phase-example" width="50%">
+                <description/>
+            </image>
+            <video xml:id="reich-piano-phase" youtube="57TuvksMR70" start="0" end="386" play-at="embed"/>
         </figure>
         <p>During the phase<ndash/>shifting process, one can think of the lower voices in the examples above as going through rotation. The example below shows rotation of a five<ndash/>note pattern. The pattern rotates one note to the left, meaning the second note begins the pattern on the second line, the third note begins the pattern on the third line, etc., until the first note starts the pattern again to complete the phase<ndash/>shifting process.</p>
         <figure>
             <caption>Rotation demonstrated with a five<ndash/>note pattern</caption>
-            <sidebyside margins="30%">
-                <image source="images/unit12/phase-rotation-example">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/phase-rotation-example" width="40%">
+                <description/>
+            </image>
         </figure>
         <p>In a piece of music, the process would play out similar to the manner below, where one part maintains the original pattern while the second goes out of phase by continually rotating the original pattern one note to the left. In <pubtitle>Piano Phase</pubtitle>, Reich has the second pianist gradually increase in speed so the patterns go slowly out of phase, while in <pubtitle>Clapping Music</pubtitle>, Reich has the musicians change to the next rotation on the downbeat of a measure, without gradually speeding up.</p>
         <figure>
             <caption>A short phase<ndash/>shifting process piece</caption>
-            <sidebyside>
-                <image source="images/unit12/phase-rotation-example-grand-staff">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/phase-rotation-example-grand-staff">
+                <description/>
+            </image>
         </figure>
         <p>One hears phase shifting in numerous works by Reich, including the second movement of his <pubtitle>Three Movements</pubtitle>.</p>
         <figure>
             <caption>Reich, <pubtitle>Three Movements</pubtitle>, II.</caption><idx><h>Reich, Steve</h><h><pubtitle>Three Movements</pubtitle>, II.</h></idx>
-            <sidebyside>
-                <video xml:id="reich-three-movements" youtube="XIuJ_my4_-k" start="478" end="548" play-at="embed"/>
-            </sidebyside>
+            <video xml:id="reich-three-movements" youtube="B7ejYDKWrIs" start="0" end="70" play-at="embed"/>
         </figure>
         <p>It is worth mentioning that composers like Stravinsky applied rotation to serialism, which Joseph Straus details in Chapter 6 of his <pubtitle>Introduction to Post<ndash/>Tonal Analysis</pubtitle> (4th edition). </p>
     </section>

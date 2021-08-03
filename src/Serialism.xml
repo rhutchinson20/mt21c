@@ -6,9 +6,7 @@
         <title>Twelve-Tone Technique</title>
         <introduction>
             <figure>
-                <sidebyside><!--no margins on this one-->
-                    <video xml:id="schoenberg-suite-1" youtube="bQHR_Z8XVvI" start="0" end="852" play-at="select"/>
-                </sidebyside>
+                <video xml:id="schoenberg-suite-1" youtube="bQHR_Z8XVvI" start="0" end="852" play-at="select"/>
                 <idx>
                     <h>Schoenberg, Arnold</h><h>Suite for Piano, Op. 25</h>
                 </idx>
@@ -26,54 +24,40 @@
             <title>Row Forms</title>
             <p>A twelve-tone series is also commonly called a twelve-tone <q>row,</q> and we will use the term <q>row</q> throughout this chapter.</p>
             <p>The four types of row forms used in twelve-tone technique are prime (P), retrograde (R), inversion (I), and retrograde inversion (RI). The <term>prime</term><idx><h>twelve-tone technique</h><h>prime form</h></idx> is the original row. The <term>retrograde</term><idx><h>twelve-tone technique</h><h>retrograde</h></idx> is the prime form backward. The <term>inversion</term><idx><h>twelve-tone technique</h><h>inversion</h></idx> is the original row with all intervals in the row inverted (going in the opposite direction of the original). Finally, the <term>retrograde inversion</term><idx><h>twelve-tone technique</h><h>retrograde inversion</h></idx> is the inversion retrograded (and therefore might have more appropriately been labeled <q>inversion retrograded</q> since <q>retrograde inversion</q> sounds like it refers to the backward form inverted instead of the inverted form backward).</p>
-            <sidebyside>
-                <image source="images/unit12/12-tone-example-basic-presentation-B">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/12-tone-example-basic-presentation-B">
+                <description/>
+            </image>
         </subsection>
         <subsection xml:id="TranspositionNumbers">
             <title>Transposition Numbers</title>
             <p>Each row form can be transposed to start on any note from the chromatic scale. We will use the same <xref ref="IntegerNotationForPitches" text="custom">pitch integers</xref> as in set theory. For primes and inversions, we will use P and I accompanied by a pitch integer to specify the starting note. For example, P<n octave="0"/> is a twelve-tone row starting on C (pitch integer 0), P<n octave="3"/> is a twelve-tone row starting on E<flat/>, and so forth. The same is the case for row forms like I<n octave="2"/> (starting on D), I<n octave="5"/> (starting on F), on so forth.</p>
-            <sidebyside>
-                <image source="images/unit12/12-tone-example-P-I-transposition-numbers-B">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/12-tone-example-P-I-transposition-numbers-B">
+                <description/>
+            </image>
             <p>However, the retrograde (R) and retrograde inversion (RI) row forms use the pitch integer of the <em>last</em> note in the row to designate their transposition level. Therefore, R<n octave="1"/> <em>ends</em> on C<sharp/>, and RI<n octave="7"/> <em>ends</em> on G.</p>
-            <sidebyside>
-                <image source="images/unit12/12-tone-example-R-RI-transposition-numbers-B">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/12-tone-example-R-RI-transposition-numbers-B">
+                <description/>
+            </image>
         </subsection>
     </section>
     <section xml:id="DeterminingRowForms">
         <title>Determining Row Forms</title>
         <p>To determine a row form’s permutation and transposition, examine the intervallic composition of each row form. In the example below, each row statement is based on the prime form of the row in the previous sections.</p>
-        <sidebyside>
-            <image source="images/unit12/12-tone-little-composition">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit12/12-tone-little-composition">
+            <description/>
+        </image>
         <p>Let’s examine the starting intervals of each row form.</p>
-        <sidebyside>
-            <image source="images/unit12/12-tone-basic-rows-w-intervals">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit12/12-tone-basic-rows-w-intervals">
+            <description/>
+        </image>
         <p>In examining the first few notes in the upper staff in the short musical excerpt below, we see an ascending minor 3rd followed by a descending major 2nd. The only row form to start with these intervals is the retrograde. To determine the transposition number, we look at the last note (the 12th note) in the first measure in the upper staff (A<flat/>), which gives us the transposition level (pitch integer 8), meaning this is R<n octave="8"/>. The second measure in the upper staff begins with a minor 3rd followed by an ascending major 2nd, making this a retrograde inversion. The 12th note in this measure is an E (pitch integer 4), making this RI<n octave="4"/>. In the first measure of the lower staff, we find a descending minor 2nd followed by a descending perfect 4th, making this I<n octave="11"/>. Finally, the second measure in the lower staff begins on C<sharp/> with an ascending minor 2nd followed by an ascending perfect 4th, making this P<n octave="1"/>.</p>
-        <sidebyside>
-            <image source="images/unit12/12-tone-little-composition-w-intervals">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit12/12-tone-little-composition-w-intervals">
+            <description/>
+        </image>
         <p>The row forms are labeled in the example below.</p>
-        <sidebyside>
-            <image source="images/unit12/12-tone-little-composition-w-row-forms">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit12/12-tone-little-composition-w-row-forms">
+            <description/>
+        </image>
     </section>
     <section xml:id="WritingRowForms">
         <title>Writing Row Forms</title>
@@ -82,37 +66,29 @@
         <ol>
             <li>
                 <p>Write all four row forms (P, R, I, RI).</p>
-                <sidebyside>
-                    <image source="images/unit12/12-tone-basic-rows-w-row-forms">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/12-tone-basic-rows-w-row-forms">
+                    <description/>
+                </image>
             </li>
             <li>
                 <p>Transpose the specified row form to the correct transposition level.</p>
                 <ol>
                     <li>
                         <p>In this example, transpose I<n octave="0"/> up 9 semitones (a major 6th) to begin on A (pitch class 9).</p>
-                        <sidebyside margins="18%">
-                            <image source="images/unit12/12-tone-I9">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/12-tone-I9" width="60%">
+                            <description/>
+                        </image>
                     </li>
                     <li>
                         <p>To write RI<n octave="5"/>, transpose RI<n octave="0"/> up 5 semitones (a perfect 4th) so the last note is F (pitch class 5).</p>
-                        <sidebyside margins="18%">
-                            <image source="images/unit12/12-tone-RI5">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/12-tone-RI5" width="60%">
+                            <description/>
+                        </image>
                     </li>
                 </ol>
             </li>
         </ol>
     </section>
-    
-
     <section>
         <title>Twelve-Tone Matrix</title>
         <p>One tool analysts create to analyze a twelve-tone composition is a twelve-tone matrix, which shows all 48 row forms in a 12-by-12 grid. Below is a matrix for the row we’ve been dealing with in this chapter.</p>
@@ -610,37 +586,28 @@
         <p>In a piece of music, twelve-tone rows may not be clearly presented. One manner of presentation is overlap, where the final note of one row is the starting note of the next row.</p>
         <figure>
             <caption>Twelfth note overlapping with first note in successive row statements</caption>
-            <sidebyside>
-                <image source="images/unit12/12-tone-basic-row-overlap-in-music">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit12/12-tone-basic-row-overlap-in-music">
+                <description/>
+            </image>
         </figure>
         <p>Rows may also be presented contrapuntally or harmonically. In the example below, the row is separated into three tetrachords and presented contrapuntally.</p>
         <figure>
             <caption>Two examples of tetrachords from a row presented contrapuntally</caption>
-            <sidebyside>
-
-                <image source="images/unit12/12-tone-basic-row-ctrptl-in-music">
-                    <description/>
-                </image>
-            </sidebyside>
-        </figure>
-        <p>In the final example in this section, the two rows are presenting in melody-accompaniment texture, with P<n octave="0"/> containing the melody and R<n octave="0"/> occurring as chords.</p>
-        <sidebyside>
-            <image source="images/unit12/12-tone-basic-row-chords-in-music">
+            <image source="images/unit12/12-tone-basic-row-ctrptl-in-music">
                 <description/>
             </image>
-        </sidebyside>
+        </figure>
+        <p>In the final example in this section, the two rows are presenting in melody-accompaniment texture, with P<n octave="0"/> containing the melody and R<n octave="0"/> occurring as chords.</p>
+        <image source="images/unit12/12-tone-basic-row-chords-in-music">
+            <description/>
+        </image>
         <p>An analyst would first attempt to find a clear presentation of a twelve-tone row somewhere in the composition in order to analyze harmonies.</p>
     </section>
     <section xml:id="NonTwelveToneSerialism">
         <title>Non-Twelve-Tone Serialism</title>
         <p>Serialism also includes music that is not twelve-tone but does use a series of notes that maintains its order and employs inversion, retrograde, and retrograde inversion of the series. An example is found in Stravinsky’s Septet from 1953.<fn>See Erwin Stein, <q>Strawinsky’s Septet (1953).</q> <pubtitle>Tempo</pubtitle>. Spring, 1954.</fn></p>
         <figure>
-            <sidebyside><!--no margins on this one-->
-                <video xml:id="stravinsky-septet1" youtube="ijSmRoPzMaY" start="173" end="200" play-at="select"/>
-            </sidebyside>
+            <video xml:id="stravinsky-septet1" youtube="ijSmRoPzMaY" start="173" end="200" play-at="select"/>
             <idx>
                 <h>Stravinsky, Igor</h><h>Septet</h>
             </idx>
@@ -676,80 +643,60 @@
         <exercise>
             <statement>
                 <p>Given the prime form of the twelve-tone row in pitch integers, write the specified row forms in the staves below.</p>
-                <sidebyside>
-                    <image source="images/unit12/PRAC-EXER-12-tone-P7-fill-in">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/PRAC-EXER-12-tone-P7-fill-in">
+                    <description/>
+                </image>
                 <ol>
                     <li>
                         <p>P<n octave="1"/></p>
-                        <sidebyside>
-                            <image source="images/unit12/blank-treb-clef-staff">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/blank-treb-clef-staff">
+                            <description/>
+                        </image>
                     </li>
                     <li>
                         <p>R<n octave="4"/></p>
-                        <sidebyside>
-                            <image source="images/unit12/blank-bass-clef-staff">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/blank-bass-clef-staff">
+                            <description/>
+                        </image>
                     </li>
                     <li>
                         <p>I<n octave="8"/></p>
-                        <sidebyside>
-                            <image source="images/unit12/blank-treb-clef-staff">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/blank-treb-clef-staff">
+                            <description/>
+                        </image>
                     </li>
                     <li>
                         <p>RI<n octave="10"/></p>
-                        <sidebyside>
-                            <image source="images/unit12/blank-bass-clef-staff">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/blank-bass-clef-staff">
+                            <description/>
+                        </image>
                     </li>
                 </ol>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit12/PRAC-EXER-12-tone-P7-fill-in-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/PRAC-EXER-12-tone-P7-fill-in-ANSWER">
+                    <description/>
+                </image>
                 <ol>
                     <li>
-                        <sidebyside>
-                            <image source="images/unit12/PRAC-EXER-12-tone-P1-ANSWER">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/PRAC-EXER-12-tone-P1-ANSWER">
+                            <description/>
+                        </image>
                     </li>
                     <li>
-                        <sidebyside>
-                            <image source="images/unit12/PRAC-EXER-12-tone-R4-ANSWER">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/PRAC-EXER-12-tone-R4-ANSWER">
+                            <description/>
+                        </image>
                     </li>
                     <li>
-                        <sidebyside>
-                            <image source="images/unit12/PRAC-EXER-12-tone-I8-ANSWER">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/PRAC-EXER-12-tone-I8-ANSWER">
+                            <description/>
+                        </image>
                     </li>
                     <li>
-                        <sidebyside>
-                            <image source="images/unit12/PRAC-EXER-12-tone-RI10-ANSWER">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/PRAC-EXER-12-tone-RI10-ANSWER">
+                            <description/>
+                        </image>
                     </li>
                 </ol>
             </answer>
@@ -757,35 +704,27 @@
         <exercise>
             <statement>
                 <p>Given the prime form of a twelve-tone row, label the row forms and transpositions of the permutations given on the staves below.</p>
-                <sidebyside>
-                    <image source="images/unit12/PRAC-EXER-12-tone-Section-2-P10">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/PRAC-EXER-12-tone-Section-2-P10">
+                    <description/>
+                </image>
                 <ol>
                     <li>
                         <p>Row form: <fillin characters="6"/></p>
-                        <sidebyside>
-                            <image source="images/unit12/PRAC-EXER-12-tone-Section-2-2-RI10">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/PRAC-EXER-12-tone-Section-2-2-RI10">
+                            <description/>
+                        </image>
                     </li>
                     <li>
                         <p>Row form: <fillin characters="6"/></p>
-                        <sidebyside>
-                            <image source="images/unit12/PRAC-EXER-12-tone-Section-2-3-I1">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/PRAC-EXER-12-tone-Section-2-3-I1">
+                            <description/>
+                        </image>
                     </li>
                     <li>
                         <p>Row form: <fillin characters="6"/></p>
-                        <sidebyside>
-                            <image source="images/unit12/PRAC-EXER-12-tone-Section-2-4-R5">
-                                <description/>
-                            </image>
-                        </sidebyside>
+                        <image source="images/unit12/PRAC-EXER-12-tone-Section-2-4-R5">
+                            <description/>
+                        </image>
                     </li>
                 </ol>
             </statement>
@@ -1298,18 +1237,14 @@
         <exercise>
             <statement>
                 <p>For the following excerpt, determine P<n octave="5"/> and identify each row form and statement. This example contains overlap.</p>
-                <sidebyside>
-                    <image source="images/unit12/PRAC-EXER-12-tone-excerpt-for-analysis">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/PRAC-EXER-12-tone-excerpt-for-analysis">
+                    <description/>
+                </image>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit12/PRAC-EXER-12-tone-excerpt-for-analysis-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit12/PRAC-EXER-12-tone-excerpt-for-analysis-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>  
         <exercise>
@@ -1332,7 +1267,6 @@
             </answer>
         </exercise> 
     </exercisegroup>
-
     <conclusion>
         <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_64.pdf">here to download the first homework assignment for this chapter.</url></p>
         <p>Click <url href="http://musictheory.pugetsound.edu/hw/MT21C_HW_65.pdf">here to download the second homework assignment for this chapter.</url></p>

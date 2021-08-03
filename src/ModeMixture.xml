@@ -7,175 +7,107 @@
         <figure>
             <caption>Lennon-McCartney, <q>Blackbird</q> (1968)</caption>
             <idx><h>songs (popular)</h><h><q>Blackbird</q> (The Beatles)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-blackbird">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="4J5FPNitDc8" start="13" end="24" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-blackbird">
+                <description/>
+            </image>
+            <video youtube="4J5FPNitDc8" start="13" end="24" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Notice the emotional effect of switching to the minor mode.</p>
         <p>A famous example that progresses from the major <chord root="I"/> chord immediately to the minor <chord root="i"/> chord is Richard Strauss's <pubtitle>Also Sprach Zarathustra</pubtitle>.</p>
         <figure>
             <caption>Richard Strauss, <pubtitle>Also Sprach Zarathustra</pubtitle>, Op.30 (1896)</caption>
             <idx><h>Strauss, Richard</h><h><pubtitle>Also Sprach Zarathustra</pubtitle>, Op.30</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-also-sprach-1">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="IFPwm0e_K98" start="16" end="36" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-also-sprach-1">
+                <description/>
+            </image>
+            <video youtube="IFPwm0e_K98" start="16" end="36" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Later during the opening of <pubtitle>Also Sprach Zarathustra</pubtitle>, another borrowed chord occurs.</p>
         <figure>
             <caption>Richard Strauss, <pubtitle>Also Sprach Zarathustra</pubtitle>, Op.30 (1896)</caption>
             <idx><h>Strauss, Richard</h><h><pubtitle>Also Sprach Zarathustra</pubtitle>, Op.30</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-also-sprach-2">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="IFPwm0e_K98" start="69" end="79" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-also-sprach-2">
+                <description/>
+            </image>
+            <video youtube="IFPwm0e_K98" start="69" end="79" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>The next three examples have the pattern <scaledeg>1</scaledeg><ndash/><flat/><scaledeg>7</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>6</scaledeg> in the bass line.</p>
         <figure>
             <caption>Linda Perry, <q>Beautiful</q> (2002)</caption>
             <idx><h>songs (popular)</h><h><q>Beautiful</q> (Christina Aguilera)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-beautiful">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="f1zLSpzCh9E" start="26" end="39" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-beautiful">
+                <description/>
+            </image>
+            <video youtube="f1zLSpzCh9E" start="26" end="39" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Hoyt Axton, <q>Joy to the World</q> (1970)</caption>
             <idx><h>songs (popular)</h><h><q>Joy to the World</q> (Three Dog Night)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-three-dog-night">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="kyI1OImD7ow" start="13" end="20" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-three-dog-night">
+                <description/>
+            </image>
+            <video youtube="kyI1OImD7ow" start="13" end="20" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>This same bass line can be found (in the same harmonic rhythm) in <q>Part of Your World.</q></p>
         <figure>
             <caption>Howard Ashman and Alan Menken, <pubtitle>The Little Mermaid</pubtitle>, <q>Part of Your World</q> (1989)</caption>
             <idx><h>songs (popular)</h><h><q>Part of Your World</q> (from <pubtitle>The Little Mermaid</pubtitle>)</h></idx>
-            <sidebyside margins="37%">
-                <video youtube="SXKlJuO07eM" start="142" end="153" play-at="select" preview="generic"/>
-            </sidebyside>   
+            <video youtube="SXKlJuO07eM" start="142" end="153" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the next example by Radiohead, the <chord root="iv"/> chord (borrowed from minor) is preceded by the major <chord root="IV"/> chord.</p>
         <figure>
             <caption>Thom Yorke, Jonny Greenwood, Colin Greenwood, Ed O'Brien, Philip Selway, Albert Hammond, and Mike Hazlewood, <q>Creep</q> (1992)</caption>
             <idx><h>songs (popular)</h><h><q>Creep</q> (Radiohead)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-creep">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="XFkzRNyygfk" start="0" end="21" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-creep">
+                <description/>
+            </image>
+            <video youtube="XFkzRNyygfk" start="0" end="21" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Mode mixture is also found in the music of the band Nirvana.</p>
         <figure>
             <caption>Kurt Cobain, <q>Lithium</q> (1992)</caption>
             <idx><h>songs (popular)</h><h><q>Lithium</q> (Nirvana)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-lithium">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="pkcJEvMcnEg" start="0" end="9" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-lithium">
+                <description/>
+            </image>
+            <video youtube="pkcJEvMcnEg" start="0" end="9" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>In the example above for <q>Lithium,</q> the Roman numerals are analyzed as triads instead of <q>5</q> chords because the third of the chord is either implied or occurs in the voice part (not shown).</p>
         <p>In the next example from the third movement Brahms's Third Symphony, the <chord root="I"/> chord alternates twice with a borrowed chord. There are three flats in the key signature because this movement began in C minor, but this section occurs later in the movement and is in C major.</p>
         <figure>
             <caption>Johannes Brahms, <pubtitle>Symphony No. 3 in F major</pubtitle>, Op. 90, III. Poco Allegretto (1883)</caption>
             <idx><h>Brahms, Johannes</h><h><pubtitle>Symphony No. 3 in F major</pubtitle>, Op. 90, III. Poco Allegretto</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-brahms-3-iii">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="UH324lgbxaI" start="49" end="64" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-brahms-3-iii">
+                <description/>
+            </image>
+            <video youtube="UH324lgbxaI" start="49" end="64" play-at="select" preview="generic" width="25%"/>
         </figure><!--also princess leia theme-->
         <p>A similar alternation between the <chord root="I"/> chord and a borrowed chord (<flat/><chord root="VII" bps="7"/>) happens in <q>Inchworm,</q> from the movie <pubtitle>Hans Christian Andersen</pubtitle>. Notice the special quality of the borrowed <flat/><scaledeg>6</scaledeg> in the upper melody.</p>
         <figure>
             <caption>Frank Loesser, <pubtitle>Hans Christian Andersen</pubtitle>, <q>Inchworm</q> (1952)</caption>
             <idx><h>Loesser, Frank</h><h><pubtitle>Hans Christian Andersen</pubtitle>, <q>Inchworm</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-inchworm">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="6dd6e14ov2c" start="22" end="34" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-inchworm">
+                <description/>
+            </image>
+            <video youtube="6dd6e14ov2c" start="22" end="34" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>A famous example of mode mixture occurs in the <q>Waltz of the Flowers</q> from Tchaikovsky's <pubtitle>Nutcracker</pubtitle>.</p>
         <figure>
             <caption>Tchaikovsky, <pubtitle>Nutcracker</pubtitle>, <q>Waltz of the Flowers</q> (1892)</caption>
             <idx><h>Tchaikovsky</h><h><pubtitle>The Nutcracker</pubtitle></h><h><q>Waltz of the Flowers</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-waltz-of-the-flowers">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="Kw0wLLVEMaA" start="63" end="72" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-waltz-of-the-flowers">
+                <description/>
+            </image>
+            <video youtube="Kw0wLLVEMaA" start="63" end="72" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>A similar melody occurs in <q>One Day I'll Fly Away,</q> which, though it has a different harmonization, still uses mode mixture.</p>
         <figure>
             <caption>Joe Sample and Will Jennings, <q>One Day I'll Fly Away</q> (1980)</caption>
             <idx><h>songs (popular)</h><h><q>One Day I'll Fly Away</q></h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-one-day-ill-fly">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="I8eNaVEEtC8" start="113" end="120" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-one-day-ill-fly">
+                <description/>
+            </image>
+            <video youtube="I8eNaVEEtC8" start="113" end="120" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="HarmonizationOfBorrowedScaleDegrees">
@@ -183,20 +115,16 @@
         <p>Let us examine the ways <flat/><scaledeg>6</scaledeg> can be harmonized as root, 3rd, 5th, and 7th of a borrowed chord.</p>
         <figure>
             <caption>Harmonization of <flat/><scaledeg>6</scaledeg></caption>
-            <sidebyside>
-                <image source="images/unit4/mode-mix-harmonizaton-of-flat-6">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/mode-mix-harmonizaton-of-flat-6">
+                <description/>
+            </image>
         </figure>
         <p>Here are the ways <flat/><scaledeg>3</scaledeg> and <flat/><scaledeg>7</scaledeg> can each be harmonized as root, 3rd, and 5th of a borrowed chord (notice some of these chords are duplicates from the previous example).</p>
         <figure>
             <caption>Harmonization of <flat/><scaledeg>3</scaledeg> and <flat/><scaledeg>7</scaledeg></caption>
-            <sidebyside>
-                <image source="images/unit4/mode-mix-harmonizaton-of-flat-3-and-flat-7">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/mode-mix-harmonizaton-of-flat-3-and-flat-7">
+                <description/>
+            </image>
         </figure>
         <p>It is not necessary to memorize the chords in this section so much as to realize that the quality of diatonic chords will be altered when a scale degree from the minor mode is included in the chord.</p>
     </section>
@@ -204,20 +132,16 @@
         <title>Analyzing and Writing Borrowed Chords</title>
         <p>Unlike secondary chords, you merely note the root, quality, and inversion of a borrowed chord in your Roman numeral analysis.</p>
         <p>So, for the following chord:</p>
-        <sidebyside>
-            <image source="images/unit4/mode-mix-analyzing-chords">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit4/mode-mix-analyzing-chords">
+            <description/>
+        </image>
         <p>Notice that the root is A when you stack the notes in 3rds, and A is <scaledeg>2</scaledeg> in G major. The quality is half<ndash/>diminished since the 3rds stack as m3<ndash/>m3<ndash/>M3, making this a <chord root="ii" mode="halfdiminished" bps="7"/> chord. Since C, the 3rd of the chord, is in the bass, the correct analysis is <chord root="ii" mode="halfdiminished" bps="6 5"/>.</p>
         <p>To write a borrowed chord from a Roman numeral, be sure to <em>pay close attention to the quality of the Roman numeral</em>.</p>
         <p>A: <flat/><chord root="VI"/></p>
         <p><flat/><chord root="VI"/> is built on <flat/><scaledeg>6</scaledeg>. Determine <flat/><scaledeg>6</scaledeg> in A major, which is F<natural/>, then stack 3rds in the configuration M3<ndash/>m3. The resulting triad contains F<natural/><ndash/>A<ndash/>C<natural/>.</p>
-        <sidebyside margins="30%">
-            <image source="images/unit4/mode-mix-writing-a-chord">
-                <description/>
-            </image>
-        </sidebyside>
+        <image source="images/unit4/mode-mix-writing-a-chord" width="50%">
+            <description/>
+        </image>
         <p>Be careful of flats before Roman numerals. Flats mean to lower a root a m2 <em>in the key signature</em>, <em>not</em> to literally put a flat in front of the root of a chord.</p>
     </section>
     <section xml:id="TheDeceptiveCadenceWithFlatSix">
@@ -226,45 +150,26 @@
         <figure>
             <caption>John Stafford Smith and Francis Scott Key, <q>The Star-Spangled Banner</q> (1814) as performed by Whitney Houston at the 1991 Super Bowl</caption>
             <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-deceptive-whitney">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="KbkWuVUkPmY" start="105" end="122" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-deceptive-whitney">
+                <description/>
+            </image>
+            <video youtube="KbkWuVUkPmY" start="105" end="122" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>John Stafford Smith and Francis Scott Key, <q>The Star-Spangled Banner</q> (1814) as performed by Beyonc&#x00E9; at the 2013 Presidential Inauguration</caption>
             <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-deceptive-beyonce">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="qGDH18R7GfA" start="121" end="140" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-deceptive-beyonce">
+                <description/>
+            </image>
+            <video youtube="qGDH18R7GfA" start="121" end="140" play-at="select" preview="generic" width="25%"/>
         </figure>
-
         <figure>
             <caption>John Stafford Smith and Francis Scott Key, <q>The Star-Spangled Banner</q> (1814) as performed by Lady Gaga at the 2016 Super Bowl</caption>
             <idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-deceptive-gaga">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="GbXSZBnBOQ4" start="135" end="165" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-deceptive-gaga">
+                <description/>
+            </image>
+            <video youtube="GbXSZBnBOQ4" start="135" end="165" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>This same <chord root="V"/><ndash/><flat/><chord root="VI"/> deceptive cadence with <flat/><chord root="VI"/> progressing to <flat/><chord root="VII"/> followed by <chord root="I"/> occurs in epic fashion at the end of the animated film <pubtitle>Beauty and the Beast</pubtitle> from 1991.</p>
     </section>
@@ -275,16 +180,10 @@
         <figure>
             <caption>J.S. Bach, French Suite No. 1 in D Minor, BWV 812, Sarabande</caption>
             <idx><h>Bach, J.S.</h><h>French Suite No. 1 in D Minor, BWV 812, Sarabande</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/mode-mix-picardy-third">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="fTwkVsECg9w" start="141" end="167" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/mode-mix-picardy-third">
+                <description/>
+            </image>
+            <video youtube="fTwkVsECg9w" start="141" end="167" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>While the Picardy 3rd (the major third above the tonic) was most commonly encountered in the Baroque era, it has been used from then until now, though with less frequency.</p>
     </section>
@@ -293,31 +192,23 @@
         <exercise>
             <statement>
                 <p>Analyze the following chords with lead<ndash/>sheet symbols above and Roman numerals with figured bass inversion symbols below.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-mode-mix-analyzing"/>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-mode-mix-analyzing"/>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-mode-mix-analyzing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-mode-mix-analyzing-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Given the Roman numeral, key, and key signature, notate the chord on the staff, and analyze with lead<ndash/>sheet symbols.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-mode-mix-writing"/>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-mode-mix-writing"/>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-mode-mix-writing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-mode-mix-writing-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
@@ -326,24 +217,16 @@
                 <figure>
                     <caption>Fr&#x00E9;d&#x00E9;ric Chopin, Nocturne in E-flat major, Op. 9, No. 2 (1832)</caption>
                     <idx><h>Chopin, Fr&#x00E9;d&#x00E9;ric</h><h>Nocturne in E-flat major, Op. 9, No. 2</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit4/PRAC-EXER-mode-mix-chopin">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="bVeOdm-29pU" start="1" end="19" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit4/PRAC-EXER-mode-mix-chopin">
+                        <description/>
+                    </image>
+                    <video youtube="bVeOdm-29pU" start="1" end="19" play-at="select" preview="generic" width="25%"/>
                 </figure>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-mode-mix-chopin-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-mode-mix-chopin-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <conclusion>

@@ -6,110 +6,79 @@
         
         <p>Music is full of patterns that are similar from one piece to the next. As we saw with minor scales, we were able to use scale degree numbers to show the different patterns for harmonic, melodic, and natural minor, despite the fact that there are 15 minor key signatures. Using numbers instead of note names helps us see these patterns. Thinking of music in terms of numbers is also helpful with <term>transposition</term><idx><h>transposition</h><h>definition of</h></idx>, which means moving melodies and/or chord progressions from one key to another. Thinking of music in terms of numbers also helps us to analyze it and to spot similar patterns between many different pieces in different keys.</p>
         <p>We will use Roman numerals to represent chords within a specified key. The Roman numeral <q><chord root="I"/></q> represents a triad built on <scaledeg>1</scaledeg>, or the 1st note of the scale. Uppercase Roman numerals represent major triads and lowercase Roman numerals (e.g., <q><chord root="i"/></q>) represent minor triads. Uppercase Roman numerals with a <q><chord mode="augmented"/></q> are augmented (e.g., <q><chord root="III" mode="augmented"/></q>), and lowercase Roman numerals with a <q><chord mode="diminished"/></q> are diminished (e.g., <q><chord root="vii" mode="diminished"/></q>). (There is also the <url href="https://en.wikipedia.org/wiki/Nashville_number_system">Nashville Number System</url>, which uses Arabic numbers for chords instead of Roman numerals.)</p>
-        <sidebyside>
-                <tabular halign="center">
-                    <row header="yes" bottom="major">
-                        <cell><em>Key</em></cell>
-                        <cell><em>Lead-Sheet</em></cell>
-                        <cell><em>Root</em></cell>
-                        <cell><em>Scale Degree of Root</em></cell>
-                        <cell><em>Roman Numeral</em></cell>
-                        <cell><em>Notes in Chord</em></cell>
-                    </row>
-                    <row>
-                        <cell><n pc="G"/></cell>
-                        <cell><chord root="B" mode="m"/></cell>
-                        <cell><n pc="B"/></cell>
-                        <cell><scaledeg>3</scaledeg></cell>
-                        <cell><chord root="iii"/></cell>
-                        <cell><n pc="B"/><ndash/><n pc="D"/><ndash/><n pc="F" acc="sharp"/></cell>
-                    </row>
-                    <row>
-                        <cell><n pc="f"/></cell>
-                        <cell><chord root="G" mode="diminished"/></cell>
-                        <cell><n pc="G"/></cell>
-                        <cell><scaledeg>2</scaledeg></cell>
-                        <cell><chord root="ii" mode="diminished"/></cell>
-                        <cell><n pc="G"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/></cell>
-                    </row>
-                    <row>
-                        <cell><n pc="c"/></cell>
-                        <cell><chord root="E flat"/></cell>
-                        <cell><n pc="E" acc="flat"/></cell>
-                        <cell><scaledeg>3</scaledeg></cell>
-                        <cell><chord root="III"/></cell>
-                        <cell><n pc="E" acc="flat"/><ndash/><n pc="G"/><ndash/><n pc="B" acc="flat"/></cell>
-                    </row>
-                    <!-- save if needed 
-                    <row>
-                        <cell><n pc="A" acc="flat"/></cell>
-                        <cell><chord root="F" mode="m"/></cell>
-                        <cell><n pc="F"/></cell>
-                        <cell><scaledeg>6</scaledeg></cell>
-                        <cell><chord root="vi"/></cell>
-                        <cell><n pc="F"/><ndash/><n pc="A" acc="flat"/><ndash/><n pc="C"/></cell>
-                    </row>
-                    <row>
-                        <cell><n pc="b"/></cell>
-                        <cell><chord root="A sharp" mode="diminished"/></cell>
-                        <cell><n pc="A" acc="sharp"/></cell>
-                        <cell>(<sharp/>)<scaledeg>7</scaledeg></cell>
-                        <cell><chord root="vii" mode="diminished"/></cell>
-                        <cell><n pc="A" acc="sharp"/><ndash/><n pc="C" acc="sharp"/><ndash/><n pc="E"/></cell>
-                    </row>
-                    <row>
-                        <cell><n pc="d"/></cell>
-                        <cell><chord root="C"/></cell>
-                        <cell><n pc="C"/></cell>
-                        <cell><scaledeg>7</scaledeg></cell>
-                        <cell><chord root="VII"/></cell>
-                        <cell><n pc="C"/><ndash/><n pc="E"/><ndash/><n pc="G"/></cell>
-                    </row>-->
-                </tabular>
-            </sidebyside> 
+        <tabular halign="center">
+            <row bottom="major">
+                <cell><em>Key</em></cell>
+                <cell><em>Lead-Sheet</em></cell>
+                <cell><em>Root</em></cell>
+                <cell><em>Scale Degree of Root</em></cell>
+                <cell><em>Roman Numeral</em></cell>
+                <cell><em>Notes in Chord</em></cell>
+            </row>
+            <row>
+                <cell><n pc="G"/></cell>
+                <cell><chord root="B" mode="m"/></cell>
+                <cell><n pc="B"/></cell>
+                <cell><scaledeg>3</scaledeg></cell>
+                <cell><chord root="iii"/></cell>
+                <cell><n pc="B"/><ndash/><n pc="D"/><ndash/><n pc="F" acc="sharp"/></cell>
+            </row>
+            <row>
+                <cell><n pc="f"/></cell>
+                <cell><chord root="G" mode="diminished"/></cell>
+                <cell><n pc="G"/></cell>
+                <cell><scaledeg>2</scaledeg></cell>
+                <cell><chord root="ii" mode="diminished"/></cell>
+                <cell><n pc="G"/><ndash/><n pc="B" acc="flat"/><ndash/><n pc="D" acc="flat"/></cell>
+            </row>
+            <row>
+                <cell><n pc="c"/></cell>
+                <cell><chord root="E flat"/></cell>
+                <cell><n pc="E" acc="flat"/></cell>
+                <cell><scaledeg>3</scaledeg></cell>
+                <cell><chord root="III"/></cell>
+                <cell><n pc="E" acc="flat"/><ndash/><n pc="G"/><ndash/><n pc="B" acc="flat"/></cell>
+            </row>
+        </tabular>
         <p>For inversion of Roman numerals, we will use a modified <q>slash chord</q> notation until we study <xref ref="FiguredBass" text="title"/>. For now, we will write <q><chord root="I"/>/3rd</q> if the 3rd of the <chord root="I"/> chord is the bass note, for example.</p>
-        <sidebyside>
             <image source="images/unit2/RN-inversions-for-now">
                 <description>C: I/3rd means E is the bass note for C-E-G</description>
             </image>
-        </sidebyside>
         <p>The following table offers more examples.</p>
-        <sidebyside>
-            <tabular halign="center">
-                <row header="yes" bottom="major">
-                    <cell><em>Key</em></cell>
-                    <cell><em>Roman Num.</em></cell>
-                    <cell><em>Root</em></cell>
-                    <cell><em>Scale Deg. of Root</em></cell>
-                    <cell><em>Notes in Chord</em></cell>
-                    <cell><em>Bass Note</em></cell>
-                </row>
-                <row>
-                    <cell><n pc="g"/></cell>
-                    <cell><chord root="V" bass="3rd"/></cell>
-                    <cell><n pc="D"/></cell>
-                    <cell><scaledeg>5</scaledeg></cell>
-                    <cell><n pc="D"/><ndash/><n pc="F" acc="sharp"/><ndash/><n pc="A"/></cell>
-                    <cell><n pc="F" acc="sharp"/></cell>
-                </row>
-                <row>
-                    <cell><n pc="a"/></cell>
-                    <cell><chord root="iv" bass="5th"/></cell>
-                    <cell><n pc="D"/></cell>
-                    <cell><scaledeg>4</scaledeg></cell>
-                    <cell><n pc="D"/><ndash/><n pc="F"/><ndash/><n pc="A"/></cell>
-                    <cell><n pc="A"/></cell>
-                </row>
-                <row>
-                    <cell><n pc="D"/></cell>
-                    <cell><chord root="vii" mode="diminished" bass="3rd"/></cell>
-                    <cell><n pc="C" acc="sharp"/></cell>
-                    <cell><scaledeg>7</scaledeg></cell>
-                    <cell><n pc="C" acc="sharp"/><ndash/><n pc="E"/><ndash/><n pc="G"/></cell>
-                    <cell><n pc="E"/></cell>
-                </row>
-            </tabular>
-        </sidebyside> 
+        <tabular halign="center">
+            <row bottom="major">
+                <cell><em>Key</em></cell>
+                <cell><em>Roman Num.</em></cell>
+                <cell><em>Root</em></cell>
+                <cell><em>Scale Deg. of Root</em></cell>
+                <cell><em>Notes in Chord</em></cell>
+                <cell><em>Bass Note</em></cell>
+            </row>
+            <row>
+                <cell><n pc="g"/></cell>
+                <cell><chord root="V" bass="3rd"/></cell>
+                <cell><n pc="D"/></cell>
+                <cell><scaledeg>5</scaledeg></cell>
+                <cell><n pc="D"/><ndash/><n pc="F" acc="sharp"/><ndash/><n pc="A"/></cell>
+                <cell><n pc="F" acc="sharp"/></cell>
+            </row>
+            <row>
+                <cell><n pc="a"/></cell>
+                <cell><chord root="iv" bass="5th"/></cell>
+                <cell><n pc="D"/></cell>
+                <cell><scaledeg>4</scaledeg></cell>
+                <cell><n pc="D"/><ndash/><n pc="F"/><ndash/><n pc="A"/></cell>
+                <cell><n pc="A"/></cell>
+            </row>
+            <row>
+                <cell><n pc="D"/></cell>
+                <cell><chord root="vii" mode="diminished" bass="3rd"/></cell>
+                <cell><n pc="C" acc="sharp"/></cell>
+                <cell><scaledeg>7</scaledeg></cell>
+                <cell><n pc="C" acc="sharp"/><ndash/><n pc="E"/><ndash/><n pc="G"/></cell>
+                <cell><n pc="E"/></cell>
+            </row>
+        </tabular>
     </section>
     <section xml:id="DiatonicChordsInMajor">
         <title>Diatonic Chords in Major</title>
@@ -135,11 +104,9 @@
             <audio source="images/unit2/DiatonicTriadsMelMinorAudio.mp3" width="80%"/>
         </figure>
         <p>However, when one analyzes a large amount of tonal music, one finds the following Roman numerals are most commonly used in minor.</p>
-        <sidebyside>
-            <image source="images/unit2/Roman-numerals-most-common-in-minor">
-                <description>The most commonly used diatonic triads in A minor: A minor, B diminished, C major, D minor, E major, F major, and G-sharp diminished, with Roman numerals</description>
-            </image>
-        </sidebyside>
+        <image source="images/unit2/Roman-numerals-most-common-in-minor">
+            <description>The most commonly used diatonic triads in A minor: A minor, B diminished, C major, D minor, E major, F major, and G-sharp diminished, with Roman numerals</description>
+        </image>
         <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q><term>subtonic triad</term></q><idx><h>subtonic triad</h><h>definition of</h></idx>) and <chord root="vii" mode="diminished"/> (the <q>leading-tone triad</q>) are included. The subtonic triad (<chord root="VII"/>), built on the lowered <scaledeg>7</scaledeg> that occurs in <em>natural</em> minor, regularly occurs in <xref ref="CircleOfFifths" text="custom">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="custom">in rock and pop music</xref>, while the leading-tone triad (<chord root="vii" mode="diminished"/>), built on raised <scaledeg>7</scaledeg>, is usually either a passing harmony or has <xref ref="HarmonicFunction" text="custom">dominant function</xref>.</p>
     </section>
     <section xml:id="cadences">
@@ -161,32 +128,20 @@
             <figure>
             	<caption>Francis Scott Key and John Stafford Smith, <q>Star-Spangled Banner</q></caption>
             	<idx><h>Star-Spangled Banner</h><h>musical example</h></idx>
-            	<sbsgroup>
-                	<sidebyside>
-                    	<image source="images/unit2/cadences-auth-cad-star-spangled">
-                        	<description/>
-                    	</image>
-                	</sidebyside>
-                	<sidebyside margins="37%">
-                    	<video youtube="LGvW6jHUHiY" start="77" end="93" play-at="select" preview="generic"/>
-                	</sidebyside>
-            	</sbsgroup>
+               <image source="images/unit2/cadences-auth-cad-star-spangled">
+                   <description/>
+               </image>
+               <video youtube="LGvW6jHUHiY" start="77" end="93" play-at="select" preview="generic" width="25%"/>
         	</figure>
             <p>In the example above, the notes surrounded by parentheses are <xref ref="NonChordTones" text="custom">non-chord tones</xref>, which will be studied later. Also, there are <xref ref="SeventhChords" text="custom">seventh chords</xref> in this example, which we will study in the next chapter.</p>
             <p>Here is another example ending with an authentic cadence.</p>
             <figure>
             	<caption>Lennon-McCartney, <q>I Want to Hold Your Hand</q></caption>
             	<idx><h>songs (popular)</h><h><q>I Want to Hold Your Hand</q> (Beatles)</h></idx>
-            	<sbsgroup>
-                	<sidebyside>
-                    	<image source="images/unit2/cadences-auth-cad-i-want-to-hold">
-                        	<description/>
-                    	</image>
-                	</sidebyside>
-                	<sidebyside margins="37%">
-                    	<video youtube="jenWdylTtzs" start="21" end="29" play-at="select" preview="generic"/>
-                	</sidebyside>
-            	</sbsgroup>
+               <image source="images/unit2/cadences-auth-cad-i-want-to-hold">
+                   <description/>
+               </image>
+               <video youtube="jenWdylTtzs" start="21" end="29" play-at="select" preview="generic" width="25%"/>
         	</figure>
         </subsection>
         <subsection xml:id="PlagalCadenceExamples">
@@ -202,30 +157,18 @@
             <figure>
                 <caption>Pink, Bhasker, and Ruess, <q>Just Give Me a Reason</q></caption>
                 <idx><h>songs (popular)</h><h><q>Just Give Me a Reason</q> (Pink)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/cadences-plagal-cad-just-give-me">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="OpQFFLBMEPI" start="19" end="30" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/cadences-plagal-cad-just-give-me">
+                    <description/>
+                </image>
+                <video youtube="OpQFFLBMEPI" start="19" end="30" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Hozer-Byrne, <q>Take Me to Church</q></caption>
                 <idx><h>songs (popular)</h><h><q>Take Me to Church</q> (Hozier)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/cadences-plagal-cad-take-me-to-church">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="PVjiKRfKpPI" start="47" end="58" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/cadences-plagal-cad-take-me-to-church">
+                    <description/>
+                </image>
+                <video youtube="PVjiKRfKpPI" start="47" end="58" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection xml:id="DeceptiveCadenceExamples">
@@ -234,61 +177,37 @@
             <figure>
                 <caption>Mozart, <pubtitle>The Marriage of Figaro</pubtitle>, <q>Voi che sapete</q></caption>
                 <idx><h>Mozart, W.A.</h><h><pubtitle>Marriage of Figaro</pubtitle>, <q>Voi che sapete</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/cadences-deceptive-cad-voi-che">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="53geSxS8-Ak" start="142" end="152" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/cadences-deceptive-cad-voi-che">
+                    <description/>
+                </image>
+                <video youtube="53geSxS8-Ak" start="142" end="152" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Kelly and Steinberg, <q>True Colors</q></caption>
                 <idx><h>songs (popular)</h><h><q>True Colors</q> (Cyndi Lauper)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/cadences-deceptive-cad-true-colors">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="LPn0KFlbqX8" start="60" end="75" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/cadences-deceptive-cad-true-colors">
+                    <description/>
+                </image>
+                <video youtube="LPn0KFlbqX8" start="60" end="75" play-at="select" preview="generic" width="25%"/>
             </figure>            
             <p>The following example, from the prelude to Act I of Richard Wagner's opera <pubtitle>Tristan und Isolde</pubtitle>, is arguably one of the most famous deceptive cadences in the history of classical music.</p>
             <figure>
                 <caption>Wagner, <pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</caption>
                 <idx><h>Wagner, Richard</h><h><pubtitle>Tristan und Isolde</pubtitle>, Prelude to Act I</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/cadences-deceptive-cad-tristan">
-                            <description>Deceptive cadence at bar 17 of prelude to Act One of Tristan und Isolde by Richard Wagner</description>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="ghjz6D34HPQ" start="110" end="125" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/cadences-deceptive-cad-tristan">
+                    <description>Deceptive cadence at bar 17 of prelude to Act One of Tristan und Isolde by Richard Wagner</description>
+                </image>
+                <video youtube="ghjz6D34HPQ" start="110" end="125" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>A deceptive cadence means <chord root="V"/> did not go to <chord root="I"/>. This means that <q><chord root="V"/> to not-<chord root="I"/></q> is technically a more correct description for a deceptive cadence than <chord root="V"/>-<chord root="vi"/>, which is the most common realization of <q><chord root="V"/> to not-<chord root="I"/>.</q></p>
             <p>In the example below, <chord root="V"/> goes to <chord root="IV" bass="3rd"/>.</p>
             <figure>
                 <caption>Mozart, <pubtitle>Ave Verum Corpus</pubtitle>, K. 618</caption>
                 <idx><h>Mozart, W.A.</h><h>Ave verum corpus, K. 618</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/cadences-deceptive-cad-ave-verum">
-                            <description>Deceptive cadence near end of "Ave verum corpus" by Mozart</description>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="1Qxrru15jfo" start="113" end="142" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/cadences-deceptive-cad-ave-verum">
+                    <description>Deceptive cadence near end of "Ave verum corpus" by Mozart</description>
+                </image>
+                <video youtube="1Qxrru15jfo" start="113" end="142" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection xml:id="HalfCadenceExamples">
@@ -296,46 +215,28 @@
             <figure>
                 <caption>Mozart, <pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I.</caption>
                 <idx><h>Mozart, W.A.</h><h><pubtitle>Eine kleine Nachtmusik</pubtitle>, K. 525, I.</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/cadences-half-cad-eine-kleine">
-                            <description>Half cadence at end of transition in first movement of Eine Kleine Nachtmusik, K. 525, by Mozart</description>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="TpPuLwtDQrY" start="43" end="51" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/cadences-half-cad-eine-kleine">
+                    <description>Half cadence at end of transition in first movement of Eine Kleine Nachtmusik, K. 525, by Mozart</description>
+                </image>
+                <video youtube="TpPuLwtDQrY" start="43" end="51" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Sheeran and Wadge, <q>Thinking Out Loud</q></caption>
                 <idx><h>songs (popular)</h><h><q>Thinking Out Loud</q> (Ed Sheeran)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/cadences-half-cad-thinking-out-loud">
-                            <description>Half cadence at end of prechorus of "Thinking Out Loud" by Ed Sheeran</description>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="lp-EO5I60KA" start="68" end="80" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/cadences-half-cad-thinking-out-loud">
+                    <description>Half cadence at end of prechorus of "Thinking Out Loud" by Ed Sheeran</description>
+                </image>
+                <video youtube="lp-EO5I60KA" start="68" end="80" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>You may encounter chords with no thirds in rock and pop music. If you encounter a chord that has only a root and fifth, label it with a <q>5</q> after the root in lead sheet labeling (e.g., <chord root="B" bps="5"/>, as in the next example).</p>
             <p xml:id="IncompleteChords">Additionally, you may encounter <term>incomplete chords</term><idx><h>incomplete chords</h></idx>, which are chords containing only the root and third but no fifth.</p>
             <figure>
                 <caption>Bieber, Blanco, and Sheeran, <q>Love Yourself</q></caption>
                 <idx><h>songs (popular)</h><h><q>Love Yourself</q> (Justin Bieber)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit2/cadences-half-cad-love-yourself">
-                            <description>Half cadence at end of prechorus of "Love Yourself" by Justin Bieber</description>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="oyEuk8j8imI" start="57" end="69" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit2/cadences-half-cad-love-yourself">
+                    <description>Half cadence at end of prechorus of "Love Yourself" by Justin Bieber</description>
+                </image>
+                <video youtube="oyEuk8j8imI" start="57" end="69" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
     </section>
@@ -347,9 +248,7 @@
         <exercise>
             <statement>
                 <p>Label the following chords with lead sheet symbols (above) and Roman numerals (below).</p>
-                <sidebyside>
-                    <image source="images/unit2/PRAC-EXER-RN-analysis"/>
-                </sidebyside>
+                <image source="images/unit2/PRAC-EXER-RN-analysis"/>
             </statement>
             <answer>
                 <p>1. <chord root="F sharp" mode="m"/>, <chord root="ii"/>; 2. <chord root="D sharp" mode="diminished" bass="F sharp"/>, <chord root="vii" mode="diminished" bass="3rd"/>; 3. <chord root="A"/>, <chord root="VII"/>; 4. <chord root="G"/>, <chord root="V"/>; 5. <chord root="B" mode="m" bass="F sharp"/>, <chord root="ii" bass="5th"/></p>
@@ -358,9 +257,7 @@
         <exercise>
             <statement>
                 <p>Given the Roman numeral and key, write the key signature, notate the triad, and label the chord with a lead-sheet symbol (above).</p>
-                <sidebyside>
-                    <image source="images/unit2/PRAC-EXER-RN-writing-chords"/>
-                </sidebyside>
+                <image source="images/unit2/PRAC-EXER-RN-writing-chords"/>
             </statement>
             <answer>
                 <p>1. <chord root="C"/>, <n pc="C"/><n pc="E" acc="natural"/><n pc="G"/>;
@@ -373,23 +270,14 @@
                 <p>Label lead-sheet symbols above and Roman numerals below and analyze the type of cadence that ends the phrase.</p>
                 <p>
                     Thomas a'Becket, <q>Columbia, the Gem of the Ocean</q><idx><h>Columbia, the Gem of the Ocean</h></idx>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-cadences-columbia"/>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="Iyn3HEVFOhM" start="8" end="17" play-at="select" preview="generic"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-cadences-columbia"/>
+                    <video youtube="Iyn3HEVFOhM" start="8" end="17" play-at="select" preview="generic" width="25%"/>
                 </p>
                 <p>
                     Bob Marley, <q>Could You Be Loved</q> <idx><h>songs (popular)</h><h><q>Could You Be Loved</q> (Bob Marley)</h></idx>
-                    <sidebyside>
-                        <image source="images/unit2/PRAC-EXER-cadences-could-you-be"/>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="g3t6YDnGXAc" start="23" end="33" play-at="select" preview="generic"/>
-                    </sidebyside>
+                    <image source="images/unit2/PRAC-EXER-cadences-could-you-be"/>
+                    <video youtube="g3t6YDnGXAc" start="23" end="33" play-at="select" preview="generic" width="25%"/>
                 </p>
-                
             </statement>
             <answer>
                 <p>a. <q>Columbia, the Gem of the Ocean</q>: 1. <chord root="G"/>, <chord root="I"/>; 2. <chord root="D"/>, <chord root="V"/>; 3. <chord root="G"/>, <chord root="I"/>; 4. <chord root="C"/>, <chord root="IV"/>; 5. <chord root="G"/>, <chord root="I"/>; 6. <chord root="D"/>, <chord root="V"/>; Cadence type = Half Cadence (HC)</p>

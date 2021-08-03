@@ -15,58 +15,34 @@
         <figure>
             <caption>J.S. Bach, <pubtitle>Herz und Mund und Tat und Leben</pubtitle> BWV 147, X. <q>Jesus bleibet Freude</q> (<q>Jesu, Joy of Man's Desiring</q>) (1723)</caption>
             <idx><h>Bach, J.S.</h><h><pubtitle>Herz und Mund und Tat und Leben</pubtitle> BWV 147, X. <q>Jesus bleibet Freude</q> (<q>Jesu, Joy of Man's Desiring</q>)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dim-jesu">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="9ayLUAWmatk" start="11" end="21" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dim-jesu">
+                <description/>
+            </image>
+            <video youtube="9ayLUAWmatk" start="11" end="21" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Tchaikovsky, <pubtitle>The Nutcracker</pubtitle>, <q>Trepak</q> (1892)</caption>
             <idx><h>songs (popular)</h><h><q>I Want You to Want Me</q> (Cheap Trick)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dim-trepak">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="67maTrrSKjg" start="0" end="4" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dim-trepak">
+                <description/>
+            </image>
+            <video youtube="67maTrrSKjg" start="0" end="4" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Billy Joel, <q>Just the Way You Are</q> (1977)</caption>
             <idx><h>songs (popular)</h><h><q>Just the Way You Are</q> (Billy Joel)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dim-billy-joel-just-the-way">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="HaA3YZ6QdJU" start="7" end="16" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dim-billy-joel-just-the-way">
+                <description/>
+            </image>
+            <video youtube="HaA3YZ6QdJU" start="7" end="16" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Dewayne Blackwell and Earl Bud Lee, <q>Friends in Low Places</q> (1990)</caption>
             <idx><h>songs (popular)</h><h><q>Friends in Low Places</q> (Garth Brooks)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/sec-dim-garth-brooks">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="Cw16cySo65Y" start="0" end="9" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/sec-dim-garth-brooks">
+                <description/>
+            </image>
+            <video youtube="Cw16cySo65Y" start="0" end="9" play-at="select" preview="generic" width="25%"/>
         </figure>
     </section>
     <section xml:id="SecondaryDiminishedChordsInMajorAndMinor">
@@ -74,19 +50,15 @@
         <p>Below are the secondary diminished chords that occur in major and minor.</p>
         <figure>
             <caption>Secondary Diminished Triads and Seventh Chords in Major</caption>
-            <sidebyside>
-                <image source="images/unit4/sec-dim-dim7ths-in-major">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dim-dim7ths-in-major">
+                <description/>
+            </image>
         </figure>
         <figure>
             <caption>Secondary Diminished Triads and Seventh Chords in Minor</caption>
-            <sidebyside>
-                <image source="images/unit4/sec-dim-dim7ths-in-minor">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/sec-dim-dim7ths-in-minor">
+                <description/>
+            </image>
         </figure>
         <p>Notice that <chord root="vii" mode="diminished" bass="III"/> in minor is not included because it is <chord root="ii" mode="diminished"/>. Notice also that <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> has no accidentals<mdash/>it is the same as <chord root="ii" mode="halfdiminished" bps="7"/> but functions differently. The <chord root="ii" mode="halfdiminished" bps="7"/> chord has <xref ref="PreDominantFunction" text="custom">pre<ndash/>dominant function</xref> and progresses to <chord root="V"/> whereas the <chord root="vii" mode="halfdiminished" bps="7" bass="III"/> chord progresses to <chord root="III"/>.</p>
         <p>Minor triads are tonicized by fully diminished seventh chords. Major triads are traditionally tonicized by half diminished seventh chords but can also be tonicized by fully diminished seventh chords.</p>
@@ -96,21 +68,17 @@
         <p>When you encounter a chord with a chromaticism and suspect it is a secondary diminished seventh chord, use the following process.</p>
         <ol>
             <li>
-                <p>Stack the chord in thirds to determine the root and quality. If the chord quality is a diminished triad or a half<ndash/>diminished and fully<ndash/>diminished seventh chord, go on to step 2. If the chord quality is not a diminished triad or a half<ndash/>diminished and fully<ndash/>diminished seventh chord, the chord is not a secondary diminished chord.</p>
-                <sidebyside margins="15%">
-                    <image source="images/unit4/sec-dim-analyzing-stack-in-thirds">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <p>Stack the chord in thirds to determine the root and quality. If the chord quality is a diminished triad or a half<ndash/>diminished or fully<ndash/>diminished seventh chord, go on to step 2. If the chord quality is not a diminished triad or a half<ndash/>diminished or fully<ndash/>diminished seventh chord, the chord is not a secondary diminished chord.</p>
+                <image source="images/unit4/sec-dim-analyzing-stack-in-thirds" width="70%">
+                    <description/>
+                </image>
                 <p>The chord in question is an G<sharp/> half<ndash/>diminished seventh chord in first inversion.</p>
             </li>
             <li>
                 <p>Determine the note that would be a <em>minor 2nd above</em> the root of the chord you are analyzing. If this note of resolution would be the root of a diatonic chord, the chord you are analyzing is a secondary diminished chord.</p>
-                <sidebyside margins="15%">
-                    <image source="images/unit4/sec-dim-analyzing-root-up-m2">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/sec-dim-analyzing-root-up-m2" width="70%">
+                    <description/>
+                </image>
                 <p>This <chord root="G sharp" mode="halfdiminished" bps="7" bass="B"/> is analyzed as <chord root="vii" mode="halfdiminished" bps="6 5" bass="V"/> in D major.</p>
             </li>
         </ol>
@@ -121,11 +89,9 @@
         <ol>
             <li>
                 <p>First determine the note that is the root of the chord being tonicized (the chord to the right of the slash).</p>
-                <sidebyside margins="20%">
-                    <image source="images/unit4/sec-dim-writing-determine-tonicized-scale-degree">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/sec-dim-writing-determine-tonicized-scale-degree" width="60%">
+                    <description/>
+                </image>
             </li>
             <li>
                 <p>Determine <chord root="vii" mode="diminished" bps="7"/> in the key of C minor (C is the root of the <chord root="iv"/> chord, which is the Roman numeral <em>after</em> the slash): <em>B</em> is the root of <chord root="vii" mode="diminished" bps="7"/> in C minor because it is a <em>m2 below</em> C.</p>
@@ -135,11 +101,9 @@
             </li>
             <li>
                 <p>Invert the chord accordingly. <chord bps="4 2"/> inversion means the 7th of the chord (A<flat/>) is the bass note.</p>
-                <sidebyside margins="25%">
-                    <image source="images/unit4/sec-dim-writing-invert-answer">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/sec-dim-writing-invert-answer" width="50%">
+                    <description/>
+                </image>
             </li>
         </ol>
     </section>
@@ -148,31 +112,23 @@
         <exercise>
             <statement>
                 <p>Analyze the following secondary diminished chords with lead<ndash/>sheet symbols above and Roman numerals with figured bass symbols below.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-sec-dim-analyzing"/>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-sec-dim-analyzing"/>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-sec-dim-analyzing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-sec-dim-analyzing-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Write the following secondary diminished chords. Include lead<ndash/>sheet symbols above. Include key signatures.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-sec-dim-writing"/>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-sec-dim-writing"/>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-sec-dim-writing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-sec-dim-writing-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
@@ -181,16 +137,10 @@
                 <figure>
                     <caption>Freddie Mercury, <q>We Are the Champions</q> (1977)</caption>
                     <idx><h>songs (popular)</h><h><q>We Are the Champions</q> (Queen)</h></idx>
-                    <sbsgroup>
-                        <sidebyside>
-                            <image source="images/unit4/PRAC-EXER-sec-dim-analysis-queen">
-                                <description/>
-                            </image>
-                        </sidebyside>
-                        <sidebyside margins="37%">
-                            <video youtube="04854XqcfCY" start="46" end="55" play-at="select" preview="generic"/>
-                        </sidebyside>
-                    </sbsgroup>
+                    <image source="images/unit4/PRAC-EXER-sec-dim-analysis-queen">
+                        <description/>
+                    </image>
+                    <video youtube="04854XqcfCY" start="46" end="55" play-at="select" preview="generic" width="25%"/>
                 </figure>
             </statement>
             <answer>

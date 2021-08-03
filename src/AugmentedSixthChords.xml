@@ -7,11 +7,9 @@
         </p>
         <figure>
             <caption/>
-                <sidebyside margins="20%">
-                    <image source="images/unit4/aug-6-scale-deg-approaching-5">
-                        <description/>
-                    </image>
-                </sidebyside>
+            <image source="images/unit4/aug-6-scale-deg-approaching-5" width="60%">
+                <description/>
+            </image>
         </figure>
         <p>In minor, <flat/><scaledeg>6</scaledeg> doesn't require a flat because <scaledeg>6</scaledeg> is lowered in the minor key signature.</p>
     </section>
@@ -21,11 +19,9 @@
         <p>All types of augmented sixth chords contain scale degrees <flat/><scaledeg>6</scaledeg> and <sharp/><scaledeg>4</scaledeg>. To these two scale degrees, the <chord root="It" bps="+6"/> adds <scaledeg>1</scaledeg>. The three notes of the <chord root="It" bps="+6"/> (<flat/><scaledeg>6</scaledeg>, <sharp/><scaledeg>4</scaledeg>, and <scaledeg>1</scaledeg>) form the foundation of the <chord root="Fr" bps="+6"/> and <chord root="Ger" bps="+6"/>. The <chord root="Fr" bps="+6"/> adds <scaledeg>2</scaledeg> to the Italian augmented sixth chord's <flat/><scaledeg>6</scaledeg>, <sharp/><scaledeg>4</scaledeg>, and <scaledeg>1</scaledeg>, and the <chord root="Ger" bps="+6"/> adds <flat/><scaledeg>3</scaledeg> to the Italian's <flat/><scaledeg>6</scaledeg>, <sharp/><scaledeg>4</scaledeg>, and <scaledeg>1</scaledeg>, as is shown in the example below.</p>
         <figure>
             <caption>The Three Types of Augmented Sixth Chords in Major and Minor</caption>
-                <sidebyside>
-                    <image source="images/unit4/aug-6-all-types-in-maj-and-min">
-                        <description/>
-                    </image>
-                </sidebyside>
+            <image source="images/unit4/aug-6-all-types-in-maj-and-min">
+                <description/>
+            </image>
         </figure>
         <p>The final chord on the first line<mdash/>the Enharmonic German <chord bps="+6"/> or <chord root="EnGer" bps="+6"/><mdash/>respells the <flat/><scaledeg>3</scaledeg> as a <sharp/><scaledeg>2</scaledeg> because the <chord root="EnGer" bps="+6"/> resolves only to major <chord root="I" bps="6 4"/>. The <chord root="EnGer" bps="+6"/> does not occur in minor.</p>
     </section>
@@ -34,11 +30,9 @@
         <p>Since our process for analyzing chords has been to stack them up in thirds to determine the root and quality, it is worth examing these four augmented sixth chords as stacks of thirds.</p>
         <figure>
             <caption>Augmented Sixth Chords Stacked in Thirds</caption>
-            <sidebyside>
-                <image source="images/unit4/aug-6-stacked-in-3rds">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/aug-6-stacked-in-3rds">
+                <description/>
+            </image>
         </figure>
         <p>Notice that all augmented sixth chords contain a <chord mode="diminished"/>3 when stacked in 3rds. None of the chords we have studied so far contain diminished thirds.</p>
         <principle xml:id="AugmentedSixthsPrinciple1">
@@ -54,11 +48,9 @@
         <p>When using lead-sheet symbols for augmented sixth chords, we will treat them as major-minor seventh chords built on <flat/><scaledeg>6</scaledeg>, since that matches the sonic quality of the augmented sixth chords and is similar to how they occur and are spelled in jazz and popular music. The chords in parentheses are enharmonic respellings of the three augmented sixth chord types.</p>
         <figure>
             <caption>Augmented Sixth Chords Stacked in Thirds</caption>
-            <sidebyside>
-                <image source="images/unit4/aug-6-lead-sheet-versions">
-                    <description/>
-                </image>
-            </sidebyside>
+            <image source="images/unit4/aug-6-lead-sheet-versions">
+                <description/>
+            </image>
         </figure>
         <p>In the example above, we see a disagreement between <q>classical</q> analysis and lead-sheet analysis. The fundamental concept of lead-sheet analysis is to show root, quality, and inversion. The <q>classical</q> spelling and the classical analysis of augmented sixth chords show the direction of resolution (with the chromatically raised notes), which necessitate the need for original labels, since we don't have a Roman numeral or a lead-sheet symbol that would communicate a chord containing a diminished third above the root (that is then inverted!).</p>
         <p>Therefore, when you are asked to provide lead-sheet symbols for augmented sixth chords, analyze each one as if it is a dominant 7th chord with a misspelled 7th (<n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="F" acc="sharp"/> instead of <n pc="A" acc="flat"/><ndash/><n pc="C"/><ndash/><n pc="E" acc="flat"/><ndash/><n pc="G" acc="flat"/>).</p>
@@ -71,31 +63,19 @@
             <figure>
                 <caption>Beethoven, Symphony No. 5, Op. 67, I (1808)</caption>
                 <idx><h>Beethoven</h><h>Symphony No. 5, Op. 67, I</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit4/aug-6-beeth-5th">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="_4IRMYuE1hI" start="12" end="21" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit4/aug-6-beeth-5th">
+                    <description/>
+                </image>
+                <video youtube="_4IRMYuE1hI" start="12" end="21" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>The next example from popular music has an <chord root="It" bps="+6"/> spelled enharmonically as a major-minor seventh chord with the fifth omitted.</p>
             <figure>
                 <caption>Duke Ellington, <q>It Don't Mean A Thing (If It Ain't Got That Swing)</q> (1931)</caption>
                 <idx><h>Ellington, Duke</h><h><q>It Don't Mean A Thing (If It Ain't Got That Swing)</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit4/aug-6-dont-mean-a-thing">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="LYfF9VKMp4w" start="18" end="23" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit4/aug-6-dont-mean-a-thing">
+                    <description/>
+                </image>
+                <video youtube="LYfF9VKMp4w" start="18" end="23" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection>
@@ -104,16 +84,10 @@
             <figure>
                 <caption>Schubert, <pubtitle>Winterreise</pubtitle>, D. 911, <q>Der Wegweiser</q> (1823)</caption>
                 <idx><h>Schubert</h><h><pubtitle>Winterreise</pubtitle>, D. 911</h><h><q>Der Wegweiser</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit4/aug-6-wegweiser">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="xti0xkrIZjQ" start="0" end="14" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit4/aug-6-wegweiser">
+                    <description/>
+                </image>
+                <video youtube="xti0xkrIZjQ" start="0" end="14" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection>
@@ -122,69 +96,43 @@
             <figure>
                 <caption>Gioachino Rossini, <pubtitle>William Tell</pubtitle> Overture (1829)</caption>
                 <idx><h>Rossini, Gioachino</h><h><pubtitle>William Tell</pubtitle> Overture</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit4/aug-6-rossini-tell">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="oGPys3sKBHw" start="146" end="154" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit4/aug-6-rossini-tell">
+                    <description/>
+                </image>
+                <video youtube="oGPys3sKBHw" start="146" end="154" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>John Coltrane's minor blues, <q>Mr. P.C.,</q> contains a German augmented sixth chord (spelled as <chord root="VI" bps="7"/> in minor) progressing to the <chord root="V"/> chord. (Note: The bass line in this example is a jazz <q>walking</q> bass, which doesn't stick strictly to chord tones.)</p>
             <figure>
                 <caption>John Coltrane, <q>Mr. P.C.</q> (1959)</caption>
                 <idx><h>Coltrane, John</h><h><q>Mr. P.C.</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit4/aug-6-coltrane-mr-pc">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="oHDsywpCHj4" start="18" end="22" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit4/aug-6-coltrane-mr-pc">
+                    <description/>
+                </image>
+                <video youtube="oHDsywpCHj4" start="18" end="22" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>The next example is a movie theme and features a German augmented sixth chord spelled as a major-minor seventh chord (<chord root="VI" bps="7"/>). In this particular case, the third of the chord doesn't occur until the fourth beat of the measure.</p>
             <figure>
                 <caption>Henry Mancini, <q>The Pink Panther Theme</q> (1963)</caption>
                 <idx><h>Mancini, Henry</h><h><q>The Pink Panther Theme</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit4/aug-6-pink-panther">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="KEt_FkMkaO4" start="11" end="19" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit4/aug-6-pink-panther">
+                    <description/>
+                </image>
+                <video youtube="KEt_FkMkaO4" start="11" end="19" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>Fiona Apple's <q>Criminal,</q> from 1996, features German augmented sixth chords in the verse (<chord root="F" bps="7"/> in the key of A minor) as well as in the pre-chorus, seen in the example below.</p>
             <figure>
                 <caption>Fiona Apple, <q>Criminal</q> (1996)</caption>
                 <idx><h>songs (popular)</h><h><q>Criminal</q> (Fiona Apple)</h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit4/aug-6-fiona-apple">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="FFOzayDpWoI" start="55" end="66" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit4/aug-6-fiona-apple">
+                    <description/>
+                </image>
+                <video youtube="FFOzayDpWoI" start="55" end="66" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>A repeating progression of <chord root="Am"/><ndash/><chord root="F" bps="7"/><ndash/><chord root="E"/> (<chord root="i"/><ndash/><chord root="Ger" bps="+6"/><ndash/><chord root="V"/> in Roman numerals) occurs in <q>Friend Like Me</q> from the movie and musical <pubtitle>Aladdin</pubtitle>.</p>
             <figure>
                 <caption>Alan Menken and Howard Ashman, <pubtitle>Aladdin</pubtitle>, <q>Friend Like Me</q> (1992)</caption>
                 <idx><h>songs (popular)</h><h><q>Friend Like Me</q> (from <pubtitle>Aladdin</pubtitle>)</h></idx>
-                    <sidebyside margins="37%">
-                        <video youtube="0HdwdptrmQQ" start="437" end="445" play-at="select" preview="generic"/>
-                    </sidebyside>
+                <video youtube="0HdwdptrmQQ" start="437" end="445" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
         <subsection>
@@ -193,16 +141,10 @@
             <figure>
                 <caption>Robert Schumann, Dichterliebe, Op. 48, <q>Am leuchtenden Sommermorgen</q> (1840)</caption>
                 <idx><h>Schumann, Robert</h><h><pubtitle>Dichterliebe</pubtitle>, Op. 48</h><h><q>Am leuchtenden Sommermorgen</q></h></idx>
-                <sbsgroup>
-                    <sidebyside>
-                        <image source="images/unit4/aug-6-am-leuchtenden-EnGer">
-                            <description/>
-                        </image>
-                    </sidebyside>
-                    <sidebyside margins="37%">
-                        <video youtube="PMFUeLdhhuM" start="0" end="13" play-at="select" preview="generic"/>
-                    </sidebyside>
-                </sbsgroup>
+                <image source="images/unit4/aug-6-am-leuchtenden-EnGer">
+                    <description/>
+                </image>
+                <video youtube="PMFUeLdhhuM" start="0" end="13" play-at="select" preview="generic" width="25%"/>
             </figure>
         </subsection>
     </section>
@@ -250,131 +192,78 @@
                 </tabular>
             </table>
     </section>
-
-
-
-
-
     <section xml:id="DescendingChromaticBassLines">
         <title>Descending Chromatic Bass Lines</title>
         <p>A common musical pattern is the descending chromatic bass line (<scaledeg>1</scaledeg><ndash/><scaledeg>7</scaledeg><ndash/><flat/><scaledeg>7</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>6</scaledeg><ndash/><scaledeg>5</scaledeg>). Composers harmonize descending chromatic bass lines with all manner of harmonies, including secondary chords, borrowed chords, augmented sixth chords, and rarely-used diatonic chords. Below are some examples from the past four centuries.</p> 
         <figure>
             <caption>Henry Purcell, <pubtitle>Dido and Aeneas</pubtitle>, Z. 636, <q>When I am laid in earth</q> (Dido's Lament) (1688)</caption>
             <idx><h>Purcell, Henry</h><h><pubtitle>Dido and Aeneas</pubtitle>, Z. 636</h><h><q>When I am laid in earth</q> (Dido's Lament)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/aug-6-dido">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="s-F19lgB0Ow" start="101" end="115" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/aug-6-dido">
+                <description/>
+            </image>
+            <video youtube="s-F19lgB0Ow" start="101" end="115" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>J.S. Bach, <pubtitle>Mass in B minor</pubtitle>, BWV 232, Crucifixus (1733)</caption>
             <idx><h>Bach, J.S.</h><h><pubtitle>Mass in B minor</pubtitle>, BWV 232</h><h>Crucifixus</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/aug-6-crucifixus">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="hY7CGrR6sPc" start="39" end="54" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/aug-6-crucifixus">
+                <description/>
+            </image>
+            <video youtube="hY7CGrR6sPc" start="39" end="54" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Beethoven, 32 Variations in C minor, WoO 80 (1806)</caption>
             <idx><h>Beethoven</h><h>32 Variations in C minor, WoO 80</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/aug-6-beeth-woo-80">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="UoWXRlw9vBA" start="0" end="16" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/aug-6-beeth-woo-80">
+                <description/>
+            </image>
+            <video youtube="UoWXRlw9vBA" start="0" end="16" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>George Harrison, <q>While My Guitar Gently Weeps</q> (1968)</caption>
             <idx><h>songs (popular)</h><h><q>While My Guitar Gently Weeps</q> (The Beatles)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/aug-6-while-my-guitar">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="VJDJs9dumZI" start="3" end="12" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/aug-6-while-my-guitar">
+                <description/>
+            </image>
+            <video youtube="VJDJs9dumZI" start="3" end="12" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Jimmy Page and Robert Plant, <q>Stairway to Heaven</q> (1971)</caption>
             <idx><h>songs (popular)</h><h><q>Stairway to Heaven</q> (Led Zeppelin)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/aug-6-stairway">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="iXQUu5Dti4g" start="0" end="9" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/aug-6-stairway">
+                <description/>
+            </image>
+            <video youtube="iXQUu5Dti4g" start="0" end="9" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Steven Tyler, <q>Dream On</q> (1973)</caption>
             <idx><h>songs (popular)</h><h><q>Dream On</q> (Aerosmith)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/aug-6-dream-on">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="89dGC8de0CA" start="12" end="23" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/aug-6-dream-on">
+                <description/>
+            </image>
+            <video youtube="89dGC8de0CA" start="12" end="23" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Robert DeLeo and Scott Weiland, <q>Interstate Love Song</q> (1994)</caption>
             <idx><h>songs (popular)</h><h><q>Interstate Love Song</q> (Stone Temple Pilots)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/aug-6-interstate-love-song">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="yjJL9DGU7Gg" start="69" end="81" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/aug-6-interstate-love-song">
+                <description/>
+            </image>
+            <video youtube="yjJL9DGU7Gg" start="69" end="81" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Christina Perri, <q>Jar of Hearts</q> (2010)</caption>
             <idx><h>songs (popular)</h><h><q>Jar of Hearts</q> (Christina Perri)</h></idx>
-            <sbsgroup>
-                <sidebyside>
-                    <image source="images/unit4/aug-6-jar-of-hearts">
-                        <description/>
-                    </image>
-                </sidebyside>
-                <sidebyside margins="37%">
-                    <video youtube="8v_4O44sfjM" start="134" end="148" play-at="select" preview="generic"/>
-                </sidebyside>
-            </sbsgroup>
+            <image source="images/unit4/aug-6-jar-of-hearts">
+                <description/>
+            </image>
+            <video youtube="8v_4O44sfjM" start="134" end="148" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Below is a table comparing the harmonizations of these descending bass lines.</p>
         <table>
             <title/>
             <tabular halign="center" top="minor" bottom="minor" left="minor" right="minor">
-                <row header="yes" bottom="major">
+                <row bottom="major">
                     <cell>Bass Line</cell>
                     <cell><scaledeg>1</scaledeg></cell>
                     <cell><scaledeg>7</scaledeg></cell>
@@ -465,7 +354,7 @@
         <table>
             <title/>
             <tabular halign="center" top="major" bottom="minor" left="minor" right="minor">
-                <row header="yes" bottom="medium">
+                <row bottom="medium">
                     <cell>Ton.</cell>
                     <cell>Ton. Prol.</cell>
                     <cell>Pre-Dom.</cell>
@@ -537,31 +426,23 @@
         <exercise>
             <statement>
                 <p>Analyze the following chords with lead-sheet symbols above and Roman numerals with figured bass inversion symbols below.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-aug6-analyzing"/>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-aug6-analyzing"/>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-aug6-analyzing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-aug6-analyzing-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <exercise>
             <statement>
                 <p>Given the Roman numeral, please write the notes of the chord and lead-sheet symbol. Include key signatures.</p>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-aug6-writing"/>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-aug6-writing"/>
             </statement>
             <answer>
-                <sidebyside>
-                    <image source="images/unit4/PRAC-EXER-aug6-writing-ANSWER">
-                        <description/>
-                    </image>
-                </sidebyside>
+                <image source="images/unit4/PRAC-EXER-aug6-writing-ANSWER">
+                    <description/>
+                </image>
             </answer>
         </exercise>
         <conclusion>
