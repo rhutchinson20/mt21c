@@ -223,7 +223,7 @@
             </image>
             <video youtube="StKVS0eI85I" start="32" end="39" play-at="select" preview="generic" width="25%"/>
         </figure>
-        <p>Sometimes <xref ref="syncopation-definition" text="custom">syncopation</xref> will lead to an anticipation of a note in a chord in the following measure, as occurs at the ends of bars 1, 2, and 3 of the <q>Call Me</q> example.</p>
+        <p>Sometimes syncopation (<xref ref="syncopation-definition" text="type-global"/>) will lead to an anticipation of a note in a chord in the following measure, as occurs at the ends of bars 1, 2, and 3 of the <q>Call Me</q> example.</p>
     </section>
     <section xml:id="PedalPoint">
         <title>Pedal Point</title>
@@ -456,7 +456,7 @@
                         <p>
                             Brian Holland, Lamont Dozier, Eddie Holland, <q>Stop! In the Name of Love</q> (1965)<idx><h>songs (popular)</h><h><q>Stop! In the Name of Love</q> (The Supremes)</h></idx>
                             <image source="images/unit2/PRAC-EXER-NCT-stop-in-the-name"/>
-                            <video youtube="tuei1XUAGRo" start="52" end="61" play-at="select" preview="generic" width="25%"/>
+                            <video youtube="I6T_ZAP52xM" start="52" end="61" play-at="select" preview="generic" width="25%"/>
                         </p>
                     </li>
                     <li>

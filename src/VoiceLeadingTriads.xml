@@ -59,7 +59,7 @@
         <title>Rules of Melody</title>
         <p>Rules of melody have been included in books on composing, writing counterpoint, and music theory for centuries. The purpose of the rules of melody as described in this text are to aid in the construction of singable melodies and to reflect a summary of melodic practice in music. (Remember that each part in an SATB composition is considered a melody.) Because these rules of melody are based stylistically on the melodies found in J.S. Bach’s <pubtitle>371 Chorales</pubtitle>, you will no doubt be familiar with exceptions that have occurred in music composed since Bach’s death in 1750.</p>
         <ol>
-            <li><p xml:id="TendencyTones"><term>Tendency tones</term><idx><h>tendency tones</h></idx> should resolve: <scaledeg>7</scaledeg> goes to <scaledeg>8</scaledeg> and, to a lesser extent, <scaledeg>4</scaledeg> goes to <scaledeg>3</scaledeg> (other tendency tones are <scaledeg>6</scaledeg> and <scaledeg>2</scaledeg>, both of which should resolve down by step)</p></li>
+            <li xml:id="TendencyTones"><p><term>Tendency tones</term><idx><h>tendency tones</h></idx> (scale degrees <scaledeg>2</scaledeg>, <scaledeg>4</scaledeg>, <scaledeg>6</scaledeg>, and <scaledeg>7</scaledeg>) should resolve: <scaledeg>7</scaledeg> goes to <scaledeg>8</scaledeg> and, to a lesser extent, <scaledeg>4</scaledeg> goes to <scaledeg>3</scaledeg> (scale degrees <scaledeg>6</scaledeg> and <scaledeg>2</scaledeg> both should resolve down by step)</p></li>
             <li><p>Avoid augmented intervals</p></li>
             <li><p>Leaps larger than a 4th and leaps of diminished intervals should change direction after the leap</p></li>
             <li><p>Consecutive leaps should outline a triad</p></li>
@@ -146,7 +146,14 @@
                     <description/>
                 </image>
             </figure>
-            <p xml:id="voice-leading-deceptive-cadence"><em>Exception</em>: When the bass moves by the interval of a 2nd in the deceptive progression in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass. In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice-leading solution if <scaledeg>7</scaledeg>  is in the soprano voice (because it is a <xref ref="TendencyTones" text="custom">tendency tone</xref>).</p>
+            <p>There is one exception, which leads us to the following principle:</p>
+                <principle xml:id="voice-leading-deceptive-cadence">
+                    <title>Voice leading the deceptive progression</title>
+                    <statement>
+                        <p>When the bass moves by the interval of a 2nd in the deceptive progression in the minor mode (V<ndash/>VI in C minor), <em>always</em> move the 3rd of the V chord up by step while the other notes (the 5th and the doubled root) move in contrary motion to the bass.</p>
+                    </statement>
+                </principle>
+                <p>In this situation, two voices move in an upward direction and two voices move in a downward direction. This results in a doubled 3rd in the VI chord. In the major mode, use this voice-leading solution if <scaledeg>7</scaledeg> is in the soprano voice (because it is a tendency tone<mdash/>see <xref ref="TendencyTones" text="type-global"/> in <xref ref="RulesOfMelody" text="type-global"/>).</p>
             <figure>
                 <caption>Voice leading the deceptive progression in minor</caption>
                 <image source="images/unit8/voice-leading-deceptive-cadence-minor">

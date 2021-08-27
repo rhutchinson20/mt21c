@@ -181,7 +181,7 @@
             </image>
             <video xml:id="stravinsky-polychords1" youtube="BKoO_3-I1dw" start="0" end="12" play-at="select"/>
         </figure>
-        <p>Polychords are notated using a horizontal line between the chords instead of a slash. (The slash was used for <xref ref="slash-chord-paragraph" text="custom">slash chords</xref>.)</p>
+        <p>Polychords are notated using a horizontal line between the chords instead of a slash. (The slash was used for slash chords (see <xref ref="SlashChords" text="type-global"/>.)</p>
         <image source="images/unit12/polychord-how-to-notate"/>
         <p>Also note that it is not necessary to specify the inversion of each of the chords in the polychord.</p>
         <p>In th example below, Copland voices an A major chord below an E major chord.</p>

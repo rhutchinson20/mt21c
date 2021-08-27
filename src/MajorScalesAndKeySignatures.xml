@@ -23,7 +23,7 @@
                 <description>The D major scale on the staff, shown as two tetrachords</description>
             </image>
         </figure>
-        <audio xml:id="audio-of-d-major-scale" source="http://musictheory.pugetsound.edu/mt21c/images/unit1/MajorScale-D-major-scale-audio.mp3" width="80%"/>
+        <audio xml:id="audio-of-d-major-scale" href="http://musictheory.pugetsound.edu/mt21c/images/unit1/MajorScale-D-major-scale-audio.mp3" width="80%"/>
         <p>All major scales use the notes of the musical alphabet in order; no notes are skipped and no notes occur twice. In the example above, the first four notes are <n pc="D"/><ndash/><n pc="E"/><ndash/><n pc="F" acc="sharp"/><ndash/><n pc="G"/>, not <n pc="D"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="flat"/><ndash/><n pc="G"/>. In <n pc="D"/><ndash/><n pc="E"/><ndash/><n pc="G" acc="flat"/><ndash/><n pc="G"/>, <n pc="G"/> erroneously occurs twice and the <n pc="F" acc="sharp"/> between <n pc="E"/> and <n pc="G"/> is skipped.</p>
     </section>
     <section xml:id="MajorKeySignatures">

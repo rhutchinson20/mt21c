@@ -93,7 +93,7 @@
                 <p><q>6</q> versus <q>13</q> rule: label the 6th of a chord <q>6</q> only if the 7th is not present; if the 7th is present, label the 6th as <q>13</q></p>
             </li>
             <li>
-                <p xml:id="ElevenVsSus"><q>11</q> versus <q>sus</q> (<q>sus</q> means <q>4</q>): label the 4th of a chord <q>sus</q> only if the 3rd is not present; if the 3rd is present, label the 4th an <q>11</q> (C7sus has C<ndash/>F<ndash/>G<ndash/>B<flat/>). (There is an exception to this in more advanced jazz theory, which is not within the purview of this text.)</p>
+                <p><q>11</q> versus <q>sus</q> (<q>sus</q> means <q>4</q>): label the 4th of a chord <q>sus</q> only if the 3rd is not present; if the 3rd is present, label the 4th an <q>11</q> (C7sus has C<ndash/>F<ndash/>G<ndash/>B<flat/>). (There is an exception to this in more advanced jazz theory, which is not within the purview of this text.)</p>
             </li>
             <li>
                 <p>
@@ -230,7 +230,7 @@
         <image source="images/unit11/jazz-chord-analyzing-sample-problem-2-SOLVED" width="75%">
             <description/>
         </image>
-        <p>We notice we don’t have an A, and we remember that we might have a sus chord where the 4 (or sus4) substitutes for the 3rd. We see we have a B<flat/>, which confirms this. We also do not see a C, but we remember that it is common to omit the 5th in a chord (see <xref ref="IncompleteChords" text="custom">Incomplete Chords</xref>). Therefore we have F<ndash/>B<flat/><ndash/>E<flat/>, making an F7sus chord. When we examine for upper structure notes (the 9, 11, and 13), we find a G<flat/> (the <flat/>9 of the chord) and a D (the 13). Remember, the B<flat/> is the sus (the 4th), not the 11th, because we have no 3rd (see <xref ref="ElevenVsSus" text="custom">11 versus Sus</xref>).</p>
+        <p>We notice we don’t have an A, and we remember that we might have a sus chord where the 4 (or sus4) substitutes for the 3rd. We see we have a B<flat/>, which confirms this. We also do not see a C, but we remember that it is common to omit the 5th in a chord (see <q>incomplete chords</q> in <xref ref="IncompleteChords" text="type-global"/>). Therefore we have F<ndash/>B<flat/><ndash/>E<flat/>, making an F7sus chord. When we examine for upper structure notes (the 9, 11, and 13), we find a G<flat/> (the <flat/>9 of the chord) and a D (the 13). Remember, the B<flat/> is the sus (the 4th), not the 11th, because we have no 3rd (see <q>11 versus Sus</q> in <xref ref="ChordSymbolSpecifics" text="type-global"/>).</p>
         <p>The final label is F13sus(<flat/>9).</p>
         <p><q>F13</q> means we have root, 3rd, 5th, <flat/>7th, 9th, 11th, and 13th. <q>Sus</q> is a modifier that means we have the 4th, which eliminates the 3rd as well as the 11th because <q>sus</q> and 11 refer the same note (B<flat/>). <q><flat/>9</q> means the 9th is lowered chromatically.</p>
     </section>

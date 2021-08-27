@@ -122,8 +122,13 @@
             <image source="images/unit1/rhythmic-notation-3" width="80%"/>
         <p>In compound meters like <timesignature top="6" bottom="8"/>, the beat is the dotted quarter.</p>
         <image source="images/unit1/rhythmic-notation-4"/>
-        <p>The exception to this practice of <q>showing the beats</q> involves syncopation.</p>
-        <p xml:id="syncopation-definition"><term>Syncopation</term><idx><h>syncopation</h></idx> occurs when notes on weak beats and on weak parts of beats are emphasized and nearby strong beats are deemphasized. Syncopation is common in popular music.</p>
+        <p>The exception to this practice of <q>showing the beats</q> involves syncopation, which is common in popular music.</p>
+        <definition xml:id="syncopation-definition">
+            <idx><h>syncopation</h></idx>
+            <statement>
+                <p><term>Syncopation</term> occurs when notes on weak beats and on weak parts of beats are emphasized and nearby strong beats are deemphasized.</p>
+            </statement>
+        </definition>
         <p>Strong beats are the first beat of each measure (in <timesignature top="2" bottom="4"/> and <timesignature top="3" bottom="4"/>) and beats 1 and 3 in <timesignature top="4" bottom="4"/>.  Syncopation <em>at the beat level</em> involves ties across those strong beats. Numbers in parentheses in the example below are beats that are obscured through syncopation.</p>
         <image source="images/unit1/synco-at-beat-level">
             <description>Syncopation at the beat level</description>

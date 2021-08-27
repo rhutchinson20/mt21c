@@ -48,7 +48,7 @@
                 <description/>
             </image>
         </figure>
-        <p>Another situation where you  may encounter a borrowed chord is the <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence, which should be handled exactly as the <xref ref="voice-leading-deceptive-cadence" text="custom">deceptive cadence in minor</xref> is handled<mdash/>resolve the 3rd of the <chord root="V"/> chord up by step and move the other two voices in contrary motion to the bass.</p>
+        <p>Another situation where you may encounter a borrowed chord is the <chord root="V"/><ndash/><flat/><chord root="VI"/> cadence, which should be handled the same as the deceptive cadence in minor (see <xref ref="voice-leading-deceptive-cadence" text="type-global"/>)<mdash/>resolve the 3rd of the <chord root="V"/> chord up by step and move the other two voices in contrary motion to the bass.</p>
         <p>There are no specific rules for other borrowed chords such as <flat/><chord root="III"/>, <flat/><chord root="VII"/>, <chord root="i"/>, and <chord root="v"/>; simply voice lead them as smoothly as possible while avoiding objectionable parallels.</p>
     </section>
     <section xml:id="VoiceLeadingNeapolitanChord">

@@ -16,7 +16,7 @@
             </image>
             <video youtube="I1rA68yF4tM" start="93" end="100" play-at="select" preview="generic" width="25%"/>
         </figure>
-        <p>Later in the movement we find Beethoven extracting motives from this four-measure phrase in order to develop them through <xref ref="sequence-definition" text="custom">sequences</xref>.</p>
+        <p>Later in the movement we find Beethoven extracting motives from this four-measure phrase in order to develop them through sequences (<xref ref="sequence-definition" text="type-global"/>).</p>
         <p>Here is development of motive 1.</p>
         <figure>
             <caption>Beethoven, Symphony No. 1, I, development of motive 1</caption>
@@ -175,9 +175,9 @@
                 <image source="images/unit2/motive-retrograde-example-toxic">
                     <description/>
                 </image>
-                <video youtube="ECVbVwEzY2E" start="82" end="98" play-at="select" preview="generic" width="25%"/>
+                <video youtube="tVdr_JWmnsA" start="82" end="98" play-at="select" preview="generic" width="25%"/>
             </figure>
-            <p>We will not consider <xref ref="RomanNumeralChordSymbols" text="custom">transposition</xref> of a motive (also known as a <xref ref="sequence-definition" text="custom">sequence</xref>) to be a motivic alteration worth labeling since it is so common.</p>
+            <p>We will not consider <xref ref="RomanNumeralChordSymbols" text="custom">transposition</xref> of a motive (also known as a sequence, see <xref ref="sequence-definition" text="type-global"/>) to be a motivic alteration worth labeling since it is so common.</p>
         </subsection>
     </section>
     <section xml:id="FragmentSection">
@@ -221,7 +221,7 @@
             <image source="images/unit2/phrase-4bar-my-girl">
                 <description/>
             </image>
-            <video youtube="nz80onuEhHE" start="9" end="19" play-at="select" preview="generic" width="25%"/>
+            <video youtube="1hZSulcsImQ" start="16" end="26" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure>
             <caption>Nickolas Ashford and Valerie Simpson, <q>I’m Every Woman</q> (1978)</caption>

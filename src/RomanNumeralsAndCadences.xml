@@ -107,7 +107,14 @@
         <image source="images/unit2/Roman-numerals-most-common-in-minor">
             <description>The most commonly used diatonic triads in A minor: A minor, B diminished, C major, D minor, E major, F major, and G-sharp diminished, with Roman numerals</description>
         </image>
-        <p xml:id="subtonic-triad-vs-leading-tone-triad">Notice that both <chord root="VII"/> (the <q><term>subtonic triad</term></q><idx><h>subtonic triad</h><h>definition of</h></idx>) and <chord root="vii" mode="diminished"/> (the <q>leading-tone triad</q>) are included. The subtonic triad (<chord root="VII"/>), built on the lowered <scaledeg>7</scaledeg> that occurs in <em>natural</em> minor, regularly occurs in <xref ref="CircleOfFifths" text="custom">circle of fifth progressions in minor</xref> and <xref ref="SubtonicVIIinPopMusic" text="custom">in rock and pop music</xref>, while the leading-tone triad (<chord root="vii" mode="diminished"/>), built on raised <scaledeg>7</scaledeg>, is usually either a passing harmony or has <xref ref="HarmonicFunction" text="custom">dominant function</xref>.</p>
+        <p>Notice that both <chord root="VII"/> (the <q>subtonic triad</q>) and <chord root="vii" mode="diminished"/> (the <q>leading-tone triad</q>) are included.</p>
+        <definition xml:id="subtonic-triad-vs-leading-tone-triad">
+            <idx><h>subtonic triad</h><h>definition of</h></idx>
+            <statement>
+                <p>The <term>subtonic triad</term> (<chord root="VII"/>) is built on the lowered <scaledeg>7</scaledeg> that occurs in <em>natural</em> minor and requires no accidentals in minor keys.</p>
+            </statement> 
+        </definition> 
+            <p>The subtonic triad regularly occurs in circle of fifth progressions in minor (see <xref ref="CircleOfFifths" text="type-global"/>) and in rock and pop music (see <xref ref="SubtonicVIIinPopMusic" text="type-global"/>). The leading-tone triad (<chord root="vii" mode="diminished"/>) is built on raised <scaledeg>7</scaledeg> and is usually either a passing harmony or has dominant function (see <xref ref="HarmonicFunction" text="type-global"/>).</p>
     </section>
     <section xml:id="cadences">
         <title>Cadences</title>
@@ -229,7 +236,13 @@
                 <video youtube="lp-EO5I60KA" start="68" end="80" play-at="select" preview="generic" width="25%"/>
             </figure>
             <p>You may encounter chords with no thirds in rock and pop music. If you encounter a chord that has only a root and fifth, label it with a <q>5</q> after the root in lead sheet labeling (e.g., <chord root="B" bps="5"/>, as in the next example).</p>
-            <p xml:id="IncompleteChords">Additionally, you may encounter <term>incomplete chords</term><idx><h>incomplete chords</h></idx>, which are chords containing only the root and third but no fifth.</p>
+            <p>Additionally, you may encounter incomplete chords.</p>
+                <definition xml:id="IncompleteChords">
+                    <idx><h>incomplete chords</h></idx>
+                    <statement>
+                        <p><term>Incomplete chords</term> are chords containing only the root and third but no fifth.</p>
+                    </statement>
+                </definition>
             <figure>
                 <caption>Bieber, Blanco, and Sheeran, <q>Love Yourself</q></caption>
                 <idx><h>songs (popular)</h><h><q>Love Yourself</q> (Justin Bieber)</h></idx>

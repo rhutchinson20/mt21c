@@ -6,7 +6,7 @@
     </introduction>
     <section xml:id="CircleOfFifths">
         <title>The Circle of Fifths Progression</title>
-        <p>The circle of fifths progression (<chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>) was a stalwart of the Baroque era in music. You will find many examples of this progression in the music of Bach, Handel, and Vivaldi, especially in minor (<chord root="i"/><ndash/><chord root="iv"/><ndash/><chord root="VII"/><ndash/><chord root="III"/><ndash/><chord root="VI"/><ndash/><chord root="ii" mode="diminished"/><ndash/><chord root="V"/><ndash/><chord root="i"/>) with the <xref ref="subtonic-triad-vs-leading-tone-triad" text="custom">subtonic <chord root="VII"/></xref>.</p>
+        <p>The circle of fifths progression (<chord root="I"/><ndash/><chord root="IV"/><ndash/><chord root="vii" mode="diminished"/><ndash/><chord root="iii"/><ndash/><chord root="vi"/><ndash/><chord root="ii"/><ndash/><chord root="V"/><ndash/><chord root="I"/>) was a stalwart of the Baroque era in music. You will find many examples of this progression in the music of Bach, Handel, and Vivaldi, especially in minor (<chord root="i"/><ndash/><chord root="iv"/><ndash/><chord root="VII"/><ndash/><chord root="III"/><ndash/><chord root="VI"/><ndash/><chord root="ii" mode="diminished"/><ndash/><chord root="V"/><ndash/><chord root="i"/>) with the subtonic <chord root="VII"/> (see <xref ref="subtonic-triad-vs-leading-tone-triad" text="type-global"/>.</p>
         <figure>
             <caption>J.S. Bach, Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</caption>
             <idx><h>Bach, J.S.</h><h>Brandenburg Concerto No. 2 in F Major, BWV 1047, I.</h></idx>
@@ -66,7 +66,7 @@
             <image source="images/unit2/harmony-circle-fly-me">
                 <description/>
             </image>
-            <video youtube="K8wE58PTIkw" start="7" end="24" play-at="select" preview="generic" width="25%"/>
+            <video youtube="ZEcqHA7dbwM" start="7" end="24" play-at="select" preview="generic" width="25%"/>
         </figure>
         <figure xml:id="i-will-survive">
             <caption>Freddie Perren and Dino Fekaris, <q>I Will Survive</q> (chords only) (1970s)</caption>
@@ -94,7 +94,12 @@
                 <description>Opening of Beethoven's Fifth Symphony</description>
             </image>
         </figure>
-        <p xml:id="sequence-definition">Therefore, a <term>sequence</term><idx><h>sequence</h><h>definition of</h></idx> is a musical idea repeated at a different pitch level.</p>
+        <definition xml:id="sequence-definition">
+            <idx><h>sequence</h><h>definition of</h></idx>
+            <statement>
+                <p>A <term>sequence</term> is a musical idea repeated at a different pitch level.</p>
+            </statement>
+        </definition>
         <p>Sequences can be short or long. For example, look at this familiar idea and notice how all four bars are sequenced down a step in the following four bars.</p>
         <figure xml:id="mozart-k550-melody">
             <caption>Mozart, Symphony No. 40, I.</caption>
@@ -146,7 +151,7 @@
                 <image source="images/unit2/harmony-ii-V-I-A-train">
                     <description/>
                 </image>
-                <video youtube="MENQyu4D7Ig" start="11" end="18" play-at="select" preview="generic" width="25%"/>
+                <video youtube="KV8Hj_E8LJc" start="11" end="18" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>Miles Davis, <q>Tune-Up</q></caption>
@@ -223,7 +228,7 @@
                     <image source="images/unit2/harmony-vi-ii-V-I-beyond-the-sea">
                         <description/>
                     </image>
-                    <video youtube="_R8HhlaMvko" start="6" end="15" play-at="select" preview="generic" width="25%"/>
+                    <video youtube="ptsa21ULFSo" start="6" end="15" play-at="select" preview="generic" width="25%"/>
                 </figure>
                 <p>Listen for this bass line in the next recording.</p>
                 <figure>
@@ -417,7 +422,7 @@
                 <image source="images/unit2/harmony-I-IV-V-I-chopin">
                     <description/>
                 </image>
-                <video youtube="pceSX1hceOI" start="11" end="16" play-at="select" preview="generic" width="25%"/>
+                <video youtube="MS5pov3xu94" start="16" end="20" play-at="select" preview="generic" width="25%"/>
             </figure>
             <figure>
                 <caption>David Crane, Marta Kauffman, Michael Skloff, Allee Willis, Phil Solem, Danny Wilde, <q>I'll Be There For You</q> (bass line and chords only) (1995)</caption>
