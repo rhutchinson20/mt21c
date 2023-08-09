@@ -381,6 +381,7 @@
                 <idx><h>scales</h><h>Octatonic (Whole-Half)</h></idx>
                 <idx><h>scales</h><h>Diminished-Whole Tone</h></idx>
                 <idx><h>scales</h><h>Altered</h></idx>
+                <idx><h>scales</h><h>Hexatonic</h></idx>
                 <idx><h>modes</h><h>Lydian-Dominant</h></idx>
                 <idx><h>modes</h><h>Phrygian-Dorian</h></idx>
                 <idx><h>modes</h><h>Lydian-Augmented</h></idx>
@@ -497,7 +498,10 @@
                             <line>(2nd mode Melodic Minor)</line>
                             <line><scaledeg>1</scaledeg><ndash/><flat/><scaledeg>2</scaledeg><ndash/><flat/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg><ndash/><flat/><scaledeg>7</scaledeg></line>
                         </cell>
-                        <cell/>
+                        <cell>
+                            <line><term>Hexatonic</term></line>
+                            <line><scaledeg>1</scaledeg><ndash/><flat/><scaledeg>2</scaledeg><ndash/><scaledeg>3</scaledeg><ndash/><scaledeg>4</scaledeg><ndash/><sharp/><scaledeg>5</scaledeg><ndash/><scaledeg>6</scaledeg></line>
+                        </cell>
                     </row>
                     <row valign="top">
                         <cell/>
@@ -632,7 +636,7 @@
         </subsection>
         <conclusion>
             <p>This list is not exhaustive. Follow the process above (<q>How to Determine Chord-Scale Relationships</q>) for chords not on this list.</p>
-            <p>Additionally, it is often important to look at the relationship of a chord to the overall key of a tune to determine the appropriate scale. For example, the <chord root="F" mode="min" bps="7"/> at the beginning of <q>All The Things You Are</q> by Jerome Kern is the <chord root="vi" bps="7"/> chord in A<flat/> major, in which case it would be inappropriate to play an F Dorian scale because the D<natural/> would conflict with the D<flat/> in the key signature. One would play an F natural minor (or Aeolian) scale instead.</p>
+            <p>Additionally, it is often important to look at the relationship of a chord to the overall key of a tune to determine the appropriate scale. For example, the <chord root="F" mode="min" bps="7"/> at the beginning of <q>All The Things You Are</q> by Jerome Kern is the <chord root="vi" bps="7"/> chord in A<flat/> major, in which case it would be inappropriate to play F Dorian because the D<natural/> would conflict with the D<flat/> in the key signature. One would play F natural minor (or Aeolian) instead.</p>
         </conclusion>
     </section>
     <section xml:id="harmonizing-bebop-scale">

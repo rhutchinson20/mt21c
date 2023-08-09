@@ -328,12 +328,22 @@
                         <video youtube="RgKAFK5djSk" start="200" end="225" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </statement>
+                <answer>
+                    <image source="images/unit2/PRAC-EXER-motive-see-you-again-ANSWER">
+                        <description/>
+                    </image>
+                </answer>
             </exercise>
             <exercise>
                 <statement>
                     <p>For the following example, alter the given motives as specified. Also, provide lead-sheet symbols and Roman numerals and analyze non-chord tones.</p>
                     <image source="images/unit2/PRAC-EXER-phrase-motive-composing-1"/>
                 </statement>
+                <answer>
+                    <image source="images/unit2/PRAC-EXER-phrase-motive-composing-1-ANSWER">
+                        <description/>
+                    </image>
+                </answer>
             </exercise>
             <exercise>
                 <statement>
@@ -347,6 +357,11 @@
                     </ul>
                     <image source="images/unit2/PRAC-EXER-phrase-motive-composing-2"/>
                 </statement>
+                <answer>
+                    <image source="images/unit2/PRAC-EXER-phrase-motive-composing-2-ANSWER">
+                        <description/>
+                    </image>
+                </answer>
             </exercise>
         </exercisegroup>
         <exercisegroup>
@@ -371,6 +386,11 @@
                         <video youtube="Dbb_VGJXaSU" start="0" end="11" play-at="select" preview="generic" width="25%"/>
                     </figure>
                 </statement>
+                <answer>
+                    <image source="images/unit2/PRAC-EXER-phrase-subphrase-schumann-ANSWER">
+                        <description/>
+                    </image>
+                </answer>
             </exercise>
             <!--this last exercise not needed; phrases will be covered in the chapter on periods
             <exercise>

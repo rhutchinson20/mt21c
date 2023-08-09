@@ -54,7 +54,7 @@
                     </image>
                     <video youtube="vKGonr3RDx4" start="0" end="54" play-at="select" preview="generic" width="25%"/>
         </figure> -->
-        <p>The term <q><term>continuous</term></q><idx><h>continuous</h><h>definition of</h></idx> is used the first section of a binary or ternary form does <em>not</em> end on the tonic chord. While this often means the first section ends in a new key, it can also mean the first section ends on the dominant chord in a half cadence.</p>
+        <p>The term <q><term>continuous</term></q><idx><h>continuous</h><h>definition of</h></idx> is used when the first section of a binary or ternary form does <em>not</em> end on the tonic chord. While this often means the first section ends in a new key, it can also mean the first section ends on the dominant chord in a half cadence.</p>
         <idx><h>Haydn, Joseph</h><h>Symphony No. 94 in G major, Hob. I:94, II</h></idx>
         <image source="images/unit7/bin-tern-continuous-haydn-surprise-A">
             <description/>
@@ -203,7 +203,7 @@
         </image>
         <figure>
             <caption>J.S. Bach, English Suite No 3 in G minor, BWV 808, Gavotte I.</caption>
-            <video xml:id="BachEnglishSuiteGavotte1" youtube="KMrJxhYj3tc" start="808" end="873" play-at="select"/>
+            <video xml:id="BachEnglishSuiteGavotte1" youtube="GGlag3GHsaY" start="0" end="90" play-at="select" preview="generic" width="25%"/>
         </figure>
         <p>Notice in the example above that the first section and second section can begin similarly in a binary form, resulting in the large-scale form AA’. The second section often features development of the primary idea from the first section. We will discuss development in the next chapter.</p>      
     </section>
@@ -357,7 +357,7 @@
                     <image source="images/unit7/HW-bin-tern-Handel-gavotte-E">
                         <description/>
                     </image>
-                    <video youtube="IHEwWbK2fBw" start="0" end="56" play-at="select" preview="generic" width="25%"/>
+                    <video youtube="vCwTTyz35lw" start="0" end="56" play-at="select" preview="generic" width="25%"/>
                     <figure>
                         <caption>George Frideric Handel, Gavotte, HWV 491</caption>
                     </figure>

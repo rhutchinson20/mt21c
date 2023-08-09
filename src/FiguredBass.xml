@@ -236,7 +236,7 @@
     </section>
     <section xml:id="FiguredBassAdditionalInformation">
         <title>Additional Information</title>
-        <p>Although we will not use them in our harmonic analyses, you will sometimes encounter figured bass symbols containing all of the intervals above the bass note in Baroque music containing figured bass. The common figured bass inversion symbols in the sections above are abbreviations of the figures given in the examples below.</p>
+        <p>Although we will not use them in our harmonic analyses, you will sometimes encounter figured bass symbols containing all of the intervals above the bass note in Baroque music containing figured bass. The common figured bass inversion symbols in the previous sections are abbreviations of the figures given in the examples below.</p>
         <figure>
             <caption><q>Full</q> Figured Bass symbols showing <em>every</em> interval above the lowest note</caption>
             <image source="images/unit4/figured-bass-full-figures-on-staff">
@@ -291,7 +291,7 @@
             </statement>
             <answer>
                 <ul>
-                    <li><p>Lead-sheet: 1. <chord root="D" mode="diminished" bass="F"/>; 2. <chord root="A" mode="diminished" bps="7" bass="G"/>; 3. <chord root="E" mode="halfdiminished" bps="7"/>; 4. <chord root="Dmaj7" bass="F sharp"/></p></li>
+                    <li><p>Lead-sheet: 1. <chord root="D" mode="diminished" bass="F"/>; 2. <chord root="A sharp" mode="diminished" bps="7" bass="G"/>; 3. <chord root="E" mode="halfdiminished" bps="7"/>; 4. <chord root="Dmaj7" bass="F sharp"/></p></li>
                     <li><p>Figured bass: 1. <chord root="ii" mode="diminished" bps="6"/>; 2. <chord root="vii" mode="diminished" bps="4 2"/>; 3. <chord root="vii" mode="halfdiminished" bps="7"/>; 4. <chord root="IM" bps="6 5"/></p></li>
                 </ul>
             </answer>

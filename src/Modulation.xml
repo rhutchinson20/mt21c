@@ -215,7 +215,7 @@
         <subsection>
             <title>Borrowed Common Chord</title>
             <p>In modulation by <term>borrowed common chord</term><idx><h>modulation</h><h>borrowed common chord</h></idx> (or mode mixture), the pivot chord will be a borrowed chord in one of the keys involved in the modulation.</p>
-            <p>In the following example, a borrowed chord, <chord root="i" bps="6"/> in D<flat/> minor, rewritten as a C<sharp/> minor chord, is reinterpreted as <chord root="vi" bps="6"/> in the second key, E major.</p><!--purple patch footnote?-->
+            <p>In the following example, a borrowed chord, <chord root="i" bps="6"/> in D<flat/> major, rewritten as a C<sharp/> minor chord, is reinterpreted as <chord root="vi" bps="6"/> in the second key, E major.</p><!--purple patch footnote?-->
             <figure>
                 <caption>Beethoven, Piano Sonata No. 31 in A<flat/> major, Op.110, I, (1821)</caption>
                 <idx><h>Beethoven</h><h>Piano Sonata Op. 110, I</h></idx>
@@ -429,7 +429,7 @@
                 </statement>
                 <answer>
                     <ol>
-                        <li><p>d: F, g, A, B<flat/>, C</p></li>
+                        <li><p>d: F, g, a, B<flat/>, C</p></li>
                         <li><p>D<flat/>: e<flat/>, f, G<flat/>, A<flat/>, b<flat/></p></li>
                         <li><p>f: A<flat/>, b<flat/>, c, D<flat/>, E<flat/></p></li>
                     </ol>
